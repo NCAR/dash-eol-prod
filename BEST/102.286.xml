@@ -13,6 +13,9 @@
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>EOL Data Support</gco:CharacterString>
+      </gmd:individualName>
       <gmd:organisationName>
         <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
       </gmd:organisationName>
@@ -58,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-15T22:10:45Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T16:16:13Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -114,6 +117,9 @@
                   </gmd:date>
                   <gmd:citedResponsibleParty>
                     <gmd:CI_ResponsibleParty>
+                      <gmd:individualName>
+                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
+                      </gmd:individualName>
                       <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                       </gmd:organisationName>
@@ -174,6 +180,9 @@
           </gmd:identifier>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>EOL Data Support</gco:CharacterString>
+              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
@@ -458,6 +467,9 @@
       </gmd:pointOfContact>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString>EOL Data Support</gco:CharacterString>
+          </gmd:individualName>
           <gmd:organisationName>
             <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
           </gmd:organisationName>
@@ -659,6 +671,9 @@
         <gmd:MD_Distributor>
           <gmd:distributorContact>
             <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>EOL Data Support</gco:CharacterString>
+              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
@@ -724,13 +739,13 @@
               <gmd:onLine>
                 <gmd:CI_OnlineResource>
                   <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/BEST</gmd:URL>
+                    <gmd:URL>https://data.eol.ucar.edu/project/BeringSea</gmd:URL>
                   </gmd:linkage>
                   <gmd:protocol>
                     <gco:CharacterString>https</gco:CharacterString>
                   </gmd:protocol>
                   <gmd:name>
-                    <gco:CharacterString>Bering Ecosystem Study</gco:CharacterString>
+                    <gco:CharacterString>The Bering Sea Project: BEST/BSIERP</gco:CharacterString>
                   </gmd:name>
                   <gmd:description>
                     <gco:CharacterString>Project homepage</gco:CharacterString>
@@ -740,13 +755,13 @@
               <gmd:onLine>
                 <gmd:CI_OnlineResource>
                   <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/BeringSea</gmd:URL>
+                    <gmd:URL>https://data.eol.ucar.edu/project/BEST</gmd:URL>
                   </gmd:linkage>
                   <gmd:protocol>
                     <gco:CharacterString>https</gco:CharacterString>
                   </gmd:protocol>
                   <gmd:name>
-                    <gco:CharacterString>The Bering Sea Project: BEST/BSIERP</gco:CharacterString>
+                    <gco:CharacterString>Bering Ecosystem Study</gco:CharacterString>
                   </gmd:name>
                   <gmd:description>
                     <gco:CharacterString>Project homepage</gco:CharacterString>
