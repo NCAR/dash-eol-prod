@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T18:02:14Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T19:51:29Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -180,9 +180,6 @@
           </gmd:identifier>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>EOL Data Support</gco:CharacterString>
-              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
@@ -233,7 +230,7 @@
                 <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
+                <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -277,7 +274,7 @@ PO Box 1870 Nordnes</gco:CharacterString>
                 <gco:CharacterString>Bodil A. Bluhm</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of Tromsø, Norway - Department of Arctic and Marine Biology</gco:CharacterString>
+                <gco:CharacterString>University of TromsÃ¸, Norway - Department of Arctic and Marine Biology</gco:CharacterString>
               </gmd:organisationName>
               <gmd:positionName>
                 <gco:CharacterString>Professor</gco:CharacterString>
@@ -295,14 +292,14 @@ PO Box 1870 Nordnes</gco:CharacterString>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
                         <gco:CharacterString>Department of Arctic and Marine Biology
-University of Tromsø
+University of TromsÃ¸
 PO Box 6050 
 Langnes
 
 </gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
-                        <gco:CharacterString>Tromsø</gco:CharacterString>
+                        <gco:CharacterString>TromsÃ¸</gco:CharacterString>
                       </gmd:city>
                       <gmd:postalCode>
                         <gco:CharacterString>90307</gco:CharacterString>
@@ -375,7 +372,7 @@ P.O. Box 757220</gco:CharacterString>
                 <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
+                <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -427,7 +424,7 @@ PO Box 1870 Nordnes</gco:CharacterString>
             <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
           </gmd:individualName>
           <gmd:organisationName>
-            <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
+            <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
           </gmd:organisationName>
           <gmd:contactInfo>
             <gmd:CI_Contact>
@@ -520,7 +517,7 @@ PO Box 1870 Nordnes</gco:CharacterString>
             <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
           </gmd:individualName>
           <gmd:organisationName>
-            <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
+            <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
           </gmd:organisationName>
           <gmd:contactInfo>
             <gmd:CI_Contact>
@@ -621,10 +618,10 @@ PO Box 1870 Nordnes</gco:CharacterString>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; IRRADIANCE</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; IRRADIANCE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
@@ -721,9 +718,6 @@ PO Box 1870 Nordnes</gco:CharacterString>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
             <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>EOL Data Support</gco:CharacterString>
-              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>

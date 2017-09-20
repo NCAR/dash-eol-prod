@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T18:02:11Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T19:51:30Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -180,9 +180,6 @@
           </gmd:identifier>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>EOL Data Support</gco:CharacterString>
-              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
@@ -709,9 +706,6 @@
         <gmd:MD_Distributor>
           <gmd:distributorContact>
             <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>EOL Data Support</gco:CharacterString>
-              </gmd:individualName>
               <gmd:organisationName>
                 <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
