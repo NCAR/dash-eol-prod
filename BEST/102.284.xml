@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T19:51:28Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T20:15:33Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -117,9 +117,6 @@
                   </gmd:date>
                   <gmd:citedResponsibleParty>
                     <gmd:CI_ResponsibleParty>
-                      <gmd:individualName>
-                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
-                      </gmd:individualName>
                       <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                       </gmd:organisationName>
@@ -250,7 +247,7 @@
                 <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
+                <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -341,7 +338,7 @@ P.O. Box 757220</gco:CharacterString>
                 <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
+                <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -385,7 +382,7 @@ PO Box 1870 Nordnes</gco:CharacterString>
                 <gco:CharacterString>Bodil A. Bluhm</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University of TromsÃ¸, Norway - Department of Arctic and Marine Biology</gco:CharacterString>
+                <gco:CharacterString>University of Tromsø, Norway - Department of Arctic and Marine Biology</gco:CharacterString>
               </gmd:organisationName>
               <gmd:positionName>
                 <gco:CharacterString>Professor</gco:CharacterString>
@@ -403,14 +400,14 @@ PO Box 1870 Nordnes</gco:CharacterString>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
                         <gco:CharacterString>Department of Arctic and Marine Biology
-University of TromsÃ¸
+University of Tromsø
 PO Box 6050 
 Langnes
 
 </gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
-                        <gco:CharacterString>TromsÃ¸</gco:CharacterString>
+                        <gco:CharacterString>Tromsø</gco:CharacterString>
                       </gmd:city>
                       <gmd:postalCode>
                         <gco:CharacterString>90307</gco:CharacterString>
@@ -587,7 +584,7 @@ P.O. Box 757220</gco:CharacterString>
             <gco:CharacterString>Rolf R. Gradinger</gco:CharacterString>
           </gmd:individualName>
           <gmd:organisationName>
-            <gco:CharacterString>University of TromsÃ¸, Institute of Marine Research</gco:CharacterString>
+            <gco:CharacterString>University of Tromsø, Institute of Marine Research</gco:CharacterString>
           </gmd:organisationName>
           <gmd:contactInfo>
             <gmd:CI_Contact>
@@ -668,10 +665,10 @@ PO Box 1870 Nordnes</gco:CharacterString>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Seawater Sampling</gco:CharacterString>
+            <gco:CharacterString>Ship</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Ship</gco:CharacterString>
+            <gco:CharacterString>Seawater Sampling</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -681,10 +678,10 @@ PO Box 1870 Nordnes</gco:CharacterString>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Biology</gco:CharacterString>
+            <gco:CharacterString>Oceanography</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Oceanography</gco:CharacterString>
+            <gco:CharacterString>Biology</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>

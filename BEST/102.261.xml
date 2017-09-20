@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T19:51:27Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T20:15:30Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -117,9 +117,6 @@
                   </gmd:date>
                   <gmd:citedResponsibleParty>
                     <gmd:CI_ResponsibleParty>
-                      <gmd:individualName>
-                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
-                      </gmd:individualName>
                       <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                       </gmd:organisationName>
@@ -405,7 +402,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset contains rosette bottle data from the U.S. Coast Guard Cutter Healy 09-01 cruise in March 2009, including salinity, temperature, macronutrients and stable oxygen isotope ratios. Samples were typically collected only from surface, bottom and a mid-depth bottle. A "-99" or a blank cell indicates no analyses were performed on the specific bottle. Nutrient analyses were performed by the NOAA Hydrographic group at the Pacific Marine Environmental Lab. Stable oxygen isotopes were determined at the Chesapeake Biological Lab, University of Maryland Center for Environmental Sciences, Solomons. Samples were equilibrated with carbon dioxide and analyzed on a Thermo Delta Plus stable isotope mass spectrometer using continuous flow of ultra high purity helium. Data are provided as delta oxygen-18 values, referenced to Vienna Standard Mean Ocean Water (V-SMOW) and are normalized on the Standard Mean Ocean Water-Standard light Antarctic Precipitation (SMOW-SLAP) scale. An additional correction was provided based upon the performance of an internal water standard run with the samples. Sampling precision is Â±0.05</gco:CharacterString>
+        <gco:CharacterString>This dataset contains rosette bottle data from the U.S. Coast Guard Cutter Healy 09-01 cruise in March 2009, including salinity, temperature, macronutrients and stable oxygen isotope ratios. Samples were typically collected only from surface, bottom and a mid-depth bottle. A "-99" or a blank cell indicates no analyses were performed on the specific bottle. Nutrient analyses were performed by the NOAA Hydrographic group at the Pacific Marine Environmental Lab. Stable oxygen isotopes were determined at the Chesapeake Biological Lab, University of Maryland Center for Environmental Sciences, Solomons. Samples were equilibrated with carbon dioxide and analyzed on a Thermo Delta Plus stable isotope mass spectrometer using continuous flow of ultra high purity helium. Data are provided as delta oxygen-18 values, referenced to Vienna Standard Mean Ocean Water (V-SMOW) and are normalized on the Standard Mean Ocean Water-Standard light Antarctic Precipitation (SMOW-SLAP) scale. An additional correction was provided based upon the performance of an internal water standard run with the samples. Sampling precision is ±0.05</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -605,25 +602,25 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITROGEN</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITRATE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; STABLE ISOTOPES</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; AMMONIA</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; CARBON</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITRATE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; OXYGEN</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; STABLE ISOTOPES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; AMMONIA</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITROGEN</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE</gco:CharacterString>
@@ -632,7 +629,7 @@
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; CONDUCTIVITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; CARBON</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>

@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T19:51:16Z</gco:DateTime>
+    <gco:DateTime>2017-09-20T20:15:38Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -117,9 +117,6 @@
                   </gmd:date>
                   <gmd:citedResponsibleParty>
                     <gmd:CI_ResponsibleParty>
-                      <gmd:individualName>
-                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
-                      </gmd:individualName>
                       <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                       </gmd:organisationName>
@@ -407,7 +404,7 @@
 
  * TLO - T. longipes 
 
- * TSP - T. spinifera  ​The following abbreviations are used for cruise designations:  
+ * TSP - T. spinifera  The following abbreviations are used for cruise designations:  
 
  * hl802 - USCGC Healy, cruise HLY0802 
 
@@ -733,13 +730,13 @@
               <gmd:onLine>
                 <gmd:CI_OnlineResource>
                   <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/BeringSea</gmd:URL>
+                    <gmd:URL>https://data.eol.ucar.edu/project/BEST</gmd:URL>
                   </gmd:linkage>
                   <gmd:protocol>
                     <gco:CharacterString>https</gco:CharacterString>
                   </gmd:protocol>
                   <gmd:name>
-                    <gco:CharacterString>The Bering Sea Project: BEST/BSIERP</gco:CharacterString>
+                    <gco:CharacterString>Bering Ecosystem Study</gco:CharacterString>
                   </gmd:name>
                   <gmd:description>
                     <gco:CharacterString>Project homepage</gco:CharacterString>
@@ -749,13 +746,13 @@
               <gmd:onLine>
                 <gmd:CI_OnlineResource>
                   <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/BEST</gmd:URL>
+                    <gmd:URL>https://data.eol.ucar.edu/project/BeringSea</gmd:URL>
                   </gmd:linkage>
                   <gmd:protocol>
                     <gco:CharacterString>https</gco:CharacterString>
                   </gmd:protocol>
                   <gmd:name>
-                    <gco:CharacterString>Bering Ecosystem Study</gco:CharacterString>
+                    <gco:CharacterString>The Bering Sea Project: BEST/BSIERP</gco:CharacterString>
                   </gmd:name>
                   <gmd:description>
                     <gco:CharacterString>Project homepage</gco:CharacterString>
