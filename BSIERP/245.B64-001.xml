@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T20:15:40Z</gco:DateTime>
+    <gco:DateTime>2017-09-22T21:42:12Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -86,7 +86,7 @@
             <gco:CharacterString>245.B64-003</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString> is superseded by dataset 245.B64-001</gco:CharacterString>
+            <gco:CharacterString> supersedes dataset 245.B64-001</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -494,13 +494,13 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; FOOD-WEB DYNAMICS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; MARINE ECOSYSTEMS &gt; PELAGIC</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; FOOD-WEB DYNAMICS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>

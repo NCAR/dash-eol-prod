@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-20T20:15:34Z</gco:DateTime>
+    <gco:DateTime>2017-09-22T21:41:58Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -86,7 +86,7 @@
             <gco:CharacterString>102.240</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString> is superseded by dataset 102.137</gco:CharacterString>
+            <gco:CharacterString> supersedes dataset 102.137</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -109,7 +109,7 @@
             <gco:CharacterString>102.241</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString> is superseded by dataset 102.137</gco:CharacterString>
+            <gco:CharacterString> supersedes dataset 102.137</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
