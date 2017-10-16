@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-10-06T19:07:10Z</gco:DateTime>
+    <gco:DateTime>2017-10-16T16:04:32Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -511,6 +511,9 @@
       </gmd:descriptiveKeywords>
       <gmd:resourceConstraints>
         <gmd:MD_LegalConstraints>
+          <gmd:useLimitation>
+            <gco:CharacterString>These data are restricted by a user agreement: http://data.eol.ucar.edu/datafile/nph-get/117.008/fair-use.html</gco:CharacterString>
+          </gmd:useLimitation>
           <gmd:otherConstraints>
             <gco:CharacterString>none</gco:CharacterString>
           </gmd:otherConstraints>
