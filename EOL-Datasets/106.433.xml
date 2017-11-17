@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T21:56:42Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:16:00Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -761,10 +761,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Biology</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Biology</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -875,7 +875,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>0.186</gco:Real>
+            <gco:Real>0.181640625</gco:Real>
           </gmd:transferSize>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>

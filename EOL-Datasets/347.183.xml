@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T22:01:57Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:17:12Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -524,49 +524,49 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; LONGWAVE RADIATION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION RATE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WAVES &gt; SIGNIFICANT WAVE HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; EVAPORATION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; LONGWAVE RADIATION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; SHORTWAVE RADIATION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; SEA SURFACE TEMPERATURE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; HEAT FLUX</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WAVES &gt; WAVE SPEED/DIRECTION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION RATE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WINDS &gt; SURFACE WINDS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; HUMIDITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WINDS &gt; WIND STRESS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; SHORTWAVE RADIATION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WAVES &gt; WAVE SPEED/DIRECTION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WINDS &gt; SURFACE WINDS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; SEA SURFACE TEMPERATURE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WAVES &gt; SIGNIFICANT WAVE HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>

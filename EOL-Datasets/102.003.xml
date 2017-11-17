@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T21:55:29Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:14:41Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -561,10 +561,10 @@
             <gco:CharacterString>Satellite, DMSP</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Satellite, NOAA Polar Orbiters</gco:CharacterString>
+            <gco:CharacterString>Feng Yun 1D</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Feng Yun 1D</gco:CharacterString>
+            <gco:CharacterString>Satellite, NOAA Polar Orbiters</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeListValue="platform" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode">platform</gmd:MD_KeywordTypeCode>
@@ -574,10 +574,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Satellite</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Satellite</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -734,7 +734,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>13000</gco:Real>
+            <gco:Real>13312</gco:Real>
           </gmd:transferSize>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>

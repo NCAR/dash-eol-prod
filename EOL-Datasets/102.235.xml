@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T21:55:26Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:14:36Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -638,10 +638,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Oceanography</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Oceanography</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -651,10 +651,10 @@
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; MARINE GEOCHEMISTRY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITROGEN</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; ORGANIC CARBON</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; ORGANIC CARBON</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NITROGEN</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -797,7 +797,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>0.07</gco:Real>
+            <gco:Real>0.068359375</gco:Real>
           </gmd:transferSize>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>

@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T22:03:07Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:18:15Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -596,10 +596,7 @@
       <gmd:resourceConstraints>
         <gmd:MD_LegalConstraints>
           <gmd:useLimitation>
-            <gco:CharacterString>These data are restricted by a user agreement: http://data.eol.ucar.edu/datafile/nph-get/379.055/DLR_Falcon_WARAN_Data_Usage_Statement.html</gco:CharacterString>
-          </gmd:useLimitation>
-          <gmd:useLimitation>
-            <gco:CharacterString>These data are restricted by a user agreement: http://data.eol.ucar.edu/datafile/nph-get/379.055/DEEPWAVE_EULA.html</gco:CharacterString>
+            <gco:CharacterString>These data are restricted by a user agreement: http://data.eol.ucar.edu/datafile/nph-get/379.055/DLR_Falcon_WARAN_Data_Usage_Statement.html;These data are restricted by a user agreement: http://data.eol.ucar.edu/datafile/nph-get/379.055/DEEPWAVE_EULA.html</gco:CharacterString>
           </gmd:useLimitation>
           <gmd:otherConstraints>
             <gco:CharacterString>none</gco:CharacterString>

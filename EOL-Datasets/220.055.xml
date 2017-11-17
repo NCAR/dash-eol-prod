@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T22:02:55Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:18:04Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -580,7 +580,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>0.208</gco:Real>
+            <gco:Real>0.203125</gco:Real>
           </gmd:transferSize>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>

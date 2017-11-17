@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T21:56:35Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:15:50Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -746,13 +746,13 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
+            <gco:CharacterString>Meteorological Tower</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>Snow Depth</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>Vegetation Sampling</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>Meteorological Tower</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeListValue="platform" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode">platform</gmd:MD_KeywordTypeCode>
@@ -762,13 +762,13 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>Surface</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>Sub-Surface</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>

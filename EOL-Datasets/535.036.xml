@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T22:03:31Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:18:38Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -598,10 +598,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; THERMAL INFRARED</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; SKIN TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; SKIN TEMPERATURE</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; THERMAL INFRARED</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -744,7 +744,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>4000</gco:Real>
+            <gco:Real>4096</gco:Real>
           </gmd:transferSize>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>

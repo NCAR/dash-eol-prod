@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T21:56:39Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T23:16:00Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -479,13 +479,13 @@
             <gco:CharacterString>Satellite, NASA/EOS Terra</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Satellite, NASA/EOS Aqua</gco:CharacterString>
+            <gco:CharacterString>Meteorological Tower</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>CTD ocean cast</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Meteorological Tower</gco:CharacterString>
+            <gco:CharacterString>Satellite, NASA/EOS Aqua</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>IMB Buoy</gco:CharacterString>
@@ -501,10 +501,10 @@
             <gco:CharacterString>Aircraft</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Oceanography</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Oceanography</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
