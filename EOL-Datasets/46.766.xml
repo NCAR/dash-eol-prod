@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns="http://www.w3.org/2005" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
     <gco:CharacterString>edu.ucar.eol::46.766</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
-    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
+    <gmd:LanguageCode codeListValue="eng; USA" codeList="http://www.loc.gov/standards/iso639-2/">eng; USA</gmd:LanguageCode>
   </gmd:language>
   <gmd:characterSet>
-    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:hierarchyLevel>
-    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+    <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
@@ -56,12 +56,12 @@
         </gmd:CI_Contact>
       </gmd:contactInfo>
       <gmd:role>
-        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
       </gmd:role>
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-22T18:40:19Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T20:43:04Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,7 +88,7 @@
                 <gco:DateTime>2008-12-17T13:00:31Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">publication</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
@@ -111,7 +111,7 @@
                         <gco:DateTime>2008-12-17T13:00:31Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+                        <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">creation</gmd:CI_DateTypeCode>
                       </gmd:dateType>
                     </gmd:CI_Date>
                   </gmd:date>
@@ -157,7 +157,7 @@
                         </gmd:CI_Contact>
                       </gmd:contactInfo>
                       <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+                        <gmd:CI_RoleCode codeListValue="resourceProvider" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">resourceProvider</gmd:CI_RoleCode>
                       </gmd:role>
                     </gmd:CI_ResponsibleParty>
                   </gmd:citedResponsibleParty>
@@ -171,7 +171,7 @@
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D62Z13PS" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D62Z13PS</gmx:Anchor>
+                <gmx:Anchor xlink:actuate="onRequest" xlink:href="https://doi.org/doi:10.5065/D62Z13PS" xlink:title="DOI">doi:10.5065/D62Z13PS</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -217,7 +217,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="publisher" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">publisher</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -234,9 +234,7 @@
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Geophysical Institute 
-University of Alaska Fairbanks 
-P.O. Box 757320</gco:CharacterString>
+                        <gco:CharacterString>Geophysical Institute University of Alaska Fairbanks P.O. Box 757320</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -258,7 +256,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -285,8 +283,7 @@ P.O. Box 757320</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>903 Koyukuk Drive
-P.O. Box 757320</gco:CharacterString>
+                        <gco:CharacterString>903 Koyukuk Drive P.O. Box 757320</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -305,7 +302,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -322,9 +319,7 @@ P.O. Box 757320</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Geophysical Institute 
-University of Alaska Fairbanks 
-P.O. Box 757320</gco:CharacterString>
+                        <gco:CharacterString>Geophysical Institute University of Alaska Fairbanks P.O. Box 757320</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -346,7 +341,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -363,9 +358,7 @@ P.O. Box 757320</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Geophysical Institute 
-University of Alaska Fairbanks 
-P.O. Box 757320</gco:CharacterString>
+                        <gco:CharacterString>Geophysical Institute University of Alaska Fairbanks P.O. Box 757320</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -387,7 +380,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -414,7 +407,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -457,7 +450,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -484,8 +477,7 @@ P.O. Box 757320</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Jardin Botanico Sur 
-1201 Calle Ceiba</gco:CharacterString>
+                        <gco:CharacterString>Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>San Juan</gco:CharacterString>
@@ -504,7 +496,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -525,7 +517,7 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -542,8 +534,7 @@ P.O. Box 757320</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Institute of Arctic Biology
-University of Alaska- Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>Institute of Arctic Biology University of Alaska- Fairbanks</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -565,7 +556,7 @@ University of Alaska- Fairbanks</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -589,8 +580,7 @@ University of Alaska- Fairbanks</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Department of Environmental Sciences 
-University of Virginia</gco:CharacterString>
+                        <gco:CharacterString>Department of Environmental Sciences University of Virginia</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:administrativeArea>
                         <gco:CharacterString>Virginia</gco:CharacterString>
@@ -606,7 +596,7 @@ University of Virginia</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -643,7 +633,7 @@ University of Virginia</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -686,7 +676,7 @@ University of Virginia</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -710,8 +700,7 @@ University of Virginia</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>School of Geography and Environmental Science  PO BOX 11A
-Clayton, Victoria, 3800</gco:CharacterString>
+                        <gco:CharacterString>School of Geography and Environmental Science PO BOX 11A Clayton, Victoria, 3800</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:country>
                         <gco:CharacterString>Australia</gco:CharacterString>
@@ -724,7 +713,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -752,7 +741,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -776,7 +765,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>University of Alaska, Fairbanks  PO Box 756100</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska, Fairbanks PO Box 756100</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -795,7 +784,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -841,7 +830,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -861,8 +850,7 @@ Clayton, Victoria, 3800</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>University of Alaska Fairbanks 
-Water and Environmental Research Center</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks Water and Environmental Research Center</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -884,7 +872,7 @@ Water and Environmental Research Center</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -894,7 +882,7 @@ Water and Environmental Research Center</gco:CharacterString>
                 <gco:CharacterString>Larry D. Hinzman</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>Water &amp; Env. Research Center</gco:CharacterString>
+                <gco:CharacterString>Water &amp;amp;amp; Env. Research Center</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -908,8 +896,7 @@ Water and Environmental Research Center</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>University of Alaska, Fairbanks
-P.O. Box 755860</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska, Fairbanks P.O. Box 755860</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -928,7 +915,7 @@ P.O. Box 755860</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -948,8 +935,7 @@ P.O. Box 755860</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>University of Alaska Fairbanks 
-Water and Environmental Research Center</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks Water and Environmental Research Center</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -971,7 +957,7 @@ Water and Environmental Research Center</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -995,11 +981,7 @@ Water and Environmental Research Center</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>University of Alaska Fairbanks
-Institute of Northern Engineering
-Water and Environmental Research Center
-P.O. Box 755860
-</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center P.O. Box 755860</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -1021,7 +1003,7 @@ P.O. Box 755860
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1038,8 +1020,7 @@ P.O. Box 755860
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Campus Delivery 1472 
-Colorado State University  </gco:CharacterString>
+                        <gco:CharacterString>Campus Delivery 1472 Colorado State University</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fort Collins</gco:CharacterString>
@@ -1058,7 +1039,7 @@ Colorado State University  </gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1075,9 +1056,7 @@ Colorado State University  </gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Byrd Polar Research Center 
-1090 Carmack Road 
-108 Scott Hall</gco:CharacterString>
+                        <gco:CharacterString>Byrd Polar Research Center 1090 Carmack Road 108 Scott Hall</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Columbus</gco:CharacterString>
@@ -1099,7 +1078,7 @@ Colorado State University  </gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1116,8 +1095,7 @@ Colorado State University  </gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Water and Environmental Research Center 
-University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>Water and Environmental Research Center University of Alaska Fairbanks</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -1139,7 +1117,7 @@ University of Alaska Fairbanks</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1182,7 +1160,7 @@ University of Alaska Fairbanks</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1206,9 +1184,7 @@ University of Alaska Fairbanks</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>School of Natural Resources and Agricultural Sciences
-Agric. And Forestry Experiment Station
-533 E. Fireweed Ave</gco:CharacterString>
+                        <gco:CharacterString>School of Natural Resources and Agricultural Sciences Agric. And Forestry Experiment Station 533 E. Fireweed Ave</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Palmer</gco:CharacterString>
@@ -1227,7 +1203,7 @@ Agric. And Forestry Experiment Station
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1251,8 +1227,7 @@ Agric. And Forestry Experiment Station
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>US Army CRREL 
-Box 35170</gco:CharacterString>
+                        <gco:CharacterString>US Army CRREL Box 35170</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Ft. Wainwright</gco:CharacterString>
@@ -1274,7 +1249,7 @@ Box 35170</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1301,9 +1276,7 @@ Box 35170</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Cooperative Institute for Research in the Atmosphere
-Colorado State University
-1375 Campus Delivery</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in the Atmosphere Colorado State University 1375 Campus Delivery</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Fort Collins</gco:CharacterString>
@@ -1325,7 +1298,7 @@ Colorado State University
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1349,9 +1322,7 @@ Colorado State University
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Alaska Experimental Forecast Facility 
-University of Alaska Anchorage 
-2811 Merrill Field Dr.</gco:CharacterString>
+                        <gco:CharacterString>Alaska Experimental Forecast Facility University of Alaska Anchorage 2811 Merrill Field Dr.</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Anchorage</gco:CharacterString>
@@ -1373,7 +1344,7 @@ University of Alaska Anchorage
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1406,7 +1377,7 @@ University of Alaska Anchorage
                         <gco:CharacterString>27932</gco:CharacterString>
                       </gmd:postalCode>
                       <gmd:country>
-                        <gco:CharacterString>USA </gco:CharacterString>
+                        <gco:CharacterString>USA</gco:CharacterString>
                       </gmd:country>
                       <gmd:electronicMailAddress>
                         <gco:CharacterString>charles_racine@yahoo.com</gco:CharacterString>
@@ -1416,7 +1387,7 @@ University of Alaska Anchorage
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1440,8 +1411,7 @@ University of Alaska Anchorage
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory
-PO Box 35170</gco:CharacterString>
+                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory PO Box 35170</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Ft Wainwright</gco:CharacterString>
@@ -1460,7 +1430,7 @@ PO Box 35170</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1503,7 +1473,7 @@ PO Box 35170</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1546,7 +1516,7 @@ PO Box 35170</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1592,7 +1562,7 @@ PO Box 35170</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -1602,7 +1572,7 @@ PO Box 35170</gco:CharacterString>
         <gco:CharacterString>The Arctic Transitions in the Land-Atmosphere System (ATLAS) Project is a coordinated program that will examine the geographical patterns and controls over climate-land surface exchange and develop reasonable scenarios of future change in the Arctic. This CD is a compilation of information and measurements made at the Ivotuk site on the North Slope of Alaska by a hard working group of scientists and technicians. It contains data, pictures and descriptions for a 2 1/2 year period from 1998 through June 2000. The CD contents are online at the dataset homepage.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
@@ -1617,9 +1587,7 @@ PO Box 35170</gco:CharacterString>
               <gmd:address>
                 <gmd:CI_Address>
                   <gmd:deliveryPoint>
-                    <gco:CharacterString>Geophysical Institute 
-University of Alaska Fairbanks 
-P.O. Box 757320</gco:CharacterString>
+                    <gco:CharacterString>Geophysical Institute University of Alaska Fairbanks P.O. Box 757320</gco:CharacterString>
                   </gmd:deliveryPoint>
                   <gmd:city>
                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -1641,7 +1609,7 @@ P.O. Box 757320</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -1690,7 +1658,7 @@ P.O. Box 757320</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -1736,7 +1704,7 @@ P.O. Box 757320</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -1756,7 +1724,7 @@ P.O. Box 757320</gco:CharacterString>
                     <gco:Date>2014-10-16</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
@@ -1769,7 +1737,7 @@ P.O. Box 757320</gco:CharacterString>
                     <gco:CharacterString>DataCite Metadata Working Group</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -1882,67 +1850,19 @@ P.O. Box 757320</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="distributor" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">distributor</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:distributorContact>
-          <gmd:distributorTransferOptions>
-            <gmd:MD_DigitalTransferOptions>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://doi.org/doi:10.5065/D62Z13PS</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Ivotuk Site CD [ATLAS PIs] homepage</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/ATLAS</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Arctic Transitions in the Land-Atmosphere System</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Project homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=46.766</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>http</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Ivotuk Site CD [ATLAS PIs] Data Order Form</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
-                  </gmd:description>
-                  <gmd:function>
-                    <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="order">order</gmd:CI_OnLineFunctionCode>
-                  </gmd:function>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-            </gmd:MD_DigitalTransferOptions>
-          </gmd:distributorTransferOptions>
         </gmd:MD_Distributor>
       </gmd:distributor>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:transferSize>
+            <gco:Real>370</gco:Real>
+          </gmd:transferSize>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
 </gmd:MD_Metadata>

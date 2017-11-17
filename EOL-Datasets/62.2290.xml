@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns="http://www.w3.org/2005" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
     <gco:CharacterString>edu.ucar.eol::62.2290</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
-    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
+    <gmd:LanguageCode codeListValue="eng; USA" codeList="http://www.loc.gov/standards/iso639-2/">eng; USA</gmd:LanguageCode>
   </gmd:language>
   <gmd:characterSet>
-    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:hierarchyLevel>
-    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+    <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
@@ -56,12 +56,12 @@
         </gmd:CI_Contact>
       </gmd:contactInfo>
       <gmd:role>
-        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
       </gmd:role>
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-25T18:31:08Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T19:09:55Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -77,7 +77,7 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://doi.org/doi:10.5065/D63T9FBD</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/dataset/62.1640</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -89,7 +89,7 @@
             <gco:CharacterString> is a companion to dataset 62.2290</gco:CharacterString>
           </gmd:description>
           <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+            <gmd:CI_OnLineFunctionCode codeListValue="information" codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
           </gmd:function>
         </gmd:CI_OnlineResource>
       </gmd:extensionOnLineResource>
@@ -100,7 +100,7 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://doi.org/doi:10.5065/D6D21VP1</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/dataset/62.1620</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -112,7 +112,7 @@
             <gco:CharacterString> is a companion to dataset 62.2290</gco:CharacterString>
           </gmd:description>
           <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+            <gmd:CI_OnLineFunctionCode codeListValue="information" codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
           </gmd:function>
         </gmd:CI_OnlineResource>
       </gmd:extensionOnLineResource>
@@ -123,7 +123,7 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://doi.org/doi:10.5065/D68G8HT7</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/dataset/62.2430</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -135,7 +135,7 @@
             <gco:CharacterString> is a companion to dataset 62.2290</gco:CharacterString>
           </gmd:description>
           <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+            <gmd:CI_OnLineFunctionCode codeListValue="information" codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
           </gmd:function>
         </gmd:CI_OnlineResource>
       </gmd:extensionOnLineResource>
@@ -146,7 +146,7 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://doi.org/doi:10.5065/D6VH5KWF</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/dataset/62.229</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -158,7 +158,7 @@
             <gco:CharacterString> is a companion to dataset 62.2290</gco:CharacterString>
           </gmd:description>
           <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+            <gmd:CI_OnLineFunctionCode codeListValue="information" codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
           </gmd:function>
         </gmd:CI_OnlineResource>
       </gmd:extensionOnLineResource>
@@ -180,7 +180,7 @@
                 <gco:DateTime>2007-11-05T14:16:49Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">publication</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
@@ -203,7 +203,7 @@
                         <gco:DateTime>2007-11-05T14:16:49Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+                        <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">creation</gmd:CI_DateTypeCode>
                       </gmd:dateType>
                     </gmd:CI_Date>
                   </gmd:date>
@@ -249,7 +249,7 @@
                         </gmd:CI_Contact>
                       </gmd:contactInfo>
                       <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+                        <gmd:CI_RoleCode codeListValue="resourceProvider" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">resourceProvider</gmd:CI_RoleCode>
                       </gmd:role>
                     </gmd:CI_ResponsibleParty>
                   </gmd:citedResponsibleParty>
@@ -263,7 +263,7 @@
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D6HM56JB" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D6HM56JB</gmx:Anchor>
+                <gmx:Anchor xlink:actuate="onRequest" xlink:href="https://doi.org/doi:10.5065/D6HM56JB" xlink:title="DOI">doi:10.5065/D6HM56JB</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -309,7 +309,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="publisher" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">publisher</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -355,7 +355,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -398,7 +398,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -444,7 +444,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -487,7 +487,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -497,7 +497,7 @@
         <gco:CharacterString>This data set contains benthic infaunal abundance, biomass (g/m2), carbon-converted biomass (gC/m2), and numbers of taxa for each station Station dates and locations are also provided. This file also lists the top three benthic taxa for abundance, formalin-preserved wet weight biomass (g/m2), and carbon-converted biomass (gC/m2) at each station. Samples included in this data set were collected from May 15. 2004 to June 23, 2004 from the United States Coast Guard Cutter (USCGC) Healy (WAGB-20). This sampling on Healy was funded through the Shelf-Basin Interactions project, which is funded by both the National Science Foundation (NSF) and the Office of Naval Research (ONR). These data are in Excel format.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
@@ -538,7 +538,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -587,7 +587,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -633,7 +633,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -653,7 +653,7 @@
                     <gco:Date>2014-10-16</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
@@ -666,7 +666,7 @@
                     <gco:CharacterString>DataCite Metadata Working Group</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -683,7 +683,7 @@
             <gco:CharacterString>benthic sampling</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
-            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
+            <gmd:MD_KeywordTypeCode codeListValue="platform" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode">platform</gmd:MD_KeywordTypeCode>
           </gmd:type>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -705,7 +705,7 @@
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
       <gmd:spatialRepresentationType>
-        <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
+        <gmd:MD_SpatialRepresentationTypeCode codeListValue="grid" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode">grid</gmd:MD_SpatialRepresentationTypeCode>
       </gmd:spatialRepresentationType>
       <gmd:language>
         <gco:CharacterString>eng</gco:CharacterString>
@@ -794,67 +794,19 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="distributor" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">distributor</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:distributorContact>
-          <gmd:distributorTransferOptions>
-            <gmd:MD_DigitalTransferOptions>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://doi.org/doi:10.5065/D6HM56JB</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>HLY-04-02 Benthic Faunal Summaries (abundance, biomass, and dominance) (Excel) [Grebmeier, J. and L. Cooper] homepage</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/SBI</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Western Arctic Shelf Basin Interactions Project</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Project homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=62.2290</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>http</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>HLY-04-02 Benthic Faunal Summaries (abundance, biomass, and dominance) (Excel) [Grebmeier, J. and L. Cooper] Data Order Form</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
-                  </gmd:description>
-                  <gmd:function>
-                    <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="order">order</gmd:CI_OnLineFunctionCode>
-                  </gmd:function>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-            </gmd:MD_DigitalTransferOptions>
-          </gmd:distributorTransferOptions>
         </gmd:MD_Distributor>
       </gmd:distributor>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:transferSize>
+            <gco:Real>34 KiB</gco:Real>
+          </gmd:transferSize>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
 </gmd:MD_Metadata>

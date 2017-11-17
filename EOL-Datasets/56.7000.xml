@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns="http://www.w3.org/2005" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
     <gco:CharacterString>edu.ucar.eol::56.7000</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
-    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
+    <gmd:LanguageCode codeListValue="eng; USA" codeList="http://www.loc.gov/standards/iso639-2/">eng; USA</gmd:LanguageCode>
   </gmd:language>
   <gmd:characterSet>
-    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:hierarchyLevel>
-    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+    <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
@@ -56,12 +56,12 @@
         </gmd:CI_Contact>
       </gmd:contactInfo>
       <gmd:role>
-        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
       </gmd:role>
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-09-22T21:42:23Z</gco:DateTime>
+    <gco:DateTime>2017-11-17T19:09:32Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,7 +88,7 @@
                 <gco:DateTime>2007-11-02T12:44:14Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">publication</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
@@ -111,7 +111,7 @@
                         <gco:DateTime>2007-11-02T12:44:14Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+                        <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">creation</gmd:CI_DateTypeCode>
                       </gmd:dateType>
                     </gmd:CI_Date>
                   </gmd:date>
@@ -157,7 +157,7 @@
                         </gmd:CI_Contact>
                       </gmd:contactInfo>
                       <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+                        <gmd:CI_RoleCode codeListValue="resourceProvider" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">resourceProvider</gmd:CI_RoleCode>
                       </gmd:role>
                     </gmd:CI_ResponsibleParty>
                   </gmd:citedResponsibleParty>
@@ -171,7 +171,7 @@
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D6Z60M8Q" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D6Z60M8Q</gmx:Anchor>
+                <gmx:Anchor xlink:actuate="onRequest" xlink:href="https://doi.org/doi:10.5065/D6Z60M8Q" xlink:title="DOI">doi:10.5065/D6Z60M8Q</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -217,7 +217,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="publisher" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">publisher</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -234,7 +234,7 @@
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Division of Life Sciences, King's College London, University of London, 150 Stamford Street</gco:CharacterString>
+                        <gco:CharacterString>Division of Life Sciences, King&amp;amp;#39;s College London, University of London, 150 Stamford Street</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>London</gco:CharacterString>
@@ -250,7 +250,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -267,9 +267,7 @@
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Uppsala University, 
-Department of Earth Sciences, 
-Villavagen 16</gco:CharacterString>
+                        <gco:CharacterString>Uppsala University, Department of Earth Sciences, Villavagen 16</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Uppsala</gco:CharacterString>
@@ -288,7 +286,7 @@ Villavagen 16</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -305,7 +303,7 @@ Villavagen 16</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Division of Life Sciences, King's College London, University of London, 150 Stamford Street</gco:CharacterString>
+                        <gco:CharacterString>Division of Life Sciences, King&amp;amp;#39;s College London, University of London, 150 Stamford Street</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>London</gco:CharacterString>
@@ -321,7 +319,7 @@ Villavagen 16</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -338,9 +336,7 @@ Villavagen 16</gco:CharacterString>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:deliveryPoint>
-                        <gco:CharacterString>Uppsala University, 
-Department of Earth Sciences, 
-Villavagen 16</gco:CharacterString>
+                        <gco:CharacterString>Uppsala University, Department of Earth Sciences, Villavagen 16</gco:CharacterString>
                       </gmd:deliveryPoint>
                       <gmd:city>
                         <gco:CharacterString>Uppsala</gco:CharacterString>
@@ -359,7 +355,7 @@ Villavagen 16</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -369,7 +365,7 @@ Villavagen 16</gco:CharacterString>
         <gco:CharacterString>This dataset contains both community and species data that accompanies the experiment done at the Svalbard Site in 1991, 1993, and 1995. This dataset is in excel format. For more information, please see the readme file.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
@@ -384,9 +380,7 @@ Villavagen 16</gco:CharacterString>
               <gmd:address>
                 <gmd:CI_Address>
                   <gmd:deliveryPoint>
-                    <gco:CharacterString>Uppsala University, 
-Department of Earth Sciences, 
-Villavagen 16</gco:CharacterString>
+                    <gco:CharacterString>Uppsala University, Department of Earth Sciences, Villavagen 16</gco:CharacterString>
                   </gmd:deliveryPoint>
                   <gmd:city>
                     <gco:CharacterString>Uppsala</gco:CharacterString>
@@ -405,7 +399,7 @@ Villavagen 16</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -454,7 +448,7 @@ Villavagen 16</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -500,7 +494,7 @@ Villavagen 16</gco:CharacterString>
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -520,7 +514,7 @@ Villavagen 16</gco:CharacterString>
                     <gco:Date>2014-10-16</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
@@ -533,7 +527,7 @@ Villavagen 16</gco:CharacterString>
                     <gco:CharacterString>DataCite Metadata Working Group</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -547,10 +541,10 @@ Villavagen 16</gco:CharacterString>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Ancillary Info</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Ancillary Info</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -652,67 +646,19 @@ Villavagen 16</gco:CharacterString>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeListValue="distributor" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">distributor</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:distributorContact>
-          <gmd:distributorTransferOptions>
-            <gmd:MD_DigitalTransferOptions>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://doi.org/doi:10.5065/D6Z60M8Q</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Svalbard Site Excel Data [Robinson, Wookey] homepage</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/project/ITEX</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>https</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>International Tundra Experiment</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Project homepage</gco:CharacterString>
-                  </gmd:description>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=56.7000</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString>http</gco:CharacterString>
-                  </gmd:protocol>
-                  <gmd:name>
-                    <gco:CharacterString>Svalbard Site Excel Data [Robinson, Wookey] Data Order Form</gco:CharacterString>
-                  </gmd:name>
-                  <gmd:description>
-                    <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
-                  </gmd:description>
-                  <gmd:function>
-                    <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="order">order</gmd:CI_OnLineFunctionCode>
-                  </gmd:function>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-            </gmd:MD_DigitalTransferOptions>
-          </gmd:distributorTransferOptions>
         </gmd:MD_Distributor>
       </gmd:distributor>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:transferSize>
+            <gco:Real>420 KiB</gco:Real>
+          </gmd:transferSize>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
 </gmd:MD_Metadata>
