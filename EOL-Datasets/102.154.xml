@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-17T23:14:40Z</gco:DateTime>
+    <gco:DateTime>2017-11-20T21:32:40Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -402,7 +402,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset pertains to age determination in crustaceans relies on quantification of a fluorescent &amp;quot;age pigment,&amp;quot; lipofuscin, that accumulates in eye stalks of krill over time. Lipofuscin includes a mixture of protein oxidation products formed in neural tissues. The extracted products are quantified using a fluorescence detector. The concentration of lipofuscin is normalized to the protein content from the same tissues. The ratio of lipofuscin to protein concentration is the Lipofuscin Index and is calculated for each individual organisms. In order for the index to reflect chronological age, a calibration is required using euphausiids of known age. A comparison of the calculated ages to the specific lengths for each krill provides the ages for those krill analyzed during each cruise. These data are preliminary until an age calibration curve is completed following rearing. These data were collected aboard the United States Coast Guard Icebreaker Healy.</gco:CharacterString>
+        <gco:CharacterString>This dataset pertains to age determination in crustaceans relies on quantification of a fluorescent &amp;quot;age pigment,&amp;quot; lipofuscin, that accumulates in eye stalks of krill over time. Lipofuscin includes a mixture of protein oxidation products formed in neural tissues. The extracted products are quantified using a fluorescence detector. The concentration of lipofuscin is normalized to the protein content from the same tissues. The ratio of lipofuscin to protein concentration is the Lipofuscin Index and is calculated for each individual organisms. In order for the index to reflect chronological age, a calibration is required using euphausiids of known age. A comparison of the calculated ages to the specific lengths for each krill provides the ages for those krill analyzed during each cruise. These data are preliminary until an age calibration curve is completed following rearing. These data were collected aboard the United States Coast Guard Icebreaker Healy. Data were collected during the Bering Sea Ecosystem Study-Bering Sea Integrated Ecosystem Research Program (BEST-BSIERP). BEST-BSIERP together are the Bering Sea project. </gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
@@ -595,10 +595,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Chemistry</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Chemistry</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -748,8 +748,43 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>0.19921875</gco:Real>
+            <gco:Real>1</gco:Real>
           </gmd:transferSize>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://data.eol.ucar.edu/dataset/102.154</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>https</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>HLY-08-02 Lipofuscin and Euphausiid Aging homepage</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Dataset homepage</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=102.154</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>http</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>HLY-08-02 Lipofuscin and Euphausiid Aging Data Order Form</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeListValue="order" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">order</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
         </gmd:MD_DigitalTransferOptions>
       </gmd:transferOptions>
     </gmd:MD_Distribution>
