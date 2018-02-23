@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-20T21:38:42Z</gco:DateTime>
+    <gco:DateTime>2018-02-22T17:41:02Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -272,7 +272,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>The NSF/NCAR GV HIAPER (Gulfstream-V High-performance Instrumented Airborne Platform for Environmental Research) Airborne Instrument Solicitation (HAIS) Advanced Whole Air Sampler (AWAS) measured trace gases from whole air samples collected by the NSF/NCAR GV HIAPER during CONTRAST (CONvective TRansport of Active Species in the Tropics). In addition to tracers, the AWAS measured a full suite of halocarbon species. This dataset contains AWAS data in NASA Ames format.</gco:CharacterString>
+        <gco:CharacterString>The Gulfstream-V High-performance Instrumented Airborne Platform for Environmental Research (NSF/NCAR GV HIAPER) Airborne Instrument Solicitation (HAIS) Advanced Whole Air Sampler (AWAS) measured trace gases from whole air samples collected by the NSF/NCAR GV HIAPER during the CONvective TRansport of Active Species in the Tropics (CONTRAST) project. In addition to tracers, the AWAS measured a full suite of halocarbon species. This dataset contains AWAS data in the NASA Ames format.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
