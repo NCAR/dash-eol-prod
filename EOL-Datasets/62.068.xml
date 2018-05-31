@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns="http://www.w3.org/2005" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
     <gco:CharacterString>edu.ucar.eol::62.068</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
-    <gmd:LanguageCode codeListValue="eng; USA" codeList="http://www.loc.gov/standards/iso639-2/">eng; USA</gmd:LanguageCode>
+    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
   </gmd:language>
   <gmd:characterSet>
-    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:hierarchyLevel>
-    <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
+    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
@@ -56,12 +56,12 @@
         </gmd:CI_Contact>
       </gmd:contactInfo>
       <gmd:role>
-        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
       </gmd:role>
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-20T21:33:39Z</gco:DateTime>
+    <gco:DateTime>2018-05-31T17:10:22Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -89,7 +89,7 @@
             <gco:CharacterString> supersedes dataset 62.068</gco:CharacterString>
           </gmd:description>
           <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeListValue="information" codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
           </gmd:function>
         </gmd:CI_OnlineResource>
       </gmd:extensionOnLineResource>
@@ -111,7 +111,7 @@
                 <gco:DateTime>2007-11-05T11:41:55Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">publication</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
@@ -128,7 +128,7 @@
                         <gco:DateTime>2007-11-05T11:41:55Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">creation</gmd:CI_DateTypeCode>
+                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
                       </gmd:dateType>
                     </gmd:CI_Date>
                   </gmd:date>
@@ -174,7 +174,7 @@
                         </gmd:CI_Contact>
                       </gmd:contactInfo>
                       <gmd:role>
-                        <gmd:CI_RoleCode codeListValue="resourceProvider" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">resourceProvider</gmd:CI_RoleCode>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
                       </gmd:role>
                     </gmd:CI_ResponsibleParty>
                   </gmd:citedResponsibleParty>
@@ -227,7 +227,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="publisher" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">publisher</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -270,7 +270,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -313,7 +313,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -323,54 +323,11 @@
         <gco:CharacterString>This data set contains the Acoustic Doppler Current Profiler (ADCP) data from the U.S. Coast Guard Cutter (USCGC) Healy HLY-02-01 cruise.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
           <gmd:individualName>
-            <gco:CharacterString>Charles N. Flagg</gco:CharacterString>
-          </gmd:individualName>
-          <gmd:organisationName>
-            <gco:CharacterString>Marine Science Research Center</gco:CharacterString>
-          </gmd:organisationName>
-          <gmd:contactInfo>
-            <gmd:CI_Contact>
-              <gmd:phone>
-                <gmd:CI_Telephone>
-                  <gmd:voice>
-                    <gco:CharacterString>(631) 632-3183</gco:CharacterString>
-                  </gmd:voice>
-                </gmd:CI_Telephone>
-              </gmd:phone>
-              <gmd:address>
-                <gmd:CI_Address>
-                  <gmd:deliveryPoint>
-                    <gco:CharacterString>Endeavour Hall, Room 203 Stony Brook University</gco:CharacterString>
-                  </gmd:deliveryPoint>
-                  <gmd:city>
-                    <gco:CharacterString>Stony Brook</gco:CharacterString>
-                  </gmd:city>
-                  <gmd:administrativeArea>
-                    <gco:CharacterString>NY</gco:CharacterString>
-                  </gmd:administrativeArea>
-                  <gmd:postalCode>
-                    <gco:CharacterString>11794-5000</gco:CharacterString>
-                  </gmd:postalCode>
-                  <gmd:electronicMailAddress>
-                    <gco:CharacterString>Charles.Flagg@stonybrook.edu</gco:CharacterString>
-                  </gmd:electronicMailAddress>
-                </gmd:CI_Address>
-              </gmd:address>
-            </gmd:CI_Contact>
-          </gmd:contactInfo>
-          <gmd:role>
-            <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
-          </gmd:role>
-        </gmd:CI_ResponsibleParty>
-      </gmd:pointOfContact>
-      <gmd:pointOfContact>
-        <gmd:CI_ResponsibleParty>
-          <gmd:individualName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
           </gmd:individualName>
           <gmd:organisationName>
@@ -413,7 +370,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -459,7 +416,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -479,7 +436,7 @@
                     <gco:Date>2014-10-16</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
@@ -492,7 +449,7 @@
                     <gco:CharacterString>DataCite Metadata Working Group</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -605,7 +562,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="distributor" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">distributor</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:distributorContact>

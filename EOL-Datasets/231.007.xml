@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns="http://www.w3.org/2005" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
     <gco:CharacterString>edu.ucar.eol::231.007</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
-    <gmd:LanguageCode codeListValue="eng; USA" codeList="http://www.loc.gov/standards/iso639-2/">eng; USA</gmd:LanguageCode>
+    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
   </gmd:language>
   <gmd:characterSet>
-    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:hierarchyLevel>
-    <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
+    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
@@ -56,12 +56,12 @@
         </gmd:CI_Contact>
       </gmd:contactInfo>
       <gmd:role>
-        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
       </gmd:role>
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2017-11-20T21:38:45Z</gco:DateTime>
+    <gco:DateTime>2018-05-31T17:08:24Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,6 +72,29 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.5065/D60000HN</gco:CharacterString>
   </gmd:dataSetURI>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/231.007/readme.FLATLAND96.5min_Flux-PAM.pdf</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>http</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>Documentation #1</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString>readme.FLATLAND96.5min_Flux-PAM.pdf</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification>
       <gmd:citation>
@@ -88,7 +111,7 @@
                 <gco:DateTime>2017-03-17T17:31:00Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">publication</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
@@ -111,7 +134,7 @@
                         <gco:DateTime>2017-03-17T17:30:57Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">creation</gmd:CI_DateTypeCode>
+                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
                       </gmd:dateType>
                     </gmd:CI_Date>
                   </gmd:date>
@@ -157,7 +180,7 @@
                         </gmd:CI_Contact>
                       </gmd:contactInfo>
                       <gmd:role>
-                        <gmd:CI_RoleCode codeListValue="resourceProvider" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">resourceProvider</gmd:CI_RoleCode>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
                       </gmd:role>
                     </gmd:CI_ResponsibleParty>
                   </gmd:citedResponsibleParty>
@@ -171,7 +194,7 @@
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:actuate="onRequest" xlink:href="https://doi.org/doi:10.5065/D60000HN" xlink:title="DOI">doi:10.5065/D60000HN</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D60000HN" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D60000HN</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -217,7 +240,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="publisher" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">publisher</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -263,7 +286,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="author" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">author</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:citedResponsibleParty>
@@ -273,54 +296,8 @@
         <gco:CharacterString>This dataset contains 5 minute surface flux data, collected by three NCAR/EOL flux-PAM stations during the Flatland Atmospheric Boundary Layer Experiment of 1996 (FLATLAND96). Each flux-PAM station measured standard surface meteorological variables, momentum flux, sensible and latent heat flux, net radiation, and soil heat flux, while Station 1 also included surface ozone flux measurements. These data are in NetCDF format and have been quality controlled. The sonic anemometer winds have been tilt corrected, but remain in instrument coordinates.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
-      <gmd:pointOfContact>
-        <gmd:CI_ResponsibleParty>
-          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
-          </gmd:organisationName>
-          <gmd:positionName>
-            <gco:CharacterString>EOL Data Support</gco:CharacterString>
-          </gmd:positionName>
-          <gmd:contactInfo>
-            <gmd:CI_Contact>
-              <gmd:address>
-                <gmd:CI_Address>
-                  <gmd:deliveryPoint>
-                    <gco:CharacterString>PO Box 3000</gco:CharacterString>
-                  </gmd:deliveryPoint>
-                  <gmd:city>
-                    <gco:CharacterString>Boulder</gco:CharacterString>
-                  </gmd:city>
-                  <gmd:administrativeArea>
-                    <gco:CharacterString>CO</gco:CharacterString>
-                  </gmd:administrativeArea>
-                  <gmd:postalCode>
-                    <gco:CharacterString>80307-3000</gco:CharacterString>
-                  </gmd:postalCode>
-                  <gmd:electronicMailAddress>
-                    <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
-                  </gmd:electronicMailAddress>
-                </gmd:CI_Address>
-              </gmd:address>
-              <gmd:onlineResource>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:name>
-                    <gco:CharacterString>homepage</gco:CharacterString>
-                  </gmd:name>
-                </gmd:CI_OnlineResource>
-              </gmd:onlineResource>
-            </gmd:CI_Contact>
-          </gmd:contactInfo>
-          <gmd:role>
-            <gmd:CI_RoleCode codeListValue="principalInvestigator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">principalInvestigator</gmd:CI_RoleCode>
-          </gmd:role>
-        </gmd:CI_ResponsibleParty>
-      </gmd:pointOfContact>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
           <gmd:individualName>
@@ -366,7 +343,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -412,7 +389,7 @@
             </gmd:CI_Contact>
           </gmd:contactInfo>
           <gmd:role>
-            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">pointOfContact</gmd:CI_RoleCode>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
@@ -432,7 +409,7 @@
                     <gco:Date>2014-10-16</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
@@ -445,7 +422,7 @@
                     <gco:CharacterString>DataCite Metadata Working Group</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -462,7 +439,7 @@
             <gco:CharacterString>NCAR PAM Mesonet</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
-            <gmd:MD_KeywordTypeCode codeListValue="platform" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode">platform</gmd:MD_KeywordTypeCode>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
           </gmd:type>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -476,16 +453,22 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; INCOMING SOLAR RADIATION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; RADIATIVE FLUX</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; HEAT FLUX</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; OUTGOING LONGWAVE RADIATION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; HUMIDITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
@@ -494,13 +477,7 @@
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; OZONE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; HEAT FLUX</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; INCOMING SOLAR RADIATION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; RADIATIVE FLUX</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -510,15 +487,15 @@
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2016-08-03</gco:Date>
+                    <gco:Date>2018-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode">revision</gmd:CI_DateTypeCode>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
                   </gmd:dateType>
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>8.4</gco:CharacterString>
+                <gco:CharacterString>8.5</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
@@ -526,7 +503,7 @@
                     <gco:CharacterString>National Aeronautics and Space Administration</gco:CharacterString>
                   </gmd:organisationName>
                   <gmd:role>
-                    <gmd:CI_RoleCode codeListValue="originator" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">originator</gmd:CI_RoleCode>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
                   </gmd:role>
                 </gmd:CI_ResponsibleParty>
               </gmd:citedResponsibleParty>
@@ -581,9 +558,6 @@
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>http://data.eol.ucar.edu/datafile/nph-get/231.007/readme.FLATLAND96.5min_Flux-PAM.pdf</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:distributionInfo>
@@ -632,7 +606,7 @@
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
-                <gmd:CI_RoleCode codeListValue="distributor" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode">distributor</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
               </gmd:role>
             </gmd:CI_ResponsibleParty>
           </gmd:distributorContact>
@@ -674,7 +648,7 @@
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
               </gmd:description>
               <gmd:function>
-                <gmd:CI_OnLineFunctionCode codeListValue="order" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode">order</gmd:CI_OnLineFunctionCode>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="order">order</gmd:CI_OnLineFunctionCode>
               </gmd:function>
             </gmd:CI_OnlineResource>
           </gmd:onLine>

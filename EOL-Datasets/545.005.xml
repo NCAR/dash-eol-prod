@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-04-16T17:38:22Z</gco:DateTime>
+    <gco:DateTime>2018-05-31T17:10:00Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -269,46 +269,6 @@
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
-      <gmd:pointOfContact>
-        <gmd:CI_ResponsibleParty>
-          <gmd:organisationName>
-            <gco:CharacterString>Langley Research Center (LaRC), NASA</gco:CharacterString>
-          </gmd:organisationName>
-          <gmd:contactInfo>
-            <gmd:CI_Contact>
-              <gmd:address>
-                <gmd:CI_Address>
-                  <gmd:city>
-                    <gco:CharacterString>Hampton</gco:CharacterString>
-                  </gmd:city>
-                  <gmd:administrativeArea>
-                    <gco:CharacterString>VA</gco:CharacterString>
-                  </gmd:administrativeArea>
-                  <gmd:postalCode>
-                    <gco:CharacterString>23681-2199</gco:CharacterString>
-                  </gmd:postalCode>
-                  <gmd:country>
-                    <gco:CharacterString>USA</gco:CharacterString>
-                  </gmd:country>
-                </gmd:CI_Address>
-              </gmd:address>
-              <gmd:onlineResource>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>http://www.nasa.gov/centers/langley/home/index.html</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:name>
-                    <gco:CharacterString>homepage</gco:CharacterString>
-                  </gmd:name>
-                </gmd:CI_OnlineResource>
-              </gmd:onlineResource>
-            </gmd:CI_Contact>
-          </gmd:contactInfo>
-          <gmd:role>
-            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
-          </gmd:role>
-        </gmd:CI_ResponsibleParty>
-      </gmd:pointOfContact>
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
           <gmd:individualName>
@@ -604,7 +564,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>52224</gco:Real>
+            <gco:Real>52514</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
