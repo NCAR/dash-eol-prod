@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-05-31T17:07:42Z</gco:DateTime>
+    <gco:DateTime>2018-07-13T17:41:26Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,6 +72,60 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://data.eol.ucar.edu/dataset/106.ARCSS129</gco:CharacterString>
   </gmd:dataSetURI>
+  <gmd:referenceSystemInfo>
+    <gmd:MD_ReferenceSystem>
+      <gmd:referenceSystemIdentifier>
+        <gmd:RS_Identifier>
+          <gmd:authority>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date>2008-11-12</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName gco:nilReason="missing"/>
+                  <gmd:organisationName>
+                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName gco:nilReason="missing"/>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                          <gmd:linkage>
+                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
+                          </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                      </gmd:onlineResource>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+            </gmd:CI_Citation>
+          </gmd:authority>
+          <gmd:code>
+            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
+          </gmd:code>
+          <gmd:version>
+            <gco:CharacterString>6.18.3</gco:CharacterString>
+          </gmd:version>
+        </gmd:RS_Identifier>
+      </gmd:referenceSystemIdentifier>
+    </gmd:MD_ReferenceSystem>
+  </gmd:referenceSystemInfo>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
@@ -401,6 +455,9 @@
       <gmd:abstract>
         <gco:CharacterString>The Freshwater Switchyard of the Arctic Ocean (FSAO) project is a program to study freshwater circulation (sea ice and upper ocean) in the &amp;quot;freshwater switchyard&amp;quot; between Alert (Ellesmere Island) and the North Pole, through a series of annual springtime hydrographic surveys. An aircraft based at Alert on northern Ellesmere Island carries out the oceanographic surveys northward across the shelf break in late spring. These surveys are intended to measure the eastward-flowing boundary current and determine water property changes that occur in the transition from the deep Arctic Ocean basin to the shallow continental shelf. Measurements were made to 500m in late April and May of 2003-2009 using a Seabird Sea-Bird Electronics (SBE) 19plus SeaCAT internally recording CTD instrument with an Sea-Bird Electronics (SBE) 43 dissolved oxygen sensor. Data include depth, pressure, temperature in situ, potential temperature, conductivity, salinity, density and, if available, dissolved oxygen. In recent years, we have begun offering dissolved oxygen profiles in a separate archive to allow a different processing pathway. The basic CTD archives are preferred for all purposes that do not require oxygen. Through 2007, the aircraft was a Bell 206 helicopter. In April-May 2007, the worst Arctic flying weather in many years was encountered, negatively impacting many investigations. At Alert, a very wide shore lead evaporating ice fog never relented long enough to allow the helicopter to safely reach the study areas, so no data is included for 2007. In 2008, we used a Twin Otter skiplane to obtain many stations, at a cost of not being able to reach precise station positions from previous years. The 2009 data used primary Sea-Bird Electronics (SBE)-19 plus CTD (s/n 4344) was an Sea-Bird Electronics (SBE)-43 Dissolved Oxygen Sensor (s/n 408). Beginning with Cast 8, backup Sea-Bird Electronics (SBE)-19 (s/n 2373) with Sea-Bird Electronics (SBE)-43 (s/n 1406) was substituted, and that station recorded an excellent profile of oxygen as well as temperature and conductivity. The backup CTD itself failed completely at the first station the following day, for reasons under investigation by the manufacturer. At that point it was felt the safest course was to complete the survey removing the Sea-Bird Electronics (SBE)-43 from the primary CTD, to optimize our chances of collecting good CTD data. The result is 18 stations of quality CTD profiles, but only one (Cast 8) with oxygen. In 2010, Airborne Expendable CTD Probes were dropped into open leads from the Twin to record an ocean section across the north end of Nares Strait.</gco:CharacterString>
       </gmd:abstract>
+      <gmd:credit>
+        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
+      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -496,11 +553,31 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
+      <gmd:resourceMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency>
+            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+          </gmd:maintenanceAndUpdateFrequency>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:resourceMaintenance>
+      <gmd:resourceFormat>
+        <gmd:MD_Format>
+          <gmd:name>
+            <gco:CharacterString>ZIP: PKZIP (application/zip)</gco:CharacterString>
+          </gmd:name>
+          <gmd:version>
+            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
             <gco:CharacterString>dataset</gco:CharacterString>
           </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
               <gmd:title>
@@ -549,10 +626,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Oceanography</gco:CharacterString>
+            <gco:CharacterString>Arctic</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Arctic</gco:CharacterString>
+            <gco:CharacterString>Oceanography</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
@@ -609,6 +686,16 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name>
+            <gco:CharacterString>ZIP: PKZIP (application/zip)</gco:CharacterString>
+          </gmd:name>
+          <gmd:version>
+            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -684,4 +771,11 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
+  <gmd:metadataMaintenance>
+    <gmd:MD_MaintenanceInformation>
+      <gmd:maintenanceAndUpdateFrequency>
+        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+      </gmd:maintenanceAndUpdateFrequency>
+    </gmd:MD_MaintenanceInformation>
+  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>
