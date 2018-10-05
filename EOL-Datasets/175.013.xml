@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T17:43:52Z</gco:DateTime>
+    <gco:DateTime>2018-10-05T19:51:23Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,60 +72,6 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.5065/D6WW7FV6</gco:CharacterString>
   </gmd:dataSetURI>
-  <gmd:referenceSystemInfo>
-    <gmd:MD_ReferenceSystem>
-      <gmd:referenceSystemIdentifier>
-        <gmd:RS_Identifier>
-          <gmd:authority>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2008-11-12</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName gco:nilReason="missing"/>
-                  <gmd:organisationName>
-                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName gco:nilReason="missing"/>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                          <gmd:linkage>
-                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
-                          </gmd:linkage>
-                        </gmd:CI_OnlineResource>
-                      </gmd:onlineResource>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:authority>
-          <gmd:code>
-            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
-          </gmd:code>
-          <gmd:version>
-            <gco:CharacterString>6.18.3</gco:CharacterString>
-          </gmd:version>
-        </gmd:RS_Identifier>
-      </gmd:referenceSystemIdentifier>
-    </gmd:MD_ReferenceSystem>
-  </gmd:referenceSystemInfo>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification>
       <gmd:citation>
@@ -139,7 +85,7 @@
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2014-06-25T16:46:11Z</gco:DateTime>
+                <gco:DateTime>2018-08-20T15:40:54Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -147,10 +93,10 @@
             </gmd:CI_Date>
           </gmd:date>
           <gmd:edition>
-            <gco:CharacterString>1.0</gco:CharacterString>
+            <gco:CharacterString>2.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2014-06-25T16:46:11Z</gco:DateTime>
+            <gco:DateTime>2018-08-20T15:40:54Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
@@ -326,9 +272,6 @@
       <gmd:abstract>
         <gco:CharacterString>This data set contains S-band Polarimetric (S-Pol) data from the Refractivity Experiment for H2O Research and Collaborative operational Technology Transfer &amp;#39;06 (REFRACTT06) project . This data set contains both S-band and Ka-band data. These data are in cfRadial format and are available as hourly tar files.</gco:CharacterString>
       </gmd:abstract>
-      <gmd:credit>
-        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
-      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -427,23 +370,6 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
-      <gmd:resourceMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency>
-            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-          </gmd:maintenanceAndUpdateFrequency>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:resourceMaintenance>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>TAR: Unix Tape ARchive (TAR) Format File (application/x-tar)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2016-05-04T19:44:00Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
@@ -497,6 +423,59 @@
           </gmd:type>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Radar</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD DYNAMICS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; DOPPLER VELOCITY</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Global Change Master Directory (GCMD)</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date>2018-02-27</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:edition>
+                <gco:CharacterString>8.5</gco:CharacterString>
+              </gmd:edition>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString>National Aeronautics and Space Administration</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
       <gmd:resourceConstraints>
         <gmd:MD_LegalConstraints>
           <gmd:useLimitation>
@@ -536,8 +515,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="boundingTemporalExtent">
-                  <gml:beginPosition>2006-06-05T00:00:00Z</gml:beginPosition>
-                  <gml:endPosition>2006-08-11T23:59:59Z</gml:endPosition>
+                  <gml:beginPosition>2006-07-14T20:00:00Z</gml:beginPosition>
+                  <gml:endPosition>2006-08-11T00:59:59Z</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -548,16 +527,6 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>TAR: Unix Tape ARchive (TAR) Format File (application/x-tar)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2016-05-04T19:44:00Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -611,7 +580,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>50322</gco:Real>
+            <gco:Real>421418</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
@@ -652,11 +621,4 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
-  <gmd:metadataMaintenance>
-    <gmd:MD_MaintenanceInformation>
-      <gmd:maintenanceAndUpdateFrequency>
-        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-      </gmd:maintenanceAndUpdateFrequency>
-    </gmd:MD_MaintenanceInformation>
-  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>

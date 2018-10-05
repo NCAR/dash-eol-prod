@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T17:44:41Z</gco:DateTime>
+    <gco:DateTime>2018-10-05T19:51:24Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,66 +72,12 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.5065/D6HM56NP</gco:CharacterString>
   </gmd:dataSetURI>
-  <gmd:referenceSystemInfo>
-    <gmd:MD_ReferenceSystem>
-      <gmd:referenceSystemIdentifier>
-        <gmd:RS_Identifier>
-          <gmd:authority>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2008-11-12</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName gco:nilReason="missing"/>
-                  <gmd:organisationName>
-                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName gco:nilReason="missing"/>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                          <gmd:linkage>
-                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
-                          </gmd:linkage>
-                        </gmd:CI_OnlineResource>
-                      </gmd:onlineResource>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:authority>
-          <gmd:code>
-            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
-          </gmd:code>
-          <gmd:version>
-            <gco:CharacterString>6.18.3</gco:CharacterString>
-          </gmd:version>
-        </gmd:RS_Identifier>
-      </gmd:referenceSystemIdentifier>
-    </gmd:MD_ReferenceSystem>
-  </gmd:referenceSystemInfo>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/209.101/v3_20160930.readme.ITOP-2010.DOTSTAR.dropsondes.final.docx</gmd:URL>
+            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/209.101/v3_20160930.readme.ITOP-2010.DOTSTAR.dropsondes.final.pdf</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>http</gco:CharacterString>
@@ -140,7 +86,7 @@
             <gco:CharacterString>Documentation #1</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>v3_20160930.readme.ITOP-2010.DOTSTAR.dropsondes.final.docx</gco:CharacterString>
+            <gco:CharacterString>v3_20160930.readme.ITOP-2010.DOTSTAR.dropsondes.final.pdf</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -395,9 +341,6 @@
       <gmd:abstract>
         <gco:CharacterString>During ITOP the National Taiwan University DOTSTAR Astra jet released a total of 94 dropsondes in six flights over the Pacific Ocean near Taiwan during the months of August, September, and October 2010. This data set includes the high resolution (0.25 second winds and 0.5 second pressure, temperature and humidity) DOTSTAR dropsonde data set in the EOL columnar ASCII sounding format. This data set has undergone the NCAR/EOL quality control processing and includes the calculated vertical winds. See the readme for details on the QC process and data quality issues.</gco:CharacterString>
       </gmd:abstract>
-      <gmd:credit>
-        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
-      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -481,23 +424,6 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
-      <gmd:resourceMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency>
-            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-          </gmd:maintenanceAndUpdateFrequency>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:resourceMaintenance>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ASCII: ASCII Text (text/plain)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
@@ -544,10 +470,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Aircraft, DOTSTAR</gco:CharacterString>
+            <gco:CharacterString>Dropwindsondes</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>Dropwindsondes</gco:CharacterString>
+            <gco:CharacterString>Aircraft, DOTSTAR</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -567,34 +493,34 @@
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ALTITUDE &gt; GEOPOTENTIAL HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; ATMOSPHERIC PRESSURE MEASUREMENTS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -681,16 +607,6 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ASCII: ASCII Text (text/plain)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -744,7 +660,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>52</gco:Real>
+            <gco:Real>51</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
@@ -785,11 +701,4 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
-  <gmd:metadataMaintenance>
-    <gmd:MD_MaintenanceInformation>
-      <gmd:maintenanceAndUpdateFrequency>
-        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-      </gmd:maintenanceAndUpdateFrequency>
-    </gmd:MD_MaintenanceInformation>
-  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>

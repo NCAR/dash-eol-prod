@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T17:41:42Z</gco:DateTime>
+    <gco:DateTime>2018-10-05T19:52:35Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,60 +72,6 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.3334/CDIAC/HIPPO_013</gco:CharacterString>
   </gmd:dataSetURI>
-  <gmd:referenceSystemInfo>
-    <gmd:MD_ReferenceSystem>
-      <gmd:referenceSystemIdentifier>
-        <gmd:RS_Identifier>
-          <gmd:authority>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2008-11-12</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName gco:nilReason="missing"/>
-                  <gmd:organisationName>
-                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName gco:nilReason="missing"/>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                          <gmd:linkage>
-                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
-                          </gmd:linkage>
-                        </gmd:CI_OnlineResource>
-                      </gmd:onlineResource>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:authority>
-          <gmd:code>
-            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
-          </gmd:code>
-          <gmd:version>
-            <gco:CharacterString>6.18.3</gco:CharacterString>
-          </gmd:version>
-        </gmd:RS_Identifier>
-      </gmd:referenceSystemIdentifier>
-    </gmd:MD_ReferenceSystem>
-  </gmd:referenceSystemInfo>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
@@ -1763,9 +1709,6 @@
       <gmd:abstract>
         <gco:CharacterString>This data set provides a NOAA flask sample oriented data product of meteorological, atmospheric chemistry, and aerosol measurements from all Missions, 1 through 5, of the HIAPER Pole-to-Pole Observations (HIPPO) study of carbon cycle and greenhouse gases. The Missions took place from January of 2009 to September 2011. This data set provides atmospheric concentrations of CO2, CH4, CO, H2, N2O, halocarbon, hydrocarbon, and sulfur-containing trace gases from flask samples collected with the NOAA/ESRL Programmable Flask Package. Flask samples were analyzed on the NOAA/GMD Measurement of Atmospheric Gases that Influence Climate Change (MAGICC) instrument system and the NOAA/GMD GC/mass spectrometric instrument. Results from 1,374 flask samples are reported. For this data set, the flask sample results were joined with selected variables from concurrent 1-second data. The merging was accomplished by first subsetting and then averaging the 1-second observations corresponding to the fill time range for individual flask samples (e.g., UTSTART_M2 to UTSTOP_M2). This data file is better for instrument comparisons than files constructed by inserting flask values at a single mean fill time observation data file. A supplementary file is provided with this product that summarizes the completeness of the reported data values (PFP_meta_summary.tbl). The completeness entries are the number of non-missing observations for each species in the main data file for each mission and in total. The number of observation given for species observations per mission. The data are provided in one space-delimited format ASCII file.   Note that EOL Version 1.0 corresponds to R. 20121129 previously served by ORNL.</gco:CharacterString>
       </gmd:abstract>
-      <gmd:credit>
-        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
-      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -1864,23 +1807,6 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
-      <gmd:resourceMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency>
-            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-          </gmd:maintenanceAndUpdateFrequency>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:resourceMaintenance>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>Tabular/Columnar ASCII</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2014-12-22T22:32:17Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
@@ -1937,13 +1863,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; ORGANIC PARTICLES</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; HALONS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; NITROGEN COMPOUNDS &gt; NITROUS OXIDE</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON DIOXIDE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; HYDROCHLOROFLUOROCARBONS</gco:CharacterString>
@@ -1952,13 +1875,49 @@
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HYDROGEN COMPOUNDS &gt; MOLECULAR HYDROGEN</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; METHANE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; ORGANIC PARTICLES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; HALONS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; HYDROFLUOROCARBONS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; PARTICULATES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; OZONE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; METHYL BROMIDE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON MONOXIDE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; NITROGEN COMPOUNDS &gt; NITROUS OXIDE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD LIQUID WATER/ICE</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; CHLOROFLUOROCARBONS</gco:CharacterString>
@@ -1967,40 +1926,7 @@
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON MONOXIDE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; OZONE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; HYDROFLUOROCARBONS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; METHYL BROMIDE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON DIOXIDE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; METHANE</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; PARTICULATES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD LIQUID WATER/ICE</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -2087,16 +2013,6 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>Tabular/Columnar ASCII</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2014-12-22T22:32:17Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -2191,11 +2107,4 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
-  <gmd:metadataMaintenance>
-    <gmd:MD_MaintenanceInformation>
-      <gmd:maintenanceAndUpdateFrequency>
-        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-      </gmd:maintenanceAndUpdateFrequency>
-    </gmd:MD_MaintenanceInformation>
-  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>

@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T17:40:03Z</gco:DateTime>
+    <gco:DateTime>2018-10-05T19:50:49Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,60 +72,6 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.5065/D69Z92XQ</gco:CharacterString>
   </gmd:dataSetURI>
-  <gmd:referenceSystemInfo>
-    <gmd:MD_ReferenceSystem>
-      <gmd:referenceSystemIdentifier>
-        <gmd:RS_Identifier>
-          <gmd:authority>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2008-11-12</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName gco:nilReason="missing"/>
-                  <gmd:organisationName>
-                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName gco:nilReason="missing"/>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                          <gmd:linkage>
-                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
-                          </gmd:linkage>
-                        </gmd:CI_OnlineResource>
-                      </gmd:onlineResource>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:authority>
-          <gmd:code>
-            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
-          </gmd:code>
-          <gmd:version>
-            <gco:CharacterString>6.18.3</gco:CharacterString>
-          </gmd:version>
-        </gmd:RS_Identifier>
-      </gmd:referenceSystemIdentifier>
-    </gmd:MD_ReferenceSystem>
-  </gmd:referenceSystemInfo>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
@@ -579,9 +525,6 @@
       <gmd:abstract>
         <gco:CharacterString>In a collaborative effort between University of Alaska Fairbanks (UAF) and University of Washington (UW), this dataset addresses the impact of physical variability on the processes and structure of the Bering shelf ecosystem, with special emphasis on how freshwater redistributed by the shelf circulation or introduced from sea ice modifies stratification and nutrient distributions. In particular, the effort seeks to understand how changes in sea ice affect advection and mixing; how variable fluxes of low-salinity, nutrient-deficient (but iron-rich) coastal waters affect production; how cross-shelf fluxes are established and altered; how these fluxes might respond to climate change; how the seasonal stratification cycle is controlled; and how the buoyant coastal flow evolves. The dataset is using moored instruments and shipboard hydrography (including extensive 18O sampling) to address this problem set. The first set of UAF-UW BEST moorings, nine in all, was deployed in July 2008 from the US Coast Guard Cutter Healy. The locations of the moorings are shown in Figure 1 as red squares, circles, and stars; the red triangles denote NOAA moorings. Depending on depth, the moorings carry various instrumentation. For example, at the outermost locations on each line (square, circle, and star), over the 55 m isobath, each mooring has an ice-avoiding modem-linked temperature / conductivity recorder at 10 m, another temperature / conductivity recorder with fluorometer at 22 m, below that a chain of 15 precision temperature recorders, and then an acoustic Doppler current profiler at 46 m and another temperature/conductivity recorder 2 m above the bottom. These moorings were recovered and replaced with similar ones in July 2009 from aboard the R/V Point Sur. The data reported here are from the first deployment, 2008-2009. Data were collected during the Bering Sea Ecosystem Study-Bering Sea Integrated Ecosystem Research Program (BEST-BSIERP). BEST-BSIERP together are the Bering Sea project.  Note: this is version 3 of the data, ADCP bottom track direction corrected and updated on November 20, 2014.</gco:CharacterString>
       </gmd:abstract>
-      <gmd:credit>
-        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
-      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -680,23 +623,6 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
-      <gmd:resourceMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency>
-            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-          </gmd:maintenanceAndUpdateFrequency>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:resourceMaintenance>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ZIP: PKZIP (application/zip)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
@@ -763,16 +689,16 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; OCEAN MIXED LAYER</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; CONDUCTIVITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CIRCULATION &gt; OCEAN CURRENTS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; OCEAN MIXED LAYER</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -857,16 +783,6 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ZIP: PKZIP (application/zip)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -961,11 +877,4 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
-  <gmd:metadataMaintenance>
-    <gmd:MD_MaintenanceInformation>
-      <gmd:maintenanceAndUpdateFrequency>
-        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-      </gmd:maintenanceAndUpdateFrequency>
-    </gmd:MD_MaintenanceInformation>
-  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>
