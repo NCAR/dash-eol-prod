@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-10-05T19:51:57Z</gco:DateTime>
+    <gco:DateTime>2018-11-30T23:31:06Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -70,14 +70,37 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/doi:10.5065/D6GM85N3</gco:CharacterString>
+    <gco:CharacterString>https://doi.org/doi:10.5065/D6MC8XB0</gco:CharacterString>
   </gmd:dataSetURI>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://data.eol.ucar.edu/dataset/93.038</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>https</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>93.038</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString> is superseded by dataset 159.004</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification>
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>MIRAGE: Scanning Aerosol Backscatter Lidar - png images [Morley, B. (NCAR/EOL)]</gco:CharacterString>
+            <gco:CharacterString>Scanning Aerosol Backscatter Lidar - png images</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>159.004</gco:CharacterString>
@@ -103,7 +126,7 @@
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>MIRAGE: Scanning Aerosol Backscatter Lidar - png images [Morley, B. (NCAR/EOL)]</gco:CharacterString>
+                    <gco:CharacterString>Scanning Aerosol Backscatter Lidar - png images</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -171,7 +194,7 @@
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D6GM85N3" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D6GM85N3</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D6MC8XB0" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D6MC8XB0</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -270,7 +293,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset contains SABL (Scanning Aerosol Backscatter Lidar) images obtained aboard the NCAR/NSF C-130 aircraft during the Mexico: Megacities Impact on Regional and Global Environment (MIRAGE) This experiment is a sub-program of the Megacity Initiative: Local and Global Research Observations (MILAGRO4. The images are png images compressed into tar files.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains SABL (Scanning Aerosol Backscatter Lidar) images obtained aboard the NCAR/NSF C-130 aircraft during the Mexico: Megacities Impact on Regional and Global Environment (MIRAGE) This experiment is a sub-program of the Megacity Initiative: Local and Global Research Observations (MILAGRO). The images are png images compressed into tar files.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -416,10 +439,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Aircraft, NSF/NCAR C-130</gco:CharacterString>
+            <gco:CharacterString>SABL: Scanning Aerosol Backscatter Lidar</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>SABL: Scanning Aerosol Backscatter Lidar</gco:CharacterString>
+            <gco:CharacterString>Aircraft, NSF/NCAR C-130</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -585,7 +608,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>MIRAGE: Scanning Aerosol Backscatter Lidar - png images [Morley, B. (NCAR/EOL)] homepage</gco:CharacterString>
+                <gco:CharacterString>Scanning Aerosol Backscatter Lidar - png images homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -601,7 +624,7 @@
                 <gco:CharacterString>http</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>MIRAGE: Scanning Aerosol Backscatter Lidar - png images [Morley, B. (NCAR/EOL)] Data Order Form</gco:CharacterString>
+                <gco:CharacterString>Scanning Aerosol Backscatter Lidar - png images Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
