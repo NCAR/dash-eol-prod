@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T19:36:16Z</gco:DateTime>
+    <gco:DateTime>2019-01-09T20:02:18Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -131,7 +131,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>KOFSE: KingAir Photography Cloud Video (fse, left, dwn)</gco:CharacterString>
+            <gco:CharacterString>KOFSE: Electra Photography Cloud Video (fse, left, dwn)</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>354.003</gco:CharacterString>
@@ -157,7 +157,7 @@
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>KOFSE: KingAir Photography Cloud Video (fse, left, dwn)</gco:CharacterString>
+                    <gco:CharacterString>KOFSE: Electra Photography Cloud Video (fse, left, dwn)</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -324,7 +324,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset contains hourly mpg movies from VHS videos taken from the KingAir during KOFSE (Kuwait Oil-FIre Smoke Experiment) project. Each hour of mpg movie file is about 1.3 Gb in size.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains hourly mpg movies from VHS videos taken from the Electra during KOFSE (Kuwait Oil-FIre Smoke Experiment) project. Each hour of mpg movie file is about 1.3 Gb in size.</gco:CharacterString>
       </gmd:abstract>
       <gmd:credit>
         <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
@@ -622,7 +622,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>KOFSE: KingAir Photography Cloud Video (fse, left, dwn) homepage</gco:CharacterString>
+                <gco:CharacterString>KOFSE: Electra Photography Cloud Video (fse, left, dwn) homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -638,7 +638,7 @@
                 <gco:CharacterString>http</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>KOFSE: KingAir Photography Cloud Video (fse, left, dwn) Data Order Form</gco:CharacterString>
+                <gco:CharacterString>KOFSE: Electra Photography Cloud Video (fse, left, dwn) Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>

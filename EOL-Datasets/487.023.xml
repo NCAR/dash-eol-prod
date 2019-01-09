@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T19:38:16Z</gco:DateTime>
+    <gco:DateTime>2019-01-09T20:05:04Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -410,7 +410,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset contains ozone (O3) by chemiluminescent reaction with excess nitric oxide (NO) collected aboard the NSF/NCAR GV HIAPER (Gulfstream-V High-performance Instrumented Airborne Platform for Environmental Research) (N677F) during the CSET (Cloud System Evolution in the Trades) project. This dataset is in ICARTT format. Please see the header portion of the data files for details on instruments, parameters, quality assurance, quality control, contact information, and data set comments.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains ozone (O3) by chemiluminescent reaction with excess nitric oxide (NO) collected aboard the NSF/NCAR GV HIAPER (Gulfstream-V High-performance Instrumented Airborne Platform for Environmental Research) (N677F) during the CSET (Cloud System Evolution in the Trades) project. This dataset is in ICARTT format. Please see the header portion of the data files for details on instruments, parameters, quality assurance, quality control, contact information, and data set comments. Note: Data from 07/14/2015 added 09/24/2018.</gco:CharacterString>
       </gmd:abstract>
       <gmd:credit>
         <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>

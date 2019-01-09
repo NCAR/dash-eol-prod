@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-11-30T23:43:49Z</gco:DateTime>
+    <gco:DateTime>2019-01-09T20:07:26Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -162,7 +162,7 @@
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2018-11-29T20:45:34Z</gco:DateTime>
+                <gco:DateTime>2018-12-03T17:27:48Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -173,7 +173,7 @@
             <gco:CharacterString>1.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2018-11-29T20:45:34Z</gco:DateTime>
+            <gco:DateTime>2018-12-03T17:27:48Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
@@ -393,7 +393,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>NCAR/EOL operated a radar wind profiler on board the CSIRO RV Investigator as part of a deployment of an Integrated Sounding System (ISS) for the SOCRATES / CAPRICORN field campaign.  The primary voyage (CSIRO designation: IN2018_V01) for this deployment set sail from Hobart, TAS, Australia on 11 Jan 2018 into the Southern Ocean and concluded back in Hobart on 22 Feb 2018.  A shakedown, test and training cruise (IN2017_E04) took place off the east coast of Tasmania Dec 7 - 11, 2017.  The LapXM moment data were processed by EOL software (IDL lapxm_ship_prelim.pro) to generate wind estimates corrected for ship motion, course and heading, partly based on the methods of Johnston (2014). These data were then quality-controlled through the NCAR Improved Moments Algorithm (NIMA). Some gaps in the NIMA-processed data have been filled in with the original LapXM-processed data. This dataset currently includes a Preliminary Data Report that does not reference the NIMA quality-control. An updated report will be added to the dataset once finished.</gco:CharacterString>
+        <gco:CharacterString>This dataset includes quality-controlled 915 MHz profiler winds and vertical beam moments data.  NCAR/EOL operated a radar wind profiler on board the CSIRO RV Investigator as part of a deployment of an Integrated Sounding System (ISS) for the SOCRATES / CAPRICORN field campaign.  The primary voyage (CSIRO designation: IN2018_V01) for this deployment set sail from Hobart, TAS, Australia on 11 Jan 2018 into the Southern Ocean and concluded back in Hobart on 22 Feb 2018.  A shakedown, test and training cruise (IN2017_E04) took place off the east coast of Tasmania Dec 7 - 11, 2017.  The LapXM moment data were processed by EOL software (IDL lapxm_ship_prelim.pro) to generate wind estimates corrected for ship motion, course and heading, partly based on the methods of Johnston (2014). These data were then quality-controlled through the NCAR Improved Moments Algorithm (NIMA). Some gaps in the NIMA-processed data have been filled in with the original LapXM-processed data.  This dataset currently includes a Preliminary Data Report that does not reference the NIMA quality-control. An updated report will be added to the dataset once finished.</gco:CharacterString>
       </gmd:abstract>
       <gmd:credit>
         <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
@@ -579,16 +579,16 @@
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -736,7 +736,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>3</gco:Real>
+            <gco:Real>111</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>

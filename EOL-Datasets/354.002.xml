@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-07-13T19:36:16Z</gco:DateTime>
+    <gco:DateTime>2019-01-09T20:02:18Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -324,7 +324,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This data set includes flight-level airborne LIDAR measurements obtained from the NCAR Research Aviation Facility (RAF) King Air aircraft (Tail Number: N312D) during the Kuwait Oil-Fire Smoke Experiment (KOFSE).</gco:CharacterString>
+        <gco:CharacterString>This data set includes flight-level airborne LIDAR measurements obtained from the NCAR Research Aviation Facility (RAF) Electra aircraft (Tail Number: N308D) during the Kuwait Oil-Fire Smoke Experiment (KOFSE).</gco:CharacterString>
       </gmd:abstract>
       <gmd:credit>
         <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>

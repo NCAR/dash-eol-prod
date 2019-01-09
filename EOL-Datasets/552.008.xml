@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2018-11-30T23:43:49Z</gco:DateTime>
+    <gco:DateTime>2019-01-09T20:07:26Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -154,7 +154,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>NCAR/EOL Quality Controlled radiosonde data</gco:CharacterString>
+            <gco:CharacterString>NCAR/EOL Quality Controlled Radiosonde Data</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>552.008</gco:CharacterString>
@@ -180,7 +180,7 @@
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>NCAR/EOL Quality Controlled radiosonde data</gco:CharacterString>
+                    <gco:CharacterString>NCAR/EOL Quality Controlled Radiosonde Data</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -516,7 +516,7 @@
             <gco:CharacterString>none</gco:CharacterString>
           </gmd:useLimitation>
           <gmd:otherConstraints>
-            <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
+            <gco:CharacterString>none</gco:CharacterString>
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
@@ -635,7 +635,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR/EOL Quality Controlled radiosonde data homepage</gco:CharacterString>
+                <gco:CharacterString>NCAR/EOL Quality Controlled Radiosonde Data homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -645,13 +645,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=552.008</gmd:URL>
+                <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=552.008</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
-                <gco:CharacterString>https</gco:CharacterString>
+                <gco:CharacterString>http</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR/EOL Quality Controlled radiosonde data Data Order Form</gco:CharacterString>
+                <gco:CharacterString>NCAR/EOL Quality Controlled Radiosonde Data Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
