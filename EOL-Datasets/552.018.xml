@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2019-01-09T20:07:16Z</gco:DateTime>
+    <gco:DateTime>2019-02-06T19:42:25Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -177,7 +177,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>NCAR/EOL R/V Investigator ISS Ceilometer Data</gco:CharacterString>
+            <gco:CharacterString>NCAR/EOL R/V Investigator ISS Raw Ceilometer Data and Plots (ASCII and binary)</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>552.018</gco:CharacterString>
@@ -203,7 +203,7 @@
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>NCAR/EOL R/V Investigator ISS Ceilometer Data</gco:CharacterString>
+                    <gco:CharacterString>NCAR/EOL R/V Investigator ISS Raw Ceilometer Data and Plots (ASCII and binary)</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -416,7 +416,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This ceilometer data archive includes four tar files that contain: ascii text files, raw binary data files, and plots of density and gradient. These data were collected from the R/V Investigator during the SOCRATES field campaign between 2017-09-21 and 2018-02-21. These data have NOT been quality-controlled. To obtain quality-controlled data in netcdf format please see referenced dataset, NCAR/EOL R/V Investigator Quality-Controlled ISS Ceilometer.  
+        <gco:CharacterString>This ceilometer data archive includes four tar files that contain: ascii text files, raw binary data files, and plots of density and gradient. These data were collected from the R/V Investigator during the SOCRATES field campaign between 2017-09-21 and 2018-02-21. These data have been reviewed for completeness and quality, but have not been corrected in any way. To obtain more fully quality-controlled data (available only in netcdf format) please see the referenced dataset, NCAR/EOL R/V Investigator Quality-Controlled ISS Ceilometer Data (NetCDF).  
 
   </gco:CharacterString>
       </gmd:abstract>
@@ -586,25 +586,25 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD CEILING</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ALTITUDE &gt; PLANETARY BOUNDARY LAYER HEIGHT</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; VISIBILITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; PLANETARY BOUNDARY LAYER HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD CEILING</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL BACKSCATTER</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; VISIBILITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE HEIGHT</gco:CharacterString>
@@ -647,7 +647,7 @@
             <gco:CharacterString>none</gco:CharacterString>
           </gmd:useLimitation>
           <gmd:otherConstraints>
-            <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
+            <gco:CharacterString>none</gco:CharacterString>
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
@@ -766,7 +766,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR/EOL R/V Investigator ISS Ceilometer Data homepage</gco:CharacterString>
+                <gco:CharacterString>NCAR/EOL R/V Investigator ISS Raw Ceilometer Data and Plots (ASCII and binary) homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -776,13 +776,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=552.018</gmd:URL>
+                <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=552.018</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
-                <gco:CharacterString>https</gco:CharacterString>
+                <gco:CharacterString>http</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR/EOL R/V Investigator ISS Ceilometer Data Data Order Form</gco:CharacterString>
+                <gco:CharacterString>NCAR/EOL R/V Investigator ISS Raw Ceilometer Data and Plots (ASCII and binary) Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>

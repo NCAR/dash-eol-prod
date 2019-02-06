@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2019-01-09T20:04:46Z</gco:DateTime>
+    <gco:DateTime>2019-02-06T19:42:26Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -131,29 +131,6 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/249.005/HIPPO-5_reprocessing_ATX_stats.xlsx</gmd:URL>
-          </gmd:linkage>
-          <gmd:protocol>
-            <gco:CharacterString>http</gco:CharacterString>
-          </gmd:protocol>
-          <gmd:name>
-            <gco:CharacterString>Documentation #1</gco:CharacterString>
-          </gmd:name>
-          <gmd:description>
-            <gco:CharacterString>HIPPO-5_reprocessing_ATX_stats.xlsx</gco:CharacterString>
-          </gmd:description>
-          <gmd:function>
-            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-          </gmd:function>
-        </gmd:CI_OnlineResource>
-      </gmd:extensionOnLineResource>
-    </gmd:MD_MetadataExtensionInformation>
-  </gmd:metadataExtensionInfo>
-  <gmd:metadataExtensionInfo>
-    <gmd:MD_MetadataExtensionInformation>
-      <gmd:extensionOnLineResource>
-        <gmd:CI_OnlineResource>
-          <gmd:linkage>
             <gmd:URL>https://data.eol.ucar.edu/dataset/249.018</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
@@ -185,7 +162,7 @@
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2016-07-28T21:57:50Z</gco:DateTime>
+                <gco:DateTime>2019-01-25T21:01:52Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -193,10 +170,10 @@
             </gmd:CI_Date>
           </gmd:date>
           <gmd:edition>
-            <gco:CharacterString>2.0</gco:CharacterString>
+            <gco:CharacterString>3.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2016-07-28T21:57:50Z</gco:DateTime>
+            <gco:DateTime>2019-01-25T21:01:52Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
@@ -483,10 +460,10 @@
       <gmd:resourceFormat>
         <gmd:MD_Format>
           <gmd:name>
-            <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+            <gco:CharacterString>NCAR/RAF Aircraft Format (netCDF) (application/x-netcdf)</gco:CharacterString>
           </gmd:name>
           <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
+            <gco:CharacterString>2014-12-22T22:32:17Z</gco:CharacterString>
           </gmd:version>
         </gmd:MD_Format>
       </gmd:resourceFormat>
@@ -604,10 +581,10 @@
       <gmd:distributionFormat>
         <gmd:MD_Format>
           <gmd:name>
-            <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+            <gco:CharacterString>NCAR/RAF Aircraft Format (netCDF) (application/x-netcdf)</gco:CharacterString>
           </gmd:name>
           <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
+            <gco:CharacterString>2014-12-22T22:32:17Z</gco:CharacterString>
           </gmd:version>
         </gmd:MD_Format>
       </gmd:distributionFormat>
@@ -664,7 +641,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>1291</gco:Real>
+            <gco:Real>1227</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
