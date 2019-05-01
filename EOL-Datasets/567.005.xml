@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2019-01-09T20:07:26Z</gco:DateTime>
+    <gco:DateTime>2019-05-01T19:51:58Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -72,66 +72,12 @@
   <gmd:dataSetURI>
     <gco:CharacterString>https://doi.org/doi:10.5065/D6251H19</gco:CharacterString>
   </gmd:dataSetURI>
-  <gmd:referenceSystemInfo>
-    <gmd:MD_ReferenceSystem>
-      <gmd:referenceSystemIdentifier>
-        <gmd:RS_Identifier>
-          <gmd:authority>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2008-11-12</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName gco:nilReason="missing"/>
-                  <gmd:organisationName>
-                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName gco:nilReason="missing"/>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                          <gmd:linkage>
-                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
-                          </gmd:linkage>
-                        </gmd:CI_OnlineResource>
-                      </gmd:onlineResource>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:authority>
-          <gmd:code>
-            <gco:CharacterString>urn:ogc:def:crs:EPSG:4326</gco:CharacterString>
-          </gmd:code>
-          <gmd:version>
-            <gco:CharacterString>6.18.3</gco:CharacterString>
-          </gmd:version>
-        </gmd:RS_Identifier>
-      </gmd:referenceSystemIdentifier>
-    </gmd:MD_ReferenceSystem>
-  </gmd:referenceSystemInfo>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/567.005/README.txt</gmd:URL>
+            <gmd:URL>http://data.eol.ucar.edu/datafile/nph-get/567.005/README_HIWC_RADAR-II_microphysics.doc.pdf</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>http</gco:CharacterString>
@@ -140,7 +86,7 @@
             <gco:CharacterString>Documentation #1</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>README.txt</gco:CharacterString>
+            <gco:CharacterString>README_HIWC_RADAR-II_microphysics.doc.pdf</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -154,7 +100,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Particle Size Distribution (PSD) Data - PRELIMINARY</gco:CharacterString>
+            <gco:CharacterString>Particle Size Distribution (PSD) Data</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>567.005</gco:CharacterString>
@@ -162,7 +108,7 @@
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2018-11-09T17:21:19Z</gco:DateTime>
+                <gco:DateTime>2019-04-17T20:16:30Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -170,17 +116,17 @@
             </gmd:CI_Date>
           </gmd:date>
           <gmd:edition>
-            <gco:CharacterString>1.0</gco:CharacterString>
+            <gco:CharacterString>2.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2018-11-09T17:21:19Z</gco:DateTime>
+            <gco:DateTime>2019-04-17T20:16:30Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>Particle Size Distribution (PSD) Data - PRELIMINARY</gco:CharacterString>
+                    <gco:CharacterString>Particle Size Distribution (PSD) Data</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -318,11 +264,8 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This data set consists of data collected from two instruments on the NASA DC-8 aircraft from the High Ice Water Content (HIWC) Radar study that took place in Fort Lauderdale, Florida; Palmdale, California; and Kona, Hawaii. These data are from the DMT Precipitation Imaging Probe (PIP), and the SPEC Two-Dimensional Stereo probe (2D-S) and are PRELIMINARY data. Both instruments are two-dimensional optical array probes which record images of particles that travel through their sampling area. The recorded images are then analyzed to produce particle size distributions from 50 microns to 3 centimeters in diameter. The data files consist of data in txt files, and images in png format. The images are contained in tar files by flight.</gco:CharacterString>
+        <gco:CharacterString>This data set consists of data collected from two instruments on the NASA DC-8 aircraft from the High Ice Water Content (HIWC) Radar study that took place in Fort Lauderdale, Florida; Palmdale, California; and Kona, Hawaii. These data are from the DMT Precipitation Imaging Probe (PIP), and the SPEC Two-Dimensional Stereo probe (2D-S). Both instruments are two-dimensional optical array probes which record images of particles that travel through their sampling area. The recorded images are then analyzed to produce particle size distributions from 50 microns to 3 centimeters in diameter. The data files consist of data in txt files, and images in png format. The images are contained in tar files by flight.</gco:CharacterString>
       </gmd:abstract>
-      <gmd:credit>
-        <gco:CharacterString>Please acknowledge NCAR/EOL in your publications with text such as: Data provided by NCAR/EOL under the sponsorship of the National Science Foundation. https://data.eol.ucar.edu/</gco:CharacterString>
-      </gmd:credit>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
@@ -421,33 +364,6 @@
           </gmd:role>
         </gmd:CI_ResponsibleParty>
       </gmd:pointOfContact>
-      <gmd:resourceMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency>
-            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-          </gmd:maintenanceAndUpdateFrequency>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:resourceMaintenance>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>TAR: Unix Tape ARchive (TAR) Format File (application/x-tar)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2016-05-04T19:44:00Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
-      <gmd:resourceFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ASCII: ASCII Text (text/plain)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:resourceFormat>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
@@ -598,26 +514,6 @@
   </gmd:identificationInfo>
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>TAR: Unix Tape ARchive (TAR) Format File (application/x-tar)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2016-05-04T19:44:00Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
-      <gmd:distributionFormat>
-        <gmd:MD_Format>
-          <gmd:name>
-            <gco:CharacterString>ASCII: ASCII Text (text/plain)</gco:CharacterString>
-          </gmd:name>
-          <gmd:version>
-            <gco:CharacterString>2013-05-01T00:03:40Z</gco:CharacterString>
-          </gmd:version>
-        </gmd:MD_Format>
-      </gmd:distributionFormat>
       <gmd:distributor>
         <gmd:MD_Distributor>
           <gmd:distributorContact>
@@ -671,7 +567,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>987</gco:Real>
+            <gco:Real>453</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
@@ -682,7 +578,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Particle Size Distribution (PSD) Data - PRELIMINARY homepage</gco:CharacterString>
+                <gco:CharacterString>Particle Size Distribution (PSD) Data homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -698,7 +594,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Particle Size Distribution (PSD) Data - PRELIMINARY Data Order Form</gco:CharacterString>
+                <gco:CharacterString>Particle Size Distribution (PSD) Data Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
@@ -712,11 +608,4 @@
       </gmd:transferOptions>
     </gmd:MD_Distribution>
   </gmd:distributionInfo>
-  <gmd:metadataMaintenance>
-    <gmd:MD_MaintenanceInformation>
-      <gmd:maintenanceAndUpdateFrequency>
-        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
-      </gmd:maintenanceAndUpdateFrequency>
-    </gmd:MD_MaintenanceInformation>
-  </gmd:metadataMaintenance>
 </gmd:MD_Metadata>
