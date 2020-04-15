@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::592.012</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::553.042</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2020-04-15T01:20:23Z</gco:DateTime>
+      <gco:DateTime>2020-04-15T01:21:52Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -86,14 +86,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/doi:10.26023/8RPF-2341-RB0Y</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/doi:10.26023/DRYV-VC3P-CK0Q</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/592.012/Daily_summary_of_JSU_mobile_obs_and_conditions.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/553.042/ISFS_RELAMPAGO_QC_Report.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -102,55 +102,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>Daily_summary_of_JSU_mobile_obs_and_conditions.pdf</gco:CharacterString>
-               </gmd:description>
-               <gmd:function>
-                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
-                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-               </gmd:function>
-            </gmd:CI_OnlineResource>
-         </gmd:extensionOnLineResource>
-      </gmd:MD_MetadataExtensionInformation>
-   </gmd:metadataExtensionInfo>
-   <gmd:metadataExtensionInfo>
-      <gmd:MD_MetadataExtensionInformation>
-         <gmd:extensionOnLineResource>
-            <gmd:CI_OnlineResource>
-               <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/592.012/JSU_Mobile_Log.csv</gmd:URL>
-               </gmd:linkage>
-               <gmd:protocol>
-                  <gco:CharacterString>https</gco:CharacterString>
-               </gmd:protocol>
-               <gmd:name>
-                  <gco:CharacterString>Documentation #2</gco:CharacterString>
-               </gmd:name>
-               <gmd:description>
-                  <gco:CharacterString>JSU_Mobile_Log.csv</gco:CharacterString>
-               </gmd:description>
-               <gmd:function>
-                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
-                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-               </gmd:function>
-            </gmd:CI_OnlineResource>
-         </gmd:extensionOnLineResource>
-      </gmd:MD_MetadataExtensionInformation>
-   </gmd:metadataExtensionInfo>
-   <gmd:metadataExtensionInfo>
-      <gmd:MD_MetadataExtensionInformation>
-         <gmd:extensionOnLineResource>
-            <gmd:CI_OnlineResource>
-               <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/592.012/READ_ME_doc_for_JSU_mobile_datasets_car_EOL.pdf</gmd:URL>
-               </gmd:linkage>
-               <gmd:protocol>
-                  <gco:CharacterString>https</gco:CharacterString>
-               </gmd:protocol>
-               <gmd:name>
-                  <gco:CharacterString>Documentation #3</gco:CharacterString>
-               </gmd:name>
-               <gmd:description>
-                  <gco:CharacterString>READ_ME_doc_for_JSU_mobile_datasets_car_EOL.pdf</gco:CharacterString>
+                  <gco:CharacterString>ISFS_RELAMPAGO_QC_Report.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -165,15 +117,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>JSU Mobile Surface Meteorology Data</gco:CharacterString>
+                  <gco:CharacterString>NCAR/EOL ISFS High Rate Surface Flux Data, Geographic Coordinate Winds</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>592.012</gco:CharacterString>
+                  <gco:CharacterString>553.042</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2020-01-27T17:31:49Z</gco:DateTime>
+                        <gco:DateTime>2020-02-28T20:28:31Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -185,19 +137,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2020-01-27T17:31:49Z</gco:DateTime>
+                  <gco:DateTime>2020-02-28T20:28:31Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>JSU Mobile Surface Meteorology Data</gco:CharacterString>
+                              <gco:CharacterString>NCAR/EOL ISFS High Rate Surface Flux Data, Geographic Coordinate Winds</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2020-01-24T20:46:09Z</gco:DateTime>
+                                    <gco:DateTime>2020-02-28T20:28:31Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -255,16 +207,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>592.012</gco:CharacterString>
+                        <gco:CharacterString>553.042</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/doi:10.26023/8RPF-2341-RB0Y"
+                        <gmx:Anchor xlink:href="https://doi.org/doi:10.26023/DRYV-VC3P-CK0Q"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.26023/8RPF-2341-RB0Y</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/DRYV-VC3P-CK0Q</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -317,36 +269,43 @@
                </gmd:citedResponsibleParty>
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gco:CharacterString>Loren D. White</gco:CharacterString>
-                     </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Jackson State University</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
-                        <gco:CharacterString>Associate Professor of Meteorology</gco:CharacterString>
+                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
                      </gmd:positionName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
-                                    <gco:CharacterString>Jackson</gco:CharacterString>
+                                    <gco:CharacterString>Boulder</gco:CharacterString>
                                  </gmd:city>
                                  <gmd:administrativeArea>
-                                    <gco:CharacterString>MS</gco:CharacterString>
+                                    <gco:CharacterString>CO</gco:CharacterString>
                                  </gmd:administrativeArea>
                                  <gmd:postalCode>
-                                    <gco:CharacterString>39217</gco:CharacterString>
+                                    <gco:CharacterString>80307-3000</gco:CharacterString>
                                  </gmd:postalCode>
-                                 <gmd:country>
-                                    <gco:CharacterString>USA</gco:CharacterString>
-                                 </gmd:country>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>Loren.D.White@jsums.edu</gco:CharacterString>
+                                    <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:name>
+                                    <gco:CharacterString>homepage</gco:CharacterString>
+                                 </gmd:name>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
                      <gmd:role>
@@ -358,7 +317,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This dataset contains the Jackson State University (JSU) mobile data as collected for the CHEESEHEAD (Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors) project. Surface meteorology parameters were measured by sensors mounted to an automobile which was driven on roads and trails within CHEESEHEAD core domain and surrounding region during Intensive Observing Periods (IOPs). Data are primarily collected while mobile, but stationary data may also be collected for short periods (either between mobile legs or at stops in transit). Times in descriptive data log file are rounded to nearest minute. Stops longer than 1-2 minutes are noted in Description column, along with waypoints and landmarks. Min/max of temperature, relative humidity, and dewpoint are summarized for each leg, only considering times when moving. (Maximum solar radiation includes all times.) </gco:CharacterString>
+            <gco:CharacterString>This dataset contains high-rate surface flux data collected by the NCAR/EOL Integrated Surface Flux System (ISFS) during the RELAMPAGO field campaign. These data are not quality controlled and are available in netCDF format. The winds reported by the sonic anemometers have been rotated into geographic coordinates. Data are reported in 1 second intervals, however, samples within one second may vary between 20 Hz and 30 Hz depending on the sensor. </gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -461,6 +420,53 @@
                </gmd:role>
             </gmd:CI_ResponsibleParty>
          </gmd:pointOfContact>
+         <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Steve Oncley</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>NCAR/EOL/ISFF</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>303-497-8757</gco:CharacterString>
+                           </gmd:voice>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>P.O. Box 3000</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Boulder</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>CO</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>80307-3000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>USA</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>oncley@ucar.edu</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                   codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:pointOfContact>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
@@ -510,31 +516,36 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>Flux Tower</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Integrated Surface Flux Facility - ISFF</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:type>
+                  <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                          codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
+               </gmd:type>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; INCOMING SOLAR RADIATION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; DATA ANALYSIS AND VISUALIZATION &gt; GLOBAL POSITIONING SYSTEMS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; WATER VAPOR</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; POTENTIAL TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON DIOXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -573,14 +584,17 @@
          <gmd:resourceConstraints>
             <gmd:MD_LegalConstraints>
                <gmd:useLimitation>
-                  <gco:CharacterString>These data are restricted by a user agreement: https://data.eol.ucar.edu/datafile/nph-get/592.012/cheesehead_policy.html</gco:CharacterString>
+                  <gco:CharacterString>none</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
-                  <gco:CharacterString>none</gco:CharacterString>
+                  <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType gco:nilReason="missing"/>
+         <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
+                                                  codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
+         </gmd:spatialRepresentationType>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -592,16 +606,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-91.00000</gco:Decimal>
+                        <gco:Decimal>-71.41992</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-89.00000</gco:Decimal>
+                        <gco:Decimal>-53.19141</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>45.00000</gco:Decimal>
+                        <gco:Decimal>-34.80469</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>47.00000</gco:Decimal>
+                        <gco:Decimal>-25.43555</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -609,8 +623,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>2019-07-08T15:00:00Z</gml:beginPosition>
-                           <gml:endPosition>2019-09-27T04:00:00Z</gml:endPosition>
+                           <gml:beginPosition>2018-05-20T00:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2019-05-10T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -675,18 +689,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>68</gco:Real>
+                  <gco:Real>73126</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://localhost:8443/zinc/dataset/592.012</gmd:URL>
+                        <gmd:URL>https://localhost:8443/zinc/dataset/553.042</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>JSU Mobile Surface Meteorology Data homepage</gco:CharacterString>
+                        <gco:CharacterString>NCAR/EOL ISFS High Rate Surface Flux Data, Geographic Coordinate Winds homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -696,13 +710,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/eula/fgr_form/id=592.012</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=553.042</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
-                        <gco:CharacterString>http</gco:CharacterString>
+                        <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>JSU Mobile Surface Meteorology Data Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>NCAR/EOL ISFS High Rate Surface Flux Data, Geographic Coordinate Winds Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
