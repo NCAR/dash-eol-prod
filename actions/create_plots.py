@@ -106,14 +106,14 @@ for filename in os.listdir(input_directory):
 		plt.yticks(yticks, yticks, fontsize=11)
 
 	#save filename to strFile
-	strFile = output_directory+lab_name+'.png'
+	strFileName = output_directory+lab_name+'.png'
 
 	#removing old figure and saving new one
-	if os.path.isfile(strFile):
-   		os.remove(strFile)
+	if os.path.isfile(strFileName):
+   		os.remove(strFileName) 
 
 	# Save figure to output directory as .gif
-	fig.savefig(strFile)
+	fig.savefig(strFileName)
 		
 	print('Plot saved in the plots directory with the name '+ lab_name+ '.png')
 
