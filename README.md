@@ -14,7 +14,7 @@ https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.
 
 ## EOL Completeness Graph
 
-![Eol Completeness Graph](master/actions/barcharts/eol.png)
+![Eol Completeness Graph](actions/barcharts/eol.png)
 
 ## Publisher Information
 
