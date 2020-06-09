@@ -1,4 +1,4 @@
-name: Run completeness graphs
+name: Run completeness EOL graphs
 
 on: [push]
 
@@ -15,8 +15,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r actions/requirements.txt
-        cd actions
+        pip install -r actions/EOL/requirements.txt
+        cd actions/EOL
         python create_plots.py 
         
     - name: Commit files
