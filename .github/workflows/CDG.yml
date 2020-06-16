@@ -1,4 +1,4 @@
-name: Run completeness CDG graphs
+name: Run completeness CGD graphs
 
 on: [push]
 
@@ -15,8 +15,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r actions/CDG/requirements.txt
-        cd actions/CDG
+        pip install -r actions/CGD/requirements.txt
+        cd actions/CGD
         python create_plots.py 
         
     - name: Commit files
