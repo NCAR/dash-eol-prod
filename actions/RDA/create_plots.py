@@ -108,10 +108,9 @@ for filename in os.listdir(input_directory):
 	#save filename to strFile
 	strFileName = output_directory+lab_name+'.png'
 
-
 	#removing old figure and saving new one
 	if os.path.isfile(strFileName):
-   		os.remove(strFileName)
+   		os.remove(strFileName) 
 
 	# Save figure to output directory as .gif
 	fig.savefig(strFileName)
