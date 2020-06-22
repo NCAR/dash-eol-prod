@@ -14,6 +14,7 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: |
+        sleep 30
         git config --local user.email "action@github.com"
         git config --local user.name "github-actions"
         git pull
