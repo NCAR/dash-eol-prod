@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2020-06-07T22:19:03Z</gco:DateTime>
+      <gco:DateTime>2020-07-25T18:08:58Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -369,7 +369,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This dataset contains airborne hyperspectral data acquired using HySpex sensors (VNIR-1800 and SWIR-384; HySpex, Skedsmokorset, Norway) for the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD) Field Project during four periods: 20190626, 20190711/20190713, 20190804/20190806 and 20190830. Images were geo-rectified and atmospherically corrected to produce hyperspectral surface reflectance at ~ 1 m spatial resolution across 400 to 2500 nm with a spectral resolution of 3 nm in the visible and near infrared region and 5 nm in the shortwave infrared region. For more information, please see the HyspexReadme Excel file. This is a very large dataset. Ordering limited time periods of data are recommended. </gco:CharacterString>
+            <gco:CharacterString>Airborne hyperspectral data acquired using HySpex sensors (VNIR-1800 and SWIR-384; HySpex, Skedsmokorset, Norway) for the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD) Field Project during four periods: 20190626, 20190711/20190713, 20190804/20190806 and 20190830 are contained in this dataset. Images were geo-rectified and atmospherically corrected to produce hyperspectral surface reflectance at ~ 1 m spatial resolution across 400 to 2500 nm with a spectral resolution of 3 nm in the visible and near infrared region and 5 nm in the shortwave infrared region. For more information, please see the HyspexReadme Excel file. This is a very large dataset. Ordering limited time periods of data are recommended. </gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -680,7 +680,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>2521901</gco:Real>
+                  <gco:Real>1881238</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
