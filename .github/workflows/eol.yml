@@ -19,9 +19,9 @@ jobs:
         git pull
         python -m pip install --upgrade pip
         pip install -r actions/EOL/requirements.txt
-        rm -rf ~/.matplotlib
-        rm -rf ~/.cache/matplotlib
-        rm -rf ~/.cache/fontconfig/
+        rm ~/.matplotlib
+        rm ~/.cache/matplotlib
+        rm ~/.cache/fontconfig/
         cd actions/EOL
         python create_plots.py 
         
