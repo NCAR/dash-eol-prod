@@ -1,4 +1,4 @@
-name: Run completeness HOA graphs
+name: Run completeness All graphs
 
 on: [push]
 
@@ -18,8 +18,8 @@ jobs:
         git config --local user.name "github-actions"
         git pull
         python -m pip install --upgrade pip
-        pip install -r actions/HOA/requirements.txt
-        cd actions/HOA
+        pip install -r actions/All/requirements.txt
+        cd actions/All
         python create_plots.py 
         
     - name: Commit files
