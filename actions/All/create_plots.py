@@ -54,7 +54,7 @@ for filename in os.listdir(input_directory):
 	print('Reading in totals for metadata values from ', lab_name)    
 	#with open(input_directory.decode("utf-8") + filename_str, mode='r') as csv_file:
 	#removed decode since object is already decoded
-	with open(input_directory + filename_str, mode='rb') as csv_file:
+	with open(input_directory + filename_str, mode='r', errors='ignore') as csv_file:
     		csv_reader = csv.DictReader(csv_file)
     		totals = createTotals()
     		next(csv_reader)
