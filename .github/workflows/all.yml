@@ -19,9 +19,11 @@ jobs:
         git pull
         python -m pip install --upgrade pip
         pip install -r actions/All/requirements.txt
-        cd actions/All
-        python create_plots.py 
-        
+        echo "done"
+    - name: Run script
+      run: |
+       cd actions/All
+       python create_plots.py
     - name: Commit files
       id: commit
       run: |
