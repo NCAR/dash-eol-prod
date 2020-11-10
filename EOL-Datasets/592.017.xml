@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2020-09-20T00:08:19Z</gco:DateTime>
+      <gco:DateTime>2020-11-10T00:09:57Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/592.017/MWR_Dataset_Info-updated.pdf</gmd:URL>
+                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/592.017/MWR_TROPOE_Dataset_Info_V2.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -102,7 +102,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>MWR_Dataset_Info-updated.pdf</gco:CharacterString>
+                  <gco:CharacterString>MWR_TROPOE_Dataset_Info_V2.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -117,7 +117,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>NOAA Microwave Radiometer Data</gco:CharacterString>
+                  <gco:CharacterString>NOAA Microwave Radiometer Data and Thermodynamic Profile Retrievals</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
                   <gco:CharacterString>592.017</gco:CharacterString>
@@ -125,7 +125,7 @@
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2020-04-01T17:17:59Z</gco:DateTime>
+                        <gco:DateTime>2020-10-05T21:21:38Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -134,17 +134,17 @@
                   </gmd:CI_Date>
                </gmd:date>
                <gmd:edition>
-                  <gco:CharacterString>1.0</gco:CharacterString>
+                  <gco:CharacterString>2.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2020-04-01T17:17:59Z</gco:DateTime>
+                  <gco:DateTime>2020-10-05T21:21:38Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>NOAA Microwave Radiometer Data</gco:CharacterString>
+                              <gco:CharacterString>NOAA Microwave Radiometer Data and Thermodynamic Profile Retrievals</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
@@ -302,6 +302,31 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
+                        <gco:CharacterString>James Duncan</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>NOAA</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>james.duncan@noaa.gov</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
                         <gco:CharacterString>Dave Turner</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
@@ -391,7 +416,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This dataset contains the data from two Radiometrics MP-3000A Microwave radiometers (MWRs)MWRs that were deployed during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD) experiment. The thermodynamic microwave radiometer profilers continuously observe air temperature, humidity and liquid features that define local weather. These two MWRs have 21 K-band (22 to 30 GHz) channels, and 14 V-band (51 to 59 GHz) channels.  Data from three sites in Wisconsin (Prentice, Lakeland, and Tall Tower) are included in this dataset. Please see the documentation for more information including details on calibrations and file formats.</gco:CharacterString>
+            <gco:CharacterString>Two Radiometrics MP-3000A Microwave Radiometers (MWRs) were deployed during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD) experiment. Also included in this dataset are the thermodynamic profile data derived from the MWR data (and other data input sources) using an optimal estimation-based physical retrieval algorithm. The thermodynamic MWR profilers continuously observe air temperature, humidity and liquid features that define local weather. These two MWRs have 21 K-band (22 to 30 GHz) channels, and 14 V-band (51 to 59 GHz) channels.  Data from three sites in Wisconsin (Prentice, Lakeland, and ISS | Tall Tower) are included in this dataset. Note that the frequency of the data collection for MWR was ~2-3 minutes while the frequency for the thermodynamic retrievals is 10 minutes.  Please see the documentation for more information including details on MWR calibrations, the optimal estimation-based physical retrieval algorithm and its data input sources, and file formats.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -599,7 +624,10 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType gco:nilReason="missing"/>
+         <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
+                                                  codeListValue="textTable">textTable</gmd:MD_SpatialRepresentationTypeCode>
+         </gmd:spatialRepresentationType>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -611,16 +639,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-90.17620</gco:Decimal>
+                        <gco:Decimal>-90.29350</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
                         <gco:Decimal>-89.72720</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>45.32363</gco:Decimal>
+                        <gco:Decimal>45.53910</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>45.92459</gco:Decimal>
+                        <gco:Decimal>45.94550</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -694,7 +722,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>211</gco:Real>
+                  <gco:Real>11637</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
@@ -705,7 +733,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NOAA Microwave Radiometer Data homepage</gco:CharacterString>
+                        <gco:CharacterString>NOAA Microwave Radiometer Data and Thermodynamic Profile Retrievals homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -721,7 +749,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NOAA Microwave Radiometer Data Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>NOAA Microwave Radiometer Data and Thermodynamic Profile Retrievals Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
