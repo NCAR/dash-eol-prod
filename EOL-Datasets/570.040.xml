@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/570.040/UKMO_icing_severity_readme.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/570.040/UKMO_icing_severity_readme.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -676,7 +676,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.dev.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=570.040</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=570.040</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>

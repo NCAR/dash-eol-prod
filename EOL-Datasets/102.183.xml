@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_C25_3327_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_C25_3327_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_C40_0487_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_C40_0487_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -141,7 +141,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N25_3329_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N25_3329_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -165,7 +165,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N40_7967_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N40_7967_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -189,7 +189,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N55_3382_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_N55_3382_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -213,7 +213,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_S40_7695_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2008_S40_7695_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -237,7 +237,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_C25_7695_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_C25_7695_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -261,7 +261,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_C40_3327_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_C40_3327_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -285,7 +285,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N25_0487_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N25_0487_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -309,7 +309,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N40_3382_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N40_3382_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -333,7 +333,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N55_7967_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_N55_7967_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -357,7 +357,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_S25_1075_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_S25_1075_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -381,7 +381,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_S40_0622_Meta.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.183/BEST_2009_S40_0622_Meta.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -1122,7 +1122,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.dev.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=102.183</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=102.183</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>

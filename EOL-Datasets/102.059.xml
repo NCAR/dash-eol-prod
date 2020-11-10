@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.059/hly0803_CTDCalFile.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.059/hly0803_CTDCalFile.txt</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.059/hly0803_eFOCI_CTDMeta4BESTWeb.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.059/hly0803_eFOCI_CTDMeta4BESTWeb.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -141,7 +141,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/102.059/hly0803_PMEL_CTDmap.gif</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/102.059/hly0803_PMEL_CTDmap.gif</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -1088,7 +1088,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.dev.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=102.059</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=102.059</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
