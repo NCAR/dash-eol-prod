@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2020-06-07T21:53:31Z</gco:DateTime>
+      <gco:DateTime>2020-12-03T21:49:33Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -86,14 +86,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/doi:10.5065/D6Q81BS1</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.5065/D6Q81BS1</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.049/UND_RF-PL_RFSoilMoisture_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.049/UND_RF-PL_RFSoilMoisture_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.049/UND_RF-SG_RFSoilMoisture_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.049/UND_RF-SG_RFSoilMoisture_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -238,7 +238,7 @@
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/doi:10.5065/D6Q81BS1"
+                        <gmx:Anchor xlink:href="https://doi.org/10.5065/D6Q81BS1"
                                     xlink:title="DOI"
                                     xlink:actuate="onRequest">doi:10.5065/D6Q81BS1</gmx:Anchor>
                      </gmd:code>
@@ -331,7 +331,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This dataset contains the University of Notre Dame&amp;#39;s soil moisture data from both the Playa and Small Gap sites during the Mountain Terrain Atmospheric Modeling and Observations Field Experimental Component (MATERHORN-X) project. Data were collected from 01 August 2012 to 23 October 2012. Zip files 01-03 are valid for the entire month of August and contain data from the test run. Zip files 04-49 are valid from 24 September 2012 to 23 October 2012 and contain data from the actual experiment. Data were collected continuously. This dataset was not subject to any quality control and files are in .zip format. Please contact the PI, Thomas Pratt, for specific dates/times and an explanation of the orderable data. Note: these are large data files, so you may need to submit multiple orders depending on how much data you want to order.</gco:CharacterString>
+            <gco:CharacterString>This dataset contains the University of Notre Dame&amp;#39;s soil moisture data from both the Playa and Small Gap sites during the Mountain Terrain Atmospheric Modeling and Observations Field Experimental Component (MATERHORN-X) project. Data were collected from 01 August 2012 to 23 October 2012. Zip files 01-03 are valid for the entire month of August and contain data from the test run. Zip files 04-49 are valid from 24 September 2012 to 23 October 2012 and contain data from the actual experiment. Data were collected continuously. This dataset was not subject to any quality control and files are in .zip format. The time stamps are based off of UTC time for all the instruments for the MATERHORN-X data, unless it was stated otherwise.  Please contact the PI, Thomas Pratt, for specific dates/times and an explanation of the orderable data. Note: these are large data files, so you may need to submit multiple orders depending on how much data you want to order.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -543,7 +543,7 @@
          <gmd:resourceConstraints>
             <gmd:MD_LegalConstraints>
                <gmd:useLimitation>
-                  <gco:CharacterString>These data are restricted by a user agreement: https://data.eol.ucar.edu/datafile/nph-get/535.049/MATERHORN_Data_Fair_Use_20170731.pdf</gco:CharacterString>
+                  <gco:CharacterString>These data are restricted by a user agreement: https://data.dev.eol.ucar.edu/datafile/nph-get/535.049/MATERHORN_Data_Fair_Use_20170731.pdf</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
                   <gco:CharacterString>none</gco:CharacterString>
@@ -666,10 +666,10 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/eula/fgr_form/id=535.049</gmd:URL>
+                        <gmd:URL>https://data.dev.eol.ucar.edu/cgi-bin/codiac/eula/fgr_form/id=535.049</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
-                        <gco:CharacterString>http</gco:CharacterString>
+                        <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
                         <gco:CharacterString>RF Polarimetric Crosshairs Soils Moisture Data Data Order Form</gco:CharacterString>
