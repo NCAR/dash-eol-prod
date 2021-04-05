@@ -6,7 +6,7 @@ from xml.etree.ElementTree import parse
 import time
 import xmltodict
 import pprint
-from gcmd3 import getGCMDfromXML
+from gcmdsupport import getGCMDfromXML
 import os
 from os import path
 from collections import Counter
