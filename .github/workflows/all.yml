@@ -22,10 +22,9 @@ jobs:
         echo "done"
     - name: Run GCMD Count script
       run: |
-        cd 
         cd EOL-Datasets
         python gcmd.py
-        cd
+        cd -
     - name: Run Completeness script
       run: |
        cd actions/All
