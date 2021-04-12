@@ -20,11 +20,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r actions/All/requirements.txt
         echo "done"
-    - name: Run GCMD Count script
-      run: |
-        cd EOL-Datasets
-        python gcmd.py
-        cd -
     - name: Run Completeness script
       run: |
        cd actions/All
