@@ -13,7 +13,7 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
 ## EOL Completeness Graph
-[GCMD Counts](https://github.com/NCAR/dash-eol-prod/blob/ee348d54de0b08b095602c46475e3ca0e4023467/EOL-Datasets/eol_gcmd_counts_levels.txt#L11)
+[GCMD Counts]https://github.com/NCAR/dash-eol-prod/blob/ee348d54de0b08b095602c46475e3ca0e4023467/EOL-Datasets/eol_gcmd_counts_levels.txt)
 
 ![Eol Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/master/actions/EOL/barcharts/eol.png)
 
