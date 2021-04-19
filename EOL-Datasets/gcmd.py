@@ -51,7 +51,7 @@ sys.stdout = open("eol_gcmd_counts_levels.txt", "w")
 with open('eol_gcmd.txt') as f:
      c=Counter(c.strip().lower() for c in f if c.strip()) #for case-insensitive search
      for line in c:
-         if c[line]>1:
+         if c[line]>=1:
              level = line.count('>') + 1 
              if(level == 1):
                  level1 += 1
