@@ -67,7 +67,7 @@ with open('eol_gcmd.txt') as f:
                  level6 += 1
              count = "Count: " + str(c[line])
              level = "Level " + str(level)
-             fileline = ''.join((line, ' ', count, ' ', level, '\n'))
+             fileline = ''.join((line, ', ', count, ', ', level, '\n'))
              print(fileline)
 
 print("Level 1:", level1)
@@ -78,3 +78,16 @@ print("Level 5:", level5)
 print("Level 6:", level6)
 
 sys.stdout.close()
+
+keywords = []
+counts = []
+
+sys.stdout = open("/dev/stdout", "w")
+
+with open('eol_gcmd_counts_levels.txt') as f:
+    for line in f:
+        if line != '\n' and "Level 1: " not in line and "Level 2: " not in line and "Level 3: " not in line and "Level 4: " not in line and "Level 5: " not in line and "Level 6: " not in line: 
+            line = line.split(',')
+            keywords.append(line[0])
+            counts.append(line[1])
+            print("keyword: " + str(line[0]) + " count: " + str(line[1]))
