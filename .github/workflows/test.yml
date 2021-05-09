@@ -1,0 +1,28 @@
+name: Test git submodules with workflows
+
+on: [push]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1      
+      with:
+        python-version: '3.x'
+    - name: view files and structure
+      run: |
+        echo "current directory "
+        pwd
+        echo "\n"
+        cd actions
+        echo "current directory "
+        pwd
+        echo "\n"
+        cd dash-hao-prod
+        echo "current directory "
+        pwd
+        echo "\n"
+        
