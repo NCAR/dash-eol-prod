@@ -25,4 +25,7 @@ jobs:
         echo "current directory "
         pwd
         echo "\n"
+        echo "ls"
+        ls
+        echo "\n"
         
