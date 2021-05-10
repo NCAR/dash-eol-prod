@@ -1,6 +1,6 @@
 name: Get GCMD Stats
 
-on: [push]
+on: [pull]
 
 jobs: 
   run:
