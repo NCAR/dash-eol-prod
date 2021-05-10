@@ -21,16 +21,9 @@ jobs:
         echo "current directory "
         pwd
         echo "\n"
-        cd dash-hao-prod
-        echo "current directory "
-        pwd
-        echo "\n"
-        echo "ls"
-        ls
-        echo "\n"
     - name: run script on submodule
       run: |
-        cd
-        ls
-        cd actions
+        cd scripts
+        pip install -r actions/All/requirements.txt
+        python3 gcmd.py
         
