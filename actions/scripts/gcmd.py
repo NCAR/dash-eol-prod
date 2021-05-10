@@ -78,6 +78,3 @@ print("Level 5:", level5)
 print("Level 6:", level6)
 
 sys.stdout.close()
-
-f = open("hao_gcmd_counts_levels.txt", "r")
-print(f.read())
