@@ -23,6 +23,8 @@ jobs:
         echo "\n"
     - name: run script on submodule
       run: |
+        pwd
+        ls
         cd scripts
         pip install -r actions/All/requirements.txt
         python3 gcmd.py
