@@ -22,7 +22,7 @@ jobs:
         echo "done"
     - name: Run GCMD Count script
       run: |
-        cd EOL-Datasets
+        cd .github/workflows/scripts
         python3 gcmd.py
     - name: Commit files
       id: commit

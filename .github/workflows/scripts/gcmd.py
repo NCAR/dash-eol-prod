@@ -12,7 +12,7 @@ from os import path
 from collections import Counter
 
 
-path1 = '.'
+path1 = '../../../EOL-Datasets'
 if(path.exists("eol_gcmd.txt")):
     os.remove("eol_gcmd.txt")
 fo = open("eol_gcmd.txt", "w+")
