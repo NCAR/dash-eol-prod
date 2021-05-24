@@ -1,6 +1,6 @@
 name: Run completeness All graphs
 
-on: [pull]
+on: [push]
 
 jobs: 
   run:
