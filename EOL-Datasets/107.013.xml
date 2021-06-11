@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2021-02-07T20:45:59Z</gco:DateTime>
+      <gco:DateTime>2021-06-11T17:54:59Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -467,7 +467,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The NCAR Airborne Oxygen Instrument (AO2) was mounted on the NCAR GV during the START-08 project. This data set contains two sets of txt files pre flight, with CO2 ppm and O2/N2 ratios.</gco:CharacterString>
+            <gco:CharacterString>The NCAR Airborne Oxygen Instrument (AO2) was mounted on the NCAR GV during the START-08 project. The submitted AO2 data are in 1 flat ascii text file per flight. Each file contains running 10-second medians (of the original ~ 2.5-second data) at 1 Hz matching the times in the RAF data files. The files are in NASA Ames 1001 format, with a final comment line of variable names (UT CO2_AO2orig O2_AO2orig APO_AO2orig CO2_AO2 O2_AO2 APO_AO2), spaces separating columns, and 9999.99 for missing data. The reported times correspond to when the air entered the inlet. This instrument measures O2/N2 ratio as well as CO2 concentration.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -619,9 +619,6 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Aircraft, NSF/NCAR C-130</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Aircraft, NSF/NCAR GV HIAPER</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
@@ -640,10 +637,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; CARBON DIOXIDE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
