@@ -607,4 +607,4 @@ Level 2: 0
 Level 3: 10
 Level 4: 117
 Level 5: 79
-Level 6: 23
+Level 6: 23 
