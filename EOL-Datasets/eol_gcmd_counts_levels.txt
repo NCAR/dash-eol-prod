@@ -1,14 +1,14 @@
-aircraft, Count: 1061, Level 1
+aircraft, Count: 1110, Level 1
 
 meteorology, Count: 180, Level 1
 
-upper air, Count: 574, Level 1
+upper air, Count: 580, Level 1
 
 arctic, Count: 1514, Level 1
 
 land based, Count: 150, Level 1
 
-sounding, Count: 270, Level 1
+sounding, Count: 275, Level 1
 
 hydrology, Count: 37, Level 1
 
@@ -16,29 +16,29 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > atmospheric temperature > surface temperature > air temperature, Count: 102, Level 5
 
-earth science > atmosphere > precipitation > precipitation amount, Count: 85, Level 4
+earth science > atmosphere > precipitation > precipitation amount, Count: 86, Level 4
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > humidity > relative humidity, Count: 70, Level 6
 
 earth science > atmosphere > atmospheric pressure > surface pressure, Count: 89, Level 4
 
-earth science > atmosphere > atmospheric winds > surface winds > wind speed, Count: 85, Level 5
+earth science > atmosphere > atmospheric winds > surface winds > wind speed, Count: 86, Level 5
 
 earth science > atmosphere > atmospheric temperature > surface temperature > dew point temperature, Count: 63, Level 5
 
-earth science > atmosphere > atmospheric winds > surface winds > wind direction, Count: 84, Level 5
+earth science > atmosphere > atmospheric winds > surface winds > wind direction, Count: 85, Level 5
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > dew point temperature, Count: 44, Level 5
 
-surface, Count: 652, Level 1
+surface, Count: 663, Level 1
 
 vegetation, Count: 215, Level 1
 
 profiler, Count: 36, Level 1
 
-no keywords, Count: 333, Level 1
+no keywords, Count: 334, Level 1
 
-earth science > spectral/engineering > radar > radar reflectivity, Count: 22, Level 4
+earth science > spectral/engineering > radar > radar reflectivity, Count: 36, Level 4
 
 lidar, Count: 89, Level 1
 
@@ -78,15 +78,17 @@ benthos, Count: 117, Level 1
 
 biology, Count: 207, Level 1
 
+ancillary info, Count: 51, Level 1
+
 earth science > atmosphere > clouds > cloud types, Count: 1, Level 4
 
 earth science > atmosphere > clouds > cloud properties > cloud fraction, Count: 6, Level 5
 
 satellite, Count: 147, Level 1
 
-earth science > atmosphere > atmospheric winds > surface winds > u/v wind components, Count: 8, Level 5
+earth science > atmosphere > atmospheric winds > surface winds > u/v wind components, Count: 9, Level 5
 
-radar, Count: 182, Level 1
+radar, Count: 188, Level 1
 
 land character, Count: 74, Level 1
 
@@ -100,23 +102,21 @@ production, Count: 33, Level 1
 
 earth science > biosphere > vegetation > vegetation cover, Count: 64, Level 4
 
-photography, Count: 67, Level 1
-
-ancillary info, Count: 47, Level 1
+photography, Count: 68, Level 1
 
 trace gases, Count: 59, Level 1
 
-earth science > atmosphere > atmospheric winds > wind profiles > wind direction profiles, Count: 26, Level 5
+earth science > atmosphere > atmospheric winds > wind profiles > wind direction profiles, Count: 27, Level 5
 
-earth science > atmosphere > atmospheric winds > wind profiles > wind velocity/speed profiles, Count: 26, Level 5
+earth science > atmosphere > atmospheric winds > wind profiles > wind velocity/speed profiles, Count: 27, Level 5
 
-earth science > atmosphere > atmospheric winds > wind profiles > velocity azimuth display vertical wind profiles, Count: 5, Level 5
+earth science > atmosphere > atmospheric winds > wind profiles > velocity azimuth display vertical wind profiles, Count: 6, Level 5
 
-earth science > spectral/engineering > radar > mean radial velocity, Count: 15, Level 4
+earth science > spectral/engineering > radar > mean radial velocity, Count: 23, Level 4
 
-earth science > atmosphere > atmospheric winds > upper level winds > wind speed, Count: 28, Level 5
+earth science > atmosphere > atmospheric winds > upper level winds > wind speed, Count: 29, Level 5
 
-earth science > atmosphere > atmospheric winds > upper level winds > wind direction, Count: 28, Level 5
+earth science > atmosphere > atmospheric winds > upper level winds > wind direction, Count: 29, Level 5
 
 earth science > atmosphere > atmospheric winds > upper level winds > boundary layer winds, Count: 24, Level 5
 
@@ -124,9 +124,9 @@ aerosols, Count: 12, Level 1
 
 mooring, Count: 35, Level 1
 
-earth science > spectral/engineering > radar > spectrum width, Count: 8, Level 4
+earth science > spectral/engineering > radar > spectrum width, Count: 15, Level 4
 
-earth science > spectral/engineering > radar > doppler velocity, Count: 11, Level 4
+earth science > spectral/engineering > radar > doppler velocity, Count: 13, Level 4
 
 paleoceanography, Count: 8, Level 1
 
@@ -152,7 +152,7 @@ sea ice, Count: 55, Level 1
 
 earth science > atmosphere > atmospheric winds > wind dynamics > horizontal wind velocity/speed, Count: 8, Level 5
 
-earth science > atmosphere > atmospheric winds > upper level winds > u/v wind components, Count: 21, Level 5
+earth science > atmosphere > atmospheric winds > upper level winds > u/v wind components, Count: 22, Level 5
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > humidity > absolute humidity, Count: 9, Level 6
 
@@ -162,7 +162,7 @@ earth science > atmosphere > atmospheric temperature > surface temperature > dei
 
 earth science > atmosphere > atmospheric winds > upper level winds > flight level winds, Count: 6, Level 5
 
-earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ice, Count: 19, Level 5
+earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ice, Count: 20, Level 5
 
 earth science > atmosphere > clouds > cloud microphysics > particle size distribution, Count: 11, Level 5
 
@@ -172,7 +172,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > atmospheric temperature > upper air temperature > dew point temperature, Count: 15, Level 5
 
-earth science > atmosphere > atmospheric winds > wind dynamics > vertical wind velocity/speed, Count: 9, Level 5
+earth science > atmosphere > atmospheric winds > wind dynamics > vertical wind velocity/speed, Count: 10, Level 5
 
 earth science > atmosphere > atmospheric radiation > longwave radiation, Count: 10, Level 4
 
@@ -200,13 +200,13 @@ marine mammal survey, Count: 13, Level 1
 
 mammals, Count: 31, Level 1
 
-precipitation, Count: 20, Level 1
+precipitation, Count: 21, Level 1
 
 earth science > atmosphere > clouds > cloud microphysics > droplet growth > aggregation, Count: 2, Level 6
 
-earth science > atmosphere > precipitation > solid precipitation > hail, Count: 4, Level 5
+earth science > atmosphere > precipitation > solid precipitation > hail, Count: 8, Level 5
 
-earth science > atmosphere > precipitation > precipitation amount > 24 hour precipitation amount, Count: 13, Level 5
+earth science > atmosphere > precipitation > precipitation amount > 24 hour precipitation amount, Count: 15, Level 5
 
 earth science > atmosphere > atmospheric pressure > sea level pressure, Count: 35, Level 4
 
@@ -242,7 +242,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 flux, Count: 32, Level 1
 
-mesonet, Count: 42, Level 1
+mesonet, Count: 48, Level 1
 
 earth science > biosphere > vegetation > leaf characteristics > leaf area index (lai), Count: 36, Level 5
 
@@ -264,7 +264,7 @@ earth science > atmosphere > atmospheric chemistry > carbon and hydrocarbon comp
 
 earth science > biosphere > ecosystems > terrestrial ecosystems > alpine/tundra > arctic tundra, Count: 5, Level 6
 
-earth science > atmosphere > precipitation > precipitation amount > hourly precipitation amount, Count: 15, Level 5
+earth science > atmosphere > precipitation > precipitation amount > hourly precipitation amount, Count: 18, Level 5
 
 ncar aircraft, Count: 2, Level 1
 
@@ -276,7 +276,7 @@ earth science > atmosphere > altitude > geopotential height, Count: 12, Level 4
 
 earth science > atmosphere > atmospheric temperature > upper air temperature > vertical profiles, Count: 14, Level 5
 
-earth science > spectral/engineering > sensor characteristics > geolocation, Count: 4, Level 4
+earth science > spectral/engineering > sensor characteristics > geolocation, Count: 5, Level 4
 
 earth science > atmosphere > atmospheric temperature > upper air temperature, Count: 4, Level 4
 
@@ -285,6 +285,14 @@ earth science > atmosphere > aerosols > aerosol particle properties, Count: 3, L
 earth science > atmosphere > atmospheric temperature > surface temperature > skin temperature, Count: 3, Level 5
 
 earth science > land surface > surface thermal properties > skin temperature, Count: 2, Level 4
+
+earth science > spectral/engineering > radar > sensor counts, Count: 1, Level 4
+
+earth science > atmosphere > clouds, Count: 2, Level 3
+
+earth science > spectral/engineering > radar > return power, Count: 4, Level 4
+
+earth science > spectral/engineering > radar, Count: 2, Level 3
 
 earth science > spectral/engineering > visible wavelengths > visible imagery, Count: 2, Level 4
 
@@ -296,15 +304,15 @@ earth science > oceans > ocean temperature > sea surface temperature, Count: 3, 
 
 earth science > spectral/engineering > infrared wavelengths > infrared imagery, Count: 3, Level 4
 
-earth science > spectral/engineering > radar > radar backscatter, Count: 3, Level 4
+earth science > spectral/engineering > radar > radar backscatter, Count: 4, Level 4
 
 earth science > biosphere > vegetation > vegetation index > normalized difference vegetation index (ndvi), Count: 30, Level 5
 
 earth science > land surface > land use/land cover > land use/land cover classification > vegetation index > normalized difference vegetation index (ndvi), Count: 30, Level 6
 
-earth science > atmosphere > clouds > cloud dynamics, Count: 4, Level 4
+earth science > atmosphere > clouds > cloud dynamics, Count: 5, Level 4
 
-earth science > atmosphere > clouds > cloud microphysics, Count: 5, Level 4
+earth science > atmosphere > clouds > cloud microphysics, Count: 6, Level 4
 
 seabirds, Count: 17, Level 1
 
@@ -316,7 +324,7 @@ earth science > atmosphere > atmospheric temperature > upper air temperature > v
 
 earth science services > models > weather research/forecast models, Count: 4, Level 3
 
-earth science services > environmental advisories > weather/climate advisories > present weather, Count: 3, Level 4
+earth science services > environmental advisories > weather/climate advisories > present weather, Count: 4, Level 4
 
 earth science > atmosphere > clouds > cloud properties > cloud base height, Count: 5, Level 5
 
@@ -325,6 +333,14 @@ earth science > cryosphere > glaciers/ice sheets > glaciers, Count: 1, Level 4
 earth science > terrestrial hydrosphere > ground water > ground water features > water table > water table depth, Count: 1, Level 6
 
 bathymetry, Count: 20, Level 1
+
+earth science > atmosphere > precipitation > liquid precipitation > rain, Count: 3, Level 5
+
+earth science > atmosphere > precipitation > precipitation rate, Count: 16, Level 4
+
+earth science > atmosphere > precipitation > solid precipitation > snow, Count: 3, Level 5
+
+earth science > atmosphere > weather events > hail storms, Count: 4, Level 4
 
 earth science > climate indicators > biospheric indicators > species migration, Count: 1, Level 4
 
@@ -351,8 +367,6 @@ earth science > atmosphere > atmospheric temperature > surface temperature > pot
 earth science > atmosphere > atmospheric chemistry > oxygen compounds > ozone, Count: 8, Level 5
 
 marine mammal watch, Count: 6, Level 1
-
-earth science > atmosphere > precipitation > precipitation rate, Count: 14, Level 4
 
 earth science > oceans > ocean chemistry > stable isotopes, Count: 2, Level 4
 
@@ -406,7 +420,7 @@ earth science > atmosphere > weather events > tropical cyclones > tropical cyclo
 
 ecology, Count: 21, Level 1
 
-earth science > atmosphere > clouds > cloud properties, Count: 6, Level 4
+earth science > atmosphere > clouds > cloud properties, Count: 7, Level 4
 
 chlorophyll, Count: 4, Level 1
 
@@ -448,11 +462,23 @@ earth science > land surface > soils > soil bulk density, Count: 1, Level 4
 
 earth science > biosphere > ecosystems > anthropogenic/human influenced ecosystems > resource development site > minning/drilling site, Count: 1, Level 6
 
+earth science > atmosphere > weather events > fog, Count: 1, Level 4
+
+earth science > atmosphere > precipitation > liquid precipitation, Count: 2, Level 4
+
+earth science > atmosphere > precipitation > solid precipitation, Count: 1, Level 4
+
+earth science > atmosphere > weather events > snow storms, Count: 1, Level 4
+
+earth science > atmosphere > weather events > ice storms, Count: 1, Level 4
+
+earth science > atmosphere > weather events > snow storms > blowing snow, Count: 1, Level 5
+
+earth science > atmosphere > weather events > freeze/frost, Count: 1, Level 4
+
 earth science > spectral/engineering > platform characteristics > flight data logs, Count: 2, Level 4
 
 earth science > spectral/engineering > lidar > lidar backscatter, Count: 5, Level 4
-
-earth science > spectral/engineering > radar > return power, Count: 3, Level 4
 
 earth science > cryosphere > snow/ice > snow/ice temperature, Count: 4, Level 4
 
@@ -461,6 +487,32 @@ earth science > terrestrial hydrosphere > snow/ice > snow/ice temperature, Count
 earth science > atmosphere > atmospheric water vapor > water vapor profiles > water vapor mixing ratio profiles, Count: 3, Level 5
 
 earth science > spectral/engineering > microwave > brightness temperature, Count: 2, Level 4
+
+earth science > spectral/engineering > sensor characteristics > phase and amplitude, Count: 1, Level 4
+
+earth science > atmosphere > altitude, Count: 1, Level 3
+
+earth science > oceans > ocean winds > vertical wind motion, Count: 1, Level 4
+
+earth science > atmosphere > precipitation > precipitation profiles > melting layer height, Count: 1, Level 5
+
+earth science > atmosphere > atmospheric winds, Count: 1, Level 3
+
+earth science > atmosphere > atmospheric winds > wind profiles > line of sight winds, Count: 1, Level 5
+
+earth science > spectral/engineering > platform characteristics > airspeed/ground speed, Count: 1, Level 4
+
+earth science > spectral/engineering > platform characteristics > attitude characteristics, Count: 1, Level 4
+
+earth science > spectral/engineering > radar > radial velocity, Count: 1, Level 4
+
+earth science > land surface > topography, Count: 1, Level 3
+
+earth science > spectral/engineering > radar > radar cross-section, Count: 1, Level 4
+
+earth science > spectral/engineering > platform characteristics > line of sight velocity, Count: 1, Level 4
+
+earth science > land surface > topography > terrain elevation, Count: 1, Level 4
 
 earth science > atmosphere > aerosols > organic particles, Count: 2, Level 4
 
@@ -492,8 +544,6 @@ earth science > oceans > ocean temperature > water temperature, Count: 3, Level 
 
 dem, Count: 3, Level 1
 
-earth science > atmosphere > weather events > hail storms, Count: 1, Level 4
-
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > humidity, Count: 2, Level 5
 
 earth science > human dimensions > boundaries > administrative divisions, Count: 1, Level 4
@@ -508,15 +558,11 @@ position, Count: 3, Level 1
 
 earth science > land surface > soils > soil color, Count: 1, Level 4
 
-earth science > atmosphere > precipitation > liquid precipitation, Count: 1, Level 4
-
 earth science > biosphere > vegetation > photosynthetically active radiation, Count: 5, Level 4
 
 local and traditional knowledge, Count: 11, Level 1
 
 earth science > atmosphere > atmospheric radiation > ultraviolet radiation, Count: 1, Level 4
-
-earth science > atmosphere > precipitation > solid precipitation > snow, Count: 1, Level 5
 
 earth science > atmosphere > precipitation > liquid water equivalent, Count: 1, Level 4
 
@@ -532,7 +578,7 @@ earth science > atmosphere > atmospheric chemistry > carbon and hydrocarbon comp
 
 earth science > biological classification > animals/invertebrates > arthropods > crustaceans > copepods, Count: 1, Level 6
 
-earth science > atmosphere > precipitation > liquid precipitation > rain, Count: 1, Level 5
+earth science > atmosphere > atmospheric winds > upper level winds > storm relative winds, Count: 1, Level 5
 
 earth science > climate indicators > land surface/agriculture indicators > soil moisture, Count: 1, Level 4
 
@@ -604,7 +650,7 @@ earth science services > models > carbon cycle/carbon budget models, Count: 1, L
 
 Level 1: 73
 Level 2: 0
-Level 3: 10
-Level 4: 117
-Level 5: 79
+Level 3: 15
+Level 4: 131
+Level 5: 83
 Level 6: 23
