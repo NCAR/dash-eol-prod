@@ -10,7 +10,7 @@ For questions, contact datahelp@ucar.edu.
 
 Files contain metadata in a standardized, machine-readable format, and conform to the "ISO 19115 Geographic Information - Metadata" standard.   More information on this format can be found here:   
 
-https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
+https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_Part%20II%20Extentions%20for%20imagery%20and%20Gridded%20Data.pdf
 
 ## EOL Completeness Graph
 [GCMD Counts](https://github.com/NCAR/dash-eol-prod/blob/master/EOL-Datasets/eol_gcmd_counts_levels.txt)
