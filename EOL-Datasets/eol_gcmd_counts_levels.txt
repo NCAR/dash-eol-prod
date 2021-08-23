@@ -4,7 +4,7 @@ meteorology, Count: 180, Level 1
 
 upper air, Count: 580, Level 1
 
-arctic, Count: 1449, Level 1
+arctic, Count: 1514, Level 1
 
 land based, Count: 150, Level 1
 
@@ -36,29 +36,29 @@ vegetation, Count: 215, Level 1
 
 profiler, Count: 36, Level 1
 
-no keywords, Count: 334, Level 1
+no keywords, Count: 335, Level 1
 
 earth science > spectral/engineering > radar > radar reflectivity, Count: 36, Level 4
 
 lidar, Count: 89, Level 1
 
-buoy, Count: 9, Level 1
+buoy, Count: 19, Level 1
 
 hydrography, Count: 169, Level 1
 
-oceanography, Count: 560, Level 1
+oceanography, Count: 614, Level 1
 
-models/analyses, Count: 67, Level 1
+models/analyses, Count: 68, Level 1
 
 model, Count: 53, Level 1
 
-ctd ocean cast, Count: 94, Level 1
+ctd ocean cast, Count: 98, Level 1
 
-water sampling, Count: 95, Level 1
+water sampling, Count: 105, Level 1
 
 nutrient, Count: 47, Level 1
 
-water chemistry, Count: 82, Level 1
+water chemistry, Count: 90, Level 1
 
 stable isotope, Count: 33, Level 1
 
@@ -68,15 +68,15 @@ soils, Count: 70, Level 1
 
 ship, Count: 309, Level 1
 
-biogeochemical, Count: 76, Level 1
+biogeochemical, Count: 78, Level 1
 
-ship based, Count: 273, Level 1
+ship based, Count: 313, Level 1
 
 sediment, Count: 51, Level 1
 
 benthos, Count: 117, Level 1
 
-biology, Count: 163, Level 1
+biology, Count: 207, Level 1
 
 ancillary info, Count: 51, Level 1
 
@@ -94,11 +94,11 @@ land character, Count: 74, Level 1
 
 radiation, Count: 19, Level 1
 
-biomass, Count: 75, Level 1
+biomass, Count: 79, Level 1
 
-fish, Count: 5, Level 1
+fish, Count: 23, Level 1
 
-production, Count: 32, Level 1
+production, Count: 33, Level 1
 
 earth science > biosphere > vegetation > vegetation cover, Count: 64, Level 4
 
@@ -122,7 +122,7 @@ earth science > atmosphere > atmospheric winds > upper level winds > boundary la
 
 aerosols, Count: 12, Level 1
 
-mooring, Count: 24, Level 1
+mooring, Count: 35, Level 1
 
 earth science > spectral/engineering > radar > spectrum width, Count: 15, Level 4
 
@@ -138,7 +138,13 @@ electrification, Count: 8, Level 1
 
 radioisotope, Count: 29, Level 1
 
-abundance, Count: 35, Level 1
+earth science > biosphere > ecological dynamics > ecosystem functions > biomass dynamics, Count: 1, Level 5
+
+earth science > biosphere > ecological dynamics > ecosystem functions > food-web dynamics, Count: 6, Level 5
+
+earth science > biological classification > animals/vertebrates > fish, Count: 6, Level 4
+
+abundance, Count: 49, Level 1
 
 ice physics, Count: 21, Level 1
 
@@ -192,7 +198,7 @@ marine mammal acoustics, Count: 7, Level 1
 
 marine mammal survey, Count: 13, Level 1
 
-mammals, Count: 22, Level 1
+mammals, Count: 31, Level 1
 
 precipitation, Count: 21, Level 1
 
@@ -210,7 +216,7 @@ earth science > atmosphere > clouds > cloud properties > cloud ceiling, Count: 3
 
 sounding composites, Count: 28, Level 1
 
-plankton, Count: 95, Level 1
+plankton, Count: 116, Level 1
 
 sub-surface, Count: 38, Level 1
 
@@ -308,6 +314,8 @@ earth science > atmosphere > clouds > cloud dynamics, Count: 5, Level 4
 
 earth science > atmosphere > clouds > cloud microphysics, Count: 6, Level 4
 
+seabirds, Count: 17, Level 1
+
 earth science > climate indicators > land surface/agriculture indicators > vegetation cover, Count: 1, Level 4
 
 earth science > atmosphere > atmospheric temperature > upper air temperature > dew point temperature > dew point depression, Count: 1, Level 6
@@ -348,8 +356,6 @@ earth science > atmosphere > aerosols > particulate matter, Count: 1, Level 4
 
 active layer/permafrost, Count: 10, Level 1
 
-seabirds, Count: 3, Level 1
-
 snow and land ice, Count: 4, Level 1
 
 earth science > atmosphere > atmospheric radiation > incoming solar radiation, Count: 4, Level 4
@@ -362,7 +368,7 @@ earth science > atmosphere > atmospheric chemistry > oxygen compounds > ozone, C
 
 marine mammal watch, Count: 6, Level 1
 
-earth science > oceans > ocean chemistry > stable isotopes, Count: 1, Level 4
+earth science > oceans > ocean chemistry > stable isotopes, Count: 2, Level 4
 
 macrofauna, Count: 1, Level 1
 
@@ -412,7 +418,7 @@ earth science > atmosphere > weather events > tropical cyclones > landfall inten
 
 earth science > atmosphere > weather events > tropical cyclones > tropical cyclone motion > hurricanes (n. atlantic/e. pacific), Count: 1, Level 6
 
-ecology, Count: 20, Level 1
+ecology, Count: 21, Level 1
 
 earth science > atmosphere > clouds > cloud properties, Count: 7, Level 4
 
@@ -445,6 +451,12 @@ earth science > atmosphere > altitude > tropopause, Count: 1, Level 4
 earth science > atmosphere > clouds > cloud radiative transfer > cloud reflectance, Count: 1, Level 5
 
 earth science > atmosphere > clouds > cloud properties > cloud top temperature, Count: 1, Level 5
+
+earth science > biosphere > ecological dynamics > species/population interactions > population dynamics, Count: 1, Level 5
+
+earth science > climate indicators > biospheric indicators > breeding productivity, Count: 1, Level 4
+
+earth science > biological classification > animals/vertebrates > birds, Count: 3, Level 4
 
 earth science > land surface > soils > soil bulk density, Count: 1, Level 4
 
@@ -534,11 +546,21 @@ dem, Count: 3, Level 1
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > humidity, Count: 2, Level 5
 
+earth science > human dimensions > boundaries > administrative divisions, Count: 1, Level 4
+
+earth science > biosphere > ecosystems > aquatic ecosystems > plankton > phytoplankton, Count: 3, Level 6
+
+earth science > biosphere > ecosystems > aquatic ecosystems > plankton > zooplankton, Count: 3, Level 6
+
+earth science > biological classification > animals/vertebrates > mammals, Count: 1, Level 4
+
 position, Count: 3, Level 1
 
 earth science > land surface > soils > soil color, Count: 1, Level 4
 
 earth science > biosphere > vegetation > photosynthetically active radiation, Count: 5, Level 4
+
+local and traditional knowledge, Count: 11, Level 1
 
 earth science > atmosphere > atmospheric radiation > ultraviolet radiation, Count: 1, Level 4
 
@@ -572,11 +594,11 @@ earth science > oceans > ocean circulation > ocean currents, Count: 1, Level 4
 
 earth science services > models > cryosphere models, Count: 1, Level 3
 
+earth science > oceans > aquatic sciences > fisheries, Count: 1, Level 4
+
 earth science > atmosphere > atmospheric water vapor > water vapor profiles > vertically resolved backscatter light, Count: 2, Level 5
 
 earth science > spectral/engineering > visible wavelengths > visible radiance, Count: 1, Level 4
-
-local and traditional knowledge, Count: 3, Level 1
 
 earth science > cryosphere > snow/ice > snow water equivalent, Count: 2, Level 4
 
@@ -587,6 +609,14 @@ earth science > atmosphere > atmospheric winds > surface winds > wind direction 
 earth science > atmosphere > atmospheric winds > surface winds > wind speed tendency, Count: 1, Level 5
 
 earth science > biosphere > vegetation > plant phenology, Count: 1, Level 4
+
+earth science > oceans > salinity/density > salinity, Count: 1, Level 4
+
+earth science > oceans > ocean chemistry > ammonia, Count: 1, Level 4
+
+earth science > oceans > ocean chemistry > nitrate, Count: 1, Level 4
+
+earth science > oceans > ocean temperature, Count: 1, Level 3
 
 accompanying archives, Count: 1, Level 1
 
@@ -620,7 +650,7 @@ earth science services > models > carbon cycle/carbon budget models, Count: 1, L
 
 Level 1: 73
 Level 2: 0
-Level 3: 14
-Level 4: 122
-Level 5: 80
-Level 6: 21
+Level 3: 15
+Level 4: 131
+Level 5: 83
+Level 6: 23
