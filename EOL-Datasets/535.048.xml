@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2020-12-03T21:47:27Z</gco:DateTime>
+    <gco:DateTime>2021-10-01T16:05:10Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_DPG32G_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_DPG32G_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_ES1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_ES1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -141,7 +141,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_ES4_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_ES4_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -165,7 +165,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-DPG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-DPG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -189,7 +189,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-DPG4_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-DPG4_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -213,7 +213,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-EAST1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-EAST1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -237,7 +237,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-EAST2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_T-EAST2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -261,7 +261,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_WS1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_WS1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -285,7 +285,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/DPG_WS2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/DPG_WS2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -309,7 +309,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/records.xlsx</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/records.xlsx</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -333,7 +333,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_CAN1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_CAN1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -357,7 +357,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_CAN2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_CAN2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -381,7 +381,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_ES2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_ES2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -405,7 +405,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_ES3_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_ES3_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -429,7 +429,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_NWG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_NWG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -453,7 +453,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_SG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_SG1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -477,7 +477,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_SG2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_SG2_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -501,7 +501,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_SG3_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_SG3_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -525,7 +525,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UND_SM1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UND_SM1_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -549,7 +549,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_EFS-PL_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_EFS-PL_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -573,7 +573,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_EFS-SB_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_EFS-SB_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -597,7 +597,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_ES5_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_ES5_20Hz_and_1Hz_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -621,7 +621,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-ES3_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-ES3_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -645,7 +645,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-ES5_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-ES5_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -669,7 +669,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-PL_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-PL_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -693,7 +693,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-SB_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_SEB-SB_ExtensiveEnergyBalance_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -717,7 +717,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/UoU_SONIC-PL_FluxTower_Readme.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/535.048/UoU_SONIC-PL_FluxTower_Readme.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -1331,7 +1331,7 @@
          <gmd:resourceConstraints>
             <gmd:MD_LegalConstraints>
                <gmd:useLimitation>
-                  <gco:CharacterString>These data are restricted by a user agreement: https://data.dev.eol.ucar.edu/datafile/nph-get/535.048/MATERHORN_Data_Fair_Use_20170731.pdf</gco:CharacterString>
+                  <gco:CharacterString>These data are restricted by a user agreement: https://data.eol.ucar.edu/datafile/nph-get/535.048/MATERHORN_Data_Fair_Use_20170731.pdf</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
                   <gco:CharacterString>none</gco:CharacterString>
@@ -1438,7 +1438,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://localhost:8443/zinc/dataset/535.048</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/535.048</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -1454,7 +1454,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.dev.eol.ucar.edu/cgi-bin/codiac/eula/fgr_form/id=535.048</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/eula/fgr_form/id=535.048</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
