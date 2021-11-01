@@ -3,6 +3,7 @@ Hydrography
 Arctic
 Oceanography
 Ship
+Aircraft
 Hydrography
 Arctic
 Production
@@ -1863,6 +1864,7 @@ Oceanography
 Arctic
 Sea Ice
 Ship Based
+Aircraft
 Sounding
 Aircraft
 Upper Air
@@ -2790,6 +2792,7 @@ Arctic
 Arctic
 Surface
 Vegetation
+Aircraft
 Upper Air
 Sounding
 Arctic
@@ -2997,6 +3000,7 @@ Arctic
 Aircraft
 Radar
 Upper Air
+Aircraft
 Aircraft
 Aircraft
 Aircraft
@@ -3358,6 +3362,7 @@ Electrification
 Aircraft
 Upper Air
 Lidar
+Aircraft
 Aircraft
 Oceanography
 Arctic
@@ -6771,6 +6776,7 @@ Aircraft
 Aircraft
 no keywords
 Surface
+Aircraft
 Satellite
 Meteorology
 Arctic
@@ -8769,6 +8775,7 @@ EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD CEILING
 Arctic
 Surface
 Vegetation
+Aircraft
 Upper Air
 Upper Air
 Lidar
@@ -8979,6 +8986,7 @@ Aircraft
 Upper Air
 Sounding
 Satellite
+Aircraft
 Surface
 Sounding
 Upper Air
@@ -10221,6 +10229,7 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR REFLECTIVITY
 no keywords
 EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW DEPTH
 EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW DEPTH
+Aircraft
 Soils
 Arctic
 Surface
@@ -10964,9 +10973,9 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PREC
 Surface
 no keywords
 Aircraft
+Precipitation
 Surface
 Land Based
-Precipitation
 Oceanography
 Water Sampling
 Nutrient
@@ -11019,8 +11028,8 @@ Biogeochemical
 Water Chemistry
 Ship
 Aircraft
-Upper Air
 Sounding
+Upper Air
 no keywords
 Radar
 Satellite
@@ -11174,6 +11183,7 @@ Surface
 Arctic
 Surface
 Vegetation
+Aircraft
 Aircraft
 no keywords
 Oceanography

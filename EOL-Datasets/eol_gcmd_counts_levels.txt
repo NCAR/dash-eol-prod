@@ -8,6 +8,8 @@ oceanography, Count: 619, Level 1
 
 ship, Count: 309, Level 1
 
+aircraft, Count: 1236, Level 1
+
 production, Count: 33, Level 1
 
 satellite, Count: 355, Level 1
@@ -27,8 +29,6 @@ water chemistry, Count: 90, Level 1
 soils, Count: 70, Level 1
 
 sub-surface, Count: 38, Level 1
-
-aircraft, Count: 1226, Level 1
 
 earth science > atmosphere > precipitation > precipitation amount, Count: 85, Level 4
 
