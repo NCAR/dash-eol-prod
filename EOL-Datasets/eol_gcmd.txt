@@ -10973,9 +10973,9 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PREC
 Surface
 no keywords
 Aircraft
+Land Based
 Precipitation
 Surface
-Land Based
 Oceanography
 Water Sampling
 Nutrient
