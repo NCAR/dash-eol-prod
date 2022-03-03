@@ -161,6 +161,8 @@ Water Chemistry
 Ship
 Arctic
 Oceanography
+Sounding
+Upper Air
 Model
 Models/Analyses
 Water Sampling
@@ -335,15 +337,7 @@ Oceanography
 Surface
 EARTH SCIENCE > LAND SURFACE > SOILS > SOIL TEMPERATURE
 Photography
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SEA LEVEL PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
-EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > VISIBILITY
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SURFACE PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
-EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD CEILING
+Surface
 no keywords
 Upper Air
 Satellite
@@ -538,10 +532,12 @@ Oceanography
 Water Sampling
 Biology
 Lidar
+Satellite
 Aircraft
 Arctic
 Models/Analyses
 Radar
+Aircraft
 Aircraft
 EARTH SCIENCE > BIOSPHERE > VEGETATION > LEAF CHARACTERISTICS > LEAF AREA INDEX (LAI)
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION INDEX > NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)
@@ -586,6 +582,9 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SURFACE PRESSURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
+Oceanography
+Buoy
+Surface
 Models/Analyses
 Satellite
 Aircraft
@@ -654,7 +653,7 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND DIRECT
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > BOUNDARY LAYER WINDS
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD MICROPHYSICS > CLOUD LIQUID WATER/ICE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND DIRECTION PROFILES
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
+Surface
 no keywords
 Aircraft
 Ship Based
@@ -742,6 +741,7 @@ Satellite
 Meteorology
 Arctic
 Ship
+Satellite
 Arctic
 Surface
 Trace Gases
@@ -1017,6 +1017,7 @@ Upper Air
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR REFLECTIVITY
 Arctic
 Oceanography
+Aircraft
 Ship Based
 Arctic
 CTD ocean cast
@@ -1172,7 +1173,7 @@ Oceanography
 Mesonet
 Surface
 Surface
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > HOURLY PRECIPITATION AMOUNT
+Surface
 Aircraft
 Satellite
 Meteorology
@@ -1196,6 +1197,7 @@ Aircraft
 Arctic
 Land Based
 Surface
+Satellite
 Satellite
 Surface
 Aircraft
@@ -1447,6 +1449,7 @@ Aircraft
 Models/Analyses
 Aircraft
 Aircraft
+Aircraft
 Arctic
 Models/Analyses
 Model
@@ -1535,6 +1538,7 @@ EARTH SCIENCE > ATMOSPHERE > ALTITUDE > GEOPOTENTIAL HEIGHT
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 Lidar
 Aircraft
+Satellite
 Radar
 Aircraft
 Satellite
@@ -1645,6 +1649,7 @@ Arctic
 Ship Based
 Aircraft
 Aircraft
+Satellite
 Arctic
 Surface
 Vegetation
@@ -2096,6 +2101,7 @@ Radar
 Aircraft
 Lidar
 Upper Air
+Aircraft
 Stable Isotope
 Benthos
 Biogeochemical
@@ -2119,6 +2125,9 @@ Upper Air
 Upper Air
 Sounding
 Satellite
+Lidar
+Upper Air
+Ship
 Aircraft
 Ship Based
 Arctic
@@ -2282,6 +2291,7 @@ Arctic
 Ship Based
 Upper Air
 Flux
+Aircraft
 Oceanography
 Hydrography
 Arctic
@@ -2325,6 +2335,8 @@ Sounding
 Upper Air
 Satellite
 NASA LaRC SATCORPS
+Upper Air
+Ship
 no keywords
 Satellite
 Meteorology
@@ -2354,15 +2366,7 @@ Aircraft
 Vegetation
 Model
 Models/Analyses
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SEA LEVEL PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
-EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > VISIBILITY
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SURFACE PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
-EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD CEILING
+Surface
 EARTH SCIENCE > SPECTRAL/ENGINEERING > INFRARED WAVELENGTHS > INFRARED RADIANCE
 Satellite
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
@@ -2455,6 +2459,8 @@ Upper Air
 Aircraft
 Arctic
 Ice Physics
+Ship
+Satellite
 Arctic
 CTD ocean cast
 Plankton
@@ -2828,6 +2834,7 @@ Benthos
 Arctic
 Surface
 Vegetation
+Aircraft
 no keywords
 Ancillary Info
 Upper Air
@@ -2922,6 +2929,7 @@ Arctic
 Ship Based
 Arctic
 Oceanography
+Satellite
 Photography
 Sounding
 Upper Air
@@ -3094,6 +3102,7 @@ Surface
 Vegetation
 Sea Ice
 Ship Based
+Aircraft
 no keywords
 Satellite
 Lidar
@@ -3334,6 +3343,7 @@ Photography
 Arctic
 Vegetation
 Aircraft
+Satellite
 Oceanography
 Arctic
 Ship Based
@@ -3464,6 +3474,7 @@ Sub-Surface
 Active Layer/Permafrost
 Aircraft
 Chemistry
+Satellite
 Surface
 Satellite
 Sounding
@@ -3694,6 +3705,9 @@ Nutrient
 Arctic
 Arctic
 Chemistry
+Oceanography
+Ship
+Surface
 Aircraft
 Upper Air
 Sounding
@@ -3862,6 +3876,7 @@ Surface
 Land Based
 Upper Air
 Sounding
+Satellite
 Aircraft
 Ship Based
 Hydrography
@@ -4108,6 +4123,7 @@ Arctic
 Vegetation
 no keywords
 Aircraft
+Aircraft
 Electrification
 Surface
 Lightning
@@ -4119,6 +4135,8 @@ Aircraft
 Sounding
 Upper Air
 Sounding
+Oceanography
+Ship
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > HUMIDITY > HUMIDITY MIXING RATIO
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
@@ -4219,7 +4237,7 @@ Water Chemistry
 Biology
 Plankton
 Aircraft
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PRECIPITATION AMOUNT
+Surface
 Aircraft
 Upper Air
 Sounding
@@ -4288,6 +4306,8 @@ Models/Analyses
 Biology
 Aircraft
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
+Upper Air
+Ship
 Surface
 Aircraft
 Arctic
@@ -4323,6 +4343,9 @@ Arctic
 Surface
 Vegetation
 Upper Air
+Surface
+Upper Air
+Ship
 Surface
 Surface
 Arctic
@@ -4443,6 +4466,9 @@ Sea Ice
 Arctic
 Oceanography
 Aircraft
+Lidar
+Upper Air
+Ship
 Arctic
 Models/Analyses
 Ship Based
@@ -4485,6 +4511,8 @@ Surface
 Land Based
 Flux
 Aircraft
+Upper Air
+Ship
 Satellite
 Satellite
 Arctic
@@ -4745,8 +4773,12 @@ Models/Analyses
 Model
 Oceanography
 Arctic
+Satellite
 Upper Air
 Sounding
+Oceanography
+Ship
+Surface
 Arctic
 Fish
 Plankton
@@ -5381,6 +5413,7 @@ Surface
 Profiler
 Upper Air
 Aircraft
+Aircraft
 Upper Air
 Sounding
 Aircraft
@@ -5530,6 +5563,7 @@ no keywords
 no keywords
 Model
 Radar
+Satellite
 Aircraft
 Aircraft
 Ship Based
@@ -5618,6 +5652,7 @@ Flux
 no keywords
 Sounding
 Upper Air
+Aircraft
 Aircraft
 Oceanography
 Arctic
@@ -5720,6 +5755,8 @@ Aircraft
 Ancillary Info
 Aircraft
 Upper Air
+Ship
+Upper Air
 Arctic
 Oceanography
 Benthos
@@ -5732,6 +5769,8 @@ Arctic
 Vegetation
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC ELECTRICITY > LIGHTNING
 EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > LIGHTNING
+Land Based
+Surface
 Oceanography
 Water Sampling
 Biogeochemical
@@ -5812,6 +5851,8 @@ Sea Ice
 Arctic
 Oceanography
 Aircraft
+Upper Air
+Ship
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SEA LEVEL PRESSURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
@@ -5830,6 +5871,7 @@ Oceanography
 Biogeochemical
 Sediment
 Chemistry
+Aircraft
 Aircraft
 Arctic
 Surface
@@ -6049,6 +6091,7 @@ Biomass
 no keywords
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
 Aircraft
+Satellite
 Aircraft
 Arctic
 Surface
@@ -6070,6 +6113,7 @@ Arctic
 Surface
 Land Based
 Lidar
+Satellite
 Aircraft
 EARTH SCIENCE > BIOSPHERE > VEGETATION > LEAF CHARACTERISTICS > LEAF AREA INDEX (LAI)
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION INDEX > LEAF AREA INDEX (LAI)
@@ -6194,6 +6238,7 @@ EARTH SCIENCE > CLIMATE INDICATORS > BIOSPHERIC INDICATORS > BREEDING PRODUCTIVI
 EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > BIRDS
 EARTH SCIENCE > BIOSPHERE > ECOLOGICAL DYNAMICS > ECOSYSTEM FUNCTIONS > FOOD-WEB DYNAMICS
 Aircraft
+Satellite
 Surface
 Land Based
 Arctic
@@ -6240,15 +6285,7 @@ Aircraft
 Satellite
 no keywords
 Aircraft
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SEA LEVEL PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
-EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > VISIBILITY
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SURFACE PRESSURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
-EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
-EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD CEILING
+Surface
 Satellite
 Satellite
 Aircraft
@@ -6274,6 +6311,7 @@ Arctic
 Surface
 Vegetation
 Surface
+Aircraft
 Aircraft
 Arctic
 Ship Based
@@ -6312,6 +6350,7 @@ Precipitation
 Mesonet
 Surface
 Upper Air
+Satellite
 Arctic
 Chemistry
 Upper Air
@@ -6356,6 +6395,7 @@ Mesonet
 Surface
 EARTH SCIENCE > CRYOSPHERE > SEA ICE > ICE TEMPERATURE
 EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW/ICE TEMPERATURE
+Satellite
 Ship Based
 Abundance
 Arctic
@@ -6455,6 +6495,8 @@ Satellite
 Arctic
 Sounding
 Upper Air
+Ship
+Surface
 Aircraft
 Radar
 Arctic
@@ -6620,6 +6662,7 @@ no keywords
 Aircraft
 Aircraft
 Chemistry
+Satellite
 Land Based
 Radar
 no keywords
@@ -6808,6 +6851,7 @@ Arctic
 Production
 Ship
 no keywords
+Models/Analyses
 Aircraft
 Radar
 Radar
@@ -7418,6 +7462,7 @@ Oceanography
 Sediment
 Benthos
 Satellite
+Satellite
 Meteorology
 Arctic
 Upper Air
@@ -7477,6 +7522,7 @@ Oceanography
 Meteorology
 Arctic
 Ship Based
+Satellite
 Arctic
 Surface
 Land Based
@@ -7609,6 +7655,9 @@ Vegetation
 Aircraft
 Chemistry
 Upper Air
+Sounding
+Upper Air
+Ship
 Hydrography
 Arctic
 CTD ocean cast
@@ -7854,6 +7903,8 @@ Model
 Models/Analyses
 Sounding
 Upper Air
+Aircraft
+Chemistry
 Upper Air
 Sounding
 Model
@@ -7865,6 +7916,8 @@ no keywords
 Upper Air
 Sounding
 Aircraft
+Ship
+Radar
 Upper Air
 Ship Based
 Meteorology
@@ -7948,6 +8001,8 @@ Aircraft
 Upper Air
 Model
 no keywords
+Ship
+Surface
 Arctic
 Oceanography
 Ship
@@ -8040,6 +8095,8 @@ EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
 no keywords
 Model
 Models/Analyses
+Ship
+Radar
 Upper Air
 Sounding
 Aircraft
@@ -8280,6 +8337,7 @@ Upper Air
 Arctic
 EARTH SCIENCE > OCEANS > SEA ICE > ICE TEMPERATURE
 EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > WATER TEMPERATURE
+Models/Analyses
 Ship Based
 Arctic
 Oceanography
@@ -8420,6 +8478,7 @@ Arctic
 Biogeochemical
 Water Chemistry
 Ship
+Satellite
 Upper Air
 Aircraft
 Aircraft
@@ -8539,6 +8598,7 @@ Satellite
 Arctic
 Surface
 no keywords
+Aircraft
 Ancillary Info
 Upper Air
 Ship Based
@@ -8685,6 +8745,7 @@ Oceanography
 Arctic
 Bathymetry
 Ship Based
+Satellite
 Aircraft
 Satellite
 Arctic
@@ -8725,6 +8786,7 @@ Ship
 Biology
 Upper Air
 Profiler
+Satellite
 Surface
 Land Based
 Arctic
@@ -8840,6 +8902,7 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD CEILING
 Aircraft
+Satellite
 no keywords
 Upper Air
 Sounding
@@ -8929,6 +8992,7 @@ Aircraft
 EARTH SCIENCE > LAND SURFACE > SOILS > SOIL TEMPERATURE
 EARTH SCIENCE > LAND SURFACE > SOILS > SOIL MOISTURE/WATER CONTENT
 Upper Air
+Satellite
 Arctic
 Surface
 Land Based
@@ -9021,6 +9085,7 @@ Radar
 Aircraft
 Radar
 Arctic
+Models/Analyses
 Models/Analyses
 Surface
 Precipitation
@@ -9343,6 +9408,9 @@ Sea Ice
 Arctic
 Oceanography
 Surface
+Oceanography
+Ship
+Surface
 Radar
 Aircraft
 Satellite
@@ -9371,6 +9439,7 @@ Arctic
 Radar
 Upper Air
 Sounding
+Satellite
 Radar
 Arctic
 Surface
@@ -9601,6 +9670,8 @@ Satellite
 Meteorology
 Arctic
 Radar
+Oceanography
+Ship
 Flux
 Aircraft
 Chemistry
@@ -9619,6 +9690,9 @@ Oceanography
 Hydrography
 Arctic
 Ship Based
+Upper Air
+Ship
+Surface
 EARTH SCIENCE > OCEANS > SEA SURFACE TOPOGRAPHY > SEA SURFACE HEIGHT > SEA SURFACE HEIGHT ANOMALY _SSHA_
 EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > WATER TEMPERATURE
 EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE
@@ -10434,6 +10508,7 @@ Sounding
 Radar
 Model
 Models/Analyses
+Satellite
 Arctic
 Models/Analyses
 Aircraft
@@ -10727,6 +10802,8 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > SHORTWAVE RADIATION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE
 no keywords
 no keywords
+Aircraft
+Radar
 Surface
 Mesonet
 Arctic
@@ -10841,6 +10918,7 @@ Biogeochemical
 Ship
 Chlorophyll
 Biology
+Satellite
 Satellite
 Model
 Models/Analyses
@@ -10989,6 +11067,7 @@ Arctic
 Surface
 Vegetation
 no keywords
+Satellite
 Model
 Models/Analyses
 Sounding
@@ -11057,6 +11136,7 @@ Arctic
 Oceanography
 Ship
 Radioisotope
+Satellite
 Aircraft
 Satellite
 Arctic
@@ -11220,6 +11300,9 @@ Aircraft
 Aircraft
 Sounding
 Upper Air
+Oceanography
+Ship
+Surface
 Arctic
 Oceanography
 Water Sampling
@@ -11423,6 +11506,9 @@ Hydrology
 Surface
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > SOLID PRECIPITATION > HAIL
 Satellite
+Oceanography
+Ship
+Surface
 Arctic
 Surface
 Vegetation
@@ -11443,6 +11529,7 @@ Satellite
 Meteorology
 Arctic
 Ship
+Satellite
 Upper Air
 Oceanography
 Meteorology
@@ -11562,6 +11649,8 @@ Satellite
 Model
 Surface
 Models/Analyses
+Oceanography
+Ship
 Arctic
 Surface
 Upper Air
@@ -11666,6 +11755,9 @@ Ship
 Aircraft
 Arctic
 Aircraft
+Sounding
+Upper Air
+Ship
 Meteorology
 Arctic
 Radiation
@@ -11725,6 +11817,7 @@ Satellite
 Arctic
 Arctic
 Ice Physics
+Satellite
 Mesonet
 Surface
 Radar
@@ -11781,6 +11874,8 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > HOURLY PRECI
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > SOLID PRECIPITATION > SNOW
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > SOLID PRECIPITATION > HAIL
 Surface
+Ship
+Oceanography
 Ship
 Ecology
 Arctic
@@ -12206,6 +12301,7 @@ Arctic
 Oceanography
 Seabirds
 Biology
+Aircraft
 Radar
 no keywords
 Meteorology
@@ -12230,6 +12326,7 @@ EARTH SCIENCE SERVICES > DATA ANALYSIS AND VISUALIZATION > GEOGRAPHIC INFORMATIO
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED TENDENCY
 EARTH SCIENCE > BIOSPHERE > VEGETATION > PLANT PHENOLOGY
 Upper Air
+Satellite
 Aircraft
 Biogeochemical
 Sea Ice
@@ -12284,6 +12381,8 @@ Bathymetry
 Ship Based
 Arctic
 Hydrology
+Oceanography
+Ship
 Satellite
 Surface
 Arctic
@@ -12391,6 +12490,7 @@ Arctic
 Mooring
 Plankton
 Oceanography
+Satellite
 Ancillary Info
 Satellite
 Ship Based

@@ -1,34 +1,34 @@
-sounding, Count: 409, Level 1
+sounding, Count: 412, Level 1
 
-aircraft, Count: 1262, Level 1
+aircraft, Count: 1278, Level 1
 
-upper air, Count: 766, Level 1
+upper air, Count: 778, Level 1
 
 no keywords, Count: 340, Level 1
 
-satellite, Count: 466, Level 1
+satellite, Count: 500, Level 1
 
-surface, Count: 738, Level 1
+surface, Count: 755, Level 1
 
-earth science > atmosphere > atmospheric pressure > sea level pressure, Count: 34, Level 4
+earth science > atmosphere > atmospheric pressure > sea level pressure, Count: 31, Level 4
 
-earth science > atmosphere > atmospheric temperature > surface temperature > air temperature, Count: 101, Level 5
+earth science > atmosphere > atmospheric temperature > surface temperature > air temperature, Count: 98, Level 5
 
-earth science > atmosphere > precipitation > precipitation amount, Count: 84, Level 4
+earth science > atmosphere > precipitation > precipitation amount, Count: 80, Level 4
 
-earth science > atmosphere > air quality > visibility, Count: 33, Level 4
+earth science > atmosphere > air quality > visibility, Count: 30, Level 4
 
-earth science > atmosphere > atmospheric pressure > surface pressure, Count: 88, Level 4
+earth science > atmosphere > atmospheric pressure > surface pressure, Count: 85, Level 4
 
-earth science > atmosphere > atmospheric winds > surface winds > wind speed, Count: 85, Level 5
+earth science > atmosphere > atmospheric winds > surface winds > wind speed, Count: 82, Level 5
 
-earth science > atmosphere > atmospheric temperature > surface temperature > dew point temperature, Count: 62, Level 5
+earth science > atmosphere > atmospheric temperature > surface temperature > dew point temperature, Count: 59, Level 5
 
-earth science > atmosphere > atmospheric winds > surface winds > wind direction, Count: 84, Level 5
+earth science > atmosphere > atmospheric winds > surface winds > wind direction, Count: 81, Level 5
 
-earth science > atmosphere > clouds > cloud properties > cloud ceiling, Count: 29, Level 5
+earth science > atmosphere > clouds > cloud properties > cloud ceiling, Count: 26, Level 5
 
-lidar, Count: 93, Level 1
+lidar, Count: 95, Level 1
 
 ship based, Count: 320, Level 1
 
@@ -36,9 +36,9 @@ hydrography, Count: 169, Level 1
 
 arctic, Count: 1514, Level 1
 
-oceanography, Count: 620, Level 1
+oceanography, Count: 631, Level 1
 
-ship, Count: 309, Level 1
+ship, Count: 335, Level 1
 
 plankton, Count: 116, Level 1
 
@@ -50,9 +50,9 @@ trace gases, Count: 59, Level 1
 
 model, Count: 232, Level 1
 
-models/analyses, Count: 271, Level 1
+models/analyses, Count: 274, Level 1
 
-radar, Count: 244, Level 1
+radar, Count: 247, Level 1
 
 ancillary info, Count: 70, Level 1
 
@@ -64,7 +64,7 @@ sea ice, Count: 55, Level 1
 
 photography, Count: 77, Level 1
 
-land based, Count: 178, Level 1
+land based, Count: 179, Level 1
 
 bathymetry, Count: 20, Level 1
 
@@ -84,11 +84,11 @@ benthos, Count: 117, Level 1
 
 ecology, Count: 21, Level 1
 
-chemistry, Count: 119, Level 1
+chemistry, Count: 120, Level 1
 
 biology, Count: 207, Level 1
 
-earth science > atmosphere > precipitation > precipitation amount > 24 hour precipitation amount, Count: 15, Level 5
+earth science > atmosphere > precipitation > precipitation amount > 24 hour precipitation amount, Count: 14, Level 5
 
 land character, Count: 74, Level 1
 
@@ -164,7 +164,7 @@ earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ic
 
 earth science > biosphere > vegetation > vegetation cover, Count: 64, Level 4
 
-buoy, Count: 20, Level 1
+buoy, Count: 21, Level 1
 
 earth science > land surface > soils > soil temperature, Count: 15, Level 4
 
@@ -294,7 +294,7 @@ earth science > spectral/engineering > radar > spectrum width, Count: 9, Level 4
 
 chlorophyll, Count: 4, Level 1
 
-earth science > atmosphere > precipitation > precipitation amount > hourly precipitation amount, Count: 17, Level 5
+earth science > atmosphere > precipitation > precipitation amount > hourly precipitation amount, Count: 16, Level 5
 
 earth science > atmosphere > clouds > cloud properties > cloud base height, Count: 5, Level 5
 
