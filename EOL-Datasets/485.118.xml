@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-02-03T22:42:14Z</gco:DateTime>
+    <gco:DateTime>2022-05-03T22:42:33Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -100,7 +100,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Radar regional mosaic, convectivity and convective/stratiform echo type classification</gco:CharacterString>
+            <gco:CharacterString>Radar mosaic, convectivity and convective/stratiform echo type</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>485.118</gco:CharacterString>
@@ -126,7 +126,7 @@
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>Radar regional mosaic, convectivity and convective/stratiform echo type classification</gco:CharacterString>
+                    <gco:CharacterString>Radar mosaic, convectivity and convective/stratiform echo type</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
@@ -271,37 +271,6 @@
                       </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:citedResponsibleParty>
-          <gmd:citedResponsibleParty>
-            <gmd:CI_ResponsibleParty>
-              <gmd:organisationName>
-                <gco:CharacterString>NCAR/EOL Remote Sensing Facility</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:country>
-                        <gco:CharacterString>USA</gco:CharacterString>
-                      </gmd:country>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                  <gmd:onlineResource>
-                    <gmd:CI_OnlineResource>
-                      <gmd:linkage>
-                        <gmd:URL>https://www.eol.ucar.edu/facilities/remote-sensing-facility-rsf</gmd:URL>
-                      </gmd:linkage>
-                      <gmd:name>
-                        <gco:CharacterString>homepage</gco:CharacterString>
-                      </gmd:name>
-                    </gmd:CI_OnlineResource>
-                  </gmd:onlineResource>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
@@ -506,13 +475,37 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD DYNAMICS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; CONVECTION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION PROFILES &gt; RAIN TYPE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD DYNAMICS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED)</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED) &gt; PRECIPITATING CONVECTIVE CLOUD SYSTEMS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED) &gt; DEEP CONVECTIVE CLOUD SYSTEMS</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -661,7 +654,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Radar regional mosaic, convectivity and convective/stratiform echo type classification homepage</gco:CharacterString>
+                <gco:CharacterString>Radar mosaic, convectivity and convective/stratiform echo type homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -677,7 +670,7 @@
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Radar regional mosaic, convectivity and convective/stratiform echo type classification Data Order Form</gco:CharacterString>
+                <gco:CharacterString>Radar mosaic, convectivity and convective/stratiform echo type Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>

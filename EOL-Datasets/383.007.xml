@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>edu.ucar.eol::485.113</gco:CharacterString>
+    <gco:CharacterString>edu.ucar.eol::383.007</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
@@ -70,22 +70,45 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/10.5065/D6QR4VHM</gco:CharacterString>
+    <gco:CharacterString>https://doi.org/10.26023/ZCKB-M9K5-5X0C</gco:CharacterString>
   </gmd:dataSetURI>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/383.007/CONTRAST_MTSAT_README.txt</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>https</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>Documentation #1</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString>CONTRAST_MTSAT_README.txt</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification>
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Radar 3D mosaic DBZ and ZDR</gco:CharacterString>
+            <gco:CharacterString>MTSAT-2 Satellite Data (AREA format)</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
-            <gco:CharacterString>485.113</gco:CharacterString>
+            <gco:CharacterString>383.007</gco:CharacterString>
           </gmd:alternateTitle>
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2016-10-17T21:30:46Z</gco:DateTime>
+                <gco:DateTime>2014-04-15T14:09:15Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -96,19 +119,19 @@
             <gco:CharacterString>1.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2016-10-17T21:30:46Z</gco:DateTime>
+            <gco:DateTime>2014-04-15T14:09:15Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>Radar 3D mosaic DBZ and ZDR</gco:CharacterString>
+                    <gco:CharacterString>MTSAT-2 Satellite Data (AREA format)</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
                       <gmd:date>
-                        <gco:DateTime>2016-10-17T21:30:46Z</gco:DateTime>
+                        <gco:DateTime>2014-04-15T14:09:15Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -164,14 +187,14 @@
                 </gmd:CI_Citation>
               </gmd:authority>
               <gmd:code>
-                <gco:CharacterString>485.113</gco:CharacterString>
+                <gco:CharacterString>383.007</gco:CharacterString>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/10.5065/D6QR4VHM" xlink:title="DOI" xlink:actuate="onRequest">doi:10.5065/D6QR4VHM</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/10.26023/ZCKB-M9K5-5X0C" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/ZCKB-M9K5-5X0C</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -223,31 +246,40 @@
           </gmd:citedResponsibleParty>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>Michael Dixon</gco:CharacterString>
-              </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>NCAR/EOL/RSF</gco:CharacterString>
+                <gco:CharacterString>National Environmental Satellite, Data, and Information Service (NESDIS), NOAA</gco:CharacterString>
               </gmd:organisationName>
-              <gmd:positionName>
-                <gco:CharacterString>SOFT ENG/PROG IV</gco:CharacterString>
-              </gmd:positionName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
-                  <gmd:phone>
-                    <gmd:CI_Telephone>
-                      <gmd:voice>
-                        <gco:CharacterString>303-497-8440</gco:CharacterString>
-                      </gmd:voice>
-                    </gmd:CI_Telephone>
-                  </gmd:phone>
                   <gmd:address>
                     <gmd:CI_Address>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString>dixon@ucar.edu</gco:CharacterString>
-                      </gmd:electronicMailAddress>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>User Services, Room 100, World Weather Building</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Washington</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>DC</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>20233</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>USA</gco:CharacterString>
+                      </gmd:country>
                     </gmd:CI_Address>
                   </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>http://www.nesdis.noaa.gov/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>homepage</gco:CharacterString>
+                      </gmd:name>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
@@ -258,7 +290,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>3D mosaic of 19 NEXRAD and S-Pol in netCDF format. DBZ and ZDR for the Plains Elevated Convection at Night (PECAN) field phase from 1 May to 22 July 2015.</gco:CharacterString>
+        <gco:CharacterString>This data set contains data from the Japan Meteorological Agency (JMA) MTSAT-2 satellite during the CONvective TRansport of Active Species in the Tropics experiment (CONTRAST) field phase. Data are included from both the northern hemisphere and full disk scans. The 4km data are included for all five channels as is the 1km data from the visible channel. The data are in McIDAS AREA file format and were made available by NOAA/NESDIS.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -404,7 +436,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Radar, S-PolKa</gco:CharacterString>
+            <gco:CharacterString>Satellite, MTSAT-2</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>MTSAT</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -414,32 +449,23 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Radar</gco:CharacterString>
+            <gco:CharacterString>Satellite</gco:CharacterString>
           </gmd:keyword>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; INFRARED IMAGERY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; VISIBLE WAVELENGTHS &gt; VISIBLE IMAGERY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ALBEDO</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD DYNAMICS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; BRIGHTNESS TEMPERATURE</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -483,7 +509,9 @@
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
-      <gmd:spatialRepresentationType gco:nilReason="missing"/>
+      <gmd:spatialRepresentationType>
+        <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
+      </gmd:spatialRepresentationType>
       <gmd:language>
         <gco:CharacterString>eng</gco:CharacterString>
       </gmd:language>
@@ -495,16 +523,16 @@
           <gmd:geographicElement>
             <gmd:EX_GeographicBoundingBox>
               <gmd:westBoundLongitude>
-                <gco:Decimal>-105.00000</gco:Decimal>
+                <gco:Decimal>80.00000</gco:Decimal>
               </gmd:westBoundLongitude>
               <gmd:eastBoundLongitude>
-                <gco:Decimal>-90.00000</gco:Decimal>
+                <gco:Decimal>-160.00000</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>32.00000</gco:Decimal>
+                <gco:Decimal>-90.00000</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>43.00000</gco:Decimal>
+                <gco:Decimal>90.00000</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -512,8 +540,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="boundingTemporalExtent">
-                  <gml:beginPosition>2015-05-01T00:00:00Z</gml:beginPosition>
-                  <gml:endPosition>2015-07-22T20:59:59Z</gml:endPosition>
+                  <gml:beginPosition>2014-01-14T15:00:00Z</gml:beginPosition>
+                  <gml:endPosition>2014-03-04T23:59:59Z</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -577,18 +605,18 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>1034745</gco:Real>
+            <gco:Real>235861</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu//dataset/485.113</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu//dataset/383.007</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Radar 3D mosaic DBZ and ZDR homepage</gco:CharacterString>
+                <gco:CharacterString>MTSAT-2 Satellite Data (AREA format) homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -598,13 +626,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=485.113</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=383.007</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>Radar 3D mosaic DBZ and ZDR Data Order Form</gco:CharacterString>
+                <gco:CharacterString>MTSAT-2 Satellite Data (AREA format) Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
