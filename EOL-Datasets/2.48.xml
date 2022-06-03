@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>edu.ucar.eol::100.034</gco:CharacterString>
+    <gco:CharacterString>edu.ucar.eol::2.48</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-06-03T21:12:19Z</gco:DateTime>
+    <gco:DateTime>2022-06-03T21:12:31Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -70,14 +70,14 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/10.26023/MX0D-Z722-M406</gco:CharacterString>
+    <gco:CharacterString>https://doi.org/10.26023/G1T1-G4RF-J90N</gco:CharacterString>
   </gmd:dataSetURI>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/100.034/readme_MPD_v1.0.pdf</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/2.48/README.upsondes.nadi</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -86,7 +86,7 @@
             <gco:CharacterString>Documentation #1</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>readme_MPD_v1.0.pdf</gco:CharacterString>
+            <gco:CharacterString>README.upsondes.nadi</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -100,15 +100,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+            <gco:CharacterString>Nadi, Fiji High Resolution Soundings</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
-            <gco:CharacterString>100.034</gco:CharacterString>
+            <gco:CharacterString>2.48</gco:CharacterString>
           </gmd:alternateTitle>
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                <gco:DateTime>2006-07-26T13:58:56Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -119,19 +119,19 @@
             <gco:CharacterString>1.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+            <gco:DateTime>2006-07-26T13:58:56Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+                    <gco:CharacterString>Nadi, Fiji High Resolution Soundings</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
                       <gmd:date>
-                        <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                        <gco:DateTime>2006-07-26T13:58:56Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -187,14 +187,14 @@
                 </gmd:CI_Citation>
               </gmd:authority>
               <gmd:code>
-                <gco:CharacterString>100.034</gco:CharacterString>
+                <gco:CharacterString>2.48</gco:CharacterString>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/10.26023/MX0D-Z722-M406" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/MX0D-Z722-M406</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/10.26023/G1T1-G4RF-J90N" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/G1T1-G4RF-J90N</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -246,8 +246,11 @@
           </gmd:citedResponsibleParty>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>John del Corral</gco:CharacterString>
+              </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>NCAR/EOL MPD Team</gco:CharacterString>
+                <gco:CharacterString>Scripps Institute of Oceanography</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -264,7 +267,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>MicroPulse Differential Absorption Lidar (MPD) data collected from five MPDs starting in March 2018. The insturments were deployed in several locations. It is an engineering dataset which contains a mix of testing and field campaign data and should only be used in collaboration with the NCAR lidar group for scientific analysis. The data is organized in separate daily tar files for each MPD and can be ordered for all MPDs together or separately for each instrument by setting the &amp;quot;Event&amp;quot; flag during the ordering process.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains the 10-sec vertical resolution sounding data taken at Nadi, Fiji (WMO 91680) during CEPEX. Sounding schedule was 00, 06, and 12 (wind only) UTC daily. This dataset includes pressure, temperature, dew point, relative humidity, wind speed, wind direction, and altitude.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -410,7 +413,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>NCAR MicroPulse DIAL (MPD)</gco:CharacterString>
+            <gco:CharacterString>Radiosondes</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -420,40 +423,53 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; WATER VAPOR</gco:CharacterString>
+            <gco:CharacterString>Sounding</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>Upper Air</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; BOUNDARY LAYER TEMPERATURE</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; ATMOSPHERIC PRESSURE MEASUREMENTS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ALTITUDE &gt; GEOPOTENTIAL HEIGHT</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; ABSOLUTE HUMIDITY</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD RADIATIVE TRANSFER &gt; ABSORPTION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD RADIATIVE TRANSFER &gt; SCATTERING</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES &gt; WATER VAPOR CONCENTRATION PROFILES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -497,7 +513,9 @@
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
-      <gmd:spatialRepresentationType gco:nilReason="missing"/>
+      <gmd:spatialRepresentationType>
+        <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
+      </gmd:spatialRepresentationType>
       <gmd:language>
         <gco:CharacterString>eng</gco:CharacterString>
       </gmd:language>
@@ -509,16 +527,16 @@
           <gmd:geographicElement>
             <gmd:EX_GeographicBoundingBox>
               <gmd:westBoundLongitude>
-                <gco:Decimal>-180.00000</gco:Decimal>
+                <gco:Decimal>177.45000</gco:Decimal>
               </gmd:westBoundLongitude>
               <gmd:eastBoundLongitude>
-                <gco:Decimal>180.00000</gco:Decimal>
+                <gco:Decimal>177.45000</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>-90.00000</gco:Decimal>
+                <gco:Decimal>-17.75000</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>90.00000</gco:Decimal>
+                <gco:Decimal>-17.75000</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -526,8 +544,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="boundingTemporalExtent">
-                  <gml:beginPosition>2018-03-23T00:00:00Z</gml:beginPosition>
-                  <gml:endPosition>9999-12-31T23:59:59Z</gml:endPosition>
+                  <gml:beginPosition>1993-03-07T00:00:00Z</gml:beginPosition>
+                  <gml:endPosition>1993-04-07T23:59:59Z</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -591,18 +609,18 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>2193480</gco:Real>
+            <gco:Real>3</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu//dataset/100.034</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu//dataset/2.48</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR MPD data homepage</gco:CharacterString>
+                <gco:CharacterString>Nadi, Fiji High Resolution Soundings homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -612,13 +630,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=100.034</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=2.48</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR MPD data Data Order Form</gco:CharacterString>
+                <gco:CharacterString>Nadi, Fiji High Resolution Soundings Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>

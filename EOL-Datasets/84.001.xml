@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>edu.ucar.eol::100.034</gco:CharacterString>
+    <gco:CharacterString>edu.ucar.eol::84.001</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-06-03T21:12:19Z</gco:DateTime>
+    <gco:DateTime>2022-06-03T21:12:57Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -70,14 +70,14 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/10.26023/MX0D-Z722-M406</gco:CharacterString>
+    <gco:CharacterString>https://doi.org/10.26023/A6J8-88PC-QV0H</gco:CharacterString>
   </gmd:dataSetURI>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/100.034/readme_MPD_v1.0.pdf</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/84.001/okmeso_soil-2000.htm</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -86,7 +86,76 @@
             <gco:CharacterString>Documentation #1</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>readme_MPD_v1.0.pdf</gco:CharacterString>
+            <gco:CharacterString>okmeso_soil-2000.htm</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://data.eol.ucar.edu//dataset/84.002</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>https</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>84.002</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString> is a companion to dataset 84.001</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://data.eol.ucar.edu//dataset/84.003</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>https</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>84.003</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString> is a companion to dataset 84.001</gco:CharacterString>
+          </gmd:description>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </gmd:extensionOnLineResource>
+    </gmd:MD_MetadataExtensionInformation>
+  </gmd:metadataExtensionInfo>
+  <gmd:metadataExtensionInfo>
+    <gmd:MD_MetadataExtensionInformation>
+      <gmd:extensionOnLineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://data.eol.ucar.edu//dataset/84.002</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>https</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:name>
+            <gco:CharacterString>84.002</gco:CharacterString>
+          </gmd:name>
+          <gmd:description>
+            <gco:CharacterString> is a companion to dataset 84.001</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -100,15 +169,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+            <gco:CharacterString>OKMESO Soil Moisture Data (various OCS versions)</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
-            <gco:CharacterString>100.034</gco:CharacterString>
+            <gco:CharacterString>84.001</gco:CharacterString>
           </gmd:alternateTitle>
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                <gco:DateTime>2010-10-12T18:53:48Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -119,19 +188,19 @@
             <gco:CharacterString>1.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+            <gco:DateTime>2010-10-12T18:53:48Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+                    <gco:CharacterString>OKMESO Soil Moisture Data (various OCS versions)</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
                       <gmd:date>
-                        <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                        <gco:DateTime>2010-10-12T18:53:48Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -187,14 +256,14 @@
                 </gmd:CI_Citation>
               </gmd:authority>
               <gmd:code>
-                <gco:CharacterString>100.034</gco:CharacterString>
+                <gco:CharacterString>84.001</gco:CharacterString>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/10.26023/MX0D-Z722-M406" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/MX0D-Z722-M406</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/10.26023/A6J8-88PC-QV0H" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/A6J8-88PC-QV0H</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -246,14 +315,90 @@
           </gmd:citedResponsibleParty>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Gary McManus</gco:CharacterString>
+              </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>NCAR/EOL MPD Team</gco:CharacterString>
+                <gco:CharacterString>Oklahoma Climatological Survey</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>405 325-3076</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
                   <gmd:address>
-                    <gmd:CI_Address/>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>100 East Boyd St., Suite 1210</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Norman</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>OK</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>73019</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>gmcmanus@ou.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
                   </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Kenneth Crawford</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>Oklahoma Climatological Survey (OCS)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>405-325-2541</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:city>
+                        <gco:CharacterString>Norman</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>OK</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>73019</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>USA</gco:CharacterString>
+                      </gmd:country>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>http://climate.ok.gov/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>homepage</gco:CharacterString>
+                      </gmd:name>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
                 </gmd:CI_Contact>
               </gmd:contactInfo>
               <gmd:role>
@@ -264,7 +409,21 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>MicroPulse Differential Absorption Lidar (MPD) data collected from five MPDs starting in March 2018. The insturments were deployed in several locations. It is an engineering dataset which contains a mix of testing and field campaign data and should only be used in collaboration with the NCAR lidar group for scientific analysis. The data is organized in separate daily tar files for each MPD and can be ordered for all MPDs together or separately for each instrument by setting the &amp;quot;Event&amp;quot; flag during the ordering process.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains the Oklahoma Mesonet 30-Minute Soil Moisture Data. The Oklahoma Climatological Survey (OCS) supplied the raw data, which contained calibrated and quality-assured values of DeltaT reference, and estimates of soil water potential. Alan Robock, Lifeng Luo and Haibin Li of Princeton University computed the volumetric water content and formatted the data to be consistent with previous OCS soil moisture data sets. The empirical relationship used to estimate volumetric water content is explained in detail in the README file. The original README file for the raw data will be delivered along with the reformatted data, as will a detailed station list. Please note that recent research focusing on the use of the Mesonet soil moisture sensors as soil temperature sensors demonstrated the following:   
+
+ * The Mesonet soil moisture &amp;quot;start temperature&amp;quot; variable is not an accurate measure of soil temperature. 
+
+ * Therefore, these data sets have no measure of soil temperature.  
+
+ * Prior to January 2002, README files for Mesonet soil moisture data sets incorrectly stated: 
+
+ &amp;quot;Because the soil moisture sensor operates by acquiring a temperature measurement before and after a heat pulse is applied, the &amp;#39;pre-heating&amp;#39; temperature is a valid measurement of soil temperature co-located with the moisture measurement. These temperature measurements are accurate to 0.5 degrees C, and are included in this data.&amp;quot; 
+
+ * As a result, the Mesonet cannot at this time make a statement regarding the relationship between &amp;quot;start temperature&amp;quot; and soil temperature. The Mesonet research team regrets any inconvenience this has caused. This dataset is provided &amp;quot;as is&amp;quot; and was not quality controlled by NCAR/EOL. The official soil moisture variable of the Oklahoma Mesonet that receives quality assurance is the Tref measurement.  
+
+ * With respect to volumetric water content, we are dealing with a derived value, the end product of a series of steps involving approximations and empirical coefficients that includes inherent error.  
+
+ * Important note: For data downloaded through 1 April 2009, newer stations added after 2003 may not have had the WC values calculated. This has been corrected, and all stations should now have the WC values calculated using the same algorithm.  This dataset is password protected. For password information, please see the contact for this dataset.  Note: if you require 1 or more years of data, please order the data on CD via its companion dataset.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -410,7 +569,10 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>NCAR MicroPulse DIAL (MPD)</gco:CharacterString>
+            <gco:CharacterString>Mesoscale Meteorological Network - Mesonet</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gco:CharacterString>Weather Stations</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
@@ -420,40 +582,17 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; WATER VAPOR</gco:CharacterString>
+            <gco:CharacterString>Sub-Surface</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES</gco:CharacterString>
+            <gco:CharacterString>Land Based</gco:CharacterString>
           </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; ABSOLUTE HUMIDITY</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD RADIATIVE TRANSFER &gt; ABSORPTION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD RADIATIVE TRANSFER &gt; SCATTERING</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES &gt; WATER VAPOR CONCENTRATION PROFILES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
+            <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL MOISTURE/WATER CONTENT</gco:CharacterString>
           </gmd:keyword>
           <gmd:thesaurusName>
             <gmd:CI_Citation>
@@ -493,11 +632,13 @@
             <gco:CharacterString>none</gco:CharacterString>
           </gmd:useLimitation>
           <gmd:otherConstraints>
-            <gco:CharacterString>none</gco:CharacterString>
+            <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
-      <gmd:spatialRepresentationType gco:nilReason="missing"/>
+      <gmd:spatialRepresentationType>
+        <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
+      </gmd:spatialRepresentationType>
       <gmd:language>
         <gco:CharacterString>eng</gco:CharacterString>
       </gmd:language>
@@ -509,16 +650,16 @@
           <gmd:geographicElement>
             <gmd:EX_GeographicBoundingBox>
               <gmd:westBoundLongitude>
-                <gco:Decimal>-180.00000</gco:Decimal>
+                <gco:Decimal>-103.10000</gco:Decimal>
               </gmd:westBoundLongitude>
               <gmd:eastBoundLongitude>
-                <gco:Decimal>180.00000</gco:Decimal>
+                <gco:Decimal>-94.70000</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>-90.00000</gco:Decimal>
+                <gco:Decimal>33.50000</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>90.00000</gco:Decimal>
+                <gco:Decimal>37.00000</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -526,8 +667,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="boundingTemporalExtent">
-                  <gml:beginPosition>2018-03-23T00:00:00Z</gml:beginPosition>
-                  <gml:endPosition>9999-12-31T23:59:59Z</gml:endPosition>
+                  <gml:beginPosition>1997-01-01T00:00:00Z</gml:beginPosition>
+                  <gml:endPosition>2003-12-31T23:59:59Z</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -591,18 +732,18 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>2193480</gco:Real>
+            <gco:Real>4757</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu//dataset/100.034</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu//dataset/84.001</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR MPD data homepage</gco:CharacterString>
+                <gco:CharacterString>OKMESO Soil Moisture Data (various OCS versions) homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -612,13 +753,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=100.034</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=84.001</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NCAR MPD data Data Order Form</gco:CharacterString>
+                <gco:CharacterString>OKMESO Soil Moisture Data (various OCS versions) Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
