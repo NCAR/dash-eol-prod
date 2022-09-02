@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns="http://www.w3.org/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gmr="http://www.isotc211.org/2005/gmr" xmlns:gms="http://www.isotc211.org/2005/gms" xmlns:gts="http://www.isotc211.org/2005/gts" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>edu.ucar.eol::612.020</gco:CharacterString>
+    <gco:CharacterString>edu.ucar.eol::612.022</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng; USA">eng; USA</gmd:LanguageCode>
@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-09-02T21:35:12Z</gco:DateTime>
+    <gco:DateTime>2022-09-02T21:35:15Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -70,14 +70,14 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/10.26023/KRFX-TMZW-JJ0W</gco:CharacterString>
+    <gco:CharacterString>https://doi.org/10.26023/7XA0-EV5N-990K</gco:CharacterString>
   </gmd:dataSetURI>
   <gmd:metadataExtensionInfo>
     <gmd:MD_MetadataExtensionInformation>
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/612.020/BA_Parsivel2_EN_70210001BE.pdf</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/612.022/Operating_Instructions_Parsivel2_EN.pdf</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -86,7 +86,7 @@
             <gco:CharacterString>Documentation #1</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>BA_Parsivel2_EN_70210001BE.pdf</gco:CharacterString>
+            <gco:CharacterString>Operating_Instructions_Parsivel2_EN.pdf</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -100,7 +100,7 @@
       <gmd:extensionOnLineResource>
         <gmd:CI_OnlineResource>
           <gmd:linkage>
-            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/612.020/CHAZ_Parsivel_user_guide_UAlbany.pdf</gmd:URL>
+            <gmd:URL>https://data.eol.ucar.edu/datafile/nph-get/612.022/README_Trois-Rivieres_Parsivel_Disdrometer_data.pdf</gmd:URL>
           </gmd:linkage>
           <gmd:protocol>
             <gco:CharacterString>https</gco:CharacterString>
@@ -109,7 +109,7 @@
             <gco:CharacterString>Documentation #2</gco:CharacterString>
           </gmd:name>
           <gmd:description>
-            <gco:CharacterString>CHAZ_Parsivel_user_guide_UAlbany.pdf</gco:CharacterString>
+            <gco:CharacterString>README_Trois-Rivieres_Parsivel_Disdrometer_data.pdf</gco:CharacterString>
           </gmd:description>
           <gmd:function>
             <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
@@ -123,15 +123,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>NYSM Chazy, NY Parsivel Disdrometer Data</gco:CharacterString>
+            <gco:CharacterString>Trois-Rivieres Parsivel Disdrometer Data</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
-            <gco:CharacterString>612.020</gco:CharacterString>
+            <gco:CharacterString>612.022</gco:CharacterString>
           </gmd:alternateTitle>
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:DateTime>2022-08-05T15:24:16Z</gco:DateTime>
+                <gco:DateTime>2022-08-31T20:15:50Z</gco:DateTime>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -142,19 +142,19 @@
             <gco:CharacterString>1.0</gco:CharacterString>
           </gmd:edition>
           <gmd:editionDate>
-            <gco:DateTime>2022-08-05T15:24:16Z</gco:DateTime>
+            <gco:DateTime>2022-08-31T20:15:50Z</gco:DateTime>
           </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
                 <gmd:CI_Citation>
                   <gmd:title>
-                    <gco:CharacterString>NYSM Chazy, NY Parsivel Disdrometer Data</gco:CharacterString>
+                    <gco:CharacterString>Trois-Rivieres Parsivel Disdrometer Data</gco:CharacterString>
                   </gmd:title>
                   <gmd:date>
                     <gmd:CI_Date>
                       <gmd:date>
-                        <gco:DateTime>2022-08-05T15:24:16Z</gco:DateTime>
+                        <gco:DateTime>2022-08-31T20:15:50Z</gco:DateTime>
                       </gmd:date>
                       <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -210,14 +210,14 @@
                 </gmd:CI_Citation>
               </gmd:authority>
               <gmd:code>
-                <gco:CharacterString>612.020</gco:CharacterString>
+                <gco:CharacterString>612.022</gco:CharacterString>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/10.26023/KRFX-TMZW-JJ0W" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/KRFX-TMZW-JJ0W</gmx:Anchor>
+                <gmx:Anchor xlink:href="https://doi.org/10.26023/7XA0-EV5N-990K" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/7XA0-EV5N-990K</gmx:Anchor>
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
@@ -270,14 +270,17 @@
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
               <gmd:individualName>
-                <gco:CharacterString>Justin R. Minder</gco:CharacterString>
+                <gco:CharacterString>Mathieu Lachapelle</gco:CharacterString>
               </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
+              </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:electronicMailAddress>
-                        <gco:CharacterString>jminder@albany.edu</gco:CharacterString>
+                        <gco:CharacterString>lachapelle.mathieu@courrier.uqam.ca</gco:CharacterString>
                       </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
@@ -291,17 +294,17 @@
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
               <gmd:individualName>
-                <gco:CharacterString>Nathan Bain</gco:CharacterString>
+                <gco:CharacterString>Margaux Girouard</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University at Albany</gco:CharacterString>
+                <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:electronicMailAddress>
-                        <gco:CharacterString>nbain@albany.edu</gco:CharacterString>
+                        <gco:CharacterString>girouard.margaux@courrier.uqam.ca</gco:CharacterString>
                       </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
@@ -315,17 +318,17 @@
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
               <gmd:individualName>
-                <gco:CharacterString>W. Massey Bartolini</gco:CharacterString>
+                <gco:CharacterString>Hadleigh Thompson</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University at Albany</gco:CharacterString>
+                <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:electronicMailAddress>
-                        <gco:CharacterString>mbartolini@albany.edu</gco:CharacterString>
+                        <gco:CharacterString>thompson.hadleigh@uqam.ca</gco:CharacterString>
                       </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
@@ -339,41 +342,17 @@
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
               <gmd:individualName>
-                <gco:CharacterString>Karl Hemker Jr.</gco:CharacterString>
+                <gco:CharacterString>Julie M. Th&amp;amp;eacute;riault</gco:CharacterString>
               </gmd:individualName>
               <gmd:organisationName>
-                <gco:CharacterString>University at Albany</gco:CharacterString>
+                <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
               </gmd:organisationName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
                   <gmd:address>
                     <gmd:CI_Address>
                       <gmd:electronicMailAddress>
-                        <gco:CharacterString>khemker@albany.edu</gco:CharacterString>
-                      </gmd:electronicMailAddress>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:citedResponsibleParty>
-          <gmd:citedResponsibleParty>
-            <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString>Scott McKim</gco:CharacterString>
-              </gmd:individualName>
-              <gmd:organisationName>
-                <gco:CharacterString>University at Albany</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString>smckim@albany.edu</gco:CharacterString>
+                        <gco:CharacterString>theriault.julie@uqam.ca</gco:CharacterString>
                       </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
@@ -387,7 +366,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset contains data from an OTT Parsivel laser disdrometer deployed at Chazy, New York in support of the WINTRE-MIX field campaign. The instrument provides histograms of hydrometeor size and fallspeed. The site sits in the northern end of the Lake Champlain Valley. Several other sites also collected Parsivel data during WINTRE-MIX. </gco:CharacterString>
+        <gco:CharacterString>This dataset contains raw data from an OTT Parsivel laser disdrometer that was temporarily installed at the Universit&amp;eacute; du Qu&amp;eacute;bec &amp;agrave; Trois-Rivi&amp;egrave;res (UQTR) campus from December 2021 to April 2022 to support the Winter Precipitation Type Research Multi-Scale Experiment (WINTRE-MIX). The instrument provides histograms of hydrometeor size and fallspeed. The site sits in the St. Lawrence River Valley. Several other sites also collected Parsivel data during WINTRE-MIX.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -533,6 +512,16 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
+            <gco:CharacterString>Fixed Observation Stations</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
             <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION RATE &gt; FROZEN PRECIPITATION</gco:CharacterString>
           </gmd:keyword>
           <gmd:keyword>
@@ -606,7 +595,7 @@
             <gco:CharacterString>none</gco:CharacterString>
           </gmd:useLimitation>
           <gmd:otherConstraints>
-            <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
+            <gco:CharacterString>none</gco:CharacterString>
           </gmd:otherConstraints>
         </gmd:MD_LegalConstraints>
       </gmd:resourceConstraints>
@@ -622,16 +611,16 @@
           <gmd:geographicElement>
             <gmd:EX_GeographicBoundingBox>
               <gmd:westBoundLongitude>
-                <gco:Decimal>-73.46634</gco:Decimal>
+                <gco:Decimal>-72.58135</gco:Decimal>
               </gmd:westBoundLongitude>
               <gmd:eastBoundLongitude>
-                <gco:Decimal>-73.46634</gco:Decimal>
+                <gco:Decimal>-72.58135</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>44.88900</gco:Decimal>
+                <gco:Decimal>46.34984</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>44.88900</gco:Decimal>
+                <gco:Decimal>46.34984</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -639,8 +628,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="boundingTemporalExtent">
-                  <gml:beginPosition>2022-01-07T00:00:00Z</gml:beginPosition>
-                  <gml:endPosition>2022-04-20T23:59:59Z</gml:endPosition>
+                  <gml:beginPosition>2021-12-06T00:00:00Z</gml:beginPosition>
+                  <gml:endPosition>2022-04-08T23:59:59Z</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -704,18 +693,18 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize>
-            <gco:Real>3628</gco:Real>
+            <gco:Real>1320</gco:Real>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu//dataset/612.020</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu//dataset/612.022</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NYSM Chazy, NY Parsivel Disdrometer Data homepage</gco:CharacterString>
+                <gco:CharacterString>Trois-Rivieres Parsivel Disdrometer Data homepage</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -725,13 +714,13 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=612.020</gmd:URL>
+                <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=612.022</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
               </gmd:protocol>
               <gmd:name>
-                <gco:CharacterString>NYSM Chazy, NY Parsivel Disdrometer Data Data Order Form</gco:CharacterString>
+                <gco:CharacterString>Trois-Rivieres Parsivel Disdrometer Data Data Order Form</gco:CharacterString>
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
