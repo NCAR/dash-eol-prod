@@ -61,7 +61,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-11-11T20:42:29Z</gco:DateTime>
+    <gco:DateTime>2022-11-12T00:33:40Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -70,7 +70,7 @@
     <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
   </gmd:metadataStandardVersion>
   <gmd:dataSetURI>
-    <gco:CharacterString>https://doi.org/10.26023/AVQ0-7MT7-H508</gco:CharacterString>
+    <gco:CharacterString>https://data.eol.ucar.edu//dataset/89.072</gco:CharacterString>
   </gmd:dataSetURI>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification>
@@ -92,12 +92,6 @@
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
-          <gmd:edition>
-            <gco:CharacterString>1.0</gco:CharacterString>
-          </gmd:edition>
-          <gmd:editionDate>
-            <gco:DateTime>2009-02-10T16:18:23Z</gco:DateTime>
-          </gmd:editionDate>
           <gmd:identifier>
             <gmd:MD_Identifier>
               <gmd:authority>
@@ -168,41 +162,85 @@
               </gmd:code>
             </gmd:MD_Identifier>
           </gmd:identifier>
-          <gmd:identifier>
-            <gmd:MD_Identifier>
-              <gmd:code>
-                <gmx:Anchor xlink:href="https://doi.org/10.26023/AVQ0-7MT7-H508" xlink:title="DOI" xlink:actuate="onRequest">doi:10.26023/AVQ0-7MT7-H508</gmx:Anchor>
-              </gmd:code>
-            </gmd:MD_Identifier>
-          </gmd:identifier>
-          <gmd:citedResponsibleParty/>
           <gmd:citedResponsibleParty>
             <gmd:CI_ResponsibleParty>
               <gmd:organisationName>
-                <gco:CharacterString>Langley Research Center (LaRC), NASA</gco:CharacterString>
+                <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
               </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>EOL Data Support</gco:CharacterString>
+              </gmd:positionName>
               <gmd:contactInfo>
                 <gmd:CI_Contact>
                   <gmd:address>
                     <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                      </gmd:deliveryPoint>
                       <gmd:city>
-                        <gco:CharacterString>Hampton</gco:CharacterString>
+                        <gco:CharacterString>Boulder</gco:CharacterString>
                       </gmd:city>
                       <gmd:administrativeArea>
-                        <gco:CharacterString>VA</gco:CharacterString>
+                        <gco:CharacterString>CO</gco:CharacterString>
                       </gmd:administrativeArea>
                       <gmd:postalCode>
-                        <gco:CharacterString>23681-2199</gco:CharacterString>
+                        <gco:CharacterString>80307-3000</gco:CharacterString>
                       </gmd:postalCode>
-                      <gmd:country>
-                        <gco:CharacterString>USA</gco:CharacterString>
-                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
                     </gmd:CI_Address>
                   </gmd:address>
                   <gmd:onlineResource>
                     <gmd:CI_OnlineResource>
                       <gmd:linkage>
-                        <gmd:URL>http://www.nasa.gov/centers/langley/home/index.html</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>homepage</gco:CharacterString>
+                      </gmd:name>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>EOL Data Support</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Boulder</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>CO</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>80307-3000</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
                       </gmd:linkage>
                       <gmd:name>
                         <gco:CharacterString>homepage</gco:CharacterString>
@@ -365,6 +403,9 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
+            <gco:CharacterString>GOES</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:keyword>
             <gco:CharacterString>Satellite, GOES-10</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
@@ -377,43 +418,6 @@
           <gmd:keyword>
             <gco:CharacterString>Satellite</gco:CharacterString>
           </gmd:keyword>
-        </gmd:MD_Keywords>
-      </gmd:descriptiveKeywords>
-      <gmd:descriptiveKeywords>
-        <gmd:MD_Keywords>
-          <gmd:keyword>
-            <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; LONGWAVE RADIATION</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:thesaurusName>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString>Global Change Master Directory (GCMD)</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date>2018-02-27</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:edition>
-                <gco:CharacterString>8.5</gco:CharacterString>
-              </gmd:edition>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:organisationName>
-                    <gco:CharacterString>National Aeronautics and Space Administration</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:thesaurusName>
         </gmd:MD_Keywords>
       </gmd:descriptiveKeywords>
       <gmd:resourceConstraints>
@@ -469,7 +473,52 @@
     <gmd:MD_Distribution>
       <gmd:distributor>
         <gmd:MD_Distributor>
-          <gmd:distributorContact/>
+          <gmd:distributorContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>EOL Data Support</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Boulder</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>CO</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>80307-3000</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>homepage</gco:CharacterString>
+                      </gmd:name>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:distributorContact>
         </gmd:MD_Distributor>
       </gmd:distributor>
       <gmd:transferOptions>
