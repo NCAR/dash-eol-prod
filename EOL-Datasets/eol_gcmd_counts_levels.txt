@@ -2,7 +2,7 @@ electrification, Count: 36, Level 1
 
 lightning, Count: 33, Level 1
 
-oceanography, Count: 667, Level 1
+oceanography, Count: 663, Level 1
 
 mooring, Count: 35, Level 1
 
@@ -16,7 +16,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > atmospheric temperature > surface temperature > air temperature, Count: 82, Level 5
 
-earth science > atmosphere > precipitation > precipitation amount, Count: 60, Level 4
+earth science > atmosphere > precipitation > precipitation amount, Count: 61, Level 4
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > humidity > relative humidity, Count: 86, Level 6
 
@@ -36,17 +36,17 @@ earth science > atmosphere > atmospheric radiation > net radiation, Count: 8, Le
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > dew point temperature, Count: 47, Level 5
 
-no keywords, Count: 368, Level 1
+no keywords, Count: 575, Level 1
 
-satellite, Count: 796, Level 1
+satellite, Count: 777, Level 1
 
 meteorology, Count: 188, Level 1
 
-surface, Count: 1229, Level 1
+surface, Count: 1162, Level 1
 
-land based, Count: 239, Level 1
+land based, Count: 235, Level 1
 
-upper air, Count: 1124, Level 1
+upper air, Count: 1095, Level 1
 
 lidar, Count: 109, Level 1
 
@@ -54,13 +54,13 @@ ship based, Count: 326, Level 1
 
 sediment, Count: 51, Level 1
 
-chemistry, Count: 225, Level 1
+chemistry, Count: 223, Level 1
 
 benthos, Count: 117, Level 1
 
 biology, Count: 207, Level 1
 
-profiler, Count: 86, Level 1
+profiler, Count: 82, Level 1
 
 ship, Count: 361, Level 1
 
@@ -74,23 +74,23 @@ earth science > land surface > land use/land cover > land use/land cover classif
 
 trace gases, Count: 59, Level 1
 
-aircraft, Count: 1484, Level 1
+aircraft, Count: 1488, Level 1
 
 biogeochemical, Count: 78, Level 1
 
-model, Count: 232, Level 1
+model, Count: 276, Level 1
 
-models/analyses, Count: 644, Level 1
+models/analyses, Count: 598, Level 1
 
 seabirds, Count: 17, Level 1
 
-radar, Count: 392, Level 1
+radar, Count: 331, Level 1
 
-ancillary info, Count: 107, Level 1
+ancillary info, Count: 101, Level 1
 
-precipitation, Count: 56, Level 1
+precipitation, Count: 51, Level 1
 
-sounding, Count: 644, Level 1
+sounding, Count: 672, Level 1
 
 earth science > atmosphere > precipitation > hydrometeors, Count: 11, Level 4
 
@@ -156,7 +156,7 @@ local and traditional knowledge, Count: 11, Level 1
 
 soils, Count: 71, Level 1
 
-photography, Count: 84, Level 1
+photography, Count: 81, Level 1
 
 water chemistry, Count: 90, Level 1
 
@@ -170,7 +170,7 @@ ice physics, Count: 21, Level 1
 
 vegetation, Count: 215, Level 1
 
-sub-surface, Count: 100, Level 1
+sub-surface, Count: 98, Level 1
 
 active layer/permafrost, Count: 10, Level 1
 
@@ -178,7 +178,7 @@ abundance, Count: 49, Level 1
 
 fish, Count: 23, Level 1
 
-aerosols, Count: 55, Level 1
+aerosols, Count: 52, Level 1
 
 earth science > spectral/engineering > infrared wavelengths > brightness temperature, Count: 5, Level 4
 
@@ -188,9 +188,9 @@ earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ic
 
 earth science > atmosphere > altitude > geopotential height, Count: 24, Level 4
 
-earth science > atmosphere > atmospheric temperature > upper air temperature > boundary layer temperature, Count: 26, Level 5
+earth science > atmosphere > atmospheric temperature > upper air temperature > boundary layer temperature, Count: 27, Level 5
 
-earth science > atmosphere > atmospheric temperature > upper air temperature > vertical profiles, Count: 26, Level 5
+earth science > atmosphere > atmospheric temperature > upper air temperature > vertical profiles, Count: 27, Level 5
 
 earth science > atmosphere > atmospheric pressure > atmospheric pressure measurements, Count: 27, Level 4
 
@@ -270,7 +270,7 @@ gis, Count: 7, Level 1
 
 flux, Count: 38, Level 1
 
-sounding composites, Count: 31, Level 1
+sounding composites, Count: 28, Level 1
 
 mammals, Count: 31, Level 1
 
@@ -296,7 +296,7 @@ earth science > land surface > geomorphic landforms/processes, Count: 3, Level 3
 
 earth science > terrestrial hydrosphere > snow/ice > freeze/thaw, Count: 3, Level 4
 
-earth science > land surface > soils > soil heat budget, Count: 5, Level 4
+earth science > land surface > soils > soil heat budget, Count: 4, Level 4
 
 earth science > atmosphere > atmospheric radiation > shortwave radiation, Count: 13, Level 4
 
@@ -410,7 +410,7 @@ earth science > biosphere > vegetation > leaf characteristics, Count: 3, Level 4
 
 earth science > biosphere > vegetation > vegetation species, Count: 2, Level 4
 
-earth science > atmosphere > atmospheric electricity > lightning, Count: 5, Level 4
+earth science > atmosphere > atmospheric electricity > lightning, Count: 6, Level 4
 
 earth science > atmosphere > weather events > lightning, Count: 5, Level 4
 
@@ -432,7 +432,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > aerosols, Count: 7, Level 3
 
-earth science > atmosphere > atmospheric temperature > upper air temperature > virtual temperature, Count: 12, Level 5
+earth science > atmosphere > atmospheric temperature > upper air temperature > virtual temperature, Count: 13, Level 5
 
 earth science > atmosphere > atmospheric temperature, Count: 8, Level 3
 
@@ -569,8 +569,6 @@ boundary layer meteorology, Count: 5, Level 1
 earth science > agriculture > soils > carbon, Count: 1, Level 4
 
 earth science > biosphere > ecological dynamics > ecosystem functions > biomass dynamics, Count: 1, Level 5
-
-earth science > oceans > sea surface topography > sea surface height, Count: 1, Level 4
 
 earth science > oceans > ocean chemistry > stable isotopes, Count: 2, Level 4
 
@@ -779,6 +777,6 @@ earth science services > models > carbon cycle/carbon budget models, Count: 1, L
 Level 1: 78
 Level 2: 0
 Level 3: 18
-Level 4: 155
+Level 4: 154
 Level 5: 108
 Level 6: 30
