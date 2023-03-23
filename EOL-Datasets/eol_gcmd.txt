@@ -39,8 +39,8 @@ Benthos
 Upper Air
 Aircraft
 Satellite
-Upper Air
 Sounding
+Upper Air
 Radar
 Aircraft
 Meteorology
@@ -241,8 +241,8 @@ Sounding
 Sounding Composites
 Surface
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Ship Based
 Hydrography
 Arctic
@@ -350,8 +350,8 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > DOPPLER VELOCITY
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PRECIPITATION AMOUNT
 Models/Analyses
 Satellite
-Upper Air
 Sounding
+Upper Air
 Ship
 Surface
 Satellite
@@ -436,8 +436,8 @@ Sounding
 Hydrology
 Aircraft
 Satellite
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Upper Air
 Lidar
@@ -887,8 +887,8 @@ Sounding
 Upper Air
 Satellite
 Surface
-Surface
 Oceanography
+Surface
 Aircraft
 Upper Air
 Sounding
@@ -900,8 +900,8 @@ Arctic
 Oceanography
 Seabirds
 Biology
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Arctic
 Oceanography
@@ -1157,8 +1157,8 @@ Aircraft
 Ancillary Info
 Model
 Models/Analyses
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Vegetation
@@ -1337,8 +1337,8 @@ Satellite
 no keywords
 Aircraft
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Aircraft
 Radar
@@ -1347,8 +1347,8 @@ Upper Air
 Sounding Composites
 Sounding
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Radar
 Satellite
 Arctic
@@ -1566,8 +1566,8 @@ Sounding
 Satellite
 Aircraft
 Models/Analyses
-Sub-Surface
 Land Based
+Sub-Surface
 no keywords
 Radar
 Aircraft
@@ -1600,8 +1600,8 @@ Land Based
 Aircraft
 Upper Air
 Profiler
-Surface
 Sub-Surface
+Surface
 Aircraft
 Models/Analyses
 Aircraft
@@ -1723,8 +1723,8 @@ Sediment
 Benthos
 Aircraft
 Chemistry
-Aerosols
 Aircraft
+Aerosols
 Satellite
 Surface
 Sea Ice
@@ -1781,8 +1781,8 @@ Oceanography
 Ship
 Radioisotope
 Chemistry
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Surface
 Satellite
@@ -1835,8 +1835,8 @@ Chemistry
 Aircraft
 Upper Air
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Sounding
 Surface
@@ -2073,9 +2073,9 @@ Sounding
 Ship
 Ancillary Info
 Aircraft
+Sounding
 Upper Air
 Ship
-Sounding
 Sub-Surface
 Satellite
 Meteorology
@@ -2256,8 +2256,8 @@ Sub-Surface
 Surface
 Surface
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Upper Air
 Oceanography
@@ -2428,8 +2428,8 @@ Hydrography
 Arctic
 Oceanography
 Ship
-Surface
 Radiation
+Surface
 Satellite
 Surface
 Radar
@@ -2473,8 +2473,8 @@ Ship
 Biology
 Surface
 Ancillary Info
-Surface
 Radar
+Surface
 Surface
 Aircraft
 Lidar
@@ -2686,9 +2686,9 @@ Ship
 Chemistry
 Surface
 Aircraft
-Surface
 Electrification
 Lightning
+Surface
 Surface
 Models/Analyses
 Aircraft
@@ -2704,8 +2704,8 @@ Oceanography
 Arctic
 Ship Based
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Aircraft
 no keywords
 Aircraft
@@ -2786,8 +2786,8 @@ Surface
 Model
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION INDEX > NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)
 EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER > LAND USE/LAND COVER CLASSIFICATION > VEGETATION INDEX > NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)
-Upper Air
 Sounding
+Upper Air
 Surface
 Mesonet
 Surface
@@ -2837,8 +2837,8 @@ Sounding
 Upper Air
 Surface
 Satellite
-Surface
 Land Based
+Surface
 Oceanography
 Ship
 Surface
@@ -2893,8 +2893,8 @@ Meteorology
 Hydrography
 Arctic
 Ship Based
-Upper Air
 Aircraft
+Upper Air
 Arctic
 Aircraft
 Vegetation
@@ -3104,8 +3104,8 @@ Arctic
 Oceanography
 Benthos
 Radar
-Surface
 Land Based
+Surface
 Arctic
 Surface
 Vegetation
@@ -3137,8 +3137,8 @@ Aircraft
 Ship Based
 Arctic
 Ship
-Surface
 Precipitation
+Surface
 Aircraft
 no keywords
 Ecology
@@ -3204,8 +3204,8 @@ Photography
 Ship
 Aircraft
 Hydrology
-Surface
 Radar
+Surface
 Oceanography
 Arctic
 Ship Based
@@ -3289,8 +3289,8 @@ Meteorology
 Arctic
 Aircraft
 Aircraft
-Surface
 Oceanography
+Surface
 Aircraft
 Model
 Models/Analyses
@@ -3346,8 +3346,8 @@ Aircraft
 Chemistry
 Aerosols
 Radar
-Upper Air
 Sounding
+Upper Air
 Satellite
 Ecology
 Arctic
@@ -3525,11 +3525,11 @@ Sounding
 Upper Air
 Ancillary Info
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Satellite
-Upper Air
 Sounding
+Upper Air
 Arctic
 Land Character
 Vegetation
@@ -3622,8 +3622,8 @@ Models/Analyses
 Upper Air
 Surface
 Land Based
-Sub-Surface
 Land Based
+Sub-Surface
 Oceanography
 Meteorology
 Arctic
@@ -3831,8 +3831,8 @@ Aerosols
 Chemistry
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Aerosols
 Aircraft
 Aircraft
@@ -3846,8 +3846,8 @@ Biology
 Satellite
 Upper Air
 Surface
-Upper Air
 Sounding
+Upper Air
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
 Surface
 Surface
@@ -4165,8 +4165,8 @@ Aircraft
 Aircraft
 Radar
 Precipitation
-Surface
 Land Based
+Surface
 Aircraft
 Radar
 Sub-Surface
@@ -4251,8 +4251,8 @@ Oceanography
 Water Sampling
 Water Chemistry
 Ship
-Upper Air
 Sounding
+Upper Air
 Models/Analyses
 Radar
 Electrification
@@ -4392,8 +4392,8 @@ Upper Air
 Lidar
 Satellite
 Arctic
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Land Character
 Sub-Surface
@@ -4521,8 +4521,8 @@ Plankton
 Surface
 Land Character
 Arctic
-Surface
 Precipitation
+Surface
 Aircraft
 Model
 Satellite
@@ -4632,8 +4632,8 @@ Model
 Arctic
 Surface
 Trace Gases
-Sub-Surface
 Land Based
+Sub-Surface
 Radar
 Upper Air
 Hydrography
@@ -4727,8 +4727,8 @@ Arctic
 Surface
 Land Character
 Vegetation
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Radar
 Aircraft
@@ -4807,8 +4807,8 @@ Radar
 Aircraft
 Models/Analyses
 Surface
-Upper Air
 Sounding
+Upper Air
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD MICROPHYSICS > CLOUD DROPLET CONCENTRATION/SIZE
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD MICROPHYSICS > CLOUD LIQUID WATER/ICE
 Surface
@@ -4876,8 +4876,8 @@ Model
 Models/Analyses
 Aircraft
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Surface
 Radar
 Surface
@@ -5276,8 +5276,8 @@ EARTH SCIENCE > BIOSPHERE > ECOLOGICAL DYNAMICS > ECOSYSTEM FUNCTIONS > FOOD-WEB
 EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > FISH
 Upper Air
 Lidar
-Upper Air
 Sounding
+Upper Air
 Ship Based
 Arctic
 Oceanography
@@ -5338,8 +5338,8 @@ Aircraft
 Chemistry
 Satellite
 Arctic
-Radar
 Aircraft
+Radar
 Upper Air
 no keywords
 Surface
@@ -5352,8 +5352,8 @@ Upper Air
 Aircraft
 Upper Air
 Sounding Composites
-Upper Air
 Sounding
+Upper Air
 EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW DEPTH
 EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW DEPTH
 Ship Based
@@ -5398,8 +5398,8 @@ Sounding
 Upper Air
 Lidar
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Surface
 Aerosols
 Oceanography
@@ -5545,8 +5545,8 @@ Surface
 Mesonet
 Surface
 Surface
-Upper Air
 Sounding
+Upper Air
 Meteorology
 Arctic
 Surface
@@ -5573,8 +5573,8 @@ Ship
 Oceanography
 Ship Based
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Upper Air
 Profiler
@@ -5698,8 +5698,8 @@ Satellite
 Upper Air
 Sounding Composites
 Sounding
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Surface
 Arctic
@@ -5730,8 +5730,8 @@ Surface
 Surface
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Surface
 Surface
 Aircraft
@@ -5795,8 +5795,8 @@ Upper Air
 Lidar
 Satellite
 Surface
-Upper Air
 Sounding
+Upper Air
 Satellite
 Satellite
 Surface
@@ -5894,10 +5894,10 @@ Arctic
 Surface
 Trace Gases
 Aircraft
+Aircraft
+Lidar
 Radar
 Upper Air
-Lidar
-Aircraft
 Models/Analyses
 Satellite
 Arctic
@@ -5977,9 +5977,9 @@ Biology
 Upper Air
 Sounding
 Satellite
+Sounding
 Upper Air
 Ship
-Sounding
 Model
 Models/Analyses
 Surface
@@ -6008,8 +6008,8 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > DEW POINT TEMPERATURE
-Radar
 Aircraft
+Radar
 Models/Analyses
 Aerosols
 Ship
@@ -6058,8 +6058,8 @@ Oceanography
 Biogeochemical
 Chemistry
 Benthos
-Upper Air
 Sounding
+Upper Air
 Meteorology
 Arctic
 Surface
@@ -6098,8 +6098,8 @@ Satellite
 Oceanography
 Sediment
 Chemistry
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Satellite
 Meteorology
@@ -6345,8 +6345,8 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > SOLID PRECIPITATION > HAIL
 Sounding
 Upper Air
 Photography
-Upper Air
 Sounding
+Upper Air
 Oceanography
 Arctic
 Satellite
@@ -6377,8 +6377,8 @@ Oceanography
 Satellite
 Arctic
 Sea Ice
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Trace Gases
@@ -6464,8 +6464,8 @@ Sounding
 Electrification
 Lightning
 Aircraft
-Radar
 Ancillary Info
+Radar
 Meteorology
 Arctic
 Surface
@@ -6683,8 +6683,8 @@ Sub-Surface
 Upper Air
 Lidar
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Models/Analyses
 Meteorology
 Upper Air
@@ -6854,8 +6854,8 @@ Satellite
 Precipitation
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Satellite
 Meteorology
 Arctic
@@ -7161,8 +7161,8 @@ Ice Physics
 Aircraft
 Models/Analyses
 Aircraft
-Surface
 Land Based
+Surface
 Satellite
 Models/Analyses
 no keywords
@@ -7205,8 +7205,8 @@ Arctic
 Upper Air
 Satellite
 no keywords
-Surface
 Land Based
+Surface
 Satellite
 Surface
 Models/Analyses
@@ -7261,9 +7261,9 @@ Upper Air
 Aircraft
 Surface
 Land Based
-Surface
-Upper Air
 Sounding
+Upper Air
+Surface
 Upper Air
 Ship
 Aircraft
@@ -7361,8 +7361,8 @@ Arctic
 Sediment
 Benthos
 Surface
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Aircraft
 Satellite
@@ -7558,8 +7558,8 @@ Lidar
 Upper Air
 Sounding
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Vegetation
@@ -7704,9 +7704,9 @@ EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > LIGHTNING
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC ELECTRICITY > ELECTRIC FIELD
 Arctic
 Hydrology
-Upper Air
-Sounding Composites
 Sounding
+Sounding Composites
+Upper Air
 Upper Air
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
 Ship Based
@@ -7766,8 +7766,8 @@ Arctic
 Oceanography
 Ship
 no keywords
-Upper Air
 Sounding
+Upper Air
 Arctic
 Oceanography
 Benthos
@@ -7871,16 +7871,16 @@ Aircraft
 Aircraft
 Aircraft
 no keywords
-Surface
-Buoy
 Oceanography
+Buoy
 Ship Based
+Surface
 Surface
 Mesonet
 Aircraft
 Radar
-Upper Air
 Sounding
+Upper Air
 Meteorology
 Upper Air
 Arctic
@@ -7909,8 +7909,8 @@ Upper Air
 Surface
 Radar
 Land Based
-Upper Air
 Profiler
+Upper Air
 no keywords
 Ancillary Info
 Lightning
@@ -7928,9 +7928,9 @@ Models/Analyses
 Lidar
 Upper Air
 Aircraft
+Sounding
 Upper Air
 Ship
-Sounding
 Aerosols
 Ship Based
 Meteorology
@@ -7987,20 +7987,20 @@ Benthos
 Biomass
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Surface
 Aircraft
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Arctic
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC CHEMISTRY > CARBON AND HYDROCARBON COMPOUNDS > ATMOSPHERIC CARBON DIOXIDE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC CHEMISTRY > OXYGEN COMPOUNDS > MOLECULAR OXYGEN
 Model
 Models/Analyses
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Satellite
 Ancillary Info
@@ -8398,8 +8398,8 @@ Plankton
 Production
 Aircraft
 Sub-Surface
-Upper Air
 Sounding
+Upper Air
 Models/Analyses
 Radar
 Aircraft
@@ -8414,8 +8414,8 @@ Oceanography
 Ship
 Aircraft
 Surface
-Surface
 Land Based
+Surface
 Aircraft
 Sounding
 Upper Air
@@ -8454,8 +8454,8 @@ Aircraft
 Satellite
 Satellite
 Satellite
-Surface
 Sub-Surface
+Surface
 Models/Analyses
 Aircraft
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR REFLECTIVITY
@@ -8716,8 +8716,8 @@ Arctic
 Upper Air
 Sounding
 Satellite
-Upper Air
 Sounding
+Upper Air
 Meteorology
 Arctic
 Surface
@@ -9061,9 +9061,9 @@ no keywords
 Aircraft
 Hydrology
 Aircraft
-Surface
 Chemistry
 Land Based
+Surface
 Photography
 Arctic
 Oceanography
@@ -9098,8 +9098,8 @@ Sounding
 Sounding
 Upper Air
 Models/Analyses
-Sub-Surface
 Land Based
+Sub-Surface
 EARTH SCIENCE > CRYOSPHERE > GLACIERS/ICE SHEETS > GLACIERS
 Models/Analyses
 Aircraft
@@ -9107,8 +9107,8 @@ Radar
 Upper Air
 Surface
 Profiler
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Vegetation
@@ -9143,8 +9143,8 @@ Aircraft
 Radar
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Aircraft
 no keywords
 Aircraft
@@ -9162,8 +9162,8 @@ Upper Air
 Sounding
 Model
 Models/Analyses
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Ship
 Sounding
@@ -9203,8 +9203,8 @@ Upper Air
 Satellite
 Radar
 Aircraft
-Surface
 Land Based
+Surface
 Models/Analyses
 Aerosols
 Chemistry
@@ -9504,8 +9504,8 @@ Aircraft
 Chemistry
 Ship
 Satellite
-Sub-Surface
 Land Based
+Sub-Surface
 Radar
 Radar
 Sub-Surface
@@ -9521,13 +9521,13 @@ Sub-Surface
 no keywords
 Ship
 Oceanography
-Upper Air
 Satellite
+Upper Air
 EARTH SCIENCE > BIOSPHERE > VEGETATION > LEAF CHARACTERISTICS > LEAF AREA INDEX (LAI)
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION INDEX > LEAF AREA INDEX (LAI)
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Land Based
 Ship Based
 Oceanography
@@ -9610,8 +9610,8 @@ Surface
 Vegetation
 Surface
 Oceanography
-Surface
 Land Based
+Surface
 Arctic
 Surface
 Trace Gases
@@ -9857,8 +9857,8 @@ CTD ocean cast
 Oceanography
 Aircraft
 Satellite
-Upper Air
 Sounding
+Upper Air
 Profiler
 Upper Air
 Lidar
@@ -9881,9 +9881,9 @@ Oceanography
 Ship
 Model
 Models/Analyses
-Surface
-Upper Air
 Sounding
+Upper Air
+Surface
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > LIQUID PRECIPITATION > RAIN
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION RATE
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PRECIPITATION AMOUNT
@@ -10026,8 +10026,8 @@ Ship
 Oceanography
 Aircraft
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Radar
 Models/Analyses
 Aircraft
@@ -10095,8 +10095,8 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > U/V WIND CO
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 Aircraft
 no keywords
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Vegetation
@@ -10180,8 +10180,8 @@ Upper Air
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT > 24 HOUR PRECIPITATION AMOUNT
 Aircraft
 no keywords
-Surface
 Land Based
+Surface
 Surface
 Surface
 no keywords
@@ -10204,9 +10204,9 @@ no keywords
 Upper Air
 Sounding
 Upper Air
-Surface
-Upper Air
 Sounding
+Upper Air
+Surface
 Aerosols
 Chemistry
 Aircraft
@@ -10243,8 +10243,8 @@ Land Based
 Aircraft
 Surface
 Surface
-Upper Air
 Sounding
+Upper Air
 Satellite
 Upper Air
 Sounding
@@ -10342,8 +10342,8 @@ Accompanying Archives
 Lidar
 Aircraft
 Satellite
-Upper Air
 Sounding
+Upper Air
 Arctic
 Plankton
 Water Chemistry
@@ -10608,8 +10608,8 @@ Sub-Surface
 Aircraft
 Satellite
 no keywords
-Upper Air
 Sounding
+Upper Air
 Sounding
 Upper Air
 Soils
@@ -10709,10 +10709,10 @@ Satellite
 Satellite
 EARTH SCIENCE > BIOSPHERE > VEGETATION > LEAF CHARACTERISTICS > LEAF AREA INDEX (LAI)
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION INDEX > LEAF AREA INDEX (LAI)
+Aircraft
+Lidar
 Aerosols
 Upper Air
-Lidar
-Aircraft
 Aircraft
 Oceanography
 Soils
@@ -10857,8 +10857,8 @@ Surface
 Models/Analyses
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 Surface
 Radar
 Aircraft
@@ -10973,8 +10973,8 @@ Arctic
 Biology
 Ship Based
 Radar
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Land Character
@@ -11131,8 +11131,8 @@ Water Sampling
 Water Chemistry
 Stable Isotope
 Chemistry
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Sounding
 Aircraft
@@ -11195,8 +11195,8 @@ Ship
 Arctic
 Ice Physics
 no keywords
-Upper Air
 Sounding
+Upper Air
 Arctic
 Chemistry
 Upper Air
@@ -11240,8 +11240,8 @@ Surface
 Upper Air
 Lidar
 Aircraft
-Upper Air
 Sounding
+Upper Air
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > SENSOR COUNTS
 EARTH SCIENCE > SPECTRAL/ENGINEERING > SENSOR CHARACTERISTICS > PHASE AND AMPLITUDE
@@ -11304,8 +11304,8 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR REFLECTIVITY
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > DROPLET SIZE
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > HYDROMETEORS
 Satellite
-Upper Air
 Satellite
+Upper Air
 Models/Analyses
 Oceanography
 Arctic
@@ -11719,8 +11719,8 @@ Arctic
 Biology
 Satellite
 Arctic
-Sub-Surface
 Land Based
+Sub-Surface
 Surface
 Satellite
 Aircraft
@@ -11926,15 +11926,15 @@ Sediment
 Profiler
 Upper Air
 Sub-Surface
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Radar
 EARTH SCIENCE > BIOSPHERE > VEGETATION > VEGETATION COVER
 Aircraft
 Chemistry
-Upper Air
 Sounding
+Upper Air
 Radar
 Aerosols
 Aircraft
@@ -12415,10 +12415,10 @@ EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW WATER EQUIVALENT
 Radar
 Aircraft
 Upper Air
-Surface
 Upper Air
 Radiation
 Land Based
+Surface
 Radar
 Arctic
 Plankton
@@ -12430,8 +12430,8 @@ Sea Ice
 Abundance
 Ship Based
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Surface
 Models/Analyses
@@ -12609,8 +12609,8 @@ Ship
 Upper Air
 Upper Air
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Vegetation
@@ -12683,8 +12683,8 @@ Radar
 Upper Air
 Sounding Composites
 Sounding
-Upper Air
 Sounding
+Upper Air
 Surface
 Precipitation
 Aircraft
@@ -12898,8 +12898,8 @@ Upper Air
 Profiler
 Surface
 Upper Air
-Upper Air
 Sounding
+Upper Air
 Surface
 Flux
 Aircraft
@@ -12912,8 +12912,8 @@ Arctic
 Plankton
 Oceanography
 Biology
-Surface
 Sub-Surface
+Surface
 Upper Air
 Aircraft
 Aircraft
@@ -12973,8 +12973,8 @@ Upper Air
 Radar
 EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW DEPTH
 EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW DEPTH
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Meteorology
 Arctic
@@ -13089,8 +13089,8 @@ Satellite
 Photography
 Radar
 Aircraft
-Upper Air
 Profiler
+Upper Air
 Satellite
 Aircraft
 Oceanography
@@ -13200,9 +13200,9 @@ no keywords
 Radar
 Surface
 Land Based
-Surface
 Chemistry
 Land Based
+Surface
 Land Character
 Arctic
 Ship Based
@@ -13377,8 +13377,8 @@ Arctic
 Bathymetry
 Ship Based
 Models/Analyses
-Upper Air
 Sounding
+Upper Air
 Surface
 Aircraft
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
@@ -13521,8 +13521,8 @@ Aircraft
 Sounding
 Upper Air
 Aircraft
-Upper Air
 Sounding
+Upper Air
 no keywords
 Radar
 Aircraft
@@ -13573,8 +13573,8 @@ Models/Analyses
 Aircraft
 Sub-Surface
 Surface
-Surface
 Sub-Surface
+Surface
 Models/Analyses
 Aircraft
 Satellite
@@ -13728,8 +13728,8 @@ Upper Air
 Sounding
 Aircraft
 Surface
-Upper Air
 Sounding
+Upper Air
 Arctic
 Oceanography
 Biogeochemical
@@ -13833,8 +13833,8 @@ Surface
 Model
 Models/Analyses
 Aircraft
-Surface
 Precipitation
+Surface
 Sounding
 Upper Air
 Aircraft
@@ -13976,8 +13976,8 @@ Ship
 Upper Air
 Radar
 Surface
-Surface
 Land Based
+Surface
 Satellite
 Land Character
 Arctic
@@ -14074,8 +14074,8 @@ EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > FUNGI > LICHENS
 Aircraft
 Cloud Particle Microphysics
 Satellite
-Surface
 Land Based
+Surface
 Satellite
 Sub-Surface
 Arctic
@@ -14227,8 +14227,8 @@ Arctic
 Surface
 Boundary Layer Meteorology
 Flux
-Upper Air
 Profiler
+Upper Air
 Arctic
 Surface
 Land Based
@@ -14384,9 +14384,9 @@ Chemistry
 Ship
 Arctic
 Oceanography
+Sounding
 Upper Air
 Ship
-Sounding
 Models/Analyses
 Radar
 Meteorology
@@ -14394,8 +14394,8 @@ Models/Analyses
 Arctic
 Model
 Satellite
-Upper Air
 Sounding
+Upper Air
 Surface
 Snow and Land Ice
 Aircraft
@@ -14469,8 +14469,8 @@ Satellite
 Models/Analyses
 EARTH SCIENCE > SPECTRAL/ENGINEERING > INFRARED WAVELENGTHS > THERMAL INFRARED
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > SKIN TEMPERATURE
-Upper Air
 Sounding
+Upper Air
 Upper Air
 Sounding
 Satellite
@@ -14571,8 +14571,8 @@ Upper Air
 Sounding
 Radar
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Sub-Surface
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
 Optics
@@ -14607,8 +14607,8 @@ Surface
 Meteorology
 Arctic
 Radar
-Upper Air
 Sounding
+Upper Air
 Lightning
 Electrification
 Radar
@@ -14950,8 +14950,8 @@ Aircraft
 Model
 Surface
 Land Based
-Upper Air
 Sounding
+Upper Air
 Models/Analyses
 Radar
 Ship Based
@@ -15193,9 +15193,9 @@ EARTH SCIENCE > OCEANS > SEA ICE > SEA ICE CONCENTRATION
 Model
 Models/Analyses
 no keywords
+Aircraft
 Oceanography
 Satellite
-Aircraft
 Models/Analyses
 Flux
 Surface
@@ -15442,8 +15442,8 @@ Satellite
 Models/Analyses
 Models/Analyses
 Aircraft
-Upper Air
 Profiler
+Upper Air
 Photography
 Surface
 Land Based
@@ -15508,8 +15508,8 @@ Arctic
 Surface
 Vegetation
 Surface
-Upper Air
 Sounding
+Upper Air
 Aircraft
 Model
 Models/Analyses
@@ -15753,8 +15753,8 @@ Mooring
 Water Sampling
 Arctic
 CTD ocean cast
-Upper Air
 Sounding
+Upper Air
 Arctic
 Surface
 Hydrology
@@ -15996,8 +15996,8 @@ Models/Analyses
 Oceanography
 Arctic
 Ship Based
-Upper Air
 Sounding
+Upper Air
 Model
 Models/Analyses
 Surface
@@ -16034,8 +16034,8 @@ Surface
 Hydrology
 Radar
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Sounding
 Upper Air
 EARTH SCIENCE > OCEANS > SEA ICE > SEA ICE AGE
@@ -16048,8 +16048,8 @@ Hydrology
 Sub-Surface
 Upper Air
 Sounding
-Upper Air
 Sounding
+Upper Air
 CTD ocean cast
 Ship
 Oceanography
@@ -16364,8 +16364,8 @@ Aircraft
 Aircraft
 Chemistry
 Aircraft
-Upper Air
 Sounding
+Upper Air
 Profiler
 Upper Air
 Radar
@@ -16415,8 +16415,8 @@ Upper Air
 Sounding
 Sounding
 Upper Air
-Sub-Surface
 Land Based
+Sub-Surface
 Satellite
 Satellite
 Chemistry
@@ -16477,8 +16477,8 @@ Biogeochemical
 Sea Ice
 Biology
 Aircraft
-Upper Air
 Sounding
+Upper Air
 no keywords
 Model
 Models/Analyses
@@ -16669,9 +16669,9 @@ Profiler
 Oceanography
 Arctic
 Ship Based
-Surface
 Oceanography
 Ship
+Surface
 Optics
 Hydrography
 Arctic
@@ -16745,8 +16745,8 @@ Stable Isotope
 Water Sampling
 Nutrient
 Arctic
-Upper Air
 Sounding
+Upper Air
 Satellite
 Satellite
 Satellite
@@ -16891,8 +16891,8 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > HYDROMETEORS
 Surface
 Radar
 Satellite
-Upper Air
 Sounding
+Upper Air
 Surface
 Models/Analyses
 Satellite
@@ -17096,8 +17096,8 @@ Model
 Models/Analyses
 Mesonet
 Surface
-Upper Air
 Sounding
+Upper Air
 Oceanography
 Benthos
 Biology
@@ -17162,8 +17162,8 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > MEAN RADIAL VELOCITY
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND DIRECTION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > BOUNDARY LAYER WINDS
-Upper Air
 Sounding
+Upper Air
 Models/Analyses
 Upper Air
 Sounding
