@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-02-07T22:47:39Z</gco:DateTime>
+      <gco:DateTime>2024-04-11T15:53:02Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -370,7 +370,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>GIF: Color Graphics Interchange Format (GIF) (image/gif)</gco:CharacterString>
+                  <gco:CharacterString>GIF: Graphics Interchange Format (GIF) (image/gif)</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -442,10 +442,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR IMAGERY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR IMAGERY</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

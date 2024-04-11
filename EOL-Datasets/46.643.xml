@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-02-07T22:51:22Z</gco:DateTime>
+      <gco:DateTime>2024-04-11T15:53:13Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake [McGuire, A. D.]</gco:CharacterString>
+                  <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
                   <gco:CharacterString>46.643</gco:CharacterString>
@@ -144,7 +144,7 @@
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake [McGuire, A. D.]</gco:CharacterString>
+                              <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
@@ -605,7 +605,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>DAT: ASCII Data File</gco:CharacterString>
+                  <gco:CharacterString>CSV: Comma Separated Value (text/csv)</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -670,53 +670,53 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Hydrology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CARBON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; RESPIRATION RATE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL RESPIRATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CARBON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; ORGANIC MATTER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CARBON FLUX</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; ORGANIC MATTER</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CARBON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; RESPIRATION RATE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; LAND SURFACE/AGRICULTURE INDICATORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CARBON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL RESPIRATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -868,7 +868,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake [McGuire, A. D.] homepage</gco:CharacterString>
+                        <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -884,7 +884,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake [McGuire, A. D.] Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>GEM and TEM Model Simulations for Toolik Lake Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
