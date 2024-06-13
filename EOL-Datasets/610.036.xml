@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-02-07T22:44:56Z</gco:DateTime>
+      <gco:DateTime>2024-06-13T20:50:13Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF68D6408/PSL_CourtlandAL_site_information.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF739325B/PSL_CourtlandAL_site_information.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF68D6409/PSL_Sband_description.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF739325C/PSL_Sband_description.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -141,7 +141,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF68D640A/PSL_Sband_format_description.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF739325D/PSL_Sband_format_description.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -165,7 +165,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF68D640B/README.SPROF_SBandPrecipitationProfiler_Dataset_InfoV5.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu//file/download/5558BF739325E/README.SPROF_SBandPrecipitationProfiler_Dataset_InfoV6.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -174,7 +174,7 @@
                   <gco:CharacterString>Documentation #4</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>README.SPROF_SBandPrecipitationProfiler_Dataset_InfoV5.pdf</gco:CharacterString>
+                  <gco:CharacterString>README.SPROF_SBandPrecipitationProfiler_Dataset_InfoV6.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -197,7 +197,7 @@
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2023-01-30T17:33:30Z</gco:DateTime>
+                        <gco:DateTime>2024-05-22T17:37:37Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -206,10 +206,10 @@
                   </gmd:CI_Date>
                </gmd:date>
                <gmd:edition>
-                  <gco:CharacterString>1.0</gco:CharacterString>
+                  <gco:CharacterString>2.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2023-01-30T17:33:30Z</gco:DateTime>
+                  <gco:DateTime>2024-05-22T17:37:37Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
@@ -449,7 +449,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>Data from the NOAA/PSL S-band precipitation profiling radar that was deployed at Courtland, Alabama for the PERiLS 2022 campaign. Measurements include vertical profiles of radial velocity, spectrum width, SNR, and power.</gco:CharacterString>
+            <gco:CharacterString>Data from the NOAA/PSL S-band precipitation profiling radar that was deployed at Courtland, Alabama for the PERiLS 2022 and continuing to 9 February 2023 when measurements concluded. Measurements include vertical profiles of radial velocity, spectrum width, SNR, and power.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -627,22 +627,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; SPECTRUM WIDTH</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; HYDROMETEORS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RETURN POWER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; HYDROMETEORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; MEAN RADIAL VELOCITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR BACKSCATTER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR BACKSCATTER</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; SPECTRUM WIDTH</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; MEAN RADIAL VELOCITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADIAL VELOCITY</gco:CharacterString>
@@ -687,7 +687,7 @@
                   <gco:CharacterString>none</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
-                  <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
+                  <gco:CharacterString>none</gco:CharacterString>
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
@@ -721,7 +721,7 @@
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
                            <gml:beginPosition>2021-09-15T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>2022-04-11T23:59:59Z</gml:endPosition>
+                           <gml:endPosition>2023-02-09T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -786,7 +786,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>3246</gco:Real>
+                  <gco:Real>9515</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
@@ -807,7 +807,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=610.036</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=610.036</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>

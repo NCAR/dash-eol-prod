@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::100.034</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::636.007</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -86,14 +86,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.26023/MX0D-Z722-M406</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/Z6F4-1NVX-VX09</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/546FC550E1DD0/readme_MPD_v1.0.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu//file/download/55809A73904CB/readme_MPD_denoised_M2HATS_v1.0.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -102,7 +102,31 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>readme_MPD_v1.0.pdf</gco:CharacterString>
+                  <gco:CharacterString>readme_MPD_denoised_M2HATS_v1.0.pdf</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu//dataset/636.004</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>636.004</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString> is a companion to dataset 636.007</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -117,15 +141,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+                  <gco:CharacterString>NCAR denoised MPD data</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>100.034</gco:CharacterString>
+                  <gco:CharacterString>636.007</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                        <gco:DateTime>2024-05-20T18:12:57Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -137,19 +161,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                  <gco:DateTime>2024-05-20T18:12:57Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>NCAR MPD data</gco:CharacterString>
+                              <gco:CharacterString>NCAR denoised MPD data</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2020-04-14T22:32:42Z</gco:DateTime>
+                                    <gco:DateTime>2024-05-20T18:12:57Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -207,16 +231,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>100.034</gco:CharacterString>
+                        <gco:CharacterString>636.007</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.26023/MX0D-Z722-M406"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/Z6F4-1NVX-VX09"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.26023/MX0D-Z722-M406</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/Z6F4-1NVX-VX09</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -288,7 +312,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>MicroPulse Differential Absorption Lidar (MPD) data collected from five MPDs starting in March 2018. The insturments were deployed in several locations. It is an engineering dataset which contains a mix of testing and field campaign data and should only be used in collaboration with the NCAR lidar group for scientific analysis. The data is organized in separate daily tar files for each MPD and can be ordered for all MPDs together or separately for each instrument by setting the &amp;quot;Event&amp;quot; flag during the ordering process.</gco:CharacterString>
+            <gco:CharacterString>MicroPulse Differential Absorption Lidar (MPD) data in NetCDF format collected by the MPD 3 during the Multi-point Monin-Obukhov similarity horizontal array turbulence study (M2HATS). The data was simultaneously denoised and processed for temperature, water vapor and aerosol backscatter coefficient using the Poisson Total Variation technique. While two MPDs were deployed to Nevada, USA, for this field project, only data from MPD 3 was processed using this enhanced technique due to hardware issues on MPD 2. Data from both MPDs (processed with the standard technique) is linked as a companion dataset in the &amp;quot;Related links&amp;quot; section below.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -394,7 +418,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>TAR: Unix Tape ARchive (TAR) Format File (application/x-tar)</gco:CharacterString>
+                  <gco:CharacterString>CDFtar: network Common Data Format in tar archive (application/x-tar)</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -449,6 +473,9 @@
             <gmd:MD_Keywords>
                <gmd:keyword>
                   <gco:CharacterString>NCAR MicroPulse DIAL (MPD)</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>NCAR MPD03</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -534,11 +561,11 @@
                   <gco:CharacterString>none</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
-                  <gco:CharacterString>none</gco:CharacterString>
+                  <gco:CharacterString>Access to these data requires a password.</gco:CharacterString>
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType gco:nilReason="missing"/>
+         <gmd:spatialRepresentationType gco:nilReason="unknown"/>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -550,16 +577,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-180.00000</gco:Decimal>
+                        <gco:Decimal>-117.08760</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>180.00000</gco:Decimal>
+                        <gco:Decimal>-117.08760</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>-90.00000</gco:Decimal>
+                        <gco:Decimal>38.04060</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>90.00000</gco:Decimal>
+                        <gco:Decimal>38.04060</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -567,8 +594,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>2018-03-23T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>9999-12-31T23:59:59Z</gml:endPosition>
+                           <gml:beginPosition>2023-07-20T00:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2023-09-26T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -633,18 +660,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>3894732</gco:Real>
+                  <gco:Real>464</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu//dataset/100.034</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu//dataset/636.007</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCAR MPD data homepage</gco:CharacterString>
+                        <gco:CharacterString>NCAR denoised MPD data homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -654,13 +681,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=100.034</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac_pw/fgr_form/id=636.007</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCAR MPD data Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>NCAR denoised MPD data Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
