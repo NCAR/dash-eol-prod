@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-02-07T22:50:42Z</gco:DateTime>
+      <gco:DateTime>2024-12-26T23:51:40Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -93,7 +93,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9DAD/CAMP_Mongolia_A3_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9DAD/CAMP_Mongolia_A3_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -117,7 +117,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E30/CAMP_Mongolia_A6_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E30/CAMP_Mongolia_A6_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -141,7 +141,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E31/CAMP_Mongolia_BTS_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E31/CAMP_Mongolia_BTS_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -165,7 +165,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E32/CAMP_Mongolia_C2_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E32/CAMP_Mongolia_C2_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -189,7 +189,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E33/CAMP_Mongolia_C4_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E33/CAMP_Mongolia_C4_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -213,7 +213,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E34/CAMP_Mongolia_D0_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E34/CAMP_Mongolia_D0_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -237,7 +237,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E35/CAMP_Mongolia_D7_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E35/CAMP_Mongolia_D7_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -261,7 +261,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E36/CAMP_Mongolia_DGS_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E36/CAMP_Mongolia_DGS_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -285,7 +285,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E37/CAMP_Mongolia_DRS_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E37/CAMP_Mongolia_DRS_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -309,7 +309,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E38/CAMP_Mongolia_E2_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E38/CAMP_Mongolia_E2_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -333,7 +333,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E39/CAMP_Mongolia_E4_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E39/CAMP_Mongolia_E4_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -357,7 +357,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E3A/CAMP_Mongolia_F0_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E3A/CAMP_Mongolia_F0_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -381,7 +381,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E3B/CAMP_Mongolia_G6_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E3B/CAMP_Mongolia_G6_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -405,7 +405,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E3C/CAMP_Mongolia_GUS_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E3C/CAMP_Mongolia_GUS_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -429,7 +429,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E3D/CAMP_Mongolia_H7_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E3D/CAMP_Mongolia_H7_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -453,7 +453,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu//file/download/420FD39C9E3E/CAMP_Mongolia_MGS_stm.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/420FD39C9E3E/CAMP_Mongolia_MGS_stm.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -952,7 +952,7 @@
          <gmd:resourceConstraints>
             <gmd:MD_LegalConstraints>
                <gmd:useLimitation>
-                  <gco:CharacterString>These data are restricted by a user agreement: https://data.eol.ucar.edu//file/download/420FD20C175/ceop_policy.html</gco:CharacterString>
+                  <gco:CharacterString>These data are restricted by a user agreement: https://data.eol.ucar.edu/file/download/420FD20C175/ceop_policy.html</gco:CharacterString>
                </gmd:useLimitation>
                <gmd:otherConstraints>
                   <gco:CharacterString>none</gco:CharacterString>
@@ -1062,7 +1062,7 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu//dataset/76.124</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/76.124</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
