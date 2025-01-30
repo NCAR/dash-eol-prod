@@ -77,7 +77,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-12-26T23:49:26Z</gco:DateTime>
+      <gco:DateTime>2025-01-30T23:52:07Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -103,6 +103,78 @@
                </gmd:name>
                <gmd:description>
                   <gco:CharacterString>bamexHrlySfcComp.html</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/422CA770CA64/Note_on_NetCDF_Data_File_Variable_Units.pdf</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>Documentation #2</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString>Note_on_NetCDF_Data_File_Variable_Units.pdf</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/422CA76EB4BC/WMO-0-20-003-present-weather.csv</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>Documentation #3</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString>WMO-0-20-003-present-weather.csv</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/422CA76EB4BB/WMO-0-20-011-cloud-amount.csv</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>Documentation #4</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString>WMO-0-20-011-cloud-amount.csv</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -341,7 +413,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The BAMEX 2003 Hourly Surface Meteorological composite contains data from several networks (i.e., Department of Energy (DOE) Atmospheric Radiation Measurement (ARM) Southern Great Plains (SGP) Surface Meteorological Observation System (SMOS), Clolorado Agricultural Meteorological Network (COAGMET), National Oceanic and Atmospheric Administration (NOAA) Great Lakes Environmental Research Laboratory (GLERL), High Plains Climate Network (HPCN), Illinois Air Monitoring Network (AIRQUAL_IL), Illinois State Water Survey (ISWS) Illinois Climate Network (ICN), Iowas School Network (IA_SCH_NET), Kansas Ground Water Management District #5 (GWMD5), WK Kellogg Biological Station (KBS) Long-Term Ecological Site (LTER) (KELLOGG), Kentucky Air Monitoring Network (AIRQUAL_KY), Konza Prarie Long Term Ecological Research (KONZA_LTER), Louisiana Agriclimatic Information System (LAIS), Lower Colorado River Authority (LCRA), Unidata Local Data Manager (LDM) World Meteorological Organization (LDMSFCMETR), Michigan Automated Weather Network (MAWN), Missouri Commercial Agricultural Weather Station Network (MOCAWS), National Data Buoy Center (NDBC), New Mexico State University (NMSU), National Oceanic and Atmospheric Administration (NOAA) Forecast Systems Laboratory (FSL) Meteorological Assimilation Data Ingest System (MADIS), North Dakota Roadway Weather Information System (RWIS), Ohio Agricultural Research and Development Center (OARDC), Ohio Air Monitoring Network (AIRQUAL_OH), Ohio Roadway Weather Information System (RWIS), Purdue Automated Agricultural Weather Station (PAAWS), South Dakota Roadway Weather Information System (RWIS), Texas North Plains Potential Evapotranspiration (PET), West Texas Mesonet (WTXMESO), Texas Natural Resource Conservation Comission (TNRCC), Wisconsin Automated Weather Observation Network (WI_AWON), and the Hourly Surface data extracted from the BAMEX 2003 Mesonet: 1-Minute Surface Meteorological Composite) for the BAMEX 2003 domain and time period. Data from these sources were merged and quality controlled to form this Surface Composite.</gco:CharacterString>
+            <gco:CharacterString>The BAMEX 2003 Hourly Surface Meteorological composite contains data from several networks (i.e., Department of Energy (DOE) Atmospheric Radiation Measurement (ARM) Southern Great Plains (SGP) Surface Meteorological Observation System (SMOS), Clolorado Agricultural Meteorological Network (COAGMET), National Oceanic and Atmospheric Administration (NOAA) Great Lakes Environmental Research Laboratory (GLERL), High Plains Climate Network (HPCN), Illinois Air Monitoring Network (AIRQUAL_IL), Illinois State Water Survey (ISWS) Illinois Climate Network (ICN), Iowas School Network (IA_SCH_NET), Kansas Ground Water Management District #5 (GWMD5), WK Kellogg Biological Station (KBS) Long-Term Ecological Site (LTER) (KELLOGG), Kentucky Air Monitoring Network (AIRQUAL_KY), Konza Prarie Long Term Ecological Research (KONZA_LTER), Louisiana Agriclimatic Information System (LAIS), Lower Colorado River Authority (LCRA), Unidata Local Data Manager (LDM) World Meteorological Organization (LDMSFCMETR), Michigan Automated Weather Network (MAWN), Missouri Commercial Agricultural Weather Station Network (MOCAWS), National Data Buoy Center (NDBC), New Mexico State University (NMSU), National Oceanic and Atmospheric Administration (NOAA) Forecast Systems Laboratory (FSL) Meteorological Assimilation Data Ingest System (MADIS), North Dakota Roadway Weather Information System (RWIS), Ohio Agricultural Research and Development Center (OARDC), Ohio Air Monitoring Network (AIRQUAL_OH), Ohio Roadway Weather Information System (RWIS), Purdue Automated Agricultural Weather Station (PAAWS), South Dakota Roadway Weather Information System (RWIS), Texas North Plains Potential Evapotranspiration (PET), West Texas Mesonet (WTXMESO), Texas Natural Resource Conservation Comission (TNRCC), Wisconsin Automated Weather Observation Network (WI_AWON), and the Hourly Surface data extracted from the BAMEX 2003 Mesonet: 1-Minute Surface Meteorological Composite) for the BAMEX 2003 domain and time period. Data from these sources were merged and quality controlled to form this Surface Composite. These data files are available as ASCII text files and netCDF data files.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -452,6 +524,14 @@
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
          </gmd:resourceFormat>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+               </gmd:name>
+               <gmd:version gco:nilReason="inapplicable"/>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
@@ -501,10 +581,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Automated Surface Observing System - ASOS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
+                  <gco:CharacterString>Mesoscale Meteorological Network - Mesonet</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Weather Stations</gco:CharacterString>
@@ -513,7 +590,10 @@
                   <gco:CharacterString>Air Monitoring Stations/Networks</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mesoscale Meteorological Network - Mesonet</gco:CharacterString>
+                  <gco:CharacterString>Automated Surface Observing System - ASOS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -531,31 +611,31 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SEA LEVEL PRESSURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD CEILING</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; VISIBILITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SEA LEVEL PRESSURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD CEILING</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -699,7 +779,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>604</gco:Real>
+                  <gco:Real>1097</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
@@ -729,7 +809,7 @@
                         <gco:CharacterString>Surface Meteorological (Hourly) Multi-Network Composite [NCAR/EOL] Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
