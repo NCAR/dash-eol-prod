@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::590.009</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::652.001</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -86,14 +86,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.26023/V9DJ-7T9J-PE0S</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/FDDD-PC3X-4M0X</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/546DF1784E68C/readme_HCR_OTREC_10Hz_v4.0.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/558E1478A5749/Gould-O2_Project_Dataset_Readme_250505.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -102,7 +102,31 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>readme_HCR_OTREC_10Hz_v4.0.pdf</gco:CharacterString>
+                  <gco:CharacterString>Gould-O2_Project_Dataset_Readme_250505.pdf</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu/dataset/490.050</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>490.050</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString> is superseded by dataset 652.001</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -117,15 +141,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>NCAR HCR radar moments data</gco:CharacterString>
+                  <gco:CharacterString>ARSV Laurence M. Gould Atmospheric O2 and CO2 Measurements</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>590.009</gco:CharacterString>
+                  <gco:CharacterString>652.001</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2025-04-22T23:27:37Z</gco:DateTime>
+                        <gco:DateTime>2025-04-29T20:02:33Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -134,22 +158,22 @@
                   </gmd:CI_Date>
                </gmd:date>
                <gmd:edition>
-                  <gco:CharacterString>4.0</gco:CharacterString>
+                  <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2025-04-22T23:27:37Z</gco:DateTime>
+                  <gco:DateTime>2025-04-29T20:02:33Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>NCAR HCR radar moments data</gco:CharacterString>
+                              <gco:CharacterString>ARSV Laurence M. Gould Atmospheric O2 and CO2 Measurements</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2019-11-07T17:12:32Z</gco:DateTime>
+                                    <gco:DateTime>2025-04-29T20:02:33Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -207,16 +231,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>590.009</gco:CharacterString>
+                        <gco:CharacterString>652.001</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.26023/V9DJ-7T9J-PE0S"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/FDDD-PC3X-4M0X"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.26023/V9DJ-7T9J-PE0S</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/FDDD-PC3X-4M0X</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -269,13 +293,20 @@
                </gmd:citedResponsibleParty>
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Britton B. Stephens</gco:CharacterString>
+                     </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NCAR/EOL HCR Team</gco:CharacterString>
+                        <gco:CharacterString>NCAR/EOL</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>stephens@ucar.edu</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -285,10 +316,95 @@
                      </gmd:role>
                   </gmd:CI_ResponsibleParty>
                </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Colm Sweeney</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>NOAA-ESRL/CU-CIRES</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>colm.sweeney@noaa.gov</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.esrl.noaa.gov/gmd/ccgg/aircraft/personnel/sweeney.html</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:name>
+                                    <gco:CharacterString>homepage</gco:CharacterString>
+                                 </gmd:name>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>David Munro</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>CU / CIRES</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>david.munro@noaa.gov</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Yuming Jin</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>NCAR</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>yumingjin@ucar.edu</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="user">user</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>HIAPER Cloud Radar (HCR) data collected aboard the NSF/NCAR GV HIAPER (Gulfstream-V High-performance Instrumented Airborne Platform for Environmental Research, HIAPER) (N677F) during OTREC (Organization of Tropical East Pacific Convection). The data were collected during 22 research flights which took place between August 7 and October 2, 2019, over the East Pacific and extreme SW Caribbean Ocean.</gco:CharacterString>
+            <gco:CharacterString>This data set includes measurements of O2 and CO2 concentration, with O2 reported as deviations in the O2/N2 ratio on the SIO2023 O2/N2 scale defined on August 30, 2024, and CO2 as ppm dry air mole fraction on the WMO X2019 scale. The shipboard O2 and CO2 measurements were made using a fuel-cell method for O2 and a dual-cell non-dispersive infrared gas analyzer for CO2, and are reported at 1-minute frequency.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -346,43 +462,21 @@
          </gmd:pointOfContact>
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Britton B. Stephens</gco:CharacterString>
+               </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gco:CharacterString>NCAR/EOL</gco:CharacterString>
                </gmd:organisationName>
-               <gmd:positionName>
-                  <gco:CharacterString>EOL Data Support</gco:CharacterString>
-               </gmd:positionName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
                         <gmd:CI_Address>
-                           <gmd:deliveryPoint>
-                              <gco:CharacterString>PO Box 3000</gco:CharacterString>
-                           </gmd:deliveryPoint>
-                           <gmd:city>
-                              <gco:CharacterString>Boulder</gco:CharacterString>
-                           </gmd:city>
-                           <gmd:administrativeArea>
-                              <gco:CharacterString>CO</gco:CharacterString>
-                           </gmd:administrativeArea>
-                           <gmd:postalCode>
-                              <gco:CharacterString>80307-3000</gco:CharacterString>
-                           </gmd:postalCode>
                            <gmd:electronicMailAddress>
-                              <gco:CharacterString>datahelp@eol.ucar.edu</gco:CharacterString>
+                              <gco:CharacterString>stephens@ucar.edu</gco:CharacterString>
                            </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                      </gmd:address>
-                     <gmd:onlineResource>
-                        <gmd:CI_OnlineResource>
-                           <gmd:linkage>
-                              <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
-                           </gmd:linkage>
-                           <gmd:name>
-                              <gco:CharacterString>homepage</gco:CharacterString>
-                           </gmd:name>
-                        </gmd:CI_OnlineResource>
-                     </gmd:onlineResource>
                   </gmd:CI_Contact>
                </gmd:contactInfo>
                <gmd:role>
@@ -394,7 +488,15 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>CF-compliant netCDF radial data in tar archive (application/x-tar)</gco:CharacterString>
+                  <gco:CharacterString>Portable Network Graphics (PNG) in tar archive</gco:CharacterString>
+               </gmd:name>
+               <gmd:version gco:nilReason="inapplicable"/>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>GNU Zip Compressed Universal Format (Common Doppler Radar Exchange Format)</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -445,138 +547,6 @@
                </gmd:thesaurusName>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
-         <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>HIAPER Cloud Radar</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>NSF/NCAR GV HIAPER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:type>
-                  <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
-                                          codeListValue="platform">platform</gmd:MD_KeywordTypeCode>
-               </gmd:type>
-            </gmd:MD_Keywords>
-         </gmd:descriptiveKeywords>
-         <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>Aircraft</gco:CharacterString>
-               </gmd:keyword>
-            </gmd:MD_Keywords>
-         </gmd:descriptiveKeywords>
-         <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; HYDROMETEORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; MEAN RADIAL VELOCITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN WINDS &gt; VERTICAL WIND MOTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; PLATFORM CHARACTERISTICS &gt; LINE OF SIGHT VELOCITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR BACKSCATTER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; DOPPLER VELOCITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION PROFILES &gt; MELTING LAYER HEIGHT</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED)</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD DYNAMICS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RETURN POWER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; SPECTRUM WIDTH</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; LINE OF SIGHT WINDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION PROFILES &gt; RAIN TYPE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR CROSS-SECTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:thesaurusName>
-                  <gmd:CI_Citation>
-                     <gmd:title>
-                        <gco:CharacterString>Global Change Master Directory (GCMD)</gco:CharacterString>
-                     </gmd:title>
-                     <gmd:date>
-                        <gmd:CI_Date>
-                           <gmd:date>
-                              <gco:Date>2018-02-27</gco:Date>
-                           </gmd:date>
-                           <gmd:dateType>
-                              <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
-                                                   codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                           </gmd:dateType>
-                        </gmd:CI_Date>
-                     </gmd:date>
-                     <gmd:edition>
-                        <gco:CharacterString>8.5</gco:CharacterString>
-                     </gmd:edition>
-                     <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                           <gmd:organisationName>
-                              <gco:CharacterString>National Aeronautics and Space Administration</gco:CharacterString>
-                           </gmd:organisationName>
-                           <gmd:role>
-                              <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                               codeListValue="originator">originator</gmd:CI_RoleCode>
-                           </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                     </gmd:citedResponsibleParty>
-                  </gmd:CI_Citation>
-               </gmd:thesaurusName>
-            </gmd:MD_Keywords>
-         </gmd:descriptiveKeywords>
          <gmd:resourceConstraints>
             <gmd:MD_LegalConstraints>
                <gmd:useLimitation>
@@ -599,16 +569,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-90.00000</gco:Decimal>
+                        <gco:Decimal>-78.00000</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-73.00000</gco:Decimal>
+                        <gco:Decimal>-52.00000</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>2.00000</gco:Decimal>
+                        <gco:Decimal>-70.00000</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>15.00000</gco:Decimal>
+                        <gco:Decimal>-52.50000</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -616,8 +586,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>2019-08-07T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>2019-10-03T00:00:00Z</gml:endPosition>
+                           <gml:beginPosition>2012-06-10T00:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2017-11-28T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -682,18 +652,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>103898</gco:Real>
+                  <gco:Real>8580</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/590.009</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/652.001</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCAR HCR radar moments data homepage</gco:CharacterString>
+                        <gco:CharacterString>ARSV Laurence M. Gould Atmospheric O2 and CO2 Measurements homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -703,13 +673,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=590.009</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=652.001</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCAR HCR radar moments data Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>ARSV Laurence M. Gould Atmospheric O2 and CO2 Measurements Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
