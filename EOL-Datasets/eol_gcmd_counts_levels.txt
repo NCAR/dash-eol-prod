@@ -12,7 +12,7 @@ nutrient, Count: 53, Level 1
 
 ship, Count: 485, Level 1
 
-upper air, Count: 1418, Level 1
+upper air, Count: 1419, Level 1
 
 local and traditional knowledge, Count: 12, Level 1
 
@@ -34,7 +34,7 @@ biomass, Count: 86, Level 1
 
 sounding, Count: 734, Level 1
 
-surface, Count: 1864, Level 1
+surface, Count: 1865, Level 1
 
 snow and land ice, Count: 63, Level 1
 

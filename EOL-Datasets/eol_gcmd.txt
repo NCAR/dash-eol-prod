@@ -7648,9 +7648,9 @@ EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD DROPLET DISTRIBUTION
 Radar
 Aircraft
 Models/Analyses
-Surface
-Land Based
 Precipitation
+Land Based
+Surface
 Models/Analyses
 Aircraft
 Models/Analyses
@@ -8586,9 +8586,9 @@ Sounding
 Upper Air
 Satellite
 Upper Air
-Surface
-Radar
 Precipitation
+Radar
+Surface
 Aircraft
 Models/Analyses
 no keywords
@@ -10548,9 +10548,9 @@ Satellite
 Sub-Surface
 Surface
 Satellite
-Surface
-Land Based
 Precipitation
+Land Based
+Surface
 Photography
 Aircraft
 Aircraft
@@ -17615,6 +17615,7 @@ Surface
 ArcticRIMS
 Satellite
 Aircraft
+Surface
 Radar
 Aerosols
 Chemistry
@@ -17631,9 +17632,9 @@ Upper Air
 Chemistry
 Arctic
 Ancillary Info
-Surface
-Land Based
 Precipitation
+Land Based
+Surface
 Aircraft
 Radar
 Land Character
@@ -18691,6 +18692,7 @@ Production
 Stable Isotope
 EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES
 EARTH SCIENCE SERVICES > DATA ANALYSIS AND VISUALIZATION > GEOGRAPHIC INFORMATION SYSTEMS
+Upper Air
 Surface
 Ship
 Radiation
