@@ -32,7 +32,9 @@
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
          </gmd:individualName>
          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+            <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                        xlink:title="NSF NCAR Earth Observing Laboratory"
+                        xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
          </gmd:organisationName>
          <gmd:positionName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -77,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-12-26T23:49:38Z</gco:DateTime>
+      <gco:DateTime>2025-08-01T18:02:57Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -160,7 +162,9 @@
                            <gmd:citedResponsibleParty>
                               <gmd:CI_ResponsibleParty>
                                  <gmd:organisationName>
-                                    <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                                    <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                                xlink:title="NSF NCAR Earth Observing Laboratory"
+                                                xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                                  </gmd:organisationName>
                                  <gmd:positionName>
                                     <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -223,7 +227,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -270,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Matthew Shupe</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-0973-9982"
+                                    xlink:title="Matthew Shupe"
+                                    xlink:actuate="onRequest">Matthew Shupe</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/ETL</gco:CharacterString>
+                        <gco:CharacterString>NOAA</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -287,7 +295,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
+                                    <gco:CharacterString>NOAA/ETL R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Boulder</gco:CharacterString>
@@ -314,7 +322,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Janet Intrieri</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4469-2104"
+                                    xlink:title="Janet Intrieri"
+                                    xlink:actuate="onRequest">Janet Intrieri</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>NOAA/ETL</gco:CharacterString>
@@ -402,10 +412,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Matthew Shupe</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-0973-9982"
+                                    xlink:title="Matthew Shupe"
+                                    xlink:actuate="onRequest">Matthew Shupe</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/ETL</gco:CharacterString>
+                        <gco:CharacterString>NOAA</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -419,7 +431,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
+                                    <gco:CharacterString>NOAA/ETL R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Boulder</gco:CharacterString>
@@ -502,7 +514,9 @@
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -549,10 +563,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Matthew Shupe</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-0973-9982"
+                              xlink:title="Matthew Shupe"
+                              xlink:actuate="onRequest">Matthew Shupe</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>NOAA/ETL</gco:CharacterString>
+                  <gco:CharacterString>NOAA</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -566,7 +582,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
+                              <gco:CharacterString>NOAA/ETL R/ETL6, DSRC, 325 Broadway</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Boulder</gco:CharacterString>
@@ -593,7 +609,9 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Janet Intrieri</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4469-2104"
+                              xlink:title="Janet Intrieri"
+                              xlink:actuate="onRequest">Janet Intrieri</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>NOAA/ETL</gco:CharacterString>
@@ -702,35 +720,35 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Radar</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Meteorology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Radar</gco:CharacterString>
+                  <gco:CharacterString>Upper Air</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Upper Air</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD TOP HEIGHT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD OPTICAL DEPTH/THICKNESS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD TOP TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD OPTICAL DEPTH/THICKNESS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE HEIGHT</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD TOP TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD TOP HEIGHT</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -825,7 +843,9 @@
                <gmd:distributorContact>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -904,7 +924,7 @@
                         <gco:CharacterString>ETL Radar-Lidar 10-min Cloud Physical Properties [Shupe, M., J. Intrieri, T. Uttal] Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"

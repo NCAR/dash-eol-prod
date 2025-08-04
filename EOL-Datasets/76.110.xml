@@ -32,7 +32,9 @@
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
          </gmd:individualName>
          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+            <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                        xlink:title="NSF NCAR Earth Observing Laboratory"
+                        xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
          </gmd:organisationName>
          <gmd:positionName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -77,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2024-12-26T23:51:39Z</gco:DateTime>
+      <gco:DateTime>2025-08-01T18:06:09Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -160,7 +162,9 @@
                            <gmd:citedResponsibleParty>
                               <gmd:CI_ResponsibleParty>
                                  <gmd:organisationName>
-                                    <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                                    <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                                xlink:title="NSF NCAR Earth Observing Laboratory"
+                                                xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                                  </gmd:organisationName>
                                  <gmd:positionName>
                                     <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -223,7 +227,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -270,7 +276,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Christian Depraetere</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9166-6339"
+                                    xlink:title="Christian Depraetere"
+                                    xlink:actuate="onRequest">Christian Depraetere</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Institut de Rerchereche pour le Developpement (IRD)</gco:CharacterString>
@@ -308,7 +316,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Andreas H. Fink</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-5840-2120"
+                                    xlink:title="Andreas H. Fink"
+                                    xlink:actuate="onRequest">Andreas H. Fink</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Karlsruhe Institute of Technology</gco:CharacterString>
@@ -341,7 +351,9 @@
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -388,7 +400,9 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Christian Depraetere</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9166-6339"
+                              xlink:title="Christian Depraetere"
+                              xlink:actuate="onRequest">Christian Depraetere</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>Institut de Rerchereche pour le Developpement (IRD)</gco:CharacterString>
@@ -601,7 +615,9 @@
                <gmd:distributorContact>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -680,7 +696,7 @@
                         <gco:CharacterString>CATCH: Precipitation Data Set (2001-3) Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
