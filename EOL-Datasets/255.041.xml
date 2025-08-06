@@ -32,7 +32,9 @@
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
          </gmd:individualName>
          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+            <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                        xlink:title="NSF NCAR Earth Observing Laboratory"
+                        xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
          </gmd:organisationName>
          <gmd:positionName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -77,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-01-03T22:15:33Z</gco:DateTime>
+      <gco:DateTime>2025-08-05T19:10:37Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -352,7 +354,9 @@
                            <gmd:citedResponsibleParty>
                               <gmd:CI_ResponsibleParty>
                                  <gmd:organisationName>
-                                    <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                                    <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                                xlink:title="NSF NCAR Earth Observing Laboratory"
+                                                xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                                  </gmd:organisationName>
                                  <gmd:positionName>
                                     <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -415,7 +419,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -542,7 +548,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Heloise Frouin-Mouy</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-2693-1105"
+                                    xlink:title="Heloise Frouin-Mouy"
+                                    xlink:actuate="onRequest">Heloise Frouin-Mouy</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>JASCO Applied Sciences Ltd.</gco:CharacterString>
@@ -582,7 +590,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>David E. Hannay</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8070-3245"
+                                    xlink:title="David E. Hannay"
+                                    xlink:actuate="onRequest">David E. Hannay</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>JASCO Applied Sciences</gco:CharacterString>
@@ -752,7 +762,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Jonathan Vallarta</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5451-3627"
+                                    xlink:title="Jonathan Vallarta"
+                                    xlink:actuate="onRequest">Jonathan Vallarta</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>JASCO Applied Sciences</gco:CharacterString>
@@ -810,7 +822,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>David E. Hannay</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8070-3245"
+                                    xlink:title="David E. Hannay"
+                                    xlink:actuate="onRequest">David E. Hannay</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>JASCO Applied Sciences</gco:CharacterString>
@@ -876,7 +890,9 @@
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -1045,18 +1061,15 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Mammals</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Mammals</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CETACEANS &gt; TOOTHED WHALES</gco:CharacterString>
-               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN ACOUSTICS &gt; AMBIENT NOISE</gco:CharacterString>
                </gmd:keyword>
@@ -1065,6 +1078,9 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CETACEANS &gt; BALEEN WHALES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CETACEANS &gt; TOOTHED WHALES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -1110,7 +1126,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-  <gmd:aggregationInfo>
+      <gmd:aggregationInfo>
         <gmd:MD_AggregateInformation>
           <gmd:aggregateDataSetName>
             <gmd:CI_Citation>
@@ -1136,7 +1152,8 @@
                  <gco:CharacterString>edu.ucar.eol::255.000</gco:CharacterString>
                   </gmd:code>
                 </gmd:MD_Identifier>
-              </gmd:identifier>          <gmd:citedResponsibleParty>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
                   <gmd:individualName gco:nilReason="missing"/>
                   <gmd:organisationName>
@@ -1162,7 +1179,8 @@
                           <gmd:country>
                             <gco:CharacterString>USA</gco:CharacterString>
                           </gmd:country>
-                          <gmd:electronicMailAddress>                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
                           </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                       </gmd:address>
@@ -1236,7 +1254,9 @@
                <gmd:distributorContact>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -1315,7 +1335,7 @@
                         <gco:CharacterString>Oil Industry Passive Acoustics Data [Hannay] Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"

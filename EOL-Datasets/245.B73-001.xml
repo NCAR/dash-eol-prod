@@ -32,7 +32,9 @@
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
          </gmd:individualName>
          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+            <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                        xlink:title="NSF NCAR Earth Observing Laboratory"
+                        xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
          </gmd:organisationName>
          <gmd:positionName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -77,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-01-03T22:15:33Z</gco:DateTime>
+      <gco:DateTime>2025-08-05T19:02:41Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -184,7 +186,9 @@
                            <gmd:citedResponsibleParty>
                               <gmd:CI_ResponsibleParty>
                                  <gmd:organisationName>
-                                    <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                                    <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                                xlink:title="NSF NCAR Earth Observing Laboratory"
+                                                xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                                  </gmd:organisationName>
                                  <gmd:positionName>
                                     <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -247,7 +251,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -294,7 +300,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Andre Punt</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8489-2488"
+                                    xlink:title="Andre Punt"
+                                    xlink:actuate="onRequest">Andre Punt</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Washington</gco:CharacterString>
@@ -334,7 +342,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Kirstin Holsman</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6361-2256"
+                                    xlink:title="Kirstin Holsman"
+                                    xlink:actuate="onRequest">Kirstin Holsman</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>NOAA</gco:CharacterString>
@@ -378,7 +388,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>James Ianelli</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7170-8677"
+                                    xlink:title="James Ianelli"
+                                    xlink:actuate="onRequest">James Ianelli</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>NOAA</gco:CharacterString>
@@ -422,7 +434,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Andre Punt</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8489-2488"
+                                    xlink:title="Andre Punt"
+                                    xlink:actuate="onRequest">Andre Punt</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Washington</gco:CharacterString>
@@ -517,7 +531,9 @@
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -564,7 +580,9 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Andre Punt</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8489-2488"
+                              xlink:title="Andre Punt"
+                              xlink:actuate="onRequest">Andre Punt</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>University of Washington</gco:CharacterString>
@@ -693,10 +711,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
+                  <gco:CharacterString>Biology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Oceanography</gco:CharacterString>
+                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Biomass</gco:CharacterString>
@@ -705,20 +723,20 @@
                   <gco:CharacterString>Fish</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Biology</gco:CharacterString>
+                  <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CLIMATE CHANGE IMPACT ASSESSMENT MODELS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; FOOD-WEB DYNAMICS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CLIMATE CHANGE IMPACT ASSESSMENT MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -764,12 +782,12 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-  <gmd:aggregationInfo>
+      <gmd:aggregationInfo>
         <gmd:MD_AggregateInformation>
           <gmd:aggregateDataSetName>
             <gmd:CI_Citation>
               <gmd:title>
-             <gco:CharacterString>BSIERP: Bering Sea Integrated Ecosystem Research Program</gco:CharacterString>
+             <gco:CharacterString>Bering Sea Integrated Ecosystem Research Program</gco:CharacterString>
               </gmd:title>
               <gmd:alternateTitle>
              <gco:CharacterString>BSIERP</gco:CharacterString>
@@ -777,7 +795,7 @@
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                 <gco:Date>2015-12-31</gco:Date>
+                 <gco:Date>2019-06-15</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="./resources/codeList.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -790,7 +808,8 @@
                  <gco:CharacterString>edu.ucar.eol::245.000</gco:CharacterString>
                   </gmd:code>
                 </gmd:MD_Identifier>
-              </gmd:identifier>          <gmd:citedResponsibleParty>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
                   <gmd:individualName gco:nilReason="missing"/>
                   <gmd:organisationName>
@@ -816,7 +835,8 @@
                           <gmd:country>
                             <gco:CharacterString>USA</gco:CharacterString>
                           </gmd:country>
-                          <gmd:electronicMailAddress>                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
                           </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                       </gmd:address>
@@ -893,7 +913,9 @@
                <gmd:distributorContact>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -972,7 +994,7 @@
                         <gco:CharacterString>Management Strategy Evaluation: Hindcast Model Output, 1979-2012 (B73) Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"

@@ -32,7 +32,9 @@
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
          </gmd:individualName>
          <gmd:organisationName>
-            <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+            <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                        xlink:title="NSF NCAR Earth Observing Laboratory"
+                        xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
          </gmd:organisationName>
          <gmd:positionName>
             <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -77,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-01-03T22:15:33Z</gco:DateTime>
+      <gco:DateTime>2025-08-05T19:10:36Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -160,7 +162,9 @@
                            <gmd:citedResponsibleParty>
                               <gmd:CI_ResponsibleParty>
                                  <gmd:organisationName>
-                                    <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                                    <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                                xlink:title="NSF NCAR Earth Observing Laboratory"
+                                                xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                                  </gmd:organisationName>
                                  <gmd:positionName>
                                     <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -223,7 +227,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -270,15 +276,20 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>John H. Trefry</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8451-5524"
+                                    xlink:title="John H. Trefry"
+                                    xlink:actuate="onRequest">John H. Trefry</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Florida Institute of Technology, Department of Marine and Environmental Systems</gco:CharacterString>
+                        <gco:CharacterString>Florida Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Department of Marine and Environmental Systems</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>jtrefry@fit.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
@@ -342,15 +353,20 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>John H. Trefry</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8451-5524"
+                                    xlink:title="John H. Trefry"
+                                    xlink:actuate="onRequest">John H. Trefry</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Florida Institute of Technology, Department of Marine and Environmental Systems</gco:CharacterString>
+                        <gco:CharacterString>Florida Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Department of Marine and Environmental Systems</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>jtrefry@fit.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
@@ -379,7 +395,9 @@
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -426,15 +444,20 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>John H. Trefry</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8451-5524"
+                              xlink:title="John H. Trefry"
+                              xlink:actuate="onRequest">John H. Trefry</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Florida Institute of Technology, Department of Marine and Environmental Systems</gco:CharacterString>
+                  <gco:CharacterString>Florida Institute of Technology</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
                         <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Department of Marine and Environmental Systems</gco:CharacterString>
+                           </gmd:deliveryPoint>
                            <gmd:electronicMailAddress>
                               <gco:CharacterString>jtrefry@fit.edu</gco:CharacterString>
                            </gmd:electronicMailAddress>
@@ -548,10 +571,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; MARINE SEDIMENTS &gt; SEDIMENTARY TEXTURES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; MARINE SEDIMENTS &gt; SEDIMENT CHEMISTRY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; MARINE SEDIMENTS &gt; SEDIMENT COMPOSITION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; MARINE SEDIMENTS &gt; SEDIMENT COMPOSITION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; MARINE SEDIMENTS &gt; SEDIMENT CHEMISTRY</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -597,7 +620,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-  <gmd:aggregationInfo>
+      <gmd:aggregationInfo>
         <gmd:MD_AggregateInformation>
           <gmd:aggregateDataSetName>
             <gmd:CI_Citation>
@@ -623,7 +646,8 @@
                  <gco:CharacterString>edu.ucar.eol::255.000</gco:CharacterString>
                   </gmd:code>
                 </gmd:MD_Identifier>
-              </gmd:identifier>          <gmd:citedResponsibleParty>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
                   <gmd:individualName gco:nilReason="missing"/>
                   <gmd:organisationName>
@@ -649,7 +673,8 @@
                           <gmd:country>
                             <gco:CharacterString>USA</gco:CharacterString>
                           </gmd:country>
-                          <gmd:electronicMailAddress>                        <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString>eol-datahelp@ucar.edu</gco:CharacterString>
                           </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                       </gmd:address>
@@ -723,7 +748,9 @@
                <gmd:distributorContact>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                                    xlink:title="NSF NCAR Earth Observing Laboratory"
+                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>EOL Data Support</gco:CharacterString>
@@ -802,7 +829,7 @@
                         <gco:CharacterString>ANIMIDA Sediment Contaminants [Trefry] Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
-                        <gco:CharacterString>Dataset order request form. Data files are made available via FTP.</gco:CharacterString>
+                        <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
                      </gmd:description>
                      <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
