@@ -9,9 +9,9 @@ Arctic
 Nutrient
 Hydrography
 Upper Air
+Biology
 Arctic
 Local and Traditional Knowledge
-Biology
 Satellite
 Satellite
 Models/Analyses
@@ -120,8 +120,8 @@ Meteorology
 Arctic
 Upper Air
 Sounding
-CTD ocean cast
 Oceanography
+CTD ocean cast
 Arctic
 Surface
 Sub-Surface
@@ -222,14 +222,14 @@ Soils
 Aerosols
 Satellite
 Satellite
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Models/Analyses
 Vegetation
 Arctic
@@ -345,11 +345,11 @@ Aircraft
 Oceanography
 Arctic
 Ship Based
+Biology
+Ship Based
+Arctic
 Mammals
 Oceanography
-Arctic
-Ship Based
-Biology
 Hydrography
 Oceanography
 Meteorology
@@ -413,13 +413,13 @@ Surface
 Precipitation
 Satellite
 Satellite
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Radar
 Surface
 Ship
@@ -443,9 +443,9 @@ Surface
 Surface
 Upper Air
 Sounding
-Mammals
-Arctic
 Biology
+Arctic
+Mammals
 Oceanography
 CTD ocean cast
 Ship Based
@@ -498,14 +498,14 @@ Upper Air
 Aircraft
 Sounding
 Surface
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Upper Air
 Sounding
 Sub-Surface
@@ -528,10 +528,10 @@ Land Based
 Upper Air
 Ship
 Sounding
-Mammals
-Arctic
-Ecology
 Biology
+Arctic
+Mammals
+Ecology
 Vegetation
 Arctic
 Biology
@@ -558,12 +558,12 @@ no keywords
 Land Based
 Surface
 Aircraft
-Oceanography
+Biology
+Production
+Arctic
 Plankton
 Fish
-Arctic
-Production
-Biology
+Oceanography
 Mesonet
 Surface
 Aircraft
@@ -576,11 +576,11 @@ Satellite
 Surface
 Aircraft
 Radar
-Biogeochemical
 Oceanography
-Water Chemistry
-Arctic
 Stable Isotope
+Arctic
+Water Chemistry
+Biogeochemical
 Surface
 Upper Air
 Ship
@@ -822,14 +822,14 @@ Meteorology
 Arctic
 Ship Based
 Aircraft
+Biology
+Ship Based
+Seabirds
+Arctic
 Mammals
-Oceanography
 Plankton
 Fish
-Arctic
-Seabirds
-Ship Based
-Biology
+Oceanography
 Aircraft
 Satellite
 Arctic
@@ -965,8 +965,8 @@ Arctic
 Surface
 Ancillary Info
 Aircraft
-Mammals
 Arctic
+Mammals
 Chemistry
 Aircraft
 Electrification
@@ -994,15 +994,15 @@ Satellite
 Aircraft
 Radar
 Oceanography
-Plankton
 Sediment
-Arctic
-Water Sampling
 Benthos
+Biology
+Plankton
+Arctic
 Ecology
+Water Sampling
 Ship Based
 Chemistry
-Biology
 Aircraft
 Chemistry
 Aircraft
@@ -1023,10 +1023,10 @@ Upper Air
 Models/Analyses
 Oceanography
 Sediment
-Arctic
 Benthos
-Ship Based
 Biology
+Arctic
+Ship Based
 Surface
 Upper Air
 Sounding
@@ -1460,9 +1460,9 @@ Arctic
 Lidar
 Upper Air
 Oceanography
+Biology
 Plankton
 Arctic
-Biology
 Satellite
 Oceanography
 Ship
@@ -1635,10 +1635,10 @@ Radar
 Models/Analyses
 Electrification
 Lightning
-Oceanography
-Arctic
-Seabirds
 Biology
+Seabirds
+Arctic
+Oceanography
 Arctic
 Active Layer/Permafrost
 Terrestrial Ecosystems
@@ -1877,12 +1877,12 @@ Aircraft
 Upper Air
 Sounding
 Surface
-Oceanography
+Biology
+Ship Based
+Arctic
 Biomass
 Fish
-Arctic
-Ship Based
-Biology
+Oceanography
 Satellite
 Land Character
 Satellite
@@ -2185,13 +2185,13 @@ Upper Air
 Radar
 Electrification
 Lightning
+Biology
+Ship Based
+Water Sampling
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Water Sampling
-Ship Based
-Biology
 Upper Air
 Surface
 Upper Air
@@ -2282,10 +2282,10 @@ Sub-Surface
 Surface
 Chemistry
 Ship
-Models/Analyses
-Oceanography
-Fish
 Biology
+Models/Analyses
+Fish
+Oceanography
 Radar
 Land Based
 Surface
@@ -2379,12 +2379,12 @@ Upper Air
 Precipitation
 Land Based
 Surface
-Biogeochemical
 Oceanography
 Sediment
 Arctic
 Ship Based
 Chemistry
+Biogeochemical
 Radar
 Aircraft
 Satellite
@@ -2441,8 +2441,8 @@ Aircraft
 Satellite
 Land Character
 Arctic
-Satellite
 Hydrology
+Satellite
 Flux
 Oceanography
 Mooring
@@ -2475,9 +2475,9 @@ Ship
 Satellite
 Oceanography
 Biomass
-Arctic
 Benthos
 Biology
+Arctic
 Photography
 Radar
 Satellite
@@ -2607,8 +2607,8 @@ Models/Analyses
 Radar
 NASA Aircraft
 Aircraft
-Seabirds
 Biology
+Seabirds
 Models/Analyses
 Electrification
 Models/Analyses
@@ -2687,21 +2687,21 @@ Models/Analyses
 Arctic
 Surface
 Aircraft
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Photography
 Surface
-Oceanography
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Mooring
+Oceanography
 Upper Air
 Ship
 Sub-Surface
@@ -2929,11 +2929,11 @@ Flux
 Meteorology
 Arctic
 Surface
+Biology
 Models/Analyses
-Oceanography
 Biomass
 Fish
-Biology
+Oceanography
 Chemistry
 Upper Air
 Aircraft
@@ -3042,8 +3042,8 @@ Satellite
 Ship
 Arctic
 Oceanography
-Arctic
 Benthos
+Arctic
 Ship Based
 Chemistry
 Seabirds
@@ -3173,14 +3173,14 @@ Upper Air
 Aircraft
 Profiler
 Upper Air
-Oceanography
+Biology
+Arctic
 Plankton
 Fish
-Arctic
-Biology
-Satellite
-CTD ocean cast
 Oceanography
+Satellite
+Oceanography
+CTD ocean cast
 Arctic
 Surface
 Meteorology
@@ -3227,22 +3227,22 @@ Land Based
 Vegetation
 Arctic
 Surface
-Abundance
 Biomass
-Arctic
 Benthos
-Ship Based
 Biology
+Arctic
+Abundance
+Ship Based
 Sub-Surface
 Surface
 Oceanography
 Satellite
 Upper Air
+Biology
+Ship Based
+Arctic
 Mammals
 Oceanography
-Arctic
-Ship Based
-Biology
 Upper Air
 Sounding
 Aircraft
@@ -3411,9 +3411,9 @@ Arctic
 Models/Analyses
 Models/Analyses
 Aircraft
-Oceanography
-Arctic
 Water Sampling
+Arctic
+Oceanography
 Oceanography
 Ship
 Sub-Surface
@@ -3464,9 +3464,9 @@ Sea Ice
 Biology
 Biogeochemical
 Models/Analyses
+Local and Traditional Knowledge
 Land Character
 Arctic
-Local and Traditional Knowledge
 Satellite
 Vegetation
 Arctic
@@ -3571,12 +3571,12 @@ EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > WIND DIRECTION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR BACKSCATTER
+Biology
+Ship Based
+Water Sampling
+Arctic
 Abundance
 Oceanography
-Arctic
-Water Sampling
-Ship Based
-Biology
 Satellite
 Satellite
 Arctic
@@ -3708,30 +3708,30 @@ Oceanography
 Sea Ice
 Mooring
 Arctic
-Biogeochemical
-Oceanography
-Water Chemistry
-Arctic
 Water Sampling
+Arctic
+Water Chemistry
+Oceanography
+Biogeochemical
 Aircraft
 Surface
 Satellite
 Aircraft
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Aircraft
 Radar
 Oceanography
-Water Chemistry
+Biology
 Arctic
 Water Sampling
+Water Chemistry
 Chemistry
-Biology
 Sub-Surface
 Surface
 Chemistry
@@ -3867,8 +3867,8 @@ Upper Air
 Sounding
 Aircraft
 Sediment
-Arctic
 Benthos
+Arctic
 Models/Analyses
 Upper Air
 EARTH SCIENCE > SPECTRAL/ENGINEERING > INFRARED WAVELENGTHS > INFRARED IMAGERY
@@ -4267,8 +4267,8 @@ Oceanography
 Meteorology
 Arctic
 Ship Based
-Arctic
 Local and Traditional Knowledge
+Arctic
 Sounding
 Land Based
 Arctic
@@ -4542,11 +4542,11 @@ Soils
 Land Based
 Arctic
 Surface
-Biogeochemical
-Oceanography
-Water Chemistry
-Arctic
 Water Sampling
+Arctic
+Water Chemistry
+Oceanography
+Biogeochemical
 Oceanography
 Vegetation
 Aircraft
@@ -4682,8 +4682,8 @@ Production
 Hydrography
 Land Character
 Arctic
-Satellite
 Hydrology
+Satellite
 Aircraft
 Satellite
 Aircraft
@@ -4754,12 +4754,12 @@ Arctic
 Ship Based
 Oceanography
 Satellite
-Oceanography
-Plankton
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Oceanography
 Land Character
 Arctic
 DEM
@@ -4818,9 +4818,9 @@ Upper Air
 Ancillary Info
 Photography
 Oceanography
-Water Chemistry
-Arctic
 Benthos
+Arctic
+Water Chemistry
 Chemistry
 Ancillary Info
 Vegetation
@@ -4995,10 +4995,10 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > SHORTWAVE RADIATION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > HUMIDITY > RELATIVE HUMIDITY
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE
 Aircraft
+Biology
 Models/Analyses
 Biomass
 Fish
-Biology
 Surface
 Snow and Land Ice
 Surface
@@ -5383,9 +5383,9 @@ Radar
 Aircraft
 Models/Analyses
 Aircraft
-Arctic
-Seabirds
 Biology
+Seabirds
+Arctic
 Satellite
 Satellite
 Chemistry
@@ -5670,9 +5670,9 @@ Nutrient
 Ship Based
 CTD ocean cast
 CTD ocean cast
-Oceanography
-Arctic
 Ship Based
+Arctic
+Oceanography
 Upper Air
 Sounding
 Arctic
@@ -5772,14 +5772,14 @@ Ship
 Arctic
 Bathymetry
 Aircraft
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Upper Air
 Aircraft
 Sounding
@@ -6080,12 +6080,12 @@ Oceanography
 CTD ocean cast
 Arctic
 Hydrography
+Biology
+Arctic
+Biomass
+Plankton
 Abundance
 Oceanography
-Plankton
-Biomass
-Arctic
-Biology
 Mesonet
 Surface
 Aircraft
@@ -6258,10 +6258,10 @@ Arctic
 Nutrient
 Surface
 Hydrography
-Models/Analyses
-Oceanography
-Fish
 Biology
+Models/Analyses
+Fish
+Oceanography
 Sounding
 Models/Analyses
 Lidar
@@ -6515,12 +6515,12 @@ Oceanography
 CTD ocean cast
 Arctic
 Aircraft
-Mammals
-Fish
-Arctic
+Biology
 Seabirds
 Ecology
-Biology
+Arctic
+Mammals
+Fish
 Aircraft
 Satellite
 Satellite
@@ -6540,20 +6540,20 @@ Oceanography
 Aerosols
 Models/Analyses
 Surface
+Biology
 Arctic
 Seabirds
-Biology
 EARTH SCIENCE > SPECTRAL/ENGINEERING > SENSOR CHARACTERISTICS > GEOLOCATION
 Oceanography
 CTD ocean cast
 Ship Based
 Ship
 Radar
-Oceanography
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Oceanography
 Radar
 Models/Analyses
 Chemistry
@@ -6667,10 +6667,10 @@ Trace Gases
 Surface
 Oceanography
 Sediment
-Arctic
 Benthos
-Chemistry
 Biology
+Arctic
+Chemistry
 Aircraft
 Vegetation
 Arctic
@@ -6877,8 +6877,8 @@ Surface
 Radiation
 Arctic
 Surface
-Seabirds
 Biology
+Seabirds
 Hydrography
 Oceanography
 Arctic
@@ -6946,14 +6946,14 @@ EARTH SCIENCE > LAND SURFACE > SOILS > SOIL COLOR
 EARTH SCIENCE > LAND SURFACE > SOILS > SOIL PH
 Satellite
 Aircraft
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Surface
 Upper Air
 Sounding
@@ -7001,11 +7001,11 @@ Satellite
 Aircraft
 Satellite
 Upper Air
-Oceanography
-Fish
-Arctic
-Production
 Biology
+Production
+Arctic
+Fish
+Oceanography
 Aircraft
 Photography
 Oceanography
@@ -7106,12 +7106,12 @@ Arctic
 Benthos
 Sediment
 Satellite
-Oceanography
-Plankton
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Oceanography
 Aircraft
 Chemistry
 Ship
@@ -7202,14 +7202,14 @@ Upper Air
 Aircraft
 Models/Analyses
 Surface
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Aircraft
 Arctic
 Trace Gases
@@ -7422,10 +7422,10 @@ Radar
 Upper Air
 Hydrology
 Upper Air
-Models/Analyses
-Fish
-Arctic
 Biology
+Models/Analyses
+Arctic
+Fish
 Surface
 Surface
 Land Based
@@ -7593,12 +7593,12 @@ Snow and Land Ice
 Paleoclimatology
 Arctic
 Oceanography
-Water Chemistry
+Benthos
+Biology
 Arctic
 Water Sampling
-Benthos
+Water Chemistry
 Chemistry
-Biology
 Satellite
 Chemistry
 Radar
@@ -8192,11 +8192,11 @@ Radar
 Aircraft
 Models/Analyses
 no keywords
-Mammals
-Fish
+Seabirds
 Arctic
 Local and Traditional Knowledge
-Seabirds
+Mammals
+Fish
 Sub-Surface
 Radar
 Precipitation
@@ -8241,9 +8241,9 @@ Surface
 Sea Ice
 Biology
 Biogeochemical
-Fish
 Arctic
 Local and Traditional Knowledge
+Fish
 Land Based
 Arctic
 Surface
@@ -8654,9 +8654,9 @@ Aircraft
 Electrification
 Oceanography
 Biomass
-Arctic
 Benthos
 Biology
+Arctic
 Radar
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
@@ -8918,11 +8918,11 @@ Sounding
 Land Based
 Surface
 Aircraft
+Biology
+Ship Based
+Arctic
 Mammals
 Oceanography
-Arctic
-Ship Based
-Biology
 Aircraft
 Flux
 Models/Analyses
@@ -8968,14 +8968,14 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC CHEMISTRY > CARBON AND HYDROCARBON COMP
 EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > CARBON MONOXIDE
 Surface
 Upper Air
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Upper Air
 Sounding
 Upper Air
@@ -9081,15 +9081,15 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND DIRECTION 
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ALTITUDE > GEOPOTENTIAL HEIGHT
 Radar
-CTD ocean cast
-Biogeochemical
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
+Biogeochemical
 Models/Analyses
 Surface
 Satellite
@@ -9112,9 +9112,9 @@ Upper Air
 Satellite
 Chemistry
 Arctic
-Arctic
 Benthos
 Biology
+Arctic
 Models/Analyses
 Aircraft
 Arctic
@@ -9197,9 +9197,9 @@ Aircraft
 Chemistry
 Aerosols
 CTD ocean cast
-Oceanography
-Arctic
 Ship Based
+Arctic
+Oceanography
 Aircraft
 Land Based
 Arctic
@@ -9374,22 +9374,22 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ALTITUDE > GEOPOTENTIAL HEIGHT
 Satellite
 Models/Analyses
-CTD ocean cast
-Biogeochemical
 Oceanography
-Plankton
-Water Chemistry
 Sediment
-Arctic
 Benthos
 Production
-Chemistry
 Biology
-Oceanography
+CTD ocean cast
+Plankton
+Arctic
+Water Chemistry
+Chemistry
+Biogeochemical
+Biology
+Arctic
 Biomass
 Fish
-Arctic
-Biology
+Oceanography
 Profiler
 Upper Air
 Models/Analyses
@@ -9585,11 +9585,11 @@ Arctic
 Arctic
 Trace Gases
 Surface
-Oceanography
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Oceanography
 Vegetation
 Land Character
 Arctic
@@ -9605,11 +9605,11 @@ Oceanography
 Sea Ice
 Arctic
 Surface
+Biology
+Stable Isotope
 Arctic
 Ecology
 Chemistry
-Biology
-Stable Isotope
 Aircraft
 Mesonet
 Surface
@@ -9658,11 +9658,11 @@ Aircraft
 Upper Air
 Sounding
 Models/Analyses
+Biology
 CTD ocean cast
 Plankton
 Arctic
 Water Sampling
-Biology
 Aircraft
 Flux
 Precipitation
@@ -9720,11 +9720,11 @@ EARTH SCIENCE > OCEANS > SEA ICE > ICE EXTENT
 EARTH SCIENCE SERVICES > ENVIRONMENTAL ADVISORIES > MARINE ADVISORIES > SEA ICE
 EARTH SCIENCE > OCEANS > SEA ICE > SEA ICE CONCENTRATION
 EARTH SCIENCE > OCEANS > SEA ICE > ICE TYPES
+Biology
+Ship Based
+Arctic
 Mammals
 Oceanography
-Arctic
-Ship Based
-Biology
 Aircraft
 Photography
 Surface
@@ -9894,14 +9894,14 @@ Aircraft
 Aircraft
 Satellite
 Aircraft
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Models/Analyses
 Oceanography
 Ship
@@ -9938,14 +9938,14 @@ Land Based
 Arctic
 Trace Gases
 Surface
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 no keywords
 Land Based
 Models/Analyses
@@ -10339,10 +10339,10 @@ Sounding
 Satellite
 Upper Air
 Sounding
-Oceanography
-Plankton
-Biomass
 Arctic
+Biomass
+Plankton
+Oceanography
 Aircraft
 Aircraft
 Aircraft
@@ -10496,12 +10496,12 @@ Sediment
 Upper Air
 Sounding
 Satellite
+Biology
+Ship Based
+Seabirds
+Arctic
 Mammals
 Oceanography
-Arctic
-Seabirds
-Ship Based
-Biology
 Satellite
 Surface
 Aircraft
@@ -10581,14 +10581,14 @@ Vegetation
 Arctic
 Surface
 Models/Analyses
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Chemistry
 Hydrology
 Land Based
@@ -10627,9 +10627,9 @@ Ship
 Biogeochemical
 Arctic
 Lidar
+Biology
 Arctic
 Local and Traditional Knowledge
-Biology
 Oceanography
 Water Sampling
 Arctic
@@ -10838,12 +10838,12 @@ Surface
 Soils
 Surface
 Aircraft
+Biology
+Ship Based
+Water Sampling
+Arctic
 Abundance
 Oceanography
-Arctic
-Water Sampling
-Ship Based
-Biology
 Aircraft
 Vegetation
 Arctic
@@ -10856,10 +10856,10 @@ Radar
 Vegetation
 Arctic
 Surface
-Oceanography
-Fish
-Arctic
 Biology
+Arctic
+Fish
+Oceanography
 Upper Air
 Satellite
 Upper Air
@@ -10878,9 +10878,9 @@ Radar
 Aircraft
 Aircraft
 CTD ocean cast
-Water Chemistry
 Arctic
 Ship Based
+Water Chemistry
 Models/Analyses
 Radar
 Satellite
@@ -10894,11 +10894,11 @@ Ship
 Arctic
 Biology
 Sediment
-Arctic
 Benthos
+Biology
+Arctic
 Ship Based
 Chemistry
-Biology
 Models/Analyses
 Surface
 Radar
@@ -10997,11 +10997,11 @@ Satellite
 Upper Air
 Upper Air
 Sounding
-Oceanography
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Oceanography
 Oceanography
 CTD ocean cast
 Ship
@@ -11212,8 +11212,8 @@ EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW/ICE TEMPERATURE
 EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW/ICE TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > SKIN TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE
-CTD ocean cast
 Oceanography
+CTD ocean cast
 Arctic
 Aircraft
 Aircraft
@@ -11573,13 +11573,13 @@ Models/Analyses
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > BOUNDARY LAYER WINDS
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND DIRECTION PROFILES
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND VELOCITY/SPEED PROFILES
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Aircraft
 Upper Air
 Sounding Composites
@@ -12244,12 +12244,12 @@ Radar
 Ancillary Info
 Models/Analyses
 Aircraft
+Biology
+Ship Based
+Arctic
+Plankton
 Abundance
 Oceanography
-Plankton
-Arctic
-Ship Based
-Biology
 Lidar
 Upper Air
 Surface
@@ -12301,11 +12301,11 @@ Snow and Land Ice
 Photography
 Arctic
 Satellite
-Biogeochemical
 Sediment
 Arctic
 Ship Based
 Chemistry
+Biogeochemical
 Models/Analyses
 Lidar
 Upper Air
@@ -12562,18 +12562,18 @@ Sounding
 Lidar
 Upper Air
 Models/Analyses
-Mammals
-Arctic
-Ship Based
 Biology
+Arctic
+Mammals
+Ship Based
 Upper Air
 Sounding
 Upper Air
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
 Arctic
 Water Sampling
+Water Chemistry
 Surface
 Satellite
 no keywords
@@ -12676,10 +12676,10 @@ Oceanography
 Ship Based
 Arctic
 Biology
+Biology
+Arctic
 Mammals
 Oceanography
-Arctic
-Biology
 Vegetation
 Arctic
 Trace Gases
@@ -12704,10 +12704,10 @@ Surface
 Soils
 Oceanography
 Aircraft
-Arctic
 Benthos
-Ecology
 Biology
+Arctic
+Ecology
 Oceanography
 Meteorology
 Arctic
@@ -12732,9 +12732,9 @@ Ship
 Models/Analyses
 Aircraft
 CTD ocean cast
-Oceanography
-Arctic
 Ship Based
+Arctic
+Oceanography
 Satellite
 Satellite
 Satellite
@@ -12847,12 +12847,12 @@ Sediment
 Water Sampling
 Biogeochemical
 Surface
-Fish
-Arctic
 Benthos
+Fish
+Biology
+Arctic
 Ecology
 Ship Based
-Biology
 Arctic
 Hydrology
 Surface
@@ -13023,12 +13023,12 @@ Chemistry
 Aircraft
 Surface
 Chemistry
-Oceanography
-Plankton
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Oceanography
 Aircraft
 Arctic
 Trace Gases
@@ -13161,8 +13161,8 @@ Upper Air
 Sounding
 Models/Analyses
 Models/Analyses
-Ancillary Info
 Arctic
+Ancillary Info
 Biomass
 Models/Analyses
 Arctic
@@ -13259,11 +13259,11 @@ Surface
 Oceanography
 Arctic
 Ship Based
-Abundance
-Mammals
 Oceanography
-Arctic
 Biology
+Arctic
+Mammals
+Abundance
 Optics
 Ship
 Arctic
@@ -13286,11 +13286,11 @@ Sounding Composites
 Radar
 Arctic
 Satellite
+Biology
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Biology
 Aircraft
 Aircraft
 Lidar
@@ -13397,9 +13397,9 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADIAL VELOCITY
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR REFLECTIVITY
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > DOPPLER VELOCITY
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > MEAN RADIAL VELOCITY
+Biology
 Arctic
 Local and Traditional Knowledge
-Biology
 Surface
 Marine Mammal Acoustics
 Mooring
@@ -13723,11 +13723,11 @@ Aircraft
 Upper Air
 Sounding Composites
 Sounding
-Oceanography
-Plankton
-Arctic
-Mooring
 Ship Based
+Arctic
+Plankton
+Mooring
+Oceanography
 Models/Analyses
 Chemistry
 Aerosols
@@ -13986,10 +13986,10 @@ Sounding
 Radar
 Precipitation
 Surface
-Mammals
+Biology
 Models/Analyses
 Seabirds
-Biology
+Mammals
 Aircraft
 Oceanography
 CTD ocean cast
@@ -14346,9 +14346,9 @@ Radar
 Photography
 Lidar
 Upper Air
+Local and Traditional Knowledge
 Land Character
 Arctic
-Local and Traditional Knowledge
 Satellite
 Aircraft
 Aircraft
@@ -14377,11 +14377,11 @@ Surface
 Hydrography
 Chemistry
 Oceanography
-Oceanography
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Oceanography
 Models/Analyses
 Sub-Surface
 Surface
@@ -14467,12 +14467,12 @@ Aircraft
 Arctic
 Ancillary Info
 Upper Air
-Oceanography
-Plankton
-Arctic
-Water Sampling
-Ship Based
 Biology
+Ship Based
+Water Sampling
+Arctic
+Plankton
+Oceanography
 EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADIAL VELOCITY
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD DYNAMICS
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND VELOCITY/SPEED PROFILES
@@ -14594,9 +14594,9 @@ Terrestrial Ecosystems
 Models/Analyses
 Radiation
 Upper Air
+Local and Traditional Knowledge
 Land Character
 Arctic
-Local and Traditional Knowledge
 Satellite
 Surface
 Oceanography
@@ -14765,13 +14765,13 @@ Models/Analyses
 Arctic
 Trace Gases
 Aircraft
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Models/Analyses
 Radar
 Aircraft
@@ -14781,11 +14781,11 @@ Models/Analyses
 Surface
 Radar
 Satellite
-Biogeochemical
 Oceanography
 Benthos
 Ship Based
 Chemistry
+Biogeochemical
 Upper Air
 Sounding
 Surface
@@ -15069,9 +15069,9 @@ Aircraft
 Aircraft
 Upper Air
 Aircraft
-Arctic
-Seabirds
 Biology
+Seabirds
+Arctic
 Aircraft
 Aircraft
 Radar
@@ -15190,13 +15190,13 @@ Vegetation
 Land Character
 Arctic
 Biology
+Biology
+Ship Based
+Water Sampling
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Water Sampling
-Ship Based
-Biology
 Upper Air
 Upper Air
 Sounding
@@ -15210,9 +15210,9 @@ Upper Air
 Upper Air
 Sounding
 Oceanography
+Biology
 Plankton
 Arctic
-Biology
 Surface
 Surface
 Hydrology
@@ -15286,11 +15286,11 @@ Ship
 Arctic
 Sediment
 Arctic
-Fish
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Fish
 Aircraft
 Aircraft
 Meteorology
@@ -15314,9 +15314,9 @@ Hydrography
 Aircraft
 Oceanography
 Aircraft
-Arctic
 Benthos
 Biology
+Arctic
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > NET RADIATION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS > U/V WIND COMPONENTS
@@ -15326,8 +15326,8 @@ EARTH SCIENCE > LAND SURFACE > SOILS > SOIL TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > DEW POINT TEMPERATURE
 Satellite
 Aircraft
-CTD ocean cast
 Oceanography
+CTD ocean cast
 Arctic
 Surface
 Upper Air
@@ -15463,10 +15463,10 @@ Radar
 Aircraft
 Upper Air
 Sounding
-Models/Analyses
-Oceanography
-Fish
 Biology
+Models/Analyses
+Fish
+Oceanography
 Models/Analyses
 Satellite
 Arctic
@@ -15509,13 +15509,13 @@ Benthos
 Biomass
 Biogeochemical
 Aircraft
+Biology
+Ship Based
+Water Sampling
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Water Sampling
-Ship Based
-Biology
 Oceanography
 Surface
 Upper Air
@@ -15539,13 +15539,13 @@ Aircraft
 Plankton
 Ship
 Arctic
+Biology
+Ship Based
+Water Sampling
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Water Sampling
-Ship Based
-Biology
 Upper Air
 Aircraft
 Sounding
@@ -15664,13 +15664,13 @@ Aircraft
 Aircraft
 Aircraft
 Aircraft
-Abundance
 Oceanography
 Biomass
-Arctic
 Benthos
-Ship Based
 Biology
+Arctic
+Abundance
+Ship Based
 Meteorology
 Satellite
 Ship
@@ -15702,14 +15702,14 @@ Oceanography
 Ship
 Chemistry
 Aircraft
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Nutrient
+Stable Isotope
 Arctic
 Water Sampling
-Nutrient
+Water Chemistry
 Chemistry
-Stable Isotope
 Aircraft
 Satellite
 Aircraft
@@ -15979,25 +15979,25 @@ Ship
 Land Based
 Surface
 Radar
-Abundance
 Oceanography
 Biomass
-Arctic
 Benthos
-Ship Based
 Biology
+Arctic
+Abundance
+Ship Based
 Ship
 Arctic
 Production
 Hydrography
 Radar
-Biogeochemical
 Oceanography
 Sediment
-Arctic
 Benthos
-Chemistry
 Biology
+Arctic
+Chemistry
+Biogeochemical
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > DEW POINT TEMPERATURE
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > SOLAR RADIATION
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > NET RADIATION
@@ -16235,9 +16235,9 @@ Upper Air
 Lidar
 Upper Air
 Aircraft
+Biology
 Arctic
 Local and Traditional Knowledge
-Biology
 Aircraft
 Satellite
 Oceanography
@@ -16603,12 +16603,12 @@ Ship
 Arctic
 Benthos
 Stable Isotope
+Biology
+Ship Based
+Arctic
+Plankton
 Abundance
 Oceanography
-Plankton
-Arctic
-Ship Based
-Biology
 Surface
 Radar
 Hydrology
@@ -16616,12 +16616,12 @@ Chemistry
 Land Based
 Arctic
 Surface
+Biology
+Ship Based
+Arctic
+Fish
 Abundance
 Oceanography
-Fish
-Arctic
-Ship Based
-Biology
 Seabirds
 Ship Based
 Arctic
@@ -17117,9 +17117,9 @@ Surface
 Upper Air
 Sounding
 Fish
+Biology
 Arctic
 Ship Based
-Biology
 Surface
 Aircraft
 ArcticRIMS
@@ -17225,13 +17225,13 @@ Aircraft
 Surface
 Aircraft
 Aircraft
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Surface
 Chemistry
 Biogeochemical
@@ -17297,8 +17297,8 @@ Ancillary Info
 Vegetation
 Arctic
 Sediment
-Arctic
 Benthos
+Arctic
 Upper Air
 Sounding
 Oceanography
@@ -17376,11 +17376,11 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > 
 EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > HUMIDITY
-Abundance
-Mammals
-Arctic
-Ship Based
 Biology
+Arctic
+Mammals
+Abundance
+Ship Based
 Satellite
 Models/Analyses
 Chemistry
@@ -17521,9 +17521,9 @@ Aircraft
 Upper Air
 Sounding
 CTD ocean cast
-Oceanography
-Arctic
 Ship Based
+Arctic
+Oceanography
 Aircraft
 Models/Analyses
 Sea Ice
@@ -17777,10 +17777,10 @@ Photography
 Radar
 Aircraft
 Chemistry
+Biology
 Plankton
 Arctic
 Ship Based
-Biology
 Models/Analyses
 Upper Air
 Water Chemistry
@@ -17804,13 +17804,13 @@ Cloud Particle Microphysics
 Aircraft
 Ancillary Info
 Surface
-Oceanography
-Plankton
-Water Chemistry
-Arctic
-Mooring
 Ship Based
+Arctic
 Buoy
+Plankton
+Mooring
+Water Chemistry
+Oceanography
 Aircraft
 Chemistry
 Aircraft
@@ -17844,10 +17844,10 @@ Aircraft
 Surface
 Upper Air
 Satellite
-Abundance
 Oceanography
-Plankton
 Biology
+Plankton
+Abundance
 Aircraft
 Aircraft
 Radar
@@ -18019,12 +18019,12 @@ Vegetation
 Land Character
 Arctic
 Biology
+Biology
+Ship Based
+Arctic
+Plankton
 Abundance
 Oceanography
-Plankton
-Arctic
-Ship Based
-Biology
 Oceanography
 Water Chemistry
 CTD ocean cast
@@ -18173,11 +18173,11 @@ Surface
 Surface
 Satellite
 Arctic
-Oceanography
-Arctic
-Seabirds
-Ship Based
 Biology
+Ship Based
+Seabirds
+Arctic
+Oceanography
 Aircraft
 Radar
 Satellite
@@ -18585,13 +18585,13 @@ EARTH SCIENCE > SPECTRAL/ENGINEERING > RADAR > RADAR BACKSCATTER
 Hydrology
 Oceanography
 Arctic
-CTD ocean cast
 Oceanography
-Water Chemistry
+CTD ocean cast
+Stable Isotope
 Arctic
 Water Sampling
+Water Chemistry
 Chemistry
-Stable Isotope
 Hydrography
 Oceanography
 Meteorology
@@ -18779,13 +18779,13 @@ Aircraft
 Satellite
 NASA LaRC SATCORPS
 Oceanography
-Abundance
-Oceanography
+Biology
+Ship Based
+Arctic
 Plankton
 Fish
-Arctic
-Ship Based
-Biology
+Abundance
+Oceanography
 Aircraft
 Aircraft
 Models/Analyses
@@ -18806,9 +18806,9 @@ Radar
 Upper Air
 Sounding
 Oceanography
+Biology
 Plankton
 Arctic
-Biology
 Chemistry
 Ship Based
 Aircraft
@@ -18911,13 +18911,13 @@ EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > WIND PROFILES > WIND DIRECTION 
 EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > UPPER LEVEL WINDS > WIND SPEED
 EARTH SCIENCE > ATMOSPHERE > ALTITUDE > GEOPOTENTIAL HEIGHT
 Surface
-Abundance
-Oceanography
+Biology
+Ship Based
+Arctic
 Plankton
 Fish
-Arctic
-Ship Based
-Biology
+Abundance
+Oceanography
 Aircraft
 Satellite
 Surface
@@ -19086,9 +19086,9 @@ Aircraft
 Models/Analyses
 Satellite
 Oceanography
-Arctic
-Surface
 Buoy
+Surface
+Arctic
 Meteorology
 Ship Based
 Ship
@@ -19125,10 +19125,10 @@ Upper Air
 Sounding
 Upper Air
 Sounding
-Oceanography
-Fish
-Arctic
 Biology
+Arctic
+Fish
+Oceanography
 Satellite
 Surface
 Surface

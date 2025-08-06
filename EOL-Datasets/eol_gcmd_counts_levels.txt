@@ -14,9 +14,9 @@ nutrient, Count: 53, Level 1
 
 upper air, Count: 1419, Level 1
 
-local and traditional knowledge, Count: 12, Level 1
-
 biology, Count: 272, Level 1
+
+local and traditional knowledge, Count: 12, Level 1
 
 satellite, Count: 908, Level 1
 
@@ -142,9 +142,9 @@ active layer/permafrost, Count: 36, Level 1
 
 aerosols, Count: 98, Level 1
 
-water chemistry, Count: 103, Level 1
-
 stable isotope, Count: 43, Level 1
+
+water chemistry, Count: 103, Level 1
 
 flux, Count: 56, Level 1
 
@@ -200,9 +200,9 @@ earth science > atmosphere > atmospheric chemistry > trace elements/trace metals
 
 no keywords, Count: 58, Level 1
 
-fish, Count: 31, Level 1
-
 production, Count: 38, Level 1
+
+fish, Count: 31, Level 1
 
 earth science > atmosphere > atmospheric winds > surface winds > u/v wind components, Count: 17, Level 5
 
