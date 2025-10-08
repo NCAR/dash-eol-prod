@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:45Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:20Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -328,10 +328,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ruben Delgado</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7133-2462"
+                                    xlink:title="Ruben Delgado"
+                                    xlink:actuate="onRequest">Ruben Delgado</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UMBC Joint Center for Earth Systems Technology</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, Baltimore County</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -345,7 +347,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Physics Department, Room 438, 1000 Hilltop Circle</gco:CharacterString>
+                                    <gco:CharacterString>Joint Center for Earth Systems Technology Physics Department, Room 438, 1000 Hilltop Circle</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Baltimore</gco:CharacterString>
@@ -570,16 +572,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>

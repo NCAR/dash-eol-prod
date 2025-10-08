@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:29Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:18Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -409,7 +409,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rebecca Baiman</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-1801-8618"
+                                    xlink:title="Rebecca Baiman"
+                                    xlink:actuate="onRequest">Rebecca Baiman</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Colorado Boulder</gco:CharacterString>
@@ -706,16 +708,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD TYPES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; LIQUID PRECIPITATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SOLID PRECIPITATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; SNOW STORMS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD TYPES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; HYDROMETEORS</gco:CharacterString>
@@ -724,7 +726,7 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; ICE STORMS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; SNOW STORMS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD AMOUNT</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

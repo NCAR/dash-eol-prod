@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:54Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -366,10 +366,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Vladimir E. Romanovsky</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9515-2087"
+                                    xlink:title="Vladimir E. Romanovsky"
+                                    xlink:actuate="onRequest">Vladimir E. Romanovsky</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Geophysical Institute UAF</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Associate Professor</gco:CharacterString>
@@ -506,10 +508,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Vladimir E. Romanovsky</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9515-2087"
+                                    xlink:title="Vladimir E. Romanovsky"
+                                    xlink:actuate="onRequest">Vladimir E. Romanovsky</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Geophysical Institute UAF</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Associate Professor</gco:CharacterString>
@@ -741,7 +745,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Soils</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Active Layer/Permafrost</gco:CharacterString>
@@ -750,38 +754,38 @@
                   <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Soils</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL CLASSIFICATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL BULK DENSITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; MAGNESIUM</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL CHEMISTRY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CALCIUM</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; POTASSIUM</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; MAGNESIUM</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL CHEMISTRY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CARBON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; POTASSIUM</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL HORIZONS/PROFILE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CARBON</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL BULK DENSITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL CLASSIFICATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

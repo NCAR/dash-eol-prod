@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:50Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:52Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,10 +300,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Temple Lee</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5388-6325"
+                                    xlink:title="Temple Lee"
+                                    xlink:actuate="onRequest">Temple Lee</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/ATDD</gco:CharacterString>
+                        <gco:CharacterString>NOAA Atmospheric Turbulence and Diffusion Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -446,10 +448,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Tilden Meyers</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-0726-4258"
+                                    xlink:title="Tilden Meyers"
+                                    xlink:actuate="onRequest">Tilden Meyers</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/ATDD</gco:CharacterString>
+                        <gco:CharacterString>NOAA Atmospheric Turbulence and Diffusion Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -735,22 +739,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

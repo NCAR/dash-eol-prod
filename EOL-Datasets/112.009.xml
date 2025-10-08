@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:18Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:54Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven C. Wofsy</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3133-2089"
+                                    xlink:title="Steven C. Wofsy"
+                                    xlink:actuate="onRequest">Steven C. Wofsy</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Harvard University</gco:CharacterString>
@@ -318,7 +320,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rodrigo Jimenez-Pizarro</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8665-9484"
+                                    xlink:title="Rodrigo Jimenez-Pizarro"
+                                    xlink:actuate="onRequest">Rodrigo Jimenez-Pizarro</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Universidad Nacional de Colombia</gco:CharacterString>

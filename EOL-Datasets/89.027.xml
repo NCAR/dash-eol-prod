@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:38Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:07Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Langley Research Center (LaRC), NASA</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/0399mhs52"
+                                    xlink:title="Langley Research Center"
+                                    xlink:actuate="onRequest">Langley Research Center</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -475,10 +477,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; REFLECTANCE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; VISIBLE WAVELENGTHS &gt; VISIBLE IMAGERY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; VISIBLE WAVELENGTHS &gt; VISIBLE IMAGERY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; REFLECTANCE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

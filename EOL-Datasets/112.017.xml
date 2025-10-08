@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:19Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:29Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,7 +300,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ralph F. Keeling</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9749-2253"
+                                    xlink:title="Ralph F. Keeling"
+                                    xlink:actuate="onRequest">Ralph F. Keeling</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Scripps Institution of Oceanography</gco:CharacterString>
@@ -429,7 +431,7 @@
                         <gco:CharacterString>Stephen R. Shertz</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Observations &amp;amp;amp; Modeling</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -658,16 +660,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; STABLE ISOTOPES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; STABLE ISOTOPES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

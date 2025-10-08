@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:45Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:47Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -656,47 +656,47 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Biomass</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Sea Ice</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Water Sampling</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Plankton</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>Biomass</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Plankton</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Ice Physics</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MACROALGAE (SEAWEEDS)</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MICROALGAE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MACROALGAE (SEAWEEDS)</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; FLUORESCENCE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN OPTICS &gt; FLUORESCENCE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MICROALGAE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

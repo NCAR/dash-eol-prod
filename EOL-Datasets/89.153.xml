@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:44Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:50Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -279,7 +279,7 @@
                         <gco:CharacterString>Anibal Aliaga</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMARPE</gco:CharacterString>
+                        <gco:CharacterString>Instituto del Mar del Peru</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -307,10 +307,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Luis Escudero</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0000-6814-608X"
+                                    xlink:title="Luis Escudero"
+                                    xlink:actuate="onRequest">Luis Escudero</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMARPE</gco:CharacterString>
+                        <gco:CharacterString>Instituto del Mar del Peru</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -341,7 +343,7 @@
                         <gco:CharacterString>Carmen Grados</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMARPE</gco:CharacterString>
+                        <gco:CharacterString>Instituto del Mar del Peru</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -544,23 +546,23 @@
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Ship</gco:CharacterString>
+                  <gco:CharacterString>Biology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Biology</gco:CharacterString>
+                  <gco:CharacterString>Ship</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; AGRICULTURE &gt; AGRICULTURAL AQUATIC SCIENCES &gt; FISHERIES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH &gt; RAY-FINNED FISHES &gt; ANCHOVIES/HERRINGS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; AGRICULTURE &gt; AGRICULTURAL AQUATIC SCIENCES &gt; FISHERIES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

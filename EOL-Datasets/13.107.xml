@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:57Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:53Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -255,7 +255,7 @@
                         <gco:CharacterString>Richard Moritz</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SHEBA Project Office</gco:CharacterString>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -269,7 +269,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
+                                    <gco:CharacterString>SHEBA Project Office Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Seattle</gco:CharacterString>
@@ -299,7 +299,7 @@
                         <gco:CharacterString>Richard Moritz</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SHEBA Project Office</gco:CharacterString>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -313,7 +313,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
+                                    <gco:CharacterString>SHEBA Project Office Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Seattle</gco:CharacterString>
@@ -356,6 +356,16 @@
                                  </gmd:administrativeArea>
                               </gmd:CI_Address>
                            </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.washington.edu/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:name>
+                                    <gco:CharacterString>homepage</gco:CharacterString>
+                                 </gmd:name>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
                      <gmd:role>
@@ -431,7 +441,7 @@
                   <gco:CharacterString>Richard Moritz</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>SHEBA Project Office</gco:CharacterString>
+                  <gco:CharacterString>University of Washington</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -445,7 +455,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
+                              <gco:CharacterString>SHEBA Project Office Polar Science Center, APL University of Washington 1013 NE 40th Street</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Seattle</gco:CharacterString>
@@ -526,13 +536,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Ships</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>CCGS Des Groseilliers</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -543,21 +553,30 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Meteorology</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Meteorology</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; SHORTWAVE RADIATION</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; LONGWAVE RADIATION</gco:CharacterString>
+               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SEA LEVEL PRESSURE</gco:CharacterString>
                </gmd:keyword>
@@ -565,22 +584,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; LONGWAVE RADIATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; SHORTWAVE RADIATION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

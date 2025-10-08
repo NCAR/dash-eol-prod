@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:40Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:48Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -418,7 +418,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Scott M. Gallager</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4815-727X"
+                                    xlink:title="Scott M. Gallager"
+                                    xlink:actuate="onRequest">Scott M. Gallager</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -462,7 +464,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Scott M. Gallager</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4815-727X"
+                                    xlink:title="Scott M. Gallager"
+                                    xlink:actuate="onRequest">Scott M. Gallager</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -764,50 +768,50 @@
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Plankton</gco:CharacterString>
+                  <gco:CharacterString>Abundance</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Abundance</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Ship</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Plankton</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS &gt; CRUSTACEANS &gt; COPEPODS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; DENSITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; TUNICATES &gt; LARVACEANS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MICROALGAE &gt; DIATOMS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; TUNICATES &gt; LARVACEANS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS &gt; CRUSTACEANS &gt; COPEPODS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; AMOEBOIDS &gt; RADIOLARIANS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; AMOEBOIDS &gt; RADIOLARIANS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

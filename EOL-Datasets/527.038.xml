@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:51Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:09Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Timothy Bonin</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7679-2890"
+                                    xlink:title="Timothy Bonin"
+                                    xlink:actuate="onRequest">Timothy Bonin</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/NSSL</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

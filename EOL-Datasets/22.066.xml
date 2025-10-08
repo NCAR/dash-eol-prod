@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:34Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -364,7 +364,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Desert Research Institute</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02vg22c33"
+                                    xlink:title="Desert Research Institute"
+                                    xlink:actuate="onRequest">Desert Research Institute</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -395,7 +397,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Seong Soo Yum</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-0879-1615"
+                                    xlink:title="Seong Soo Yum"
+                                    xlink:actuate="onRequest">Seong Soo Yum</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Desert Research Institute</gco:CharacterString>
@@ -599,10 +603,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL PARTICLE PROPERTIES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL PARTICLE PROPERTIES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

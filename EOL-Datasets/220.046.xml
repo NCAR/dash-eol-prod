@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:34Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:53Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Sonia Lasher-Trapp</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-5816-1363"
+                                    xlink:title="Sonia Lasher-Trapp"
+                                    xlink:actuate="onRequest">Sonia Lasher-Trapp</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Earth Atmosphere Planetary Sciences, Purdue University</gco:CharacterString>
+                        <gco:CharacterString>Purdue University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Associate Professor</gco:CharacterString>
@@ -288,8 +290,11 @@
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Earth Atmosphere Planetary Sciences,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>mailto:slasher@purdue.edu</gco:CharacterString>
+                                    <gco:CharacterString>slasher@purdue.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -497,19 +502,19 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE PRESSURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD LIQUID WATER/ICE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD BASE TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

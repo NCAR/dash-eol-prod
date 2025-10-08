@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:54Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:08Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -327,7 +327,7 @@
                         <gco:CharacterString>Sandra Correia</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Portuguese Institute of the Sea and the Atmosphere (IPMA)</gco:CharacterString>
+                        <gco:CharacterString>Portuguese Sea and Atmosphere Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -349,10 +349,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Victor Prior</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7741-4015"
+                                    xlink:title="Victor Prior"
+                                    xlink:actuate="onRequest">Victor Prior</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Portuguese Institute of the Sea and the Atmosphere (IPMA)</gco:CharacterString>
+                        <gco:CharacterString>Portuguese Sea and Atmosphere Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -549,10 +551,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Electrification</gco:CharacterString>
+                  <gco:CharacterString>Lightning</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Lightning</gco:CharacterString>
+                  <gco:CharacterString>Electrification</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

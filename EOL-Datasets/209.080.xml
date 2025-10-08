@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:21Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:46Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -465,6 +465,9 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>DMSP F-16</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>DMSP</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
@@ -472,9 +475,6 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>DMSP F-18</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>DMSP F-16</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>DMSP F-15</gco:CharacterString>

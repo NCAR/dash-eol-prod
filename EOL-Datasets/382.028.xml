@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:14Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:26Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -526,7 +526,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ted Letcher</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6841-083X"
+                                    xlink:title="Theodore W. Letcher"
+                                    xlink:actuate="onRequest">Theodore W. Letcher</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University at Albany State University of New York</gco:CharacterString>
@@ -726,20 +728,20 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Radar</gco:CharacterString>
+                  <gco:CharacterString>Precipitation</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Precipitation</gco:CharacterString>
+                  <gco:CharacterString>Radar</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; DOPPLER VELOCITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; DOPPLER VELOCITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; MEAN RADIAL VELOCITY</gco:CharacterString>

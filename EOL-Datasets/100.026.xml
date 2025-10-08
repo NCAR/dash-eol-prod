@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:01:49Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:46:51Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/Earth System Research Laboratory (ESRL)</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/033tt8e33"
+                                    xlink:title="NOAA Earth System Research Laboratory"
+                                    xlink:actuate="onRequest">NOAA Earth System Research Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -478,16 +480,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; SNOW WATER EQUIVALENT</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SOLID PRECIPITATION &gt; SNOW</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SNOW WATER EQUIVALENT</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; SNOW WATER EQUIVALENT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SOLID PRECIPITATION &gt; SNOW</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -633,7 +635,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>12370</gco:Real>
+                  <gco:Real>12633</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>

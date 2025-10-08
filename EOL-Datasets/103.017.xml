@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:01:50Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:52Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -374,7 +374,7 @@
                         <gco:CharacterString>Steven Howell</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Hawaii</gco:CharacterString>
+                        <gco:CharacterString>University of Hawaiʻi at Mānoa</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -421,7 +421,7 @@
                         <gco:CharacterString>Vladimir Kapustin</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/PMEL</gco:CharacterString>
+                        <gco:CharacterString>NOAA Pacific Marine Environmental Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

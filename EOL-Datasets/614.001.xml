@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:46:16Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,17 +276,19 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rainer Volkamer</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-0899-1369"
+                                    xlink:title="Rainer Volkamer"
+                                    xlink:actuate="onRequest">Rainer Volkamer</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Department of Chemistry; University of Colorado at Boulder</gco:CharacterString>
+                        <gco:CharacterString>University of Colorado at Boulder</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>UCB 215, M325</gco:CharacterString>
+                                    <gco:CharacterString>Department of Chemistry; UCB 215, M325</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Boulder</gco:CharacterString>

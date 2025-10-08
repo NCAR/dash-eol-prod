@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:10Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:46Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -808,7 +808,7 @@
                         <gco:CharacterString>Shigenori Haginoya</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Meteorlogical Research Inst.</gco:CharacterString>
+                        <gco:CharacterString>Meteorological Research Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -822,7 +822,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>1-1 Nagamine, Tsukuba</gco:CharacterString>
+                                    <gco:CharacterString>Meteorlogical Research Inst. 1-1 Nagamine, Tsukuba</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Ibaraki-ken</gco:CharacterString>
@@ -892,7 +892,7 @@
                         <gco:CharacterString>Nozomu Hirose</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Tokyo</gco:CharacterString>
+                        <gco:CharacterString>The University of Tokyo</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -963,7 +963,7 @@
                         <gco:CharacterString>Yaoming MA</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute for Tibetan Plateau Research</gco:CharacterString>
+                        <gco:CharacterString>Institute of Tibetan Plateau Research</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1015,7 +1015,7 @@
                         <gco:CharacterString>Toshio Koike</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Tokyo</gco:CharacterString>
+                        <gco:CharacterString>The University of Tokyo</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1101,7 +1101,7 @@
                   <gco:CharacterString>Nozomu Hirose</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>University of Tokyo</gco:CharacterString>
+                  <gco:CharacterString>The University of Tokyo</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

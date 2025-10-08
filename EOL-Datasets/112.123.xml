@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:21Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:10Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -324,7 +324,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven C. Wofsy</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3133-2089"
+                                    xlink:title="Steven C. Wofsy"
+                                    xlink:actuate="onRequest">Steven C. Wofsy</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Harvard University</gco:CharacterString>
@@ -390,7 +392,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rodrigo Jimenez-Pizarro</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8665-9484"
+                                    xlink:title="Rodrigo Jimenez-Pizarro"
+                                    xlink:actuate="onRequest">Rodrigo Jimenez-Pizarro</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Universidad Nacional de Colombia</gco:CharacterString>
@@ -492,7 +496,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Roisin Commane</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1373-1550"
+                                    xlink:title="Roisin Commane"
+                                    xlink:actuate="onRequest">Roisin Commane</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Harvard University</gco:CharacterString>
@@ -634,7 +640,7 @@
                         <gco:CharacterString>Christopher A. Pickett-Heaps</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Harvard University</gco:CharacterString>
+                        <gco:CharacterString>Commonwealth Scientific and Industrial Research Organisation</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -708,7 +714,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Qiaoqiao Wang</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9275-1765"
+                                    xlink:title="Qiaoqiao Wang"
+                                    xlink:actuate="onRequest">Qiaoqiao Wang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Harvard University</gco:CharacterString>
@@ -763,7 +771,7 @@
                         <gco:CharacterString>Stephen R. Shertz</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Observations &amp;amp;amp; Modeling</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -932,10 +940,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>William A. Cooper</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4530-5337"
+                                    xlink:title="William A. Cooper"
+                                    xlink:actuate="onRequest">William A. Cooper</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR</gco:CharacterString>
+                        <gco:CharacterString>National Center for Atmospheric Research</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -959,6 +969,9 @@
                      <gmd:individualName>
                         <gco:CharacterString>David C. Rogers</gco:CharacterString>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>NSF NCAR Earth Observing Laboratory</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -982,7 +995,7 @@
                         <gco:CharacterString>Stuart Beaton</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR/RAF</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Earth Observing Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1026,7 +1039,7 @@
                         <gco:CharacterString>Roger Hendershot</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Observations &amp;amp;amp; Modeling</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1102,10 +1115,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ru-Shan Gao</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6985-1637"
+                                    xlink:title="Ru-Shan Gao"
+                                    xlink:actuate="onRequest">Ru-Shan Gao</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA Chemical Sciences Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1674,7 +1689,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ralph F. Keeling</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9749-2253"
+                                    xlink:title="Ralph F. Keeling"
+                                    xlink:actuate="onRequest">Ralph F. Keeling</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Scripps Institution of Oceanography</gco:CharacterString>
@@ -1775,15 +1792,20 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Richard Lueb</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0006-3418-7653"
+                                    xlink:title="Richard Lueb"
+                                    xlink:actuate="onRequest">Richard Lueb</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCAR</gco:CharacterString>
+                        <gco:CharacterString>National Center for Atmospheric Research</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>ACOM</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>lueb@ucar.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
@@ -2019,10 +2041,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Chemistry</gco:CharacterString>
+                  <gco:CharacterString>Aerosols</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Aerosols</gco:CharacterString>
+                  <gco:CharacterString>Chemistry</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Aircraft</gco:CharacterString>
@@ -2035,34 +2057,34 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; NITROGEN COMPOUNDS &gt; NITROUS OXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HYDROGEN COMPOUNDS &gt; MOLECULAR HYDROGEN</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; PARTICULATES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON MONOXIDE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; NON-METHANE HYDROCARBONS/VOLATILE ORGANIC COMPOUNDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HYDROGEN COMPOUNDS &gt; MOLECULAR HYDROGEN</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD LIQUID WATER/ICE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; CHLOROFLUOROCARBONS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; METHANE</gco:CharacterString>
@@ -2071,28 +2093,28 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; ATMOSPHERIC OZONE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD LIQUID WATER/ICE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; NITROGEN COMPOUNDS &gt; Peroxyacyl Nitrate</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; MOLECULAR OXYGEN</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; ORGANIC PARTICLES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; HALOCARBONS AND HALOGENS &gt; CHLOROFLUOROCARBONS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; NITROGEN COMPOUNDS &gt; Peroxyacyl Nitrate</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; PARTICULATES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; NON-METHANE HYDROCARBONS/VOLATILE ORGANIC COMPOUNDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

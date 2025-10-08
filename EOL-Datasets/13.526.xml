@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:59Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:54Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -279,7 +279,7 @@
                         <gco:CharacterString>Igor Melnikov</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>P.P. Shirshov Inst of Ocean</gco:CharacterString>
+                        <gco:CharacterString>Institute of Oceanology. PP Shirshov Russian Academy of Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -316,7 +316,7 @@
                         <gco:CharacterString>Igor Melnikov</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>P.P. Shirshov Inst of Ocean</gco:CharacterString>
+                        <gco:CharacterString>Institute of Oceanology. PP Shirshov Russian Academy of Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -414,7 +414,7 @@
                   <gco:CharacterString>Igor Melnikov</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>P.P. Shirshov Inst of Ocean</gco:CharacterString>
+                  <gco:CharacterString>Institute of Oceanology. PP Shirshov Russian Academy of Sciences</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -519,7 +519,7 @@
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Sea Ice</gco:CharacterString>
+                  <gco:CharacterString>Biology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
@@ -528,33 +528,12 @@
                   <gco:CharacterString>Ice Physics</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Biology</gco:CharacterString>
+                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NUTRIENTS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; CHLOROPHYLL</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; PHOSPHATE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; ZOOPLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; ICE DEPTH/THICKNESS</gco:CharacterString>
-               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MICROALGAE &gt; DIATOMS</gco:CharacterString>
                </gmd:keyword>
@@ -562,7 +541,28 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; SILICATE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; ZOOPLANKTON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; ICE DEPTH/THICKNESS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PROTISTS &gt; PLANKTON</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; NUTRIENTS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; CHLOROPHYLL</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; PHOSPHATE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

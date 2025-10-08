@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:47Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:13Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -312,10 +312,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steve Wanzong</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8493-1221"
+                                    xlink:title="Steve Wanzong"
+                                    xlink:actuate="onRequest">Steve Wanzong</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>CIMSS</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Meteorological Satellite Studies</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

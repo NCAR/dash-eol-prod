@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:44Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:20Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -290,7 +290,7 @@
                            <gmd:onlineResource>
                               <gmd:CI_OnlineResource>
                                  <gmd:linkage>
-                                    <gmd:URL>https://www.eol.ucar.edu/facilities/remote-sensing-facility-rsf</gmd:URL>
+                                    <gmd:URL>https://www.eol.ucar.edu/remote-sensing-facility</gmd:URL>
                                  </gmd:linkage>
                                  <gmd:name>
                                     <gco:CharacterString>homepage</gco:CharacterString>
@@ -475,10 +475,10 @@
                   <gco:CharacterString>Radar, CP2</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Radar, CP4</gco:CharacterString>
+                  <gco:CharacterString>Radar, CP3</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Radar, CP3</gco:CharacterString>
+                  <gco:CharacterString>Radar, CP4</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -499,22 +499,22 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; SPECTRUM WIDTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RETURN POWER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; DOPPLER VELOCITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR BACKSCATTER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR REFLECTIVITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; MEAN RADIAL VELOCITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RADAR BACKSCATTER</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; RADAR &gt; RETURN POWER</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

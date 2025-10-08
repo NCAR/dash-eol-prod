@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:20Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:18Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Climate Prediction Center (CPC), NOAA</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/00kct2d35"
+                                    xlink:title="NOAA Climate Prediction Center"
+                                    xlink:actuate="onRequest">NOAA Climate Prediction Center</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -474,10 +476,10 @@
                   <gco:CharacterString>Precipitation</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

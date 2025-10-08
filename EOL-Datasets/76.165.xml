@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:11Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:48Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -416,7 +416,7 @@
                               xlink:actuate="onRequest">Jose Marengo</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>CPTEC/INPE</gco:CharacterString>
+                  <gco:CharacterString>National Institute for Space Research</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -430,7 +430,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>Rodovia Presidente Dutra,km 3912630-000 Cachoeira Paulista</gco:CharacterString>
+                              <gco:CharacterString>CPTEC Rodovia Presidente Dutra,km 3912630-000 Cachoeira Paulista</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Sao Paulo</gco:CharacterString>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:12Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:35Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -784,7 +784,7 @@
                         <gco:CharacterString>Shigenori Haginoya</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Meteorlogical Research Inst.</gco:CharacterString>
+                        <gco:CharacterString>Meteorological Research Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -798,7 +798,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>1-1 Nagamine, Tsukuba</gco:CharacterString>
+                                    <gco:CharacterString>Meteorlogical Research Inst. 1-1 Nagamine, Tsukuba</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Ibaraki-ken</gco:CharacterString>
@@ -875,10 +875,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ryohei Misumi</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-2809-1250"
+                                    xlink:title="Ryohei Misumi"
+                                    xlink:actuate="onRequest">Ryohei Misumi</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Research Institute for Earth Science and Disaster Prevention</gco:CharacterString>
+                        <gco:CharacterString>National Research Institute for Earth Science and Disaster Resilience</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

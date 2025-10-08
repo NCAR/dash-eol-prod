@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:46Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:07Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -324,7 +324,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Xiaoyu Sun</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0000-9365-3171"
+                                    xlink:title="Xiaoyu Sun"
+                                    xlink:actuate="onRequest">Xiaoyu Sun</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Bremen</gco:CharacterString>
@@ -354,7 +356,7 @@
                                     xlink:actuate="onRequest">Christoph Ritter</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alfred Wegener Institute</gco:CharacterString>
+                        <gco:CharacterString>Alfred-Wegener-Institut Helmholtz-Zentrum f&amp;amp;uuml;r Polar- und Meeresforschung</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -379,7 +381,7 @@
                         <gco:CharacterString>Katrin Mueller</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alfred Wegener Institute</gco:CharacterString>
+                        <gco:CharacterString>Alfred-Wegener-Institut Helmholtz-Zentrum f&amp;amp;uuml;r Polar- und Meeresforschung</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -583,19 +585,19 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL BACKSCATTER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL EXTINCTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL OPTICAL DEPTH/THICKNESS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR DEPOLARIZATION RATIO</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR &gt; LIDAR BACKSCATTER</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL BACKSCATTER</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL EXTINCTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

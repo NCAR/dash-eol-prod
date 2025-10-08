@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:32Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:53Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -312,7 +312,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>A. Dave McGuire</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
+                                    xlink:title="A. Dave McGuire"
+                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -362,12 +364,15 @@
                         <gco:CharacterString>X. Zhang</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Department of Biology and Wildlife, University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Department of Biology and Wildlife,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
                                  </gmd:city>
@@ -469,7 +474,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven C. Wofsy</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3133-2089"
+                                    xlink:title="Steven C. Wofsy"
+                                    xlink:actuate="onRequest">Steven C. Wofsy</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Harvard University</gco:CharacterString>
@@ -529,7 +536,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>A. Dave McGuire</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
+                                    xlink:title="A. Dave McGuire"
+                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -665,7 +674,9 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>A. Dave McGuire</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
+                              xlink:title="A. Dave McGuire"
+                              xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -796,38 +807,38 @@
                   <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Trace Gases</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Trace Gases</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; RESPIRATION RATE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; LAND SURFACE/AGRICULTURE INDICATORS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL RESPIRATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; LAND SURFACE/AGRICULTURE INDICATORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CARBON FLUX</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL RESPIRATION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; RESPIRATION RATE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

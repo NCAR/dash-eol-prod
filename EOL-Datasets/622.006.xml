@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:47Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:10Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -387,7 +387,7 @@
                         <gco:CharacterString>Zachary Barney</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/NSSL</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Severe Storms Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -592,10 +592,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Vicente Salinas</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7690-6154"
+                                    xlink:title="Vicente Salinas"
+                                    xlink:actuate="onRequest">Vicente Salinas</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/NSSL</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Severe Storms Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -896,13 +898,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED)</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; SNOW STORMS &gt; LAKE EFFECT SNOW</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC ELECTRICITY &gt; LIGHTNING</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; LIGHTNING</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; SNOW STORMS &gt; LAKE EFFECT SNOW</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

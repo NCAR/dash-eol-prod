@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-05T18:46:20Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:29Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>United States Coast Guard (USCG)</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/00zyc7969"
+                                    xlink:title="United States Coast Guard (USCG)"
+                                    xlink:actuate="onRequest">United States Coast Guard (USCG)</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Base Seattle C4IT (ESU)</gco:CharacterString>
@@ -299,7 +301,7 @@
                            <gmd:onlineResource>
                               <gmd:CI_OnlineResource>
                                  <gmd:linkage>
-                                    <gmd:URL>http://www.uscg.mil/baseseattle/esu/</gmd:URL>
+                                    <gmd:URL>https://www.gocoastguard.com/</gmd:URL>
                                  </gmd:linkage>
                                  <gmd:name>
                                     <gco:CharacterString>homepage</gco:CharacterString>
@@ -481,10 +483,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Ships</gco:CharacterString>
+                  <gco:CharacterString>Weather Stations</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>Ships</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>USCGC Healy - HLY</gco:CharacterString>
@@ -498,32 +500,32 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Oceanography</gco:CharacterString>
+                  <gco:CharacterString>Ship Based</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Meteorology</gco:CharacterString>
+                  <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Ship Based</gco:CharacterString>
+                  <gco:CharacterString>Meteorology</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

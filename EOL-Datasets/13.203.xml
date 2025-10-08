@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:58Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:55Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,10 +252,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rune Storvold</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9560-7566"
+                                    xlink:title="Rune Storvold"
+                                    xlink:actuate="onRequest">Rune Storvold</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Geophysical Institute, UAF</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -296,10 +298,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rune Storvold</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9560-7566"
+                                    xlink:title="Rune Storvold"
+                                    xlink:actuate="onRequest">Rune Storvold</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Geophysical Institute, UAF</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -340,7 +344,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Arizona</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/03m2x1q45"
+                                    xlink:title="University of Arizona"
+                                    xlink:actuate="onRequest">University of Arizona</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -360,6 +366,16 @@
                                  </gmd:postalCode>
                               </gmd:CI_Address>
                            </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.arizona.edu/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:name>
+                                    <gco:CharacterString>homepage</gco:CharacterString>
+                                 </gmd:name>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
                      <gmd:role>
@@ -432,10 +448,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Rune Storvold</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9560-7566"
+                              xlink:title="Rune Storvold"
+                              xlink:actuate="onRequest">Rune Storvold</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Geophysical Institute, UAF</gco:CharacterString>
+                  <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -541,29 +559,23 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Meteorology</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Upper Air</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Meteorology</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; STORM RELATIVE WINDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
@@ -573,6 +585,12 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>

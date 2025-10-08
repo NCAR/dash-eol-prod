@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:56Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:46:18Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Robert Holzworth</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8839-618X"
+                                    xlink:title="Robert Holzworth"
+                                    xlink:actuate="onRequest">Robert Holzworth</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Washington</gco:CharacterString>

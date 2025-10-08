@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:24Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:22Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rene Lobato-Sanchez</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8346-1272"
+                                    xlink:title="Rene Lobato-Sanchez"
+                                    xlink:actuate="onRequest">Rene Lobato-Sanchez</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Instituto Mexicano de Tecnologia del Agua (IMTA)</gco:CharacterString>
+                        <gco:CharacterString>Instituto Mexicano de Tecnolog&amp;amp;iacute;a del Agua</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -301,10 +303,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rene Lobato-Sanchez</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8346-1272"
+                                    xlink:title="Rene Lobato-Sanchez"
+                                    xlink:actuate="onRequest">Rene Lobato-Sanchez</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Instituto Mexicano de Tecnologia del Agua (IMTA)</gco:CharacterString>
+                        <gco:CharacterString>Instituto Mexicano de Tecnolog&amp;amp;iacute;a del Agua</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -504,10 +508,10 @@
                   <gco:CharacterString>Precipitation</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

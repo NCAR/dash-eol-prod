@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:33Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Wesley K. Berg</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0477-2983"
+                                    xlink:title="Wesley K. Berg"
+                                    xlink:actuate="onRequest">Wesley K. Berg</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/CDC and CIRES</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Associate</gco:CharacterString>
@@ -323,10 +325,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Wesley K. Berg</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0477-2983"
+                                    xlink:title="Wesley K. Berg"
+                                    xlink:actuate="onRequest">Wesley K. Berg</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/CDC and CIRES</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Associate</gco:CharacterString>
@@ -370,7 +374,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Climate Diagnostic Center (CDC), NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA Climate Diagnostic Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -467,10 +471,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Wesley K. Berg</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0477-2983"
+                              xlink:title="Wesley K. Berg"
+                              xlink:actuate="onRequest">Wesley K. Berg</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>NOAA/CDC and CIRES</gco:CharacterString>
+                  <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>Research Associate</gco:CharacterString>
@@ -568,16 +574,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>DMSP F-14</gco:CharacterString>
+                  <gco:CharacterString>DMSP F-11</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>DMSP F-10</gco:CharacterString>
+                  <gco:CharacterString>DMSP F-14</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>DMSP F-13</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>DMSP F-11</gco:CharacterString>
+                  <gco:CharacterString>DMSP F-10</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"

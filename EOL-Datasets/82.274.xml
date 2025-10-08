@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:25Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:23Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -279,7 +279,7 @@
                         <gco:CharacterString>Robert J. Zamora</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>DOC NOAA PSD/2</gco:CharacterString>
+                        <gco:CharacterString>National Oceanic and Atmospheric Administration</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -293,7 +293,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
+                                    <gco:CharacterString>DOC NOAA PSD/2 325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Boulder</gco:CharacterString>
@@ -323,7 +323,7 @@
                         <gco:CharacterString>Robert J. Zamora</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>DOC NOAA PSD/2</gco:CharacterString>
+                        <gco:CharacterString>National Oceanic and Atmospheric Administration</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -337,7 +337,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
+                                    <gco:CharacterString>DOC NOAA PSD/2 325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Boulder</gco:CharacterString>
@@ -428,7 +428,7 @@
                   <gco:CharacterString>Robert J. Zamora</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>DOC NOAA PSD/2</gco:CharacterString>
+                  <gco:CharacterString>National Oceanic and Atmospheric Administration</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -442,7 +442,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
+                              <gco:CharacterString>DOC NOAA PSD/2 325 Broadway St., R/PSD2 Boulder, CO 80305</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Boulder</gco:CharacterString>
@@ -534,15 +534,18 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
+               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; TURBULENCE</gco:CharacterString>
                </gmd:keyword>
@@ -550,13 +553,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; HEAT FLUX</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND DIRECTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

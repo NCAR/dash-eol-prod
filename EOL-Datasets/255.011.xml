@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-05T19:10:35Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:34Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,8 +300,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Stephen R. Okkonen</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0304-0094"
+                                    xlink:title="Stephen R. Okkonen"
+                                    xlink:actuate="onRequest">Stephen R. Okkonen</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -329,8 +334,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Stephen R. Okkonen</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0304-0094"
+                                    xlink:title="Stephen R. Okkonen"
+                                    xlink:actuate="onRequest">Stephen R. Okkonen</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -419,8 +429,13 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Stephen R. Okkonen</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0304-0094"
+                              xlink:title="Stephen R. Okkonen"
+                              xlink:actuate="onRequest">Stephen R. Okkonen</gmx:Anchor>
                </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
+               </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:phone>
@@ -524,26 +539,26 @@
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>CTD ocean cast</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>CTD ocean cast</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; OCEAN MIXED LAYER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:52Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:23Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,8 +276,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ren-Chieh Lien</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8566-2139"
+                                    xlink:title="Ren-Chieh Lien"
+                                    xlink:actuate="onRequest">Ren-Chieh Lien</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -298,8 +303,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ren-Chieh Lien</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8566-2139"
+                                    xlink:title="Ren-Chieh Lien"
+                                    xlink:actuate="onRequest">Ren-Chieh Lien</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -620,10 +630,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; POTENTIAL DENSITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

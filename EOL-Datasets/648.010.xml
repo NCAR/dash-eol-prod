@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:53Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:19Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -95,7 +95,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/55A1467AC34D4/BACS_INP_Timeseries_readme_1_0.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55A1467D089EB/BACS_INP_Timeseries_readme_1_1.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -104,7 +104,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>BACS_INP_Timeseries_readme_1_0.pdf</gco:CharacterString>
+                  <gco:CharacterString>BACS_INP_Timeseries_readme_1_1.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -127,7 +127,7 @@
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2025-06-17T16:07:13Z</gco:DateTime>
+                        <gco:DateTime>2025-09-09T21:46:20Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -136,10 +136,10 @@
                   </gmd:CI_Date>
                </gmd:date>
                <gmd:edition>
-                  <gco:CharacterString>1.0</gco:CharacterString>
+                  <gco:CharacterString>1.1</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2025-06-17T16:07:13Z</gco:DateTime>
+                  <gco:DateTime>2025-09-09T21:46:20Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
@@ -320,7 +320,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Sue van den Heever</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9843-3864"
+                                    xlink:title="Sue C. van den Heever"
+                                    xlink:actuate="onRequest">Sue C. van den Heever</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Colorado State University</gco:CharacterString>
@@ -730,7 +732,7 @@
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
                            <gml:beginPosition>2023-05-24T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>2023-12-29T23:59:59Z</gml:endPosition>
+                           <gml:endPosition>2023-06-21T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>

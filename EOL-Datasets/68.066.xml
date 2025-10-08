@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:55Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:37Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,8 +276,11 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Alan Bandy</gco:CharacterString>
+                        <gco:CharacterString>Alan R. Bandy</gco:CharacterString>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Drexel University</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>

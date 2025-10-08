@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:02:18Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:00Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -255,12 +255,15 @@
                         <gco:CharacterString>Roy Woods</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Center for Interdisciplinary Remotely-Piloted Aircraft Studies (CIRPAS), Naval Postgraduate School</gco:CharacterString>
+                        <gco:CharacterString>Naval Postgraduate School</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Center for Interdisciplinary Remotely-Piloted Aircraft Studies (CIRPAS)</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>rkwoods@cirpas.org</gco:CharacterString>
                                  </gmd:electronicMailAddress>
@@ -505,10 +508,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL PARTICLE PROPERTIES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL PARTICLE PROPERTIES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

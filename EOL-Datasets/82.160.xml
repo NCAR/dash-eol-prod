@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:24Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:22Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Comprehensive Large Array-data Stewardship System (CLASS), NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA Comprehensive Large Array-data Stewardship System</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -323,7 +323,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Comprehensive Large Array-data Stewardship System (CLASS), NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA Comprehensive Large Array-data Stewardship System</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -431,7 +431,7 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:organisationName>
-                  <gco:CharacterString>Comprehensive Large Array-data Stewardship System (CLASS), NOAA</gco:CharacterString>
+                  <gco:CharacterString>NOAA Comprehensive Large Array-data Stewardship System</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -532,10 +532,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>POES NOAA-15</gco:CharacterString>
+                  <gco:CharacterString>POES NOAA-17</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>POES NOAA-17</gco:CharacterString>
+                  <gco:CharacterString>POES NOAA-15</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>POES NOAA-16</gco:CharacterString>
@@ -556,10 +556,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; INFRARED RADIANCE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; VISIBLE WAVELENGTHS &gt; VISIBLE RADIANCE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; VISIBLE WAVELENGTHS &gt; VISIBLE RADIANCE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; INFRARED RADIANCE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

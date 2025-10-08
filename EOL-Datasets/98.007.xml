@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:55Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:37Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,10 +252,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Andrew G. Detwiler</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8206-2958"
+                                    xlink:title="Andrew G. Detwiler"
+                                    xlink:actuate="onRequest">Andrew G. Detwiler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SDSMT/T-28</gco:CharacterString>
+                        <gco:CharacterString>South Dakota School of Mines and Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -394,10 +396,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Andrew G. Detwiler</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8206-2958"
+                              xlink:title="Andrew G. Detwiler"
+                              xlink:actuate="onRequest">Andrew G. Detwiler</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>SDSMT/T-28</gco:CharacterString>
+                  <gco:CharacterString>South Dakota School of Mines and Technology</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

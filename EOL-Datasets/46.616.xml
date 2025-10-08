@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:27Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:55Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -657,10 +657,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Vegetation</gco:CharacterString>
+                  <gco:CharacterString>Satellite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Satellite</gco:CharacterString>
+                  <gco:CharacterString>Vegetation</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
@@ -673,13 +673,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER &gt; LAND USE/LAND COVER CLASSIFICATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; TOPOGRAPHY &gt; TERRAIN ELEVATION &gt; DIGITAL ELEVATION/TERRAIN MODEL (DEM)</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER &gt; LAND USE/LAND COVER CLASSIFICATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

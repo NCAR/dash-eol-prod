@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:42Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:49Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -348,7 +348,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Robert S. Pickart</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7826-911X"
+                                    xlink:title="Robert S. Pickart"
+                                    xlink:actuate="onRequest">Robert S. Pickart</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -456,7 +458,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Robert S. Pickart</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7826-911X"
+                                    xlink:title="Robert S. Pickart"
+                                    xlink:actuate="onRequest">Robert S. Pickart</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -561,7 +565,9 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Robert S. Pickart</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7826-911X"
+                              xlink:title="Robert S. Pickart"
+                              xlink:actuate="onRequest">Robert S. Pickart</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -670,21 +676,24 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Oceanography</gco:CharacterString>
+                  <gco:CharacterString>Hydrography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mooring</gco:CharacterString>
+                  <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Hydrography</gco:CharacterString>
+                  <gco:CharacterString>Mooring</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CIRCULATION &gt; OCEAN CURRENTS</gco:CharacterString>
+               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; CONDUCTIVITY</gco:CharacterString>
                </gmd:keyword>
@@ -692,13 +701,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CIRCULATION &gt; OCEAN CURRENTS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN PRESSURE &gt; WATER PRESSURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

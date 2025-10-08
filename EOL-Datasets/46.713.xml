@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:00Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Walter C. Oechel</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3504-026X"
+                                    xlink:title="Walter C. Oechel"
+                                    xlink:actuate="onRequest">Walter C. Oechel</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Department of Biology</gco:CharacterString>
+                        <gco:CharacterString>San Diego State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -320,10 +322,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Walter C. Oechel</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3504-026X"
+                                    xlink:title="Walter C. Oechel"
+                                    xlink:actuate="onRequest">Walter C. Oechel</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Department of Biology</gco:CharacterString>
+                        <gco:CharacterString>San Diego State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -425,10 +429,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Walter C. Oechel</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3504-026X"
+                              xlink:title="Walter C. Oechel"
+                              xlink:actuate="onRequest">Walter C. Oechel</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Department of Biology</gco:CharacterString>
+                  <gco:CharacterString>San Diego State University</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -537,23 +543,23 @@
                   <gco:CharacterString>Sub-Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Soils</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Soils</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; TERRESTRIAL ECOSYSTEMS &gt; ALPINE/TUNDRA &gt; ARCTIC TUNDRA</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL TEMPERATURE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; TERRESTRIAL ECOSYSTEMS &gt; ALPINE/TUNDRA &gt; ARCTIC TUNDRA</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

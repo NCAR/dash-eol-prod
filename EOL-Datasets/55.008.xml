@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:00Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:03Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -325,7 +325,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Centers for Environmental Prediction (NCEP)</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/00ndyev54"
+                                    xlink:title="NOAA National Centers for Environmental Prediction"
+                                    xlink:actuate="onRequest">NOAA National Centers for Environmental Prediction</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

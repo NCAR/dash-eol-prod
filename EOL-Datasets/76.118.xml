@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:09Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:45Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -325,10 +325,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Fred C. Bosveld</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7004-5405"
+                                    xlink:title="Fred C. Bosveld"
+                                    xlink:actuate="onRequest">Fred C. Bosveld</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Royal Netherlands Met.Ins.</gco:CharacterString>
+                        <gco:CharacterString>Royal Netherlands Meteorological Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -369,10 +371,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Fred C. Bosveld</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7004-5405"
+                                    xlink:title="Fred C. Bosveld"
+                                    xlink:actuate="onRequest">Fred C. Bosveld</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Royal Netherlands Met.Ins.</gco:CharacterString>
+                        <gco:CharacterString>Royal Netherlands Meteorological Institute</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -474,10 +478,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Fred C. Bosveld</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7004-5405"
+                              xlink:title="Fred C. Bosveld"
+                              xlink:actuate="onRequest">Fred C. Bosveld</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Royal Netherlands Met.Ins.</gco:CharacterString>
+                  <gco:CharacterString>Royal Netherlands Meteorological Institute</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

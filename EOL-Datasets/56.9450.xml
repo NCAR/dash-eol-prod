@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:12Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:44:14Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,10 +300,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven F. Oberbauer</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5404-1658"
+                                    xlink:title="Steven F. Oberbauer"
+                                    xlink:actuate="onRequest">Steven F. Oberbauer</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Dept. of Biological Sciences</gco:CharacterString>
+                        <gco:CharacterString>Florida International University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -317,7 +319,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Florida Int. University</gco:CharacterString>
+                                    <gco:CharacterString>Florida Int. University Dept. of Biological Sciences</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Miami</gco:CharacterString>
@@ -344,10 +346,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven F. Oberbauer</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5404-1658"
+                                    xlink:title="Steven F. Oberbauer"
+                                    xlink:actuate="onRequest">Steven F. Oberbauer</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Dept. of Biological Sciences</gco:CharacterString>
+                        <gco:CharacterString>Florida International University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -361,7 +365,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Florida Int. University</gco:CharacterString>
+                                    <gco:CharacterString>Florida Int. University Dept. of Biological Sciences</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Miami</gco:CharacterString>
@@ -449,10 +453,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Steven F. Oberbauer</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5404-1658"
+                              xlink:title="Steven F. Oberbauer"
+                              xlink:actuate="onRequest">Steven F. Oberbauer</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Dept. of Biological Sciences</gco:CharacterString>
+                  <gco:CharacterString>Florida International University</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -466,7 +472,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>Florida Int. University</gco:CharacterString>
+                              <gco:CharacterString>Florida Int. University Dept. of Biological Sciences</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Miami</gco:CharacterString>
@@ -558,26 +564,26 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Trace Gases</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Surface</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; ATMOSPHERIC CARBON DIOXIDE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

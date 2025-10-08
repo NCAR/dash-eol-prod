@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-05T19:10:35Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:34Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -676,10 +676,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; SPECIES/POPULATION INTERACTIONS &gt; USE/FEEDING HABITATS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CARNIVORES &gt; SEALS/SEA LIONS/WALRUSES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CARNIVORES &gt; SEALS/SEA LIONS/WALRUSES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; SPECIES/POPULATION INTERACTIONS &gt; USE/FEEDING HABITATS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; SPECIES/POPULATION INTERACTIONS &gt; RANGE CHANGES</gco:CharacterString>

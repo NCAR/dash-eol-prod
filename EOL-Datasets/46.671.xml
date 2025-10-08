@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:30Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:56Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -310,10 +310,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>William A. Gould</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3720-9735"
+                                    xlink:title="William A. Gould"
+                                    xlink:actuate="onRequest">William A. Gould</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service</gco:CharacterString>
+                        <gco:CharacterString>International Institute of Tropical Forestry</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Ecologist</gco:CharacterString>
@@ -330,7 +332,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
+                                    <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>San Juan</gco:CharacterString>
@@ -449,10 +451,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>William A. Gould</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3720-9735"
+                                    xlink:title="William A. Gould"
+                                    xlink:actuate="onRequest">William A. Gould</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service</gco:CharacterString>
+                        <gco:CharacterString>International Institute of Tropical Forestry</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Ecologist</gco:CharacterString>
@@ -469,7 +473,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
+                                    <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>San Juan</gco:CharacterString>
@@ -603,10 +607,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>William A. Gould</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3720-9735"
+                              xlink:title="William A. Gould"
+                              xlink:actuate="onRequest">William A. Gould</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service</gco:CharacterString>
+                  <gco:CharacterString>International Institute of Tropical Forestry</gco:CharacterString>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>Research Ecologist</gco:CharacterString>
@@ -623,7 +629,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
+                              <gco:CharacterString>International Institute of Tropical Forestry - USDA Forest Service Jardin Botanico Sur 1201 Calle Ceiba</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>San Juan</gco:CharacterString>
@@ -733,34 +739,37 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; PHOSPHORUS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MOSSES/HORNWORTS/LIVERWORTS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; TERRESTRIAL ECOSYSTEMS &gt; ALPINE/TUNDRA &gt; ARCTIC TUNDRA</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CANOPY CHARACTERISTICS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; PLANTS &gt; MOSSES/HORNWORTS/LIVERWORTS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; POTASSIUM</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL PH</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; PHOSPHORUS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL TEXTURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; COMMUNITY DYNAMICS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; POTASSIUM</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL MOISTURE/WATER CONTENT</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; FREEZE/THAW</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION SPECIES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL PH</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; FUNGI &gt; LICHENS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; CARBON</gco:CharacterString>
@@ -769,16 +778,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; FREEZE/THAW</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; FUNGI &gt; LICHENS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; COMMUNITY DYNAMICS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; FREEZE/THAW</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CANOPY CHARACTERISTICS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION SPECIES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL MOISTURE/WATER CONTENT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; NITROGEN</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

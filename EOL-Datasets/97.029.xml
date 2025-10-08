@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:54Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:51Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -324,7 +324,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Vaisala</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/05yhgzh28"
+                                    xlink:title="Vaisala (Finland)"
+                                    xlink:actuate="onRequest">Vaisala (Finland)</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -413,10 +415,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Amitabh Nag</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0490-2936"
+                              xlink:title="Amitabh Nag"
+                              xlink:actuate="onRequest">Amitabh Nag</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Vaisala</gco:CharacterString>
+                  <gco:CharacterString>Vaisala (United States)</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -503,10 +507,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Electrification</gco:CharacterString>
+                  <gco:CharacterString>Lightning</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Lightning</gco:CharacterString>
+                  <gco:CharacterString>Electrification</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

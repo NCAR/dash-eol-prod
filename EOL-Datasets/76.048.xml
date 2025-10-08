@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:07Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:43Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Thierry Lebel</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-1297-6751"
+                                    xlink:title="Thierry Lebel"
+                                    xlink:actuate="onRequest">Thierry Lebel</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Domaine universitaire</gco:CharacterString>
+                        <gco:CharacterString>Institut polytechnique de Grenoble</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -381,10 +383,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Thierry Lebel</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-1297-6751"
+                              xlink:title="Thierry Lebel"
+                              xlink:actuate="onRequest">Thierry Lebel</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Domaine universitaire</gco:CharacterString>
+                  <gco:CharacterString>Institut polytechnique de Grenoble</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

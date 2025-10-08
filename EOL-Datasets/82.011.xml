@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:19Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:17Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,10 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ralph Ferraro</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8393-7135"
+                                    xlink:title="Ralph Ferraro"
+                                    xlink:actuate="onRequest">Ralph Ferraro</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/NESDIS</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Environmental Satellite Data and Information Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -307,10 +309,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Ralph Ferraro</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8393-7135"
+                                    xlink:title="Ralph Ferraro"
+                                    xlink:actuate="onRequest">Ralph Ferraro</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/NESDIS</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Environmental Satellite Data and Information Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -399,10 +403,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Ralph Ferraro</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-8393-7135"
+                              xlink:title="Ralph Ferraro"
+                              xlink:actuate="onRequest">Ralph Ferraro</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>NOAA/NESDIS</gco:CharacterString>
+                  <gco:CharacterString>NOAA National Environmental Satellite Data and Information Service</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -484,10 +490,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>POES NOAA-15</gco:CharacterString>
+                  <gco:CharacterString>POES NOAA-17</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>POES NOAA-17</gco:CharacterString>
+                  <gco:CharacterString>POES NOAA-15</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>POES NOAA-16</gco:CharacterString>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:16Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:48Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Australian Bureau of Meteorology</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/04dkp1p98"
+                                    xlink:title="Bureau of Meteorology"
+                                    xlink:actuate="onRequest">Bureau of Meteorology</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -293,10 +295,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Rodney Potts</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4150-2202"
+                                    xlink:title="Rodney Potts"
+                                    xlink:actuate="onRequest">Rodney Potts</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>The Centre for Australian Weather and Climate Research</gco:CharacterString>
+                        <gco:CharacterString>Bureau of Meteorology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -512,10 +516,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Electrification</gco:CharacterString>
+                  <gco:CharacterString>Lightning</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Lightning</gco:CharacterString>
+                  <gco:CharacterString>Electrification</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

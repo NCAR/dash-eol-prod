@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:51Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:12Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven A. Rutledge</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7397-2802"
+                                    xlink:title="Steven A. Rutledge"
+                                    xlink:actuate="onRequest">Steven A. Rutledge</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Colorado State University</gco:CharacterString>
@@ -330,8 +332,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Stacy R. Brodzik</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4660-5000"
+                                    xlink:title="Stacy R. Brodzik"
+                                    xlink:actuate="onRequest">Stacy R. Brodzik</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -352,8 +359,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Shuyi Chen</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-1879-1088"
+                                    xlink:title="Shuyi Chen"
+                                    xlink:actuate="onRequest">Shuyi Chen</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -374,8 +386,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Stacy R. Brodzik</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4660-5000"
+                                    xlink:title="Stacy R. Brodzik"
+                                    xlink:actuate="onRequest">Stacy R. Brodzik</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>

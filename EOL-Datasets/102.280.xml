@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-05T18:46:24Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:20Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -111,6 +111,12 @@
                      </gmd:dateType>
                   </gmd:CI_Date>
                </gmd:date>
+               <gmd:edition>
+                  <gco:CharacterString>1.0</gco:CharacterString>
+               </gmd:edition>
+               <gmd:editionDate>
+                  <gco:DateTime>2013-12-13T16:59:09Z</gco:DateTime>
+               </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
@@ -552,32 +558,32 @@
                   <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Sea Ice</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; OCEAN GENERAL CIRCULATION MODELS (OGCM)/REGIONAL OCEAN MODELS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; ICE GROWTH/MELT</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; ICE DEPTH/THICKNESS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; SNOW DEPTH</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; OCEAN GENERAL CIRCULATION MODELS (OGCM)/REGIONAL OCEAN MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CRYOSPHERE MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; SEA ICE CONCENTRATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; ICE GROWTH/MELT</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; SNOW DEPTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE &gt; SALINITY</gco:CharacterString>

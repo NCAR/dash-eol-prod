@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:44Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:49:02Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -255,7 +255,7 @@
                         <gco:CharacterString>Phillip R. A. Brown</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Met Office, Cloud Physics Research</gco:CharacterString>
+                        <gco:CharacterString>Met Office</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Manager</gco:CharacterString>
@@ -272,7 +272,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Fitzroy Road</gco:CharacterString>
+                                    <gco:CharacterString>Cloud Physics Research Fitzroy Road</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Exeter</gco:CharacterString>
@@ -430,7 +430,7 @@
                         <gco:CharacterString>Steve Abel</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UK MetOffice</gco:CharacterString>
+                        <gco:CharacterString>Met Office</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -497,7 +497,7 @@
                         <gco:CharacterString>Lorenzo Labrador</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UK MetOffice</gco:CharacterString>
+                        <gco:CharacterString>Met Office</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -705,13 +705,13 @@
                   <gco:CharacterString>Aircraft</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>NERC Dornier 228</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Mission Reports</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>FAAM BAE-146</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>NERC Dornier 228</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"

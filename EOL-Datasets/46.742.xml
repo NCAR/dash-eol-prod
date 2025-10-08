@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:32Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:57Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -427,7 +427,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>U.S. Army Cold Region Research Laboratory</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/05wk0m864"
+                                    xlink:title="Cold Regions Research and Engineering Laboratory"
+                                    xlink:actuate="onRequest">Cold Regions Research and Engineering Laboratory</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -504,6 +506,9 @@
                      <gmd:individualName>
                         <gco:CharacterString>Charles H. Racine</gco:CharacterString>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -772,32 +777,32 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Meteorology</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Meteorology</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CRYOSPHERE MODELS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CRYOSPHERE MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

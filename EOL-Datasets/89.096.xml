@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:43Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:11Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -279,7 +279,7 @@
                         <gco:CharacterString>Gerard Eldin</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IRD</gco:CharacterString>
+                        <gco:CharacterString>Institut de Recherche pour le D&amp;amp;eacute;veloppement</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -316,7 +316,7 @@
                         <gco:CharacterString>Luis Vasquez</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMARPE</gco:CharacterString>
+                        <gco:CharacterString>Instituto del Mar del Peru</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

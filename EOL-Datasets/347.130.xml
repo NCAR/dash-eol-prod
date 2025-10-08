@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:48Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:12Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -429,7 +429,7 @@
                         <gco:CharacterString>Liangying Zhang</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Center for Atmospheric Research</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Earth Observing Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -466,7 +466,7 @@
                         <gco:CharacterString>Liangying Zhang</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Center for Atmospheric Research</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Earth Observing Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

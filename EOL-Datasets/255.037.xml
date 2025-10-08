@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-05T19:10:36Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:33Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -595,7 +595,7 @@
                   <gco:CharacterString>Christie Cowee</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Resource Data, Inc. People - Technology - Results</gco:CharacterString>
+                  <gco:CharacterString>Resource Data, Inc.</gco:CharacterString>
                </gmd:organisationName>
                <gmd:positionName>
                   <gco:CharacterString>GIS Project Manager / Analyst</gco:CharacterString>

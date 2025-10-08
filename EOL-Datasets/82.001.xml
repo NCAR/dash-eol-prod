@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:18Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:48:17Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -357,7 +357,7 @@
                         <gco:CharacterString>Julio C&amp;amp;eacute;sar Rodr&amp;amp;iacute;guez</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMADES</gco:CharacterString>
+                        <gco:CharacterString>IMADES - Instituto del Medio Ambiente del Estado de Sonora</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -392,10 +392,10 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Chris Watts</gco:CharacterString>
+                        <gco:CharacterString>Christopher Watts</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Sonora, Physics Dept.</gco:CharacterString>
+                        <gco:CharacterString>Universidad de Sonora</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -420,7 +420,7 @@
                         <gco:CharacterString>Juan Carlos Leal</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>IMADES</gco:CharacterString>
+                        <gco:CharacterString>IMADES - Instituto del Medio Ambiente del Estado de Sonora</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

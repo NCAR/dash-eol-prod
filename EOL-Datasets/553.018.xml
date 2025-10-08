@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:05:03Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:45:20Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -329,7 +329,7 @@
                                     xlink:actuate="onRequest">Luiz Sapucci</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>INPE</gco:CharacterString>
+                        <gco:CharacterString>National Institute for Space Research</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -354,7 +354,7 @@
                         <gco:CharacterString>Luiz Machado</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>INPE</gco:CharacterString>
+                        <gco:CharacterString>National Institute for Space Research</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

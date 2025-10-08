@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:06:47Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:16Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Martin Weissmann</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>DLR</gco:CharacterString>
+                        <gco:CharacterString>Deutsches Zentrum f&amp;amp;uuml;r Luft- und Raumfahrt e. V. (DLR)</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -321,7 +321,7 @@
                                     xlink:actuate="onRequest">Martin Weissmann</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>DLR</gco:CharacterString>
+                        <gco:CharacterString>Deutsches Zentrum f&amp;amp;uuml;r Luft- und Raumfahrt e. V. (DLR)</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -422,7 +422,7 @@
                               xlink:actuate="onRequest">Martin Weissmann</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>DLR</gco:CharacterString>
+                  <gco:CharacterString>Deutsches Zentrum f&amp;amp;uuml;r Luft- und Raumfahrt e. V. (DLR)</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

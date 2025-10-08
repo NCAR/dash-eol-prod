@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:03:11Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:47:29Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -325,7 +325,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>Agricultural Research Service (ARS), USDA</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://ror.org/02d2m2044"
+                                    xlink:title="Agricultural Research Service"
+                                    xlink:actuate="onRequest">Agricultural Research Service</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

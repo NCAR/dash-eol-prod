@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-08-01T18:04:31Z</gco:DateTime>
+      <gco:DateTime>2025-10-07T21:43:55Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -449,7 +449,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>A. Dave McGuire</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
+                                    xlink:title="A. Dave McGuire"
+                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -496,7 +498,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>A. Dave McGuire</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
+                                    xlink:title="A. Dave McGuire"
+                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -543,10 +547,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Vladimir E. Romanovsky</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9515-2087"
+                                    xlink:title="Vladimir E. Romanovsky"
+                                    xlink:actuate="onRequest">Vladimir E. Romanovsky</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Geophysical Institute UAF</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Associate Professor</gco:CharacterString>
@@ -840,10 +846,10 @@
                   <gco:CharacterString>Vegetation</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
