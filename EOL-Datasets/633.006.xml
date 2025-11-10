@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:49:18Z</gco:DateTime>
+      <gco:DateTime>2025-11-10T23:22:18Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,8 +300,13 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Michael Haugeneder</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-3228-9868"
+                                    xlink:title="Michael Haugeneder"
+                                    xlink:actuate="onRequest">Michael Haugeneder</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>WSL Institute for Snow and Avalanche Research SLF</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -381,7 +386,7 @@
                                     xlink:actuate="onRequest">Jessica D. Lundquist</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>U of Washington</gco:CharacterString>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -548,8 +553,13 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Michael Haugeneder</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-3228-9868"
+                              xlink:title="Michael Haugeneder"
+                              xlink:actuate="onRequest">Michael Haugeneder</gmx:Anchor>
                </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>WSL Institute for Snow and Avalanche Research SLF</gco:CharacterString>
+               </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
@@ -570,8 +580,13 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Michael Haugeneder</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-3228-9868"
+                              xlink:title="Michael Haugeneder"
+                              xlink:actuate="onRequest">Michael Haugeneder</gmx:Anchor>
                </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>WSL Institute for Snow and Avalanche Research SLF</gco:CharacterString>
+               </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
