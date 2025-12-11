@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::648.002</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::643.006</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-12-11T22:01:23Z</gco:DateTime>
+      <gco:DateTime>2025-12-11T22:01:22Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,14 +88,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.26023/75AX-8W7Q-VC0R</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/GX4V-A0FK-1N01</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/5588907821C4F/BACS_Pollen_Counts_Readme_v1.0.pdf</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55F3FC7D5EC4F/MITTEN-CI_Graw_Sounding_UIUC_v2_README.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -104,7 +104,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>BACS_Pollen_Counts_Readme_v1.0.pdf</gco:CharacterString>
+                  <gco:CharacterString>MITTEN-CI_Graw_Sounding_UIUC_v2_README.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -119,15 +119,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Pollen Counts Data</gco:CharacterString>
+                  <gco:CharacterString>UIUC Radiosonde Data</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>648.002</gco:CharacterString>
+                  <gco:CharacterString>643.006</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2025-04-08T22:49:35Z</gco:DateTime>
+                        <gco:DateTime>2025-11-21T19:14:19Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -139,19 +139,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2025-04-08T22:49:35Z</gco:DateTime>
+                  <gco:DateTime>2025-11-21T19:14:19Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>Pollen Counts Data</gco:CharacterString>
+                              <gco:CharacterString>UIUC Radiosonde Data</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2025-04-08T22:49:35Z</gco:DateTime>
+                                    <gco:DateTime>2025-11-21T19:14:19Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -211,16 +211,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>648.002</gco:CharacterString>
+                        <gco:CharacterString>643.006</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.26023/75AX-8W7Q-VC0R"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/GX4V-A0FK-1N01"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.26023/75AX-8W7Q-VC0R</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/GX4V-A0FK-1N01</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -276,107 +276,26 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Teresa Feldman</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9381-1053"
+                                    xlink:title="David A. Kristovich"
+                                    xlink:actuate="onRequest">David A. Kristovich</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Iowa</gco:CharacterString>
+                        <gco:CharacterString>University of Illinois Urbana-Champaign</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address/>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gco:CharacterString>Janeshta Fernando</gco:CharacterString>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>University of Iowa</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address/>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8249-1082"
-                                    xlink:title="Chamari Mampage"
-                                    xlink:actuate="onRequest">Chamari Mampage</gmx:Anchor>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>University of Iowa</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address/>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0009-0008-3704-3940"
-                                    xlink:title="Andrew Burgess"
-                                    xlink:actuate="onRequest">Andrew Burgess</gmx:Anchor>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>University of Iowa</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address/>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9843-3864"
-                                    xlink:title="Sue C. van den Heever"
-                                    xlink:actuate="onRequest">Sue C. van den Heever</gmx:Anchor>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>Colorado State University</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>(217)-333-7399</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>sue@atmos.colostate.edu</gco:CharacterString>
+                                    <gco:CharacterString>dkristo@illinois.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -391,19 +310,26 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3719-1889"
-                                    xlink:title="Paul J. DeMott"
-                                    xlink:actuate="onRequest">Paul J. DeMott</gmx:Anchor>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6408-6411"
+                                    xlink:title="Junming Wang"
+                                    xlink:actuate="onRequest">Junming Wang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>University of Illinois Urbana-Champaign</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>(217)-300-2529</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>Paul.Demott@colostate.edu</gco:CharacterString>
+                                    <gco:CharacterString>wangjim@illinois.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -418,22 +344,20 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-2561-2914"
-                                    xlink:title="Sonia Kreidenweis"
-                                    xlink:actuate="onRequest">Sonia Kreidenweis</gmx:Anchor>
+                        <gco:CharacterString>Emma Jilek</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>North Carolina State University</gco:CharacterString>
                      </gmd:organisationName>
-                     <gmd:positionName>
-                        <gco:CharacterString>University Distinguished Professor</gco:CharacterString>
-                     </gmd:positionName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>previously University of Illinois Urbana-Champaign</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>sonia@atmos.colostate.edu</gco:CharacterString>
+                                    <gco:CharacterString>ecjilek@ncsu.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -448,73 +372,17 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3510-2141"
-                                    xlink:title="Leah Grant"
-                                    xlink:actuate="onRequest">Leah Grant</gmx:Anchor>
+                        <gco:CharacterString>Delilah Smithey</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>University of Illinois Urbana-Champaign</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>leah.grant@colostate.edu</gco:CharacterString>
-                                 </gmd:electronicMailAddress>
-                              </gmd:CI_Address>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-2351-2362"
-                                    xlink:title="Russell J. Perkins"
-                                    xlink:actuate="onRequest">Russell J. Perkins</gmx:Anchor>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>Colorado State University</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address>
-                                 <gmd:electronicMailAddress>
-                                    <gco:CharacterString>russell.perkins@colostate.edu</gco:CharacterString>
-                                 </gmd:electronicMailAddress>
-                              </gmd:CI_Address>
-                           </gmd:address>
-                        </gmd:CI_Contact>
-                     </gmd:contactInfo>
-                     <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                         codeListValue="author">author</gmd:CI_RoleCode>
-                     </gmd:role>
-                  </gmd:CI_ResponsibleParty>
-               </gmd:citedResponsibleParty>
-               <gmd:citedResponsibleParty>
-                  <gmd:CI_ResponsibleParty>
-                     <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0078-141X"
-                                    xlink:title="Elizabeth A. Stone"
-                                    xlink:actuate="onRequest">Elizabeth A. Stone</gmx:Anchor>
-                     </gmd:individualName>
-                     <gmd:organisationName>
-                        <gco:CharacterString>University of Iowa</gco:CharacterString>
-                     </gmd:organisationName>
-                     <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                           <gmd:address>
-                              <gmd:CI_Address>
-                                 <gmd:electronicMailAddress>
-                                    <gco:CharacterString>betsy-stone@uiowa.edu</gco:CharacterString>
+                                    <gco:CharacterString>smithey2@illinois.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -529,7 +397,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>These pollen count measurements are part of the BACS (BioAerosols and Convective Storms) campaign. The purpose of the BACS campaign was to characterize the dynamics between convective storms and bioaerosols in a grassland environment. The campaigns took place from May 23 &amp;ndash; June 17, 2022 (BACS I), and from May 22 &amp;ndash; June 23, 2023 (BACS II), and were conducted in northeastern Colorado at the Central Plains Experimental Range, an NSF National Ecological Observatory Network site, with an average altitude of 1654 m. The associated data is for intact pollen counts collected in soil plot #3 located northwest of the NEON flux tower (40.816279, -104.746411). Samples were collected continuously throughout both campaigns. Measurements are reported at hourly and daily time intervals. </gco:CharacterString>
+            <gco:CharacterString>Vertical profiles of temperature, moisture, and winds from the University of Illinois Urbana-Champaign Graw radiosonde system that was deployed along the eastern shore of Lake Michigan at Tunnel Park in Holland, Michigan during the Maritime to Inland Transitions Towards ENvironments for Convection Initiation (MITTEN-CI) campaign.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -639,7 +507,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>CSV: Comma Separated Value (text/csv)</gco:CharacterString>
+                  <gco:CharacterString>Tabular/Columnar ASCII</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -693,7 +561,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Field Sites</gco:CharacterString>
+                  <gco:CharacterString>Radiosondes</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -704,7 +572,50 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; POLLEN</gco:CharacterString>
+                  <gco:CharacterString>Upper Air</gco:CharacterString>
+               </gmd:keyword>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; BOUNDARY LAYER WINDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; BOUNDARY LAYER TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; U/V WIND COMPONENTS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND DIRECTION PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND PROFILES &gt; WIND VELOCITY/SPEED PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR PROFILES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; RELATIVE HUMIDITY</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; VERTICAL PROFILES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -762,16 +673,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-104.74641</gco:Decimal>
+                        <gco:Decimal>-86.20722</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-104.74641</gco:Decimal>
+                        <gco:Decimal>-86.20722</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>40.81628</gco:Decimal>
+                        <gco:Decimal>42.79778</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>40.81628</gco:Decimal>
+                        <gco:Decimal>42.79778</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -779,8 +690,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>2022-05-22T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>2023-06-24T23:59:59Z</gml:endPosition>
+                           <gml:beginPosition>2024-07-01T19:24:00Z</gml:beginPosition>
+                           <gml:endPosition>2024-07-31T21:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -847,18 +758,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>1</gco:Real>
+                  <gco:Real>8</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/648.002</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/643.006</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>Pollen Counts Data homepage</gco:CharacterString>
+                        <gco:CharacterString>UIUC Radiosonde Data homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -868,13 +779,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=648.002</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=643.006</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>Pollen Counts Data Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>UIUC Radiosonde Data Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
