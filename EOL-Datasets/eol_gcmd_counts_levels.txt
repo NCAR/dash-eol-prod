@@ -1,8 +1,8 @@
-aircraft, Count: 1855, Level 1
+aircraft, Count: 1856, Level 1
 
 sounding, Count: 734, Level 1
 
-upper air, Count: 1424, Level 1
+upper air, Count: 1427, Level 1
 
 profiler, Count: 120, Level 1
 
@@ -196,7 +196,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > atmospheric water vapor > water vapor indicators > vapor pressure, Count: 8, Level 5
 
-earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ice, Count: 26, Level 5
+earth science > atmosphere > clouds > cloud microphysics > cloud liquid water/ice, Count: 27, Level 5
 
 earth science > atmosphere > precipitation > hydrometeors, Count: 10, Level 4
 
@@ -286,7 +286,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 earth science > atmosphere > aerosols > aerosol particle properties > aerosol concentration, Count: 11, Level 5
 
-earth science > atmosphere > clouds > cloud properties, Count: 18, Level 4
+earth science > atmosphere > clouds > cloud properties, Count: 19, Level 4
 
 earth science > atmosphere > clouds > convective clouds/systems (observed/analyzed), Count: 5, Level 4
 
@@ -312,7 +312,7 @@ earth science > spectral/engineering > radar > spectrum width, Count: 9, Level 4
 
 earth science > spectral/engineering > radar > doppler velocity, Count: 15, Level 4
 
-earth science > atmosphere > clouds > cloud microphysics > ice nuclei, Count: 5, Level 5
+earth science > atmosphere > clouds > cloud microphysics > ice nuclei, Count: 6, Level 5
 
 earth science > atmosphere > weather events > snow storms, Count: 13, Level 4
 
@@ -453,6 +453,8 @@ earth science > atmosphere > atmospheric winds > surface winds, Count: 1, Level 
 earth science > atmosphere > atmospheric chemistry > trace elements/trace metals, Count: 1, Level 4
 
 macrofauna, Count: 1, Level 1
+
+earth science > atmosphere > precipitation > precipitation profiles > cloud water path, Count: 1, Level 5
 
 earth science > atmosphere > atmospheric radiation > ultraviolet radiation, Count: 2, Level 4
 
@@ -724,5 +726,5 @@ Level 1: 83
 Level 2: 0
 Level 3: 12
 Level 4: 139
-Level 5: 110
+Level 5: 111
 Level 6: 17

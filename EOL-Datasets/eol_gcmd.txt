@@ -902,8 +902,8 @@ Vegetation
 Surface
 Arctic
 Satellite
-Surface
 Land Based
+Surface
 Precipitation
 Models/Analyses
 Upper Air
@@ -1185,6 +1185,7 @@ Radar
 Radar
 Aircraft
 Surface
+Upper Air
 Oceanography
 Sea Ice
 Arctic
@@ -1560,8 +1561,8 @@ Upper Air
 Precipitation
 Surface
 Land Based
-Surface
 Land Based
+Surface
 Precipitation
 Surface
 Mesonet
@@ -3267,6 +3268,7 @@ Oceanography
 Ship Based
 Arctic
 Sounding
+Upper Air
 Upper Air
 Photography
 Aircraft
@@ -6922,6 +6924,9 @@ Aircraft
 Surface
 Ship
 Upper Air
+EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION PROFILES > CLOUD WATER PATH
+EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES
+EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD MICROPHYSICS > CLOUD LIQUID WATER/ICE
 Satellite
 Arctic
 Ship
@@ -7398,6 +7403,7 @@ Aircraft
 Sounding
 Upper Air
 Satellite
+Aircraft
 Arctic
 Biology
 Mammals
@@ -8601,6 +8607,7 @@ Sub-Surface
 Surface
 EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT
 Surface
+Upper Air
 Surface
 Arctic
 Meteorology
@@ -9863,6 +9870,7 @@ Buoy
 Arctic
 Chemistry
 Aircraft
+EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD MICROPHYSICS > ICE NUCLEI
 Surface
 Sub-Surface
 Surface
@@ -13284,8 +13292,8 @@ Arctic
 Upper Air
 Aerosols
 Chemistry
-Surface
 Land Based
+Surface
 Precipitation
 Models/Analyses
 Ancillary Info
