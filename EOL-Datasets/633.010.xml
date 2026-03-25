@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::21.087</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::633.010</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2026-03-25T15:06:42Z</gco:DateTime>
+      <gco:DateTime>2026-03-25T15:06:40Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,14 +88,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.26023/V0KW-KG0V-9J0W</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/GM9S-BR2K-6A00</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/4219151C6E4/katz_missing_data.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55F8227DE82CC/Lidar-datasets-raw_points-l3.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -104,7 +104,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>katz_missing_data.txt</gco:CharacterString>
+                  <gco:CharacterString>Lidar-datasets-raw_points-l3.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -119,7 +119,7 @@
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/421915BF/katz_stage4_readme.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55F8227DE82CD/Lvx_Specifications_v1.0.0.0_for_View_0.5.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -128,7 +128,7 @@
                   <gco:CharacterString>Documentation #2</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>katz_stage4_readme.txt</gco:CharacterString>
+                  <gco:CharacterString>Lvx_Specifications_v1.0.0.0_for_View_0.5.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -138,23 +138,20 @@
          </gmd:extensionOnLineResource>
       </gmd:MD_MetadataExtensionInformation>
    </gmd:metadataExtensionInfo>
-   <gmd:metadataExtensionInfo>
-      <gmd:MD_MetadataExtensionInformation/>
-   </gmd:metadataExtensionInfo>
    <gmd:identificationInfo>
       <gmd:MD_DataIdentification>
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>NCEP/EMC U.S. Stage IV imagery</gco:CharacterString>
+                  <gco:CharacterString>Terrestrial Scanning Lidar L3 Upwind West Tower Raw Point Clouds</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>21.087</gco:CharacterString>
+                  <gco:CharacterString>633.010</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2011-08-11T16:05:44Z</gco:DateTime>
+                        <gco:DateTime>2026-03-18T16:32:07Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -166,19 +163,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2011-08-11T16:05:44Z</gco:DateTime>
+                  <gco:DateTime>2026-03-18T16:32:07Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>NCEP/EMC U.S. Stage IV imagery</gco:CharacterString>
+                              <gco:CharacterString>Terrestrial Scanning Lidar L3 Upwind West Tower Raw Point Clouds</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2011-08-11T16:05:44Z</gco:DateTime>
+                                    <gco:DateTime>2026-03-18T16:32:07Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -238,16 +235,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>21.087</gco:CharacterString>
+                        <gco:CharacterString>633.010</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.26023/V0KW-KG0V-9J0W"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/GM9S-BR2K-6A00"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.26023/V0KW-KG0V-9J0W</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/GM9S-BR2K-6A00</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -303,19 +300,19 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7809-7576"
-                                    xlink:title="Jun Du"
-                                    xlink:actuate="onRequest">Jun Du</gmx:Anchor>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4077-3430"
+                                    xlink:title="Ethan Gutmann"
+                                    xlink:actuate="onRequest">Ethan Gutmann</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA Environmental Modeling Center</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Research Applications Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>jun.du@noaa.gov</gco:CharacterString>
+                                    <gco:CharacterString>gutmann@ucar.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
@@ -327,10 +324,54 @@
                      </gmd:role>
                   </gmd:CI_ResponsibleParty>
                </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-2193-5633"
+                                    xlink:title="Jessica D. Lundquist"
+                                    xlink:actuate="onRequest">Jessica D. Lundquist</gmx:Anchor>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>(206) 685-7594</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>jdlund@uw.edu</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.ce.washington.edu/facultyfinder/jessica-d-lundquist</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:name>
+                                    <gco:CharacterString>homepage</gco:CharacterString>
+                                 </gmd:name>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This dataset contains the National Centers for Environmental Prediction (NCEP) Environmental Modeling Center (EMC) GIF Imagery including Hourly Stage II GIF, Daily Stage II GIF, Daily RFC GIF, 6-Hourly Stage IV GIF, and Daily Stage IV GIF. Depending on the time period selected, all GIF types may or may not be available. Please see the GCIP/EOP: Surface NCEP Ancillary Catalogue of Available GCIP Precipitation Data (NCEP/EMC). This dataset is provided as is and was not quality controlled by UCAR/JOSS. Beginning 1 Jan 2002, the analysis grid has been changed to conform with the official NWS HRAP grid. File names have also been changed. See the readme provided with this dataset for details. As of April 2017 this data includes Alaska and Puerto Rico stations.</gco:CharacterString>
+            <gco:CharacterString>Raw point clouds from the terrestrial scanning lidar #3 (L3) that was deployed on the upwind west flux tower near Crested Butte, Colorado for the SOS (Sublimation of Snow) campaign. The raw point clouds provide information about the distribution of blowing snow particles in the air in addition to valuable information related to vegetation structure and spring vegetation growth.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -390,23 +431,45 @@
          </gmd:pointOfContact>
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
-               <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7809-7576"
-                              xlink:title="Jun Du"
-                              xlink:actuate="onRequest">Jun Du</gmx:Anchor>
-               </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>NOAA Environmental Modeling Center</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
+                              xlink:title="NSF NCAR Earth Observing Laboratory"
+                              xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
                </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString>EOL Data Support</gco:CharacterString>
+               </gmd:positionName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
                         <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Boulder</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>CO</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>80307-3000</gco:CharacterString>
+                           </gmd:postalCode>
                            <gmd:electronicMailAddress>
-                              <gco:CharacterString>jun.du@noaa.gov</gco:CharacterString>
+                              <gco:CharacterString>datahelp@eol.ucar.edu</gco:CharacterString>
                            </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                      </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>homepage</gco:CharacterString>
+                           </gmd:name>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
                   </gmd:CI_Contact>
                </gmd:contactInfo>
                <gmd:role>
@@ -418,7 +481,15 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>GIF: Graphics Interchange Format (image/gif)</gco:CharacterString>
+                  <gco:CharacterString>ASCII: ASCII Text (text/plain)</gco:CharacterString>
+               </gmd:name>
+               <gmd:version gco:nilReason="inapplicable"/>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>Compressed tar files containing Livox Point Cloud Format data</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -472,7 +543,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>Flux Tower</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -483,26 +554,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Radar</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW COVER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW MELT</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Precipitation</gco:CharacterString>
-               </gmd:keyword>
-            </gmd:MD_Keywords>
-         </gmd:descriptiveKeywords>
-         <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; HOURLY PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; LIDAR</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; 24 HOUR PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; BLOWING SNOW</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; 3 AND 6 HOUR PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW DEPTH</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SNOW/ICE &gt; SNOW ENERGY BALANCE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -548,10 +615,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType>
-            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
-                                                  codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
-         </gmd:spatialRepresentationType>
+         <gmd:spatialRepresentationType gco:nilReason="missing"/>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -563,16 +627,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-176.83600</gco:Decimal>
+                        <gco:Decimal>-106.97300</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-65.54400</gco:Decimal>
+                        <gco:Decimal>-106.97300</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>17.85300</gco:Decimal>
+                        <gco:Decimal>38.94200</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>71.41300</gco:Decimal>
+                        <gco:Decimal>38.94200</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -580,8 +644,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>2001-12-31T12:00:01Z</gml:beginPosition>
-                           <gml:endPosition>2026-02-28T23:00:00Z</gml:endPosition>
+                           <gml:beginPosition>2022-10-14T00:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2023-01-26T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -648,18 +712,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>4168</gco:Real>
+                  <gco:Real>592858</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/21.087</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/633.010</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCEP/EMC U.S. Stage IV imagery homepage</gco:CharacterString>
+                        <gco:CharacterString>Terrestrial Scanning Lidar L3 Upwind West Tower Raw Point Clouds homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -669,13 +733,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=21.087</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=633.010</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>NCEP/EMC U.S. Stage IV imagery Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>Terrestrial Scanning Lidar L3 Upwind West Tower Raw Point Clouds Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
