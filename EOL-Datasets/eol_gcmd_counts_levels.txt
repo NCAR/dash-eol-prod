@@ -1,8 +1,8 @@
-aircraft, Count: 1860, Level 1
+aircraft, Count: 1861, Level 1
 
 earth science > atmosphere > clouds > cloud properties, Count: 19, Level 4
 
-earth science > spectral/engineering > lidar, Count: 8, Level 3
+earth science > spectral/engineering > lidar, Count: 15, Level 3
 
 earth science > spectral/engineering > lidar > lidar backscatter, Count: 20, Level 4
 
@@ -70,11 +70,11 @@ earth science > atmosphere > atmospheric winds > upper level winds > boundary la
 
 earth science > atmosphere > atmospheric winds > upper level winds > wind speed, Count: 36, Level 5
 
-earth science > land surface > surface thermal properties > skin temperature, Count: 5, Level 4
+earth science > land surface > surface thermal properties > skin temperature, Count: 6, Level 4
 
 earth science > atmosphere > atmospheric temperature > upper air temperature, Count: 6, Level 4
 
-earth science > atmosphere > atmospheric temperature > surface temperature > skin temperature, Count: 5, Level 5
+earth science > atmosphere > atmospheric temperature > surface temperature > skin temperature, Count: 6, Level 5
 
 earth science > land surface > topography > terrain elevation > digital elevation/terrain model (dem), Count: 1, Level 5
 
@@ -130,7 +130,7 @@ earth science > atmosphere > atmospheric water vapor > water vapor indicators > 
 
 sounding, Count: 734, Level 1
 
-upper air, Count: 1429, Level 1
+upper air, Count: 1430, Level 1
 
 sub-surface, Count: 180, Level 1
 
@@ -300,6 +300,16 @@ mesonet, Count: 81, Level 1
 
 paleoclimatology, Count: 28, Level 1
 
+earth science > cryosphere > snow/ice > snow cover, Count: 7, Level 4
+
+earth science > cryosphere > snow/ice > snow melt, Count: 7, Level 4
+
+earth science > cryosphere > snow/ice > blowing snow, Count: 7, Level 4
+
+earth science > cryosphere > snow/ice > snow depth, Count: 8, Level 4
+
+earth science > cryosphere > snow/ice > snow energy balance, Count: 7, Level 4
+
 dem, Count: 11, Level 1
 
 earth science > atmosphere > atmospheric temperature > surface temperature > deiced temperature, Count: 5, Level 5
@@ -338,7 +348,7 @@ sounding composites, Count: 33, Level 1
 
 earth science > spectral/engineering > radar > doppler velocity, Count: 16, Level 4
 
-earth science > spectral/engineering > radar > radar reflectivity, Count: 19, Level 4
+earth science > spectral/engineering > radar > radar reflectivity, Count: 20, Level 4
 
 earth science > atmosphere > aerosols > aerosol extinction, Count: 1, Level 4
 
@@ -466,7 +476,7 @@ earth science > atmosphere > weather events > hail storms, Count: 2, Level 4
 
 earth science > atmosphere > clouds > convective clouds/systems (observed/analyzed) > precipitating convective cloud systems, Count: 2, Level 5
 
-earth science > atmosphere > clouds > convective clouds/systems (observed/analyzed) > deep convective cloud systems, Count: 3, Level 5
+earth science > atmosphere > clouds > convective clouds/systems (observed/analyzed) > deep convective cloud systems, Count: 4, Level 5
 
 earth science > atmosphere > precipitation > solid precipitation > hail, Count: 2, Level 5
 
@@ -509,6 +519,16 @@ earth science > atmosphere > precipitation > liquid precipitation > drizzle, Cou
 earth science > atmosphere > atmospheric chemistry > carbon and hydrocarbon compounds > atmospheric carbon dioxide > carbon dioxide profiles, Count: 2, Level 6
 
 earth science > atmosphere > altitude > tropopause, Count: 3, Level 4
+
+earth science > cryosphere > snow/ice > snow/ice temperature, Count: 2, Level 4
+
+earth science > terrestrial hydrosphere > snow/ice > snow/ice temperature, Count: 2, Level 4
+
+earth science > terrestrial hydrosphere > snow/ice > snow density, Count: 1, Level 4
+
+earth science > cryosphere > snow/ice > snow density, Count: 1, Level 4
+
+earth science > terrestrial hydrosphere > snow/ice > snow stratigraphy, Count: 1, Level 4
 
 earth science > atmosphere > atmospheric temperature > upper air temperature > vertical profiles > environmental lapse rate, Count: 1, Level 6
 
@@ -674,10 +694,6 @@ earth science > atmosphere > air quality > carbon monoxide, Count: 1, Level 4
 
 earth science > atmosphere > atmospheric chemistry > carbon and hydrocarbon compounds > formic acid, Count: 2, Level 5
 
-earth science > cryosphere > snow/ice > snow/ice temperature, Count: 1, Level 4
-
-earth science > terrestrial hydrosphere > snow/ice > snow/ice temperature, Count: 1, Level 4
-
 earth science > atmosphere > aerosols > particulate matter, Count: 3, Level 4
 
 magnetic field, Count: 1, Level 1
@@ -725,6 +741,6 @@ earth science > atmosphere > weather events > stability/severe weather indices >
 Level 1: 83
 Level 2: 0
 Level 3: 12
-Level 4: 139
+Level 4: 147
 Level 5: 111
 Level 6: 17
