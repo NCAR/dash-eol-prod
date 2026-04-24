@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:46:49Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:03Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Daniel Jaffe</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Washington-Bothell</gco:CharacterString>
+                        <gco:CharacterString>University of Washington Bothell</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -306,7 +306,7 @@
                         <gco:CharacterString>Jesse L. Ambrose</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Washington-Bothell</gco:CharacterString>
+                        <gco:CharacterString>University of Washington Bothell</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -324,7 +324,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-7904-991X"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-7904-991X"
                                     xlink:title="Lynne E. Gratz"
                                     xlink:actuate="onRequest">Lynne E. Gratz</gmx:Anchor>
                      </gmd:individualName>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:38Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:35Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Mike Sigler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Fisheries Science Center, NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -322,6 +322,9 @@
                                     xlink:title="Kathy J. Kuletz"
                                     xlink:actuate="onRequest">Kathy J. Kuletz</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>United States Fish and Wildlife Service</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -345,7 +348,7 @@
                         <gco:CharacterString>Chris Wilson</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Fisheries Science Center (AFSC), NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -382,7 +385,7 @@
                         <gco:CharacterString>Nancy Friday</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Marine Mammal Laboratory</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -396,7 +399,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>7600 Sand Point Way NE</gco:CharacterString>
+                                    <gco:CharacterString>NOAA National Marine Mammal Laboratory 7600 Sand Point Way NE</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Seattle</gco:CharacterString>
@@ -431,7 +434,7 @@
                                     xlink:actuate="onRequest">Patrick H. Ressler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA Fisheries, AFSC-RACE, Midwater Assessment and Conservation Engineering</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -480,7 +483,7 @@
                                     xlink:actuate="onRequest">Mike Sigler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Fisheries Science Center, NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -522,7 +525,7 @@
                                     xlink:actuate="onRequest">Mike Sigler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Fisheries Science Center, NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -625,7 +628,7 @@
                               xlink:actuate="onRequest">Mike Sigler</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Alaska Fisheries Science Center, NOAA</gco:CharacterString>
+                  <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -735,10 +738,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Seabirds</gco:CharacterString>
+                  <gco:CharacterString>Mammals</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Fish</gco:CharacterString>
+                  <gco:CharacterString>Ecology</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Seabirds</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Biology</gco:CharacterString>
@@ -747,29 +753,26 @@
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mammals</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Ecology</gco:CharacterString>
+                  <gco:CharacterString>Fish</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; FOOD-WEB DYNAMICS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS &gt; CRUSTACEANS &gt; EUPHAUSIIDS (KRILL)</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CETACEANS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS &gt; CRUSTACEANS &gt; EUPHAUSIIDS (KRILL)</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; FOOD-WEB DYNAMICS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

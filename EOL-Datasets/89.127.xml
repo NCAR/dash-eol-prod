@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:50Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:48Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -308,12 +308,15 @@
                                     xlink:actuate="onRequest">Duli Chand</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>CIRA, Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>Colorado State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>CIRA</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Ft. Collins</gco:CharacterString>
                                  </gmd:city>
@@ -442,12 +445,15 @@
                               xlink:actuate="onRequest">Duli Chand</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>CIRA, Colorado State University</gco:CharacterString>
+                  <gco:CharacterString>Colorado State University</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:address>
                         <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>CIRA</gco:CharacterString>
+                           </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Ft. Collins</gco:CharacterString>
                            </gmd:city>
@@ -554,13 +560,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL BACKSCATTER</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; SULFATE PARTICLES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; ATMOSPHERIC OZONE &gt; OZONE SURFACE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; SULFATE PARTICLES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

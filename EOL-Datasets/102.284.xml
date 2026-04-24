@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:39Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:36Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,12 +281,16 @@
                                     xlink:actuate="onRequest">Anna Szymanski</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>School of Fisheries and Ocean Sciences, University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>School of Fisheries and Ocean Sciences,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -304,7 +308,7 @@
                                     xlink:actuate="onRequest">Rolf R. Gradinger</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Troms&amp;amp;oslash;, Institute of Marine Research</gco:CharacterString>
+                        <gco:CharacterString>UiT The Arctic University of Norway</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -399,7 +403,7 @@
                                     xlink:actuate="onRequest">Rolf R. Gradinger</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Troms&amp;amp;oslash;, Institute of Marine Research</gco:CharacterString>
+                        <gco:CharacterString>UiT The Arctic University of Norway</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -445,7 +449,7 @@
                                     xlink:actuate="onRequest">Bodil A. Bluhm</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Troms&amp;amp;oslash;, Norway - Department of Arctic and Marine Biology</gco:CharacterString>
+                        <gco:CharacterString>UiT The Arctic University of Norway</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Professor</gco:CharacterString>
@@ -604,7 +608,7 @@
                               xlink:actuate="onRequest">Rolf R. Gradinger</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>University of Troms&amp;amp;oslash;, Institute of Marine Research</gco:CharacterString>
+                  <gco:CharacterString>UiT The Arctic University of Norway</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -699,10 +703,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Ships</gco:CharacterString>
+                  <gco:CharacterString>USCGC Healy - HLY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>USCGC Healy - HLY</gco:CharacterString>
+                  <gco:CharacterString>Ships</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -713,13 +717,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Ship Based</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Abundance</gco:CharacterString>
+                  <gco:CharacterString>Ship Based</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Biology</gco:CharacterString>
@@ -728,7 +732,7 @@
                   <gco:CharacterString>Plankton</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Sea Ice</gco:CharacterString>
+                  <gco:CharacterString>Abundance</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

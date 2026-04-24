@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:47:07Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:49Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -252,7 +252,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0003-1874-4086"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1874-4086"
                                     xlink:title="Mark A. J. Curran"
                                     xlink:actuate="onRequest">Mark A. J. Curran</gmx:Anchor>
                      </gmd:individualName>
@@ -362,7 +362,7 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0003-1874-4086"
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1874-4086"
                               xlink:title="Mark A. J. Curran"
                               xlink:actuate="onRequest">Mark A. J. Curran</gmx:Anchor>
                </gmd:individualName>
@@ -479,10 +479,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Chemistry</gco:CharacterString>
+                  <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Oceanography</gco:CharacterString>
+                  <gco:CharacterString>Chemistry</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

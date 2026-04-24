@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:55Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:27Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -257,7 +257,7 @@
                                     xlink:actuate="onRequest">Donald A. (Skip) Walker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Arctic Biology</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -271,7 +271,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>University of Alaska Fairbanks PO Box 757000</gco:CharacterString>
+                                    <gco:CharacterString>University of Alaska Fairbanks Institute of Arctic Biology PO Box 757000</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -303,7 +303,7 @@
                                     xlink:actuate="onRequest">Hilmar A. Maier</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Geobotany Center</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -317,7 +317,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
+                                    <gco:CharacterString>Alaska Geobotany Center Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -349,7 +349,7 @@
                                     xlink:actuate="onRequest">Hilmar A. Maier</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Alaska Geobotany Center</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -363,7 +363,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
+                                    <gco:CharacterString>Alaska Geobotany Center Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -395,7 +395,7 @@
                                     xlink:actuate="onRequest">Donald A. (Skip) Walker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Arctic Biology</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -409,7 +409,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>University of Alaska Fairbanks PO Box 757000</gco:CharacterString>
+                                    <gco:CharacterString>University of Alaska Fairbanks Institute of Arctic Biology PO Box 757000</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -441,7 +441,7 @@
                                     xlink:actuate="onRequest">Donald A. (Skip) Walker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Arctic Biology</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -455,7 +455,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>University of Alaska Fairbanks PO Box 757000</gco:CharacterString>
+                                    <gco:CharacterString>University of Alaska Fairbanks Institute of Arctic Biology PO Box 757000</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -548,7 +548,7 @@
                               xlink:actuate="onRequest">Hilmar A. Maier</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Alaska Geobotany Center</gco:CharacterString>
+                  <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -562,7 +562,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
+                              <gco:CharacterString>Alaska Geobotany Center Institute of Arctic Biology University of Alaska Fairbanks</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -660,18 +660,15 @@
                   <gco:CharacterString>Satellite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Vegetation</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Vegetation</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
-               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
                </gmd:keyword>
@@ -680,6 +677,9 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER &gt; LAND USE/LAND COVER CLASSIFICATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

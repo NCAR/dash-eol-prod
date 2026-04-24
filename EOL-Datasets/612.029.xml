@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:47:22Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:41Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -348,12 +348,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0009-0001-8340-1488"
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0001-8340-1488"
                                     xlink:title="Margaux Girouard"
                                     xlink:actuate="onRequest">Margaux Girouard</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
+                        <gco:CharacterString>Universit&amp;amp;eacute; du Qu&amp;amp;eacute;bec &amp;amp;agrave; Montr&amp;amp;eacute;al</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -375,12 +375,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-0854-3718"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-0854-3718"
                                     xlink:title="Mathieu Lachapelle"
                                     xlink:actuate="onRequest">Mathieu Lachapelle</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
+                        <gco:CharacterString>Universit&amp;amp;eacute; du Qu&amp;amp;eacute;bec &amp;amp;agrave; Montr&amp;amp;eacute;al</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -407,7 +407,7 @@
                                     xlink:actuate="onRequest">Hadleigh Thompson</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
+                        <gco:CharacterString>Universit&amp;amp;eacute; du Qu&amp;amp;eacute;bec &amp;amp;agrave; Montr&amp;amp;eacute;al</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -565,7 +565,7 @@
                                     xlink:actuate="onRequest">Julie M. Th&amp;amp;eacute;riault</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Quebec Montreal</gco:CharacterString>
+                        <gco:CharacterString>Universit&amp;amp;eacute; du Qu&amp;amp;eacute;bec &amp;amp;agrave; Montr&amp;amp;eacute;al</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -778,13 +778,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SNOW WATER EQUIVALENT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS &gt; SNOW DEPTH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SOLID PRECIPITATION &gt; SNOW</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; CRYOSPHERIC INDICATORS &gt; SNOW DEPTH</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SNOW WATER EQUIVALENT</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

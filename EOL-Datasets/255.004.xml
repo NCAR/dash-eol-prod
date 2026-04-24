@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:35Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:55Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,10 +300,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Philippe Amstislavski</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4896-0735"
+                                    xlink:title="Philippe Amstislavski"
+                                    xlink:actuate="onRequest">Philippe Amstislavski</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>State University of New York</gco:CharacterString>
+                        <gco:CharacterString>SUNY Downstate Health Sciences University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -337,7 +339,7 @@
                                     xlink:actuate="onRequest">Leonid Zubov</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Northern Medical University</gco:CharacterString>
+                        <gco:CharacterString>Northern State Medical University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -365,7 +367,7 @@
                         <gco:CharacterString>Herman Chen</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>State University of New York</gco:CharacterString>
+                        <gco:CharacterString>SUNY Downstate Health Sciences University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -390,15 +392,20 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Pietro Ceccato</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0006-5832-1028"
+                                    xlink:title="Pietro Ceccato"
+                                    xlink:actuate="onRequest">Pietro Ceccato</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>International Research Institute for Climate and Society, Earth Institute, Columbia University</gco:CharacterString>
+                        <gco:CharacterString>Columbia University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>International Research Institute for Climate and Society, Earth Institute, Columbia University</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Palisades</gco:CharacterString>
                                  </gmd:city>
@@ -426,7 +433,7 @@
                                     xlink:actuate="onRequest">Jean-Francois Pekel</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Joint Research Center, European Commission</gco:CharacterString>
+                        <gco:CharacterString>Joint Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -457,7 +464,7 @@
                         <gco:CharacterString>Jeremy Weedon</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>State University of New York</gco:CharacterString>
+                        <gco:CharacterString>SUNY Downstate Health Sciences University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -593,10 +600,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gco:CharacterString>Philippe Amstislavski</gco:CharacterString>
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4896-0735"
+                              xlink:title="Philippe Amstislavski"
+                              xlink:actuate="onRequest">Philippe Amstislavski</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>State University of New York</gco:CharacterString>
+                  <gco:CharacterString>SUNY Downstate Health Sciences University</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -690,13 +699,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Satellite</gco:CharacterString>
+                  <gco:CharacterString>Land Character</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Hydrology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Land Character</gco:CharacterString>
+                  <gco:CharacterString>Satellite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
@@ -706,22 +715,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; FRESHWATER ECOSYSTEMS &gt; LAKE/POND</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SURFACE WATER &gt; SURFACE WATER PROCESSES/MEASUREMENTS &gt; HYDROPATTERN</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SURFACE WATER &gt; SURFACE WATER FEATURES &gt; RIVERS/STREAMS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SURFACE WATER &gt; SURFACE WATER FEATURES &gt; LAKES/RESERVOIRS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SURFACE WATER &gt; SURFACE WATER FEATURES &gt; RIVERS/STREAMS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; FRESHWATER ECOSYSTEMS &gt; RIVERS/STREAM</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; FRESHWATER ECOSYSTEMS &gt; LAKE/POND</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE SERVICES &gt; DATA ANALYSIS AND VISUALIZATION &gt; GEOGRAPHIC INFORMATION SYSTEMS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SURFACE WATER &gt; SURFACE WATER PROCESSES/MEASUREMENTS &gt; HYDROPATTERN</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; FRESHWATER ECOSYSTEMS &gt; RIVERS/STREAM</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:45Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:26Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -712,7 +712,7 @@
                         <gco:CharacterString>Elisa Vuillermoz</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Ev-K2-CNR</gco:CharacterString>
+                        <gco:CharacterString>EvK2CNR</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -749,7 +749,7 @@
                         <gco:CharacterString>Laura Bertolani</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Epson Meteo Center</gco:CharacterString>
+                        <gco:CharacterString>Centro Epson Meteo</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -776,12 +776,15 @@
                                     xlink:actuate="onRequest">Gianni Tartari</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Ev-K2-CNR Committee</gco:CharacterString>
+                        <gco:CharacterString>EvK2CNR</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Ev-K2-CNR Committee</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>tartari@irsa.cnr.it</gco:CharacterString>
                                  </gmd:electronicMailAddress>
@@ -886,12 +889,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-7509-7650"
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7509-7650"
                               xlink:title="Massimo Bollasina"
                               xlink:actuate="onRequest">Massimo Bollasina</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Epson Meteo Center</gco:CharacterString>
+                  <gco:CharacterString>Centro Epson Meteo</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -1005,10 +1008,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Sub-Surface</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Sub-Surface</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

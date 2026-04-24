@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:31Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:30Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -541,7 +541,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0002-4823-3108"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-4823-3108"
                                     xlink:title="Mengistu Wolde"
                                     xlink:actuate="onRequest">Mengistu Wolde</gmx:Anchor>
                      </gmd:individualName>

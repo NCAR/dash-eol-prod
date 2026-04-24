@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:00Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:40Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Richard Ferrare</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA Langley Research Center</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -330,7 +330,7 @@
                                     xlink:actuate="onRequest">Johnathan W. Hair</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA Langley Research Center</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -361,10 +361,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Chris A. Hostetler</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-3364-4497"
+                                    xlink:title="Chris A. Hostetler"
+                                    xlink:actuate="onRequest">Chris A. Hostetler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA/LaRC</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -561,13 +563,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Aerosols</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Lidar</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Upper Air</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Aerosols</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Aircraft</gco:CharacterString>

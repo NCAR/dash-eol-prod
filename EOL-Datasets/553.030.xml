@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:20Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:21Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -280,6 +280,9 @@
                                     xlink:title="Wiebke Deierling"
                                     xlink:actuate="onRequest">Wiebke Deierling</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>NSF NCAR Research Applications Laboratory</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -303,7 +306,7 @@
                         <gco:CharacterString>Robert Marshall</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Colorado</gco:CharacterString>
+                        <gco:CharacterString>University of Colorado Boulder</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -546,10 +549,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Lightning</gco:CharacterString>
+                  <gco:CharacterString>Electrification</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Electrification</gco:CharacterString>
+                  <gco:CharacterString>Lightning</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

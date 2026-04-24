@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:46:48Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:33Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -305,7 +305,7 @@
                                     xlink:actuate="onRequest">Dustin Phillips</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UAH</gco:CharacterString>
+                        <gco:CharacterString>University of Alabama in Huntsville</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Engineer</gco:CharacterString>
@@ -357,7 +357,7 @@
                                     xlink:actuate="onRequest">Kevin Knupp</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Alabama Huntsville</gco:CharacterString>
+                        <gco:CharacterString>University of Alabama in Huntsville</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

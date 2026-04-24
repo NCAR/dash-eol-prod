@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:37Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:34Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -305,7 +305,7 @@
                                     xlink:actuate="onRequest">Ivonne Ortiz</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Joint Institute for the Study of the Atmosphere and Oceans</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Climate, Ocean, &amp;amp;amp; Ecosystem Studies</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -354,7 +354,7 @@
                                     xlink:actuate="onRequest">Ivonne Ortiz</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Joint Institute for the Study of the Atmosphere and Oceans</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Climate, Ocean, &amp;amp;amp; Ecosystem Studies</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -403,7 +403,7 @@
                                     xlink:actuate="onRequest">Kerim Aydin</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -433,7 +433,7 @@
                                     xlink:actuate="onRequest">Albert J. Hermann</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Joint Institute for the Study of the Atmosphere and Ocean</gco:CharacterString>
+                        <gco:CharacterString>NOAA Pacific Marine Environmental Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -447,7 +447,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>NOAA/PMEL 7600 Sand Point Way NE, Bldg. 3</gco:CharacterString>
+                                    <gco:CharacterString>NOAA/PMEL Joint Institute for the Study of the Atmosphere and Ocean 7600 Sand Point Way NE, Bldg. 3</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Seattle</gco:CharacterString>
@@ -544,7 +544,7 @@
                                     xlink:actuate="onRequest">Enrique N. Curchitser</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Rutgers University</gco:CharacterString>
+                        <gco:CharacterString>Rutgers, The State University of New Jersey</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Associate Professor</gco:CharacterString>
@@ -699,7 +699,7 @@
                               xlink:actuate="onRequest">Ivonne Ortiz</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>Joint Institute for the Study of the Atmosphere and Oceans</gco:CharacterString>
+                  <gco:CharacterString>Cooperative Institute for Climate, Ocean, &amp;amp;amp; Ecosystem Studies</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -816,21 +816,27 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Fish</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Biology</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Fish</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
+               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
                </gmd:keyword>
@@ -839,12 +845,6 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; ZOOPLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; PHYTOPLANKTON</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

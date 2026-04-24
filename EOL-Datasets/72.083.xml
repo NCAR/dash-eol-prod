@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:46:24Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:45Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-5119-9345"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5119-9345"
                                     xlink:title="Lynn K. Shay"
                                     xlink:actuate="onRequest">Lynn K. Shay</gmx:Anchor>
                      </gmd:individualName>
@@ -386,7 +386,7 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-5119-9345"
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5119-9345"
                               xlink:title="Lynn K. Shay"
                               xlink:actuate="onRequest">Lynn K. Shay</gmx:Anchor>
                </gmd:individualName>
@@ -507,13 +507,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CIRCULATION &gt; OCEAN CURRENTS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; WATER TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SALINITY/DENSITY &gt; SALINITY</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CIRCULATION &gt; OCEAN CURRENTS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:25Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:00Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Edward V. Browell</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA Langley Research Center</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -377,7 +377,7 @@
                                     xlink:actuate="onRequest">Richard Ferrare</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA Langley Research Center</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -421,12 +421,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-6088-6200"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6088-6200"
                                     xlink:title="Marta A. Fenn"
                                     xlink:actuate="onRequest">Marta A. Fenn</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NASA Langley Research Center</gco:CharacterString>
+                        <gco:CharacterString>Langley Research Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

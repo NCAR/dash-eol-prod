@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:23Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:10Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -378,7 +378,7 @@
                                     xlink:actuate="onRequest">Gary L. Hufford</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/National Weather Service, Alaska</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Weather Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -400,15 +400,21 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Igor Krupnik</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1954-9848"
+                                    xlink:title="Igor Krupnik"
+                                    xlink:actuate="onRequest">Igor Krupnik</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Arctic Studies Center, Smithsonian Institution</gco:CharacterString>
+                        <gco:CharacterString>Smithsonian Institution</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Arctic Studies Center, S</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -426,7 +432,7 @@
                                     xlink:actuate="onRequest">Elizabeth Labunski</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>U.S. Fish and Wildlife Service, Alaska</gco:CharacterString>
+                        <gco:CharacterString>United States Fish and Wildlife Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -547,7 +553,7 @@
                                     xlink:actuate="onRequest">Gary L. Hufford</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA/National Weather Service, Alaska</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Weather Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -569,15 +575,21 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Igor Krupnik</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1954-9848"
+                                    xlink:title="Igor Krupnik"
+                                    xlink:actuate="onRequest">Igor Krupnik</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Arctic Studies Center, Smithsonian Institution</gco:CharacterString>
+                        <gco:CharacterString>Smithsonian Institution</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Arctic Studies Center, S</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -595,7 +607,7 @@
                                     xlink:actuate="onRequest">Elizabeth Labunski</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>U.S. Fish and Wildlife Service, Alaska</gco:CharacterString>
+                        <gco:CharacterString>United States Fish and Wildlife Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -793,10 +805,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Ships</gco:CharacterString>
+                  <gco:CharacterString>USCGC Healy - HLY</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>USCGC Healy - HLY</gco:CharacterString>
+                  <gco:CharacterString>Ships</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -807,22 +819,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>Oceanography</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Mammals</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Ship Based</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Oceanography</gco:CharacterString>
+                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Abundance</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Mammals</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Sea Ice</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

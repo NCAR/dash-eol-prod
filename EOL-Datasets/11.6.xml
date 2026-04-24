@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:47:08Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:50Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Donald R. Blake</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of California Irvine</gco:CharacterString>
+                        <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -327,7 +327,7 @@
                                     xlink:actuate="onRequest">Donald R. Blake</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of California Irvine</gco:CharacterString>
+                        <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -434,7 +434,7 @@
                               xlink:actuate="onRequest">Donald R. Blake</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>University of California Irvine</gco:CharacterString>
+                  <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>

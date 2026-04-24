@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:30Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:30Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -329,7 +329,7 @@
                                     xlink:actuate="onRequest">George Hunt</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                        <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -358,7 +358,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Martin Renner</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-0346-1024"
+                                    xlink:title="Martin Renner"
+                                    xlink:actuate="onRequest">Martin Renner</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Tern Again Consulting</gco:CharacterString>
@@ -409,6 +411,9 @@
                                     xlink:title="Kathy J. Kuletz"
                                     xlink:actuate="onRequest">Kathy J. Kuletz</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>United States Fish and Wildlife Service</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -434,7 +439,7 @@
                                     xlink:actuate="onRequest">John Piatt</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>USGS</gco:CharacterString>
+                        <gco:CharacterString>United States Geological Survey</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -483,7 +488,7 @@
                                     xlink:actuate="onRequest">Gary Drew</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>USGS</gco:CharacterString>
+                        <gco:CharacterString>United States Geological Survey</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -532,7 +537,7 @@
                                     xlink:actuate="onRequest">George Hunt</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Washington</gco:CharacterString>
+                        <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -627,7 +632,7 @@
                               xlink:actuate="onRequest">George Hunt</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>University of Washington</gco:CharacterString>
+                  <gco:CharacterString>University of California, Irvine</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -724,10 +729,10 @@
                   <gco:CharacterString>Seabirds</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Abundance</gco:CharacterString>
+                  <gco:CharacterString>Biology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Biology</gco:CharacterString>
+                  <gco:CharacterString>Abundance</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
@@ -737,13 +742,13 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; MARINE ECOSYSTEMS &gt; PELAGIC</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; MARINE ECOSYSTEMS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; MARINE ECOSYSTEMS &gt; PELAGIC</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

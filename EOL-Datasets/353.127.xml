@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:49Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:45Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -369,7 +369,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0003-2302-9554"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-2302-9554"
                                     xlink:title="Mark Zondlo"
                                     xlink:actuate="onRequest">Mark Zondlo</gmx:Anchor>
                      </gmd:individualName>

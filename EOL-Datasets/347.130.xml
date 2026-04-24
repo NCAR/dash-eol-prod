@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:12Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:11Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -300,10 +300,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Junhong Wang</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-6922-9597"
+                                    xlink:title="Junhong Wang"
+                                    xlink:actuate="onRequest">Junhong Wang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SUNY Albany</gco:CharacterString>
+                        <gco:CharacterString>University at Albany, State University of New York</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -325,10 +327,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Junhong Wang</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-6922-9597"
+                                    xlink:title="Junhong Wang"
+                                    xlink:actuate="onRequest">Junhong Wang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SUNY Albany</gco:CharacterString>
+                        <gco:CharacterString>University at Albany, State University of New York</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -355,7 +359,7 @@
                                     xlink:actuate="onRequest">Jinlun Zhang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Applied Physics Lab, University of Washington</gco:CharacterString>
+                        <gco:CharacterString>University of Washington</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -369,7 +373,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>1013 NE 40th St</gco:CharacterString>
+                                    <gco:CharacterString>Applied Physics Lab, 1013 NE 40th St</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Seattle</gco:CharacterString>
@@ -404,7 +408,7 @@
                                     xlink:actuate="onRequest">Jida Wang</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UCLA</gco:CharacterString>
+                        <gco:CharacterString>University of California, Los Angeles</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

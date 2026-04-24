@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:52Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:09Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Steven Howell</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-9914-2890"
+                                    xlink:title="Steven Howell"
+                                    xlink:actuate="onRequest">Steven Howell</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Hawaiʻi at Mānoa</gco:CharacterString>
@@ -323,10 +325,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Barry J. Huebert</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-7711-0468"
+                                    xlink:title="Barry J. Huebert"
+                                    xlink:actuate="onRequest">Barry J. Huebert</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Hawaii</gco:CharacterString>
+                        <gco:CharacterString>University of Hawaii System</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Professor</gco:CharacterString>
@@ -400,10 +404,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Byron Blomquist</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3366-6269"
+                                    xlink:title="Byron Blomquist"
+                                    xlink:actuate="onRequest">Byron Blomquist</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Hawaii</gco:CharacterString>
+                        <gco:CharacterString>University of Hawaii System</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -447,7 +453,7 @@
                         <gco:CharacterString>Liangzhong Zhuang</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Hawaii</gco:CharacterString>
+                        <gco:CharacterString>University of Hawaii System</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -660,10 +666,10 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AMMONIUM AEROSOLS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; SULFATE PARTICLES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; NITRATE PARTICLES</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; SULFATE PARTICLES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:35Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:33Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -328,12 +328,16 @@
                         <gco:CharacterString>Joee Engel</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Butternut Middle School, Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>Butternut Middle School</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Wisconsin</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -349,12 +353,16 @@
                         <gco:CharacterString>Jakob Mareno</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Butternut Middle School, Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>Butternut Middle School</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
-                              <gmd:CI_Address/>
+                              <gmd:CI_Address>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Wisconsin</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                              </gmd:CI_Address>
                            </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
@@ -397,7 +405,7 @@
                                     xlink:actuate="onRequest">Ankur Desai</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Wisconsin&amp;amp;ndash;Madison</gco:CharacterString>
+                        <gco:CharacterString>University of Wisconsin-Madison</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -629,19 +637,19 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL PH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL COLOR</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL TEMPERATURE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD PROPERTIES &gt; CLOUD FRACTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; SOILS &gt; SOIL COLOR</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

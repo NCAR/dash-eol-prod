@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:36Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:46Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -317,10 +317,10 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Hans Friedli</gco:CharacterString>
+                        <gco:CharacterString>Hans R Friedli</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NCAR Advanced Study Program</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -406,7 +406,7 @@
                   <gco:CharacterString>Ryan Prescott</gco:CharacterString>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>NCAR/ASP</gco:CharacterString>
+                  <gco:CharacterString>NSF National Center for Atmospheric Research</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -420,7 +420,7 @@
                      <gmd:address>
                         <gmd:CI_Address>
                            <gmd:deliveryPoint>
-                              <gco:CharacterString>1850 Table Mesa Drive</gco:CharacterString>
+                              <gco:CharacterString>NCAR/ASP 1850 Table Mesa Drive</gco:CharacterString>
                            </gmd:deliveryPoint>
                            <gmd:city>
                               <gco:CharacterString>Boulder</gco:CharacterString>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:54Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:00Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -280,6 +280,9 @@
                                     xlink:title="Adam K. Massmann"
                                     xlink:actuate="onRequest">Adam K. Massmann</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Columbia University</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
@@ -305,7 +308,7 @@
                                     xlink:actuate="onRequest">Justin R. Minder</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SUNY Albany</gco:CharacterString>
+                        <gco:CharacterString>University at Albany, State University of New York</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -364,6 +367,9 @@
                                     xlink:title="David E. Kingsmill"
                                     xlink:actuate="onRequest">David E. Kingsmill</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>

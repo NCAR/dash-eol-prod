@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:56Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:43Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0009-0003-5590-1658"
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0003-5590-1658"
                                     xlink:title="Michael Steele"
                                     xlink:actuate="onRequest">Michael Steele</gmx:Anchor>
                      </gmd:individualName>
@@ -322,7 +322,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0009-0003-5590-1658"
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0003-5590-1658"
                                     xlink:title="Michael Steele"
                                     xlink:actuate="onRequest">Michael Steele</gmx:Anchor>
                      </gmd:individualName>
@@ -466,7 +466,7 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0009-0003-5590-1658"
+                  <gmx:Anchor xlink:href="https://orcid.org/0009-0003-5590-1658"
                               xlink:title="Michael Steele"
                               xlink:actuate="onRequest">Michael Steele</gmx:Anchor>
                </gmd:individualName>
@@ -577,16 +577,16 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Sea Ice</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
@@ -596,10 +596,10 @@
                   <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; OCEAN GENERAL CIRCULATION MODELS (OGCM)/REGIONAL OCEAN MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CRYOSPHERE MODELS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CRYOSPHERE MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

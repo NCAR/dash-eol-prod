@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:49:01Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:09Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -296,7 +296,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>M. A. Walsh</gco:CharacterString>
+                        <gco:CharacterString>M. Alexander Walsh</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
@@ -320,7 +320,7 @@
                         <gco:CharacterString>Jonathan Shannahoff</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NOAA</gco:CharacterString>
+                        <gco:CharacterString>National Oceanic and Atmospheric Administration</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -341,7 +341,7 @@
                         <gco:CharacterString>David Rivas</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UNAM</gco:CharacterString>
+                        <gco:CharacterString>Universidad Nacional Aut&amp;amp;oacute;noma de M&amp;amp;eacute;xico</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -452,7 +452,7 @@
                                     xlink:actuate="onRequest">Taneil Uttal</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Oceanic and Atmospheric Administration</gco:CharacterString>
+                        <gco:CharacterString>NOAA Physical Sciences Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -540,7 +540,7 @@
                                     xlink:actuate="onRequest">Jeffrey E Hare</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>CIRES</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -562,10 +562,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Brandi J. McCarty</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-5978-8248"
+                                    xlink:title="Brandi J. McCarty"
+                                    xlink:actuate="onRequest">Brandi J. McCarty</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Colorado - CIRES</gco:CharacterString>
+                        <gco:CharacterString>Cooperative Institute for Research in Environmental Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -934,10 +936,10 @@
                   <gco:CharacterString>R/V Ronald H. Brown</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mission Reports</gco:CharacterString>
+                  <gco:CharacterString>Ships</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Ships</gco:CharacterString>
+                  <gco:CharacterString>Mission Reports</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"

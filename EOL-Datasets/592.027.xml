@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:29Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:29Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -329,7 +329,7 @@
                                     xlink:actuate="onRequest">Ting Zheng</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>University of Wisconsin-Madison</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -354,7 +354,7 @@
                         <gco:CharacterString>Nanfeng Liu</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>University of Wisconsin-Madison</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -381,7 +381,7 @@
                                     xlink:actuate="onRequest">Philip Townsend</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>University of Wisconsin-Madison</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

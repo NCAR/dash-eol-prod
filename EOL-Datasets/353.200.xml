@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:57Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:12Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -399,11 +399,11 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9367-5749"
-                                    xlink:title="Jason St Clair"
-                                    xlink:actuate="onRequest">Jason St Clair</gmx:Anchor>
+                                    xlink:title="Jason St. Clair"
+                                    xlink:actuate="onRequest">Jason St. Clair</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>California Institute of Technology</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, Baltimore County</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -417,7 +417,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>MC 131-24 California Institute of Technology</gco:CharacterString>
+                                    <gco:CharacterString>formerly California Institute of Technology</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Pasadena</gco:CharacterString>
@@ -429,7 +429,7 @@
                                     <gco:CharacterString>91125</gco:CharacterString>
                                  </gmd:postalCode>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>jstclair@caltech.edu</gco:CharacterString>
+                                    <gco:CharacterString>jstclair@umbc.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>

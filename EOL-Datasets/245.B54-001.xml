@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:20Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:49Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Ron Heintz</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Auke Bay Laboratories (ABL)</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -330,7 +330,7 @@
                                     xlink:actuate="onRequest">Ron Heintz</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Auke Bay Laboratories (ABL)</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -377,7 +377,7 @@
                         <gco:CharacterString>Emily Fergusson</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Auke Bay Laboratories (ABL)</gco:CharacterString>
+                        <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Metadata Coordinator</gco:CharacterString>
@@ -483,7 +483,7 @@
                               xlink:actuate="onRequest">Ron Heintz</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Auke Bay Laboratories (ABL)</gco:CharacterString>
+                  <gco:CharacterString>NOAA National Marine Fisheries Service Alaska Fisheries Science Center</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -608,9 +608,6 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Fish</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Oceanography</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
@@ -619,18 +616,21 @@
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Fish</gco:CharacterString>
+               </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; AQUATIC ECOSYSTEMS &gt; PLANKTON &gt; ZOOPLANKTON</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/INVERTEBRATES &gt; ARTHROPODS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:51Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:37Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -280,6 +280,9 @@
                                     xlink:title="Henry P. Huntington"
                                     xlink:actuate="onRequest">Henry P. Huntington</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ocean Conservancy</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -362,10 +365,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Chadwick V. Jay</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9559-2189"
+                                    xlink:title="Chadwick V. Jay"
+                                    xlink:actuate="onRequest">Chadwick V. Jay</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>USGS Alaska Science Center</gco:CharacterString>
+                        <gco:CharacterString>U.S. Geological Survey, Alaska Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Project Leader</gco:CharacterString>
@@ -412,7 +417,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Bruce G. Marcot</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3667-7481"
+                                    xlink:title="Bruce G. Marcot"
+                                    xlink:actuate="onRequest">Bruce G. Marcot</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>US Forest Service</gco:CharacterString>
@@ -484,6 +491,9 @@
                                     xlink:title="Henry P. Huntington"
                                     xlink:actuate="onRequest">Henry P. Huntington</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ocean Conservancy</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -591,6 +601,9 @@
                               xlink:title="Henry P. Huntington"
                               xlink:actuate="onRequest">Henry P. Huntington</gmx:Anchor>
                </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Ocean Conservancy</gco:CharacterString>
+               </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
                      <gmd:phone>
@@ -706,30 +719,24 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>Mammals</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Seabirds</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Local and Traditional Knowledge</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Fish</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mammals</gco:CharacterString>
+                  <gco:CharacterString>Fish</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CARNIVORES &gt; SEALS/SEA LIONS/WALRUSES</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
-               </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; CLIMATE CHANGE RESPONSES</gco:CharacterString>
                </gmd:keyword>
@@ -738,6 +745,12 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; SEA ICE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; BIRDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; MAMMALS &gt; CARNIVORES &gt; SEALS/SEA LIONS/WALRUSES</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

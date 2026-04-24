@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:39Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:36Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -340,7 +340,7 @@
                                     xlink:actuate="onRequest">Brian Carroll</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UMBC Joint Center for Earth Systems Technology</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, Baltimore County</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Graduate Student</gco:CharacterString>
@@ -357,7 +357,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
+                                    <gco:CharacterString>Joint Center for Earth Systems Technology Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Baltimore</gco:CharacterString>
@@ -392,7 +392,7 @@
                                     xlink:actuate="onRequest">Brian Carroll</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UMBC Joint Center for Earth Systems Technology</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, Baltimore County</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Graduate Student</gco:CharacterString>
@@ -409,7 +409,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
+                                    <gco:CharacterString>Joint Center for Earth Systems Technology Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Baltimore</gco:CharacterString>
@@ -444,7 +444,7 @@
                                     xlink:actuate="onRequest">Belay Demoz</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>UMBC Joint Center for Earth Systems Technology</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, Baltimore County</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -458,7 +458,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
+                                    <gco:CharacterString>Joint Center for Earth Systems Technology Physics Department, Room 424, 1000 Hilltop Circle</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Baltimore</gco:CharacterString>

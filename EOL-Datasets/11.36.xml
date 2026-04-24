@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:47:07Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:49Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -369,8 +369,8 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
                         <gmx:Anchor xlink:href="https://ror.org/042nb2s44"
-                                    xlink:title="Massachussets Institute of Technology"
-                                    xlink:actuate="onRequest">Massachussets Institute of Technology</gmx:Anchor>
+                                    xlink:title="Massachusetts Institute of Technology"
+                                    xlink:actuate="onRequest">Massachusetts Institute of Technology</gmx:Anchor>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -403,7 +403,7 @@
                                     xlink:actuate="onRequest">Gary Kleiman</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>MIT</gco:CharacterString>
+                        <gco:CharacterString>Massachusetts Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -424,7 +424,7 @@
                         <gco:CharacterString>Alex Pszenny</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>MIT</gco:CharacterString>
+                        <gco:CharacterString>Massachusetts Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -445,7 +445,7 @@
                         <gco:CharacterString>Ashwini Deshpande</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>MIT</gco:CharacterString>
+                        <gco:CharacterString>Massachusetts Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

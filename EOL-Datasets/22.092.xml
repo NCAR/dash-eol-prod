@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:48:34Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:45Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -355,7 +355,7 @@
                         <gco:CharacterString>Claude Devaux</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Universit&amp;amp;eacute; des Sciences et Technologies de Lille</gco:CharacterString>
+                        <gco:CharacterString>Universit&amp;amp;eacute; de Lille</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

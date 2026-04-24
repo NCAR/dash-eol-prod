@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:01Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:59Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -277,8 +277,8 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                                    xlink:title="A. Dave McGuire"
-                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                                    xlink:title="Anthony D. McGuire"
+                                    xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -361,7 +361,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-6296-5113"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-6296-5113"
                                     xlink:title="Martin Heimann"
                                     xlink:actuate="onRequest">Martin Heimann</gmx:Anchor>
                      </gmd:individualName>
@@ -396,7 +396,7 @@
                                     xlink:actuate="onRequest">David W Kicklighter</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>The Ecosystems Center, Marine Biological Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Marine Biological Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -410,7 +410,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>7 MBL St.</gco:CharacterString>
+                                    <gco:CharacterString>The Ecosystems Center, 7 MBL St.</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Woods Hole</gco:CharacterString>
@@ -443,12 +443,15 @@
                         <gco:CharacterString>R. A. Meier</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Arctic Biology - University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Institute of Arctic Biology</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
                                  </gmd:city>
@@ -473,12 +476,15 @@
                                     xlink:actuate="onRequest">Jerry M. Melillo</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Ecosystems Center, Marine Biological Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Marine Biological Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Ecosystems Center,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Woods Hole</gco:CharacterString>
                                  </gmd:city>
@@ -613,8 +619,8 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                                    xlink:title="A. Dave McGuire"
-                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                                    xlink:title="Anthony D. McGuire"
+                                    xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -723,8 +729,8 @@
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
                   <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                              xlink:title="A. Dave McGuire"
-                              xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                              xlink:title="Anthony D. McGuire"
+                              xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -849,10 +855,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; DYNAMIC VEGETATION/ECOSYSTEM MODELS</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:54Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:24Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,12 +276,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-8882-1329"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8882-1329"
                                     xlink:title="Matthew Sturm"
                                     xlink:actuate="onRequest">Matthew Sturm</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>US Army Cold Regions Research and Engineering Laboratory (CRREL)</gco:CharacterString>
+                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -322,12 +322,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-8882-1329"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8882-1329"
                                     xlink:title="Matthew Sturm"
                                     xlink:actuate="onRequest">Matthew Sturm</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>US Army Cold Regions Research and Engineering Laboratory (CRREL)</gco:CharacterString>
+                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -401,7 +401,7 @@
                         <gco:CharacterString>Jon Holmgren</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>US Army Cold Regions Research and Engineering Laboratory (CRREL)</gco:CharacterString>
+                        <gco:CharacterString>Cold Regions Research and Engineering Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -652,12 +652,12 @@
          <gmd:pointOfContact>
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
-                  <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-8882-1329"
+                  <gmx:Anchor xlink:href="https://orcid.org/0000-0001-8882-1329"
                               xlink:title="Matthew Sturm"
                               xlink:actuate="onRequest">Matthew Sturm</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>US Army Cold Regions Research and Engineering Laboratory (CRREL)</gco:CharacterString>
+                  <gco:CharacterString>Cold Regions Research and Engineering Laboratory</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -766,10 +766,10 @@
                   <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Arctic</gco:CharacterString>
+                  <gco:CharacterString>Aircraft</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Aircraft</gco:CharacterString>
+                  <gco:CharacterString>Arctic</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

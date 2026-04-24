@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:47:19Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:39Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -335,12 +335,15 @@
                                     xlink:actuate="onRequest">Hannes Vogelmann</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>KIT IMK-IFU Garmisch-Partenkirchen, Germany</gco:CharacterString>
+                        <gco:CharacterString>Karlsruhe Institute of Technology</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>KIT IMK-IFU Garmisch-Partenkirchen, Germany</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:electronicMailAddress>
                                     <gco:CharacterString>vogelmann@kit.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>

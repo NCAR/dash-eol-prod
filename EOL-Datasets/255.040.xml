@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:34Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:31Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -808,7 +808,7 @@
                         <gco:CharacterString>Christine Gleason</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Marine Science - University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -821,6 +821,9 @@
                            </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Institute of Marine Science</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
                                  </gmd:city>
@@ -846,7 +849,7 @@
                         <gco:CharacterString>Scott E. Goodman</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Natural Resources Consultants, Inc</gco:CharacterString>
+                        <gco:CharacterString>Natural Resources Consultants, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Fisheries Biologist/Field Systems Supervisor, Vice President (Treasurer)</gco:CharacterString>
@@ -896,7 +899,7 @@
                         <gco:CharacterString>Brenda A. Holladay</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Marine Science - University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -910,7 +913,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>P.O. Box 757220</gco:CharacterString>
+                                    <gco:CharacterString>Institute of Marine Science P.O. Box 757220</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -940,7 +943,7 @@
                         <gco:CharacterString>Jeffrey A June</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Resources Constulatants Inc</gco:CharacterString>
+                        <gco:CharacterString>Natural Resources Consultants, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -977,7 +980,7 @@
                         <gco:CharacterString>Robert M. Meyer</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>LGL Alaska Research Associates Inc.</gco:CharacterString>
+                        <gco:CharacterString>LGL Alaska Research Associates, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1055,7 +1058,7 @@
                         <gco:CharacterString>Brenda A. Holladay</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Marine Science - University of Alaska Fairbanks</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1069,7 +1072,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>P.O. Box 757220</gco:CharacterString>
+                                    <gco:CharacterString>Institute of Marine Science P.O. Box 757220</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -1141,7 +1144,7 @@
                         <gco:CharacterString>Robert M. Meyer</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>LGL Alaska Research Associates Inc.</gco:CharacterString>
+                        <gco:CharacterString>LGL Alaska Research Associates, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1257,7 +1260,7 @@
                         <gco:CharacterString>Jeffrey A June</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>National Resources Constulatants Inc</gco:CharacterString>
+                        <gco:CharacterString>Natural Resources Consultants, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1294,7 +1297,7 @@
                         <gco:CharacterString>Scott E. Goodman</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Natural Resources Consultants, Inc</gco:CharacterString>
+                        <gco:CharacterString>Natural Resources Consultants, Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Fisheries Biologist/Field Systems Supervisor, Vice President (Treasurer)</gco:CharacterString>
@@ -1531,13 +1534,13 @@
                   <gco:CharacterString>Ship Based</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Fish</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>Biology</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Fish</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>

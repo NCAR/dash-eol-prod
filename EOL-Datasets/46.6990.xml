@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:02Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:31Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -305,7 +305,7 @@
                                     xlink:actuate="onRequest">Jeff M. Welker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Alaska - Dept. of Biological Sciences</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Anchorage</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -349,7 +349,7 @@
                         <gco:CharacterString>Jace Fahnestock</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Natural Resource Ecology Laboratory, Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>Colorado State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -362,6 +362,9 @@
                            </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Natural Resource Ecology Laboratory</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fort Collins</gco:CharacterString>
                                  </gmd:city>
@@ -395,7 +398,7 @@
                                     xlink:actuate="onRequest">Jeff M. Welker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Alaska - Dept. of Biological Sciences</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Anchorage</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -439,7 +442,7 @@
                         <gco:CharacterString>Jace Fahnestock</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Natural Resource Ecology Laboratory, Colorado State University</gco:CharacterString>
+                        <gco:CharacterString>Colorado State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -452,6 +455,9 @@
                            </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Natural Resource Ecology Laboratory</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fort Collins</gco:CharacterString>
                                  </gmd:city>
@@ -546,7 +552,7 @@
                               xlink:actuate="onRequest">Jeff M. Welker</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
-                  <gco:CharacterString>University of Alaska - Dept. of Biological Sciences</gco:CharacterString>
+                  <gco:CharacterString>University of Alaska Anchorage</gco:CharacterString>
                </gmd:organisationName>
                <gmd:contactInfo>
                   <gmd:CI_Contact>
@@ -652,10 +658,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Trace Gases</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Trace Gases</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>

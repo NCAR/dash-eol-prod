@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:52Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:37Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -281,7 +281,7 @@
                                     xlink:actuate="onRequest">Jaime R. Green</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NC A&amp;amp;amp;T State University</gco:CharacterString>
+                        <gco:CharacterString>North Carolina Agricultural and Technical State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -299,12 +299,12 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0003-3733-5800"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-3733-5800"
                                     xlink:title="Marc Fiddler"
                                     xlink:actuate="onRequest">Marc Fiddler</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NC A&amp;amp;amp;T State University</gco:CharacterString>
+                        <gco:CharacterString>North Carolina Agricultural and Technical State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -325,7 +325,7 @@
                         <gco:CharacterString>J. Brian Leen</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Los Gatos Research</gco:CharacterString>
+                        <gco:CharacterString>Los Gatos Research Inc.</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -371,7 +371,7 @@
                                     xlink:actuate="onRequest">Jaime R. Green</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NC A&amp;amp;amp;T State University</gco:CharacterString>
+                        <gco:CharacterString>North Carolina Agricultural and Technical State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -394,7 +394,7 @@
                                     xlink:actuate="onRequest">Janine Aquino</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NCAR/EOL/CDS</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Earth Observing Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>

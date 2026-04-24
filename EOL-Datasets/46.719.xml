@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:53Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:03:24Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -373,7 +373,7 @@
                         <gco:CharacterString>Allen S. Hope</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>SDSU</gco:CharacterString>
+                        <gco:CharacterString>San Diego State University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -407,7 +407,7 @@
                                     xlink:actuate="onRequest">David C. Douglas</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>USGS Alaska Science Center</gco:CharacterString>
+                        <gco:CharacterString>U.S. Geological Survey, Alaska Science Center</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Research Wildlife Biologist</gco:CharacterString>
@@ -715,23 +715,23 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
+                  <gco:CharacterString>Land Based</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>Satellite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Land Based</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER &gt; LAND USE/LAND COVER CLASSIFICATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER &gt; LAND USE/LAND COVER CLASSIFICATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION INDEX &gt; NORMALIZED DIFFERENCE VEGETATION INDEX (NDVI)</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

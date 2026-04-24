@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:45:16Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:06:19Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -276,7 +276,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-5571-4818"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5571-4818"
                                     xlink:title="Michael McCarthy"
                                     xlink:actuate="onRequest">Michael McCarthy</gmx:Anchor>
                      </gmd:individualName>
@@ -303,7 +303,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gmx:Anchor xlink:href="https://orcid.org/https://orcid.org/0000-0001-5571-4818"
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0001-5571-4818"
                                     xlink:title="Michael McCarthy"
                                     xlink:actuate="onRequest">Michael McCarthy</gmx:Anchor>
                      </gmd:individualName>
@@ -539,9 +539,6 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; GRAVITY WAVE</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ATMOSPHERIC EMITTED RADIATION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
@@ -549,6 +546,9 @@
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; AIRGLOW</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; GRAVITY WAVE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:43:53Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:04:56Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -308,8 +308,8 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                                    xlink:title="A. Dave McGuire"
-                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                                    xlink:title="Anthony D. McGuire"
+                                    xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -483,7 +483,7 @@
                                     xlink:actuate="onRequest">David W Kicklighter</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>The Ecosystems Center, Marine Biological Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Marine Biological Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -497,7 +497,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>7 MBL St.</gco:CharacterString>
+                                    <gco:CharacterString>The Ecosystems Center, 7 MBL St.</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Woods Hole</gco:CharacterString>
@@ -595,6 +595,9 @@
                                     xlink:title="F. S. Chapin III"
                                     xlink:actuate="onRequest">F. S. Chapin III</gmx:Anchor>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:phone>
@@ -622,15 +625,18 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>B. de Groot</gco:CharacterString>
+                        <gco:CharacterString>William J. de Groot</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Canadian Forest Service, Northern Forestry Center</gco:CharacterString>
+                        <gco:CharacterString>Canadian Forest Service</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Northern Forestry Center</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Edmonton</gco:CharacterString>
                                  </gmd:city>
@@ -746,10 +752,10 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>T. Gower</gco:CharacterString>
+                        <gco:CharacterString>Stith T. Gower</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>University of Wisconsin</gco:CharacterString>
+                        <gco:CharacterString>University of Wisconsin-Madison</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -780,7 +786,9 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>Larry D. Hinzman</gco:CharacterString>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-5878-6814"
+                                    xlink:title="Larry D. Hinzman"
+                                    xlink:actuate="onRequest">Larry D. Hinzman</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -825,16 +833,19 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0002-3926-2257"
-                                    xlink:title="B. Huntley"
-                                    xlink:actuate="onRequest">B. Huntley</gmx:Anchor>
+                                    xlink:title="Brian Huntley"
+                                    xlink:actuate="onRequest">Brian Huntley</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Environmental Research Centre, University of Durham</gco:CharacterString>
+                        <gco:CharacterString>Durham University</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Environmental Research Centre,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:administrativeArea>
                                     <gco:CharacterString>Durham</gco:CharacterString>
                                  </gmd:administrativeArea>
@@ -859,7 +870,7 @@
                                     xlink:actuate="onRequest">Gensuo Jiong Jia</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>START Regional Center for East Asia - Chinese Academy of Sciences</gco:CharacterString>
+                        <gco:CharacterString>Chinese Academy of Sciences</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Director and Professor</gco:CharacterString>
@@ -876,7 +887,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>40 Huayanli</gco:CharacterString>
+                                    <gco:CharacterString>START Regional Center for East Asia - 40 Huayanli</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Beijing</gco:CharacterString>
@@ -903,15 +914,18 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
-                        <gco:CharacterString>E. Kasischke</gco:CharacterString>
+                        <gco:CharacterString>Eric Kasischke</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Department of Geography, University of Maryland</gco:CharacterString>
+                        <gco:CharacterString>University of Maryland, College Park</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Department of Geography,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>College Park</gco:CharacterString>
                                  </gmd:city>
@@ -939,12 +953,15 @@
                                     xlink:actuate="onRequest">Jerry M. Melillo</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Ecosystems Center, Marine Biological Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Marine Biological Laboratory</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Ecosystems Center,</gco:CharacterString>
+                                 </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Woods Hole</gco:CharacterString>
                                  </gmd:city>
@@ -1084,7 +1101,7 @@
                                     xlink:actuate="onRequest">Donald A. (Skip) Walker</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Institute of Arctic Biology</gco:CharacterString>
+                        <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -1098,7 +1115,7 @@
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>University of Alaska Fairbanks PO Box 757000</gco:CharacterString>
+                                    <gco:CharacterString>University of Alaska Fairbanks Institute of Arctic Biology PO Box 757000</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
                                     <gco:CharacterString>Fairbanks</gco:CharacterString>
@@ -1126,8 +1143,8 @@
                   <gmd:CI_ResponsibleParty>
                      <gmd:individualName>
                         <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                                    xlink:title="A. Dave McGuire"
-                                    xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                                    xlink:title="Anthony D. McGuire"
+                                    xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
                         <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -1236,8 +1253,8 @@
             <gmd:CI_ResponsibleParty>
                <gmd:individualName>
                   <gmx:Anchor xlink:href="https://orcid.org/0000-0003-4646-0750"
-                              xlink:title="A. Dave McGuire"
-                              xlink:actuate="onRequest">A. Dave McGuire</gmx:Anchor>
+                              xlink:title="Anthony D. McGuire"
+                              xlink:actuate="onRequest">Anthony D. McGuire</gmx:Anchor>
                </gmd:individualName>
                <gmd:organisationName>
                   <gco:CharacterString>University of Alaska Fairbanks</gco:CharacterString>
@@ -1360,10 +1377,10 @@
                   <gco:CharacterString>Models/Analyses</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Trace Gases</gco:CharacterString>
+                  <gco:CharacterString>Surface</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Trace Gases</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Arctic</gco:CharacterString>
@@ -1379,13 +1396,13 @@
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; PRIMARY PRODUCTION</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; PHOTOSYNTHETICALLY ACTIVE RADIATION</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; VEGETATION COVER</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>

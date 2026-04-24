@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:45Z</gco:DateTime>
+      <gco:DateTime>2026-04-24T18:05:44Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -333,7 +333,7 @@
                                     xlink:actuate="onRequest">Teresa Campos</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Atmospheric Chemistry Division (ACD), NCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Observations &amp;amp;amp; Modeling</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -374,7 +374,7 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gco:CharacterString>NCAR Atmospheric Chemistry Division (ACD)</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -410,7 +410,7 @@
                                     xlink:actuate="onRequest">Frank M. Flocke</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Atmospheric Chemistry Division (ACD), NCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Observations &amp;amp;amp; Modeling</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -454,7 +454,7 @@
                         <gco:CharacterString>Melodye Rooney</gco:CharacterString>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>NCAR Atmospheric Chemistry Division</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -484,7 +484,7 @@
                                     xlink:actuate="onRequest">Daniel Stechman</gmx:Anchor>
                      </gmd:individualName>
                      <gmd:organisationName>
-                        <gco:CharacterString>Atmospheric Chemistry Division (ACD), NCAR</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR Atmospheric Chemistry Division</gco:CharacterString>
                      </gmd:organisationName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
@@ -504,6 +504,9 @@
                      <gmd:individualName>
                         <gco:CharacterString>Carolyn Farris</gco:CharacterString>
                      </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of Colorado Boulder</gco:CharacterString>
+                     </gmd:organisationName>
                      <gmd:positionName>
                         <gco:CharacterString>Student Intern</gco:CharacterString>
                      </gmd:positionName>
