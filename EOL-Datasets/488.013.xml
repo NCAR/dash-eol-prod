@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::19.004</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::488.013</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2026-08-26T16:20:23Z</gco:DateTime>
+      <gco:DateTime>2026-08-26T16:20:28Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,14 +88,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.5065/D6C24TQW</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/ETB9-WBSA-VK0F</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/4227514C/nepcp60c.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/5326ED7ECCECE/README_NOAA_P3_1Hz_Flight_Level.pdf</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -104,7 +104,7 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>nepcp60c.txt</gco:CharacterString>
+                  <gco:CharacterString>README_NOAA_P3_1Hz_Flight_Level.pdf</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -119,15 +119,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                  <gco:CharacterString>NOAA P-3 1Hz Flight Level Data</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>19.004</gco:CharacterString>
+                  <gco:CharacterString>488.013</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                        <gco:DateTime>2017-12-01T15:16:47Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -139,19 +139,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                  <gco:DateTime>2017-12-01T15:16:47Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                              <gco:CharacterString>NOAA P-3 1Hz Flight Level Data</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                                    <gco:DateTime>2017-12-01T15:16:47Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -211,16 +211,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>19.004</gco:CharacterString>
+                        <gco:CharacterString>488.013</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.5065/D6C24TQW"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/ETB9-WBSA-VK0F"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.5065/D6C24TQW</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/ETB9-WBSA-VK0F</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -276,38 +276,37 @@
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
                      <gmd:organisationName>
-                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
-                                    xlink:title="NSF NCAR Earth Observing Laboratory"
-                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
+                        <gco:CharacterString>NOAA Aircraft Operations Center</gco:CharacterString>
                      </gmd:organisationName>
-                     <gmd:positionName>
-                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
-                     </gmd:positionName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>813-828-3310</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
                            <gmd:address>
                               <gmd:CI_Address>
                                  <gmd:deliveryPoint>
-                                    <gco:CharacterString>PO Box 3000</gco:CharacterString>
+                                    <gco:CharacterString>P.O. Box 6879</gco:CharacterString>
                                  </gmd:deliveryPoint>
                                  <gmd:city>
-                                    <gco:CharacterString>Boulder</gco:CharacterString>
+                                    <gco:CharacterString>MacDill AFB</gco:CharacterString>
                                  </gmd:city>
                                  <gmd:administrativeArea>
-                                    <gco:CharacterString>CO</gco:CharacterString>
+                                    <gco:CharacterString>FL</gco:CharacterString>
                                  </gmd:administrativeArea>
                                  <gmd:postalCode>
-                                    <gco:CharacterString>80307-3000</gco:CharacterString>
+                                    <gco:CharacterString>33608-0829</gco:CharacterString>
                                  </gmd:postalCode>
-                                 <gmd:electronicMailAddress>
-                                    <gco:CharacterString>datahelp@eol.ucar.edu</gco:CharacterString>
-                                 </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
                            <gmd:onlineResource>
                               <gmd:CI_OnlineResource>
                                  <gmd:linkage>
-                                    <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
+                                    <gmd:URL>http://www.hurricanehunters.noaa.gov</gmd:URL>
                                  </gmd:linkage>
                                  <gmd:name>
                                     <gco:CharacterString>homepage</gco:CharacterString>
@@ -325,7 +324,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The Hourly Precipitation Composite was formed from several data sources (i.e., Arkansas-Red Basin River Forecast Center, National Climatic Data Center Hourly Precipitation data, National Centers for Environmental Prediction, and the precipitation data extracted from the NESOB-96 Hourly Surface Composite). Data from these sources were quality controlled and merged to form this precipitation composite.</gco:CharacterString>
+            <gco:CharacterString>This data set contains the 1 second resolution flight level data from the National Oceanic and Atmospheric Administration (NOAA) P-3 aircraft flights into the tropical systems of interest to the Tropical Cyclone Intensity (TCI) field project. The storms included are Erika from the 2015 Atlantic region, Patricia from the 2015 Eastern Pacific region, and Matthew from the 2016 Atlantic region. These data are in a columnar ASCII format and were collected from the NOAA Hurricane Research Division (HRD) archives.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -435,15 +434,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>EOL/JOSS Precip Quality Control Format (ASCII)</gco:CharacterString>
-               </gmd:name>
-               <gmd:version gco:nilReason="inapplicable"/>
-            </gmd:MD_Format>
-         </gmd:resourceFormat>
-         <gmd:resourceFormat>
-            <gmd:MD_Format>
-               <gmd:name>
-                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+                  <gco:CharacterString>ASCII Text in a tar archive (application/x-tar)</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -497,10 +488,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Precipitation Composite</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>NOAA P-3 Aircraft</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -511,14 +499,44 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Aircraft</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; HOURLY PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ALTITUDE &gt; GEOPOTENTIAL HEIGHT</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE &gt; DEW POINT TEMPERATURE</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; VERTICAL WIND VELOCITY/SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR &gt; WATER VAPOR INDICATORS &gt; HUMIDITY &gt; HUMIDITY MIXING RATIO</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; TROPICAL CYCLONES</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; FLIGHT LEVEL WINDS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; UPPER LEVEL WINDS &gt; WIND DIRECTION</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; PLATFORM CHARACTERISTICS &gt; AIRSPEED/GROUND SPEED</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SEA LEVEL PRESSURE</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -564,10 +582,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType>
-            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
-                                                  codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
-         </gmd:spatialRepresentationType>
+         <gmd:spatialRepresentationType gco:nilReason="missing"/>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -579,16 +594,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-100.50000</gco:Decimal>
+                        <gco:Decimal>-109.29000</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-94.50000</gco:Decimal>
+                        <gco:Decimal>-63.04000</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>34.00000</gco:Decimal>
+                        <gco:Decimal>11.32000</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>39.00000</gco:Decimal>
+                        <gco:Decimal>37.85000</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -596,8 +611,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>1996-04-01T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>1996-09-30T23:59:59Z</gml:endPosition>
+                           <gml:beginPosition>2015-08-09T22:55:00Z</gml:beginPosition>
+                           <gml:endPosition>2016-10-08T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -664,18 +679,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>61</gco:Real>
+                  <gco:Real>91</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/488.013</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite homepage</gco:CharacterString>
+                        <gco:CharacterString>NOAA P-3 1Hz Flight Level Data homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -685,13 +700,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=488.013</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>NOAA P-3 1Hz Flight Level Data Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>

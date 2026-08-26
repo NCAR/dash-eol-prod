@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:35Z</gco:DateTime>
+      <gco:DateTime>2026-08-26T16:20:24Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -167,7 +167,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Precipitation (Hourly) Multi-Network Composite</gco:CharacterString>
+                  <gco:CharacterString>Hourly Precipitation Composite</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
                   <gco:CharacterString>85.121</gco:CharacterString>
@@ -194,7 +194,7 @@
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>Precipitation (Hourly) Multi-Network Composite</gco:CharacterString>
+                              <gco:CharacterString>Hourly Precipitation Composite</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
@@ -488,6 +488,14 @@
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
          </gmd:resourceFormat>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+               </gmd:name>
+               <gmd:version gco:nilReason="inapplicable"/>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
@@ -537,19 +545,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Automated Surface Observing System - ASOS</gco:CharacterString>
-               </gmd:keyword>
-               <gmd:keyword>
-                  <gco:CharacterString>Air Monitoring Stations/Networks</gco:CharacterString>
+                  <gco:CharacterString>Precipitation Composite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Weather Stations</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mesoscale Meteorological Network - Mesonet</gco:CharacterString>
+                  <gco:CharacterString>Automated Surface Observing System - ASOS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Mesonet - Mesoscale Meteorological Network</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Air Monitoring Stations/Networks</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -713,7 +724,7 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>62</gco:Real>
+                  <gco:Real>111</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
@@ -724,7 +735,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>Precipitation (Hourly) Multi-Network Composite homepage</gco:CharacterString>
+                        <gco:CharacterString>Hourly Precipitation Composite homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -740,7 +751,7 @@
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>Precipitation (Hourly) Multi-Network Composite Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>Hourly Precipitation Composite Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>

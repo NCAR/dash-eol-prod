@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::19.004</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::15.309</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2026-08-26T16:20:23Z</gco:DateTime>
+      <gco:DateTime>2026-08-26T16:20:28Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,46 +88,22 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.5065/D6C24TQW</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/AERE-X99C-770N</gco:CharacterString>
    </gmd:dataSetURI>
-   <gmd:metadataExtensionInfo>
-      <gmd:MD_MetadataExtensionInformation>
-         <gmd:extensionOnLineResource>
-            <gmd:CI_OnlineResource>
-               <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/4227514C/nepcp60c.txt</gmd:URL>
-               </gmd:linkage>
-               <gmd:protocol>
-                  <gco:CharacterString>https</gco:CharacterString>
-               </gmd:protocol>
-               <gmd:name>
-                  <gco:CharacterString>Documentation #1</gco:CharacterString>
-               </gmd:name>
-               <gmd:description>
-                  <gco:CharacterString>nepcp60c.txt</gco:CharacterString>
-               </gmd:description>
-               <gmd:function>
-                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
-                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-               </gmd:function>
-            </gmd:CI_OnlineResource>
-         </gmd:extensionOnLineResource>
-      </gmd:MD_MetadataExtensionInformation>
-   </gmd:metadataExtensionInfo>
    <gmd:identificationInfo>
       <gmd:MD_DataIdentification>
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                  <gco:CharacterString>3-Hourly GOES Infrared Chile Sector Imagery</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>19.004</gco:CharacterString>
+                  <gco:CharacterString>15.309</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                        <gco:DateTime>2013-09-18T22:39:01Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -139,19 +115,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                  <gco:DateTime>2013-09-18T22:39:01Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                              <gco:CharacterString>3-Hourly GOES Infrared Chile Sector Imagery</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                                    <gco:DateTime>2013-09-18T22:39:01Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -211,16 +187,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>19.004</gco:CharacterString>
+                        <gco:CharacterString>15.309</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.5065/D6C24TQW"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/AERE-X99C-770N"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.5065/D6C24TQW</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/AERE-X99C-770N</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -325,7 +301,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The Hourly Precipitation Composite was formed from several data sources (i.e., Arkansas-Red Basin River Forecast Center, National Climatic Data Center Hourly Precipitation data, National Centers for Environmental Prediction, and the precipitation data extracted from the NESOB-96 Hourly Surface Composite). Data from these sources were quality controlled and merged to form this precipitation composite.</gco:CharacterString>
+            <gco:CharacterString>3-hourly GOES infrared satellite imagery over Chile for the PACS (Pan American Climate Studies) campaign.</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -435,15 +411,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>EOL/JOSS Precip Quality Control Format (ASCII)</gco:CharacterString>
-               </gmd:name>
-               <gmd:version gco:nilReason="inapplicable"/>
-            </gmd:MD_Format>
-         </gmd:resourceFormat>
-         <gmd:resourceFormat>
-            <gmd:MD_Format>
-               <gmd:name>
-                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+                  <gco:CharacterString>tar archive files containing gif imagery</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -497,10 +465,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Precipitation Composite</gco:CharacterString>
+                  <gco:CharacterString>GOES-13</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>GOES-12</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -511,14 +479,14 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Surface</gco:CharacterString>
+                  <gco:CharacterString>Satellite</gco:CharacterString>
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; HOURLY PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; SPECTRAL/ENGINEERING &gt; INFRARED WAVELENGTHS &gt; INFRARED IMAGERY</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -564,10 +532,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType>
-            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
-                                                  codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
-         </gmd:spatialRepresentationType>
+         <gmd:spatialRepresentationType gco:nilReason="other"/>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -579,16 +544,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-100.50000</gco:Decimal>
+                        <gco:Decimal>-85.00000</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-94.50000</gco:Decimal>
+                        <gco:Decimal>-65.00000</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>34.00000</gco:Decimal>
+                        <gco:Decimal>-40.00000</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>39.00000</gco:Decimal>
+                        <gco:Decimal>-10.00000</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -596,8 +561,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>1996-04-01T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>1996-09-30T23:59:59Z</gml:endPosition>
+                           <gml:beginPosition>2005-09-30T00:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2013-09-05T23:59:59Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -664,18 +629,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>61</gco:Real>
+                  <gco:Real>3123</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/15.309</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite homepage</gco:CharacterString>
+                        <gco:CharacterString>3-Hourly GOES Infrared Chile Sector Imagery homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -685,13 +650,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=15.309</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>3-Hourly GOES Infrared Chile Sector Imagery Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>

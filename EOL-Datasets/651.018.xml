@@ -12,7 +12,7 @@
                  xmlns:gts="http://www.isotc211.org/2005/gts"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>edu.ucar.eol::19.004</gco:CharacterString>
+      <gco:CharacterString>edu.ucar.eol::651.018</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/"
@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2026-08-26T16:20:23Z</gco:DateTime>
+      <gco:DateTime>2026-08-26T16:20:22Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -88,14 +88,14 @@
       <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://doi.org/10.5065/D6C24TQW</gco:CharacterString>
+      <gco:CharacterString>https://doi.org/10.26023/Q9FJ-ZT85-N912</gco:CharacterString>
    </gmd:dataSetURI>
    <gmd:metadataExtensionInfo>
       <gmd:MD_MetadataExtensionInformation>
          <gmd:extensionOnLineResource>
             <gmd:CI_OnlineResource>
                <gmd:linkage>
-                  <gmd:URL>https://data.eol.ucar.edu/file/download/4227514C/nepcp60c.txt</gmd:URL>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55F87C7E9B6F1/UND_deployments.csv</gmd:URL>
                </gmd:linkage>
                <gmd:protocol>
                   <gco:CharacterString>https</gco:CharacterString>
@@ -104,7 +104,31 @@
                   <gco:CharacterString>Documentation #1</gco:CharacterString>
                </gmd:name>
                <gmd:description>
-                  <gco:CharacterString>nepcp60c.txt</gco:CharacterString>
+                  <gco:CharacterString>UND_deployments.csv</gco:CharacterString>
+               </gmd:description>
+               <gmd:function>
+                  <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                             codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+               </gmd:function>
+            </gmd:CI_OnlineResource>
+         </gmd:extensionOnLineResource>
+      </gmd:MD_MetadataExtensionInformation>
+   </gmd:metadataExtensionInfo>
+   <gmd:metadataExtensionInfo>
+      <gmd:MD_MetadataExtensionInformation>
+         <gmd:extensionOnLineResource>
+            <gmd:CI_OnlineResource>
+               <gmd:linkage>
+                  <gmd:URL>https://data.eol.ucar.edu/file/download/55F87C7E9B6E1/UND_OSCRE_dataset_readme.txt</gmd:URL>
+               </gmd:linkage>
+               <gmd:protocol>
+                  <gco:CharacterString>https</gco:CharacterString>
+               </gmd:protocol>
+               <gmd:name>
+                  <gco:CharacterString>Documentation #2</gco:CharacterString>
+               </gmd:name>
+               <gmd:description>
+                  <gco:CharacterString>UND_OSCRE_dataset_readme.txt</gco:CharacterString>
                </gmd:description>
                <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
@@ -119,15 +143,15 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                  <gco:CharacterString>UND Open Snowflake Camera for Research and Education (OSCRE) Imagery</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle>
-                  <gco:CharacterString>19.004</gco:CharacterString>
+                  <gco:CharacterString>651.018</gco:CharacterString>
                </gmd:alternateTitle>
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
-                        <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                        <gco:DateTime>2026-07-23T15:46:53Z</gco:DateTime>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -139,19 +163,19 @@
                   <gco:CharacterString>1.0</gco:CharacterString>
                </gmd:edition>
                <gmd:editionDate>
-                  <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                  <gco:DateTime>2026-07-23T15:46:53Z</gco:DateTime>
                </gmd:editionDate>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:authority>
                         <gmd:CI_Citation>
                            <gmd:title>
-                              <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite</gco:CharacterString>
+                              <gco:CharacterString>UND Open Snowflake Camera for Research and Education (OSCRE) Imagery</gco:CharacterString>
                            </gmd:title>
                            <gmd:date>
                               <gmd:CI_Date>
                                  <gmd:date>
-                                    <gco:DateTime>2011-08-24T11:19:21Z</gco:DateTime>
+                                    <gco:DateTime>2026-07-23T15:46:53Z</gco:DateTime>
                                  </gmd:date>
                                  <gmd:dateType>
                                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -211,16 +235,16 @@
                         </gmd:CI_Citation>
                      </gmd:authority>
                      <gmd:code>
-                        <gco:CharacterString>19.004</gco:CharacterString>
+                        <gco:CharacterString>651.018</gco:CharacterString>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
                <gmd:identifier>
                   <gmd:MD_Identifier>
                      <gmd:code>
-                        <gmx:Anchor xlink:href="https://doi.org/10.5065/D6C24TQW"
+                        <gmx:Anchor xlink:href="https://doi.org/10.26023/Q9FJ-ZT85-N912"
                                     xlink:title="DOI"
-                                    xlink:actuate="onRequest">doi:10.5065/D6C24TQW</gmx:Anchor>
+                                    xlink:actuate="onRequest">doi:10.26023/Q9FJ-ZT85-N912</gmx:Anchor>
                      </gmd:code>
                   </gmd:MD_Identifier>
                </gmd:identifier>
@@ -275,45 +299,96 @@
                </gmd:citedResponsibleParty>
                <gmd:citedResponsibleParty>
                   <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0003-1392-9508"
+                                    xlink:title="Aaron Kennedy"
+                                    xlink:actuate="onRequest">Aaron Kennedy</gmx:Anchor>
+                     </gmd:individualName>
                      <gmd:organisationName>
-                        <gmx:Anchor xlink:href="https://ror.org/02b5sc606"
-                                    xlink:title="NSF NCAR Earth Observing Laboratory"
-                                    xlink:actuate="onRequest">NSF NCAR Earth Observing Laboratory</gmx:Anchor>
+                        <gco:CharacterString>University of North Dakota</gco:CharacterString>
                      </gmd:organisationName>
-                     <gmd:positionName>
-                        <gco:CharacterString>EOL Data Support</gco:CharacterString>
-                     </gmd:positionName>
                      <gmd:contactInfo>
                         <gmd:CI_Contact>
                            <gmd:address>
                               <gmd:CI_Address>
-                                 <gmd:deliveryPoint>
-                                    <gco:CharacterString>PO Box 3000</gco:CharacterString>
-                                 </gmd:deliveryPoint>
-                                 <gmd:city>
-                                    <gco:CharacterString>Boulder</gco:CharacterString>
-                                 </gmd:city>
-                                 <gmd:administrativeArea>
-                                    <gco:CharacterString>CO</gco:CharacterString>
-                                 </gmd:administrativeArea>
-                                 <gmd:postalCode>
-                                    <gco:CharacterString>80307-3000</gco:CharacterString>
-                                 </gmd:postalCode>
                                  <gmd:electronicMailAddress>
-                                    <gco:CharacterString>datahelp@eol.ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>aaron.kennedy@UND.edu</gco:CharacterString>
                                  </gmd:electronicMailAddress>
                               </gmd:CI_Address>
                            </gmd:address>
-                           <gmd:onlineResource>
-                              <gmd:CI_OnlineResource>
-                                 <gmd:linkage>
-                                    <gmd:URL>https://data.eol.ucar.edu/</gmd:URL>
-                                 </gmd:linkage>
-                                 <gmd:name>
-                                    <gco:CharacterString>homepage</gco:CharacterString>
-                                 </gmd:name>
-                              </gmd:CI_OnlineResource>
-                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gmx:Anchor xlink:href="https://orcid.org/0009-0008-2193-882X"
+                                    xlink:title="Talia Kurtz"
+                                    xlink:actuate="onRequest">Talia Kurtz</gmx:Anchor>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>University of North Dakota</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address/>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-1148-6347"
+                                    xlink:title="Rebecca Adams-Selin"
+                                    xlink:actuate="onRequest">Rebecca Adams-Selin</gmx:Anchor>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Janus Research Group</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>becky.adams-selin@janusresearch.us</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gmx:Anchor xlink:href="https://orcid.org/0000-0002-9436-8513"
+                                    xlink:title="Jeana Mascio"
+                                    xlink:actuate="onRequest">Jeana Mascio</gmx:Anchor>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Janus Research Group</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address/>
+                           </gmd:address>
                         </gmd:CI_Contact>
                      </gmd:contactInfo>
                      <gmd:role>
@@ -325,7 +400,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The Hourly Precipitation Composite was formed from several data sources (i.e., Arkansas-Red Basin River Forecast Center, National Climatic Data Center Hourly Precipitation data, National Centers for Environmental Prediction, and the precipitation data extracted from the NESOB-96 Hourly Surface Composite). Data from these sources were quality controlled and merged to form this precipitation composite.</gco:CharacterString>
+            <gco:CharacterString>Photographs of hydrometeors taken by the University of North Dakota Open Snowflake Camera for Research and Education (OSCRE) in-situ, single-camera hydrometeor imager. There were four OSCRE instruments deployed in tandem with the SuMHO teams with two OSCREs assigned to each team. Observations were made at locations around the United States plains region for the ICECHIP (In-situ Collaborative Experiment for the Collection of Hail In the Plains) campaign. The instruments goal is to identify the microphysical properties of hailstones (e.g. fall speed, size, and shape).</gco:CharacterString>
          </gmd:abstract>
          <gmd:status>
             <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
@@ -435,15 +510,7 @@
          <gmd:resourceFormat>
             <gmd:MD_Format>
                <gmd:name>
-                  <gco:CharacterString>EOL/JOSS Precip Quality Control Format (ASCII)</gco:CharacterString>
-               </gmd:name>
-               <gmd:version gco:nilReason="inapplicable"/>
-            </gmd:MD_Format>
-         </gmd:resourceFormat>
-         <gmd:resourceFormat>
-            <gmd:MD_Format>
-               <gmd:name>
-                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+                  <gco:CharacterString>Joint Photographic Experts Group (JPEG) in tar archive</gco:CharacterString>
                </gmd:name>
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
@@ -497,10 +564,10 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Precipitation Composite</gco:CharacterString>
+                  <gco:CharacterString>SuMHO - Super Mobile Hail Observatory</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>Photographs</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -518,7 +585,22 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT &gt; HOURLY PRECIPITATION AMOUNT</gco:CharacterString>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; HYDROMETEORS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; SOLID PRECIPITATION &gt; HAIL</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; HAIL STORMS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED) &gt; PRECIPITATING CONVECTIVE CLOUD SYSTEMS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED) &gt; DEEP CONVECTIVE CLOUD SYSTEMS</gco:CharacterString>
                </gmd:keyword>
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
@@ -564,10 +646,7 @@
                </gmd:otherConstraints>
             </gmd:MD_LegalConstraints>
          </gmd:resourceConstraints>
-         <gmd:spatialRepresentationType>
-            <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
-                                                  codeListValue="grid">grid</gmd:MD_SpatialRepresentationTypeCode>
-         </gmd:spatialRepresentationType>
+         <gmd:spatialRepresentationType gco:nilReason="missing"/>
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
@@ -579,16 +658,16 @@
                <gmd:geographicElement>
                   <gmd:EX_GeographicBoundingBox>
                      <gmd:westBoundLongitude>
-                        <gco:Decimal>-100.50000</gco:Decimal>
+                        <gco:Decimal>-108.80000</gco:Decimal>
                      </gmd:westBoundLongitude>
                      <gmd:eastBoundLongitude>
-                        <gco:Decimal>-94.50000</gco:Decimal>
+                        <gco:Decimal>-96.50000</gco:Decimal>
                      </gmd:eastBoundLongitude>
                      <gmd:southBoundLatitude>
-                        <gco:Decimal>34.00000</gco:Decimal>
+                        <gco:Decimal>31.30000</gco:Decimal>
                      </gmd:southBoundLatitude>
                      <gmd:northBoundLatitude>
-                        <gco:Decimal>39.00000</gco:Decimal>
+                        <gco:Decimal>48.20000</gco:Decimal>
                      </gmd:northBoundLatitude>
                   </gmd:EX_GeographicBoundingBox>
                </gmd:geographicElement>
@@ -596,8 +675,8 @@
                   <gmd:EX_TemporalExtent>
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtent">
-                           <gml:beginPosition>1996-04-01T00:00:00Z</gml:beginPosition>
-                           <gml:endPosition>1996-09-30T23:59:59Z</gml:endPosition>
+                           <gml:beginPosition>2025-05-23T18:00:00Z</gml:beginPosition>
+                           <gml:endPosition>2025-06-28T02:30:00Z</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -664,18 +743,18 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>61</gco:Real>
+                  <gco:Real>45273</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/651.018</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite homepage</gco:CharacterString>
+                        <gco:CharacterString>UND Open Snowflake Camera for Research and Education (OSCRE) Imagery homepage</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset homepage</gco:CharacterString>
@@ -685,13 +764,13 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=19.004</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=651.018</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
-                        <gco:CharacterString>GCIP/NESOB-96: Hourly Precipitation Composite Data Order Form</gco:CharacterString>
+                        <gco:CharacterString>UND Open Snowflake Camera for Research and Education (OSCRE) Imagery Data Order Form</gco:CharacterString>
                      </gmd:name>
                      <gmd:description>
                         <gco:CharacterString>Dataset order request form. Data files are made available via HTTPS.</gco:CharacterString>
