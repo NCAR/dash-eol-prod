@@ -2,16 +2,22 @@ name: Run completeness All graphs
 
 on: [push]
 
-jobs: 
+jobs:
   run:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
+    # Upgraded from v2 to v4 for Node compatibility
+    - uses: actions/checkout@v4
+      with:
+        persist-credentials: false # Prevents GITHUB_TOKEN loop locks
+
+    # Upgraded from v1 to v5 for Node compatibility
     - name: Set up Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
+
     - name: Install dependencies
       run: |
         git config --local user.email "action@github.com"
@@ -20,10 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r actions/All/requirements.txt
         echo "done"
+
     - name: Run Completeness script
       run: |
        cd actions/All
        python create_plots.py
+
     - name: Commit files
       id: commit
       run: |
@@ -32,12 +40,13 @@ jobs:
         git pull
         git add --all
         if [ -z "$(git status --porcelain)" ]; then
-           echo "::set-output name=push::false"
+           echo "push=false" >> $GITHUB_OUTPUT
         else
            git commit -m "Add changes" -a
-           echo "::set-output name=push::true"
+           echo "push=true" >> $GITHUB_OUTPUT
         fi
       shell: bash
+
     - name: Push changes
       if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master
