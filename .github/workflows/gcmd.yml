@@ -16,7 +16,6 @@ jobs:
       with:
         python-version: '3.x'
 
-     Tarjeta de dependencias
     - name: Install dependencies
       run: |
         git config --local user.email "action@github.com"
