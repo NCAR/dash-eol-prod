@@ -79,7 +79,7 @@
       </gmd:CI_ResponsibleParty>
    </gmd:contact>
    <gmd:dateStamp>
-      <gco:DateTime>2025-10-07T21:44:25Z</gco:DateTime>
+      <gco:DateTime>2026-09-24T20:01:52Z</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -440,6 +440,14 @@
                <gmd:version gco:nilReason="inapplicable"/>
             </gmd:MD_Format>
          </gmd:resourceFormat>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>NetCDF: Network Common Data Form (application/x-netcdf)</gco:CharacterString>
+               </gmd:name>
+               <gmd:version gco:nilReason="inapplicable"/>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
@@ -489,7 +497,7 @@
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
+                  <gco:CharacterString>Weather Stations</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>Portable Automated Mesonet - PAM</gco:CharacterString>
@@ -498,13 +506,16 @@
                   <gco:CharacterString>Automated Surface Observing System - ASOS</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
+                  <gco:CharacterString>Automated Weather Observing System - AWOS</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
                   <gco:CharacterString>PROFS Mesonet</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Weather Stations</gco:CharacterString>
+                  <gco:CharacterString>Precipitation Composite</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
-                  <gco:CharacterString>Mesoscale Meteorological Network - Mesonet</gco:CharacterString>
+                  <gco:CharacterString>Mesonet - Mesoscale Meteorological Network</gco:CharacterString>
                </gmd:keyword>
                <gmd:type>
                   <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
@@ -668,12 +679,12 @@
          <gmd:transferOptions>
             <gmd:MD_DigitalTransferOptions>
                <gmd:transferSize>
-                  <gco:Real>7</gco:Real>
+                  <gco:Real>15</gco:Real>
                </gmd:transferSize>
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/dataset/1.75</gmd:URL>
+                        <gmd:URL>https://localhost:8443/zinc/dataset/1.75</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -689,10 +700,10 @@
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=1.75</gmd:URL>
+                        <gmd:URL>http://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=1.75</gmd:URL>
                      </gmd:linkage>
                      <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
+                        <gco:CharacterString>http</gco:CharacterString>
                      </gmd:protocol>
                      <gmd:name>
                         <gco:CharacterString>GIDS-1 Daily Precipitation Composite Data Order Form</gco:CharacterString>
