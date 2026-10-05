@@ -2,11 +2,12 @@
 # This code will take CSV files and plot graphs
 # representing EMDAC Metadata completeness scores
 #
-# Before running, edit the text in 
-# input_directory and output_directory statements
-# after the import section. All *.csv files should
-# be located in the input directory and all the final
-# plots will end up in the output_directory
+# All *-Scores.csv files should be located in
+# input_directory and all the final plots will end
+# up in output_directory.
+#
+# Maintained in DASH_completeness/repo_files and copied
+# here by "dash_completeness.py publish".
 #
 #
 #---------------------------------------------------
@@ -31,40 +32,35 @@ input_directory =  './LevelsScores/'
 output_directory = './barcharts/'
 
 #---------------------------------------------------
-#	CREATE CORRECT KEYS CORRESPONDING
-#	TO METADATE ELEMENTS IN CSV FILES
+#	METADATA ELEMENTS ARE TAKEN FROM EACH CSV HEADER
+#	(every column except these two), so new columns
+#	such as ORCID need no change here
 #---------------------------------------------------
 
-def createTotals():
-	totals = collections.OrderedDict.fromkeys(['metadataRecordID', 'ISO assetType', 'metadataContact', 'metadataDate', 'landingPage', 'title', 'publicationDate', 'author', 'publisher', 'abstract', 'resourceSupportContact', 'DataCite resourceType', 'legalConstraints', 'accessConstraints', 'resourceLanguage', '| Tier 2 |', 'otherResponsibleParty/Custodian', 'otherResponsibleParty/Originator', 'otherResponsibleParty/ResourceProvider', 'credit', 'citationDate', 'scienceSupportContact/PI', 'keywords (tags)', 'keywords (GCMD )', 'keywordVocabulary', 'referenceSystem', 'spatialRepresentation', 'spatialResolution', 'ISO topicCategory', 'datasetExtent (Geolocation)', 'datasetExtentDescription', 'temporalCoverage', 'startDate', 'endDate', 'temporalResolution', 'verticalExtent', '| Tier 3 |', 'relatedLinkIdentifier', 'relatedLinkName', 'relatedLinkType', 'relatedlinkDescription', 'alternateIdentifier', 'resourceVersion', 'progress', 'resourceFormat', 'softwareImplementationLanguage', 'additionalInformation', 'distributor', 'distributionFormat', 'assetSize', 'authorIdentifier', '| from Templates |', 'dataIdentification', 'metadataStandardName', 'metadataStandardVersion'], 0) 
-	return totals
+non_element_columns = ['archive ident', 'Total Score']
 
 #--------------------------------------------------
 #	LOOP THROUGH FILES IN input_directory
 #	TO TOTAL AND PLOT VALUES IN output_directory
 #--------------------------------------------------
 
-for filename in os.listdir(input_directory):
-# for filename in listdir(input_directory):
-	#filename_str = filename.decode("utf-8") 
-	#object has already been decoded
+for filename in sorted(os.listdir(input_directory)):
+	if not filename.endswith('-Scores.csv'):
+		continue
 	filename_str = filename
 	index = filename_str.find('-Scores')
 	lab_name = filename_str[0:index] 	#extract lab name from filename
 	print('Reading in totals for metadata values from ', lab_name)    
-	#with open(input_directory.decode("utf-8") + filename_str, mode='r') as csv_file:
-	#removed decode since object is already decoded
 	with open(input_directory + filename_str, mode='r', errors='ignore') as csv_file:
-    		csv_reader = csv.DictReader(csv_file)
-    		totals = createTotals()
-    		next(csv_reader)
-    		for row in csv_reader:
-        		del row['archive ident']
-        		del row['Total Score']
-        		for key in row:
-            			row[key] = int(row[key])
-            			totals[key] += row[key]
-            
+		csv_reader = csv.DictReader(csv_file)
+		totals = collections.OrderedDict((key, 0) for key in csv_reader.fieldnames if key not in non_element_columns)
+		for row in csv_reader:
+			# skip blank lines (older CSVs have one after the header)
+			if row['Total Score'] is None:
+				continue
+			for key in totals:
+				totals[key] += int(row[key])
+
 	# Create two lists from the totals dictionary to be used for plotting
 	labels = list(totals.keys())
 	values = list(totals.values())
