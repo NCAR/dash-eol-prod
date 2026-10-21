@@ -13,11 +13,11 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_Part%20II%20Extentions%20for%20imagery%20and%20Gridded%20Data.pdf
 
 ## EOL Completeness Graph
-[GCMD Counts](https://github.com/NCAR/dash-eol-prod/blob/master/EOL-Datasets/eol_gcmd_counts_levels.txt)
+[GCMD Counts](https://github.com/NCAR/dash-eol-prod/blob/main/EOL-Datasets/eol_gcmd_counts_levels.txt)
 
-[GCMD Level Counts](https://github.com/NCAR/dash-eol-prod/blob/master/EOL-Datasets/eol_gcmd_counts_levels.txt#L605)
+[GCMD Level Counts](https://github.com/NCAR/dash-eol-prod/blob/main/EOL-Datasets/eol_gcmd_counts_levels.txt#L605)
 
-![Eol Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/eol.png)
+![Eol Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/main/actions/All/barcharts/eol.png)
 
 ## Publisher Information
 
